@@ -1,0 +1,834 @@
+{
+  "date": "2026-10-14",
+  "headline": "AI 眼镜密集发布、金饰消费结构转向投资金、新秀丽完成收购 BÉIS",
+  "summary": "眼镜赛道：阿里千问 N1 系列 AI 眼镜开售，GENTLE MONSTER 一边推进与三星的智能眼镜（预计 11 月上市），一边在上海西岸梦中心开出新空间；监管层面眼镜制配计量监管持续收紧。珠宝：国庆后水贝金饰零售热度延续，但上半年金饰消费量同比下降约 30%，头部品牌合计净关店超 2000 家。箱包：新秀丽 10 月 1 日完成收购 BÉIS（持股 85%）。玉石翡翠：高端与通货价格「K 型分化」。",
+  "industry_news": [
+    {
+      "date": "2026-10-14",
+      "source": "动点科技",
+      "title": "阿里推出千问N1系列AI眼镜，支持换电，Pro版加入眼动交互和虹膜支付",
+      "url": "https://cn.technode.com/post/2026-10-14/alibaba-qwen-n1-ai-glasses-swappable-batteries/",
+      "tier1": "眼镜",
+      "type": "新品",
+      "importance": 5,
+      "summary": "N1/N1 Pro 标准套装 2899/3399 元起，可换镜腿电池，Pro 版加入眼动交互、虹膜核验支付与心率血氧等健康监测。",
+      "segment": "大众"
+    },
+    {
+      "date": "2026-10-14",
+      "source": "联合早报",
+      "title": "阿里巴巴推出新一代AI眼镜和耳机 加码消费电子市场",
+      "url": "https://www.zaobao.com.sg/news/china/story20261014-9833513",
+      "tier1": "眼镜",
+      "type": "新品",
+      "importance": 4,
+      "summary": "引 IDC 数据：今年二季度中国智能眼镜出货 61.1 万台，同比下降 8%，首次负增长；叠加国补后 N1 起售价降至 2218 元。",
+      "segment": "大众"
+    },
+    {
+      "date": "2026-10-13",
+      "source": "电器杂志",
+      "title": "2026年智能眼镜市场：AI驱动普及，开启生态升级新时代",
+      "url": "https://www.dianqizazhi.com/2026/10/13/74447.html",
+      "tier1": "眼镜",
+      "type": "数据",
+      "importance": 4,
+      "summary": "奥维云网：1-8 月智能眼镜线上销量 82.3 万台（+38.9%），销售额 17.6 亿元（+50.3%），均价 2135 元；全年线上销量有望破 135 万台。智能眼镜首次纳入国补目录。",
+      "segment": "大众"
+    },
+    {
+      "date": "2026-10-12",
+      "source": "正观新闻",
+      "title": "国家出手！配镜别只盯度数，要打造你的“专属眼镜”！",
+      "url": "https://wap.zhengguannews.cn/html/zgh/426347.html",
+      "tier1": "眼镜",
+      "type": "政策",
+      "importance": 3,
+      "summary": "市场监管总局印发《关于加强眼镜制配场所全链条计量监管的通知》，覆盖人员、计量器具、验光数据、操作规范与维权机制。",
+      "segment": "大众"
+    },
+    {
+      "date": "2026-10-14",
+      "source": "中国经济网/经济参考报",
+      "title": "国庆节后深圳水贝黄金市场消费热度延续",
+      "url": "http://bgimg.ce.cn/cysc/newmain/yc/jsxw/202610/t20261014_3257088.shtml",
+      "tier1": "珠宝腕表",
+      "type": "市场",
+      "importance": 4,
+      "summary": "国庆期间水贝足金零售报价回落至约 1061 元/克，节后回升至 1067 元/克；投资类实物金消费已超首饰，行业呈「量降额升」。",
+      "segment": "大众"
+    },
+    {
+      "date": "2026-10-13",
+      "source": "21经济网（转钛媒体）",
+      "title": "珠宝大王倒在黄金牛市，金价越涨金店活得越难",
+      "url": "https://www.21jingji.com/article/20261013/herald/9fef86c9aaf9d618f12dbd16e9511112.html",
+      "tier1": "珠宝腕表",
+      "type": "深度",
+      "importance": 5,
+      "summary": "世界黄金协会：上半年国内金饰消费 136 吨，同比降 30%；金条金币 339 吨，增 28%。周六福、老凤祥、老庙等六家头部品牌上半年合计净关店 2159 家。",
+      "segment": "大众"
+    },
+    {
+      "date": "2026-10-08",
+      "source": "新京报",
+      "title": "多家黄金珠宝品牌 国庆假期集中推出促销活动",
+      "url": "https://www.bjnews.com.cn/detail/1791423353189760.html",
+      "tier1": "珠宝腕表",
+      "type": "营销",
+      "importance": 3,
+      "summary": "年轻消费者更在意工艺与搭配；品牌发力轻量化、文化 IP（敦煌、国宝）新品，并以每克立减、以旧换新等分层促销拉客流。",
+      "segment": "大众"
+    },
+    {
+      "date": "2026-10-14",
+      "source": "新快报（同花顺转载）",
+      "title": "金价震荡 银行卖金冷热分化",
+      "url": "https://goodsfu.10jqka.com.cn/20261014/c680655339.shtml",
+      "tier1": "珠宝腕表",
+      "type": "市场",
+      "importance": 2,
+      "summary": "多家银行推积存金优惠，同时光大、浦发等停办代理上金所个人贵金属业务。",
+      "segment": "大众"
+    },
+    {
+      "date": "2026-10-13",
+      "source": "京报网",
+      "title": "国际金价现“过山车”行情！四季度金价怎么走？",
+      "url": "https://news.bjd.com.cn/2026/10/13/11993658.shtml",
+      "tier1": "珠宝腕表",
+      "type": "市场",
+      "importance": 3,
+      "summary": "10 月 13 日周大福足金饰品报 1255 元/克，日降 15 元；专家预计四季度国际金价 4000-4600 美元/盎司区间宽幅震荡。",
+      "segment": "大众"
+    },
+    {
+      "date": "2026-10-12",
+      "source": "外贸内参",
+      "title": "大和证券上调新秀丽目标价至18.2港元，维持“买入”评级",
+      "url": "https://www.waimao.me/post/4fd91998",
+      "tier1": "箱包",
+      "type": "资本",
+      "importance": 3,
+      "summary": "预计 Q3 固定汇率销售同比 -0.5%，好于 Q2；亚洲已于 Q3 提价，欧洲 Q4 跟进；BÉIS 并表预计为 Q4 带来约 6000 万美元增量销售。",
+      "segment": "大众"
+    },
+    {
+      "date": "2026-10-10",
+      "source": "全球玉石网",
+      "title": "翡翠市场风向变了：老行家教你如何在调整期捡到真宝贝",
+      "url": "https://globejade.cn/article/expert-1-mv2itpnw-1uy4",
+      "tier1": "玉石翡翠",
+      "type": "市场",
+      "importance": 2,
+      "summary": "中低端翡翠（种水一般、偏灰）较年初跌一到两成，正阳绿、玻璃种等高货稳中有升，市场呈分化。",
+      "segment": "大众"
+    },
+    {
+      "date": "2026-10-12",
+      "source": "LVMH 官网",
+      "title": "Continued growth in the third quarter of 2026",
+      "url": "https://www.lvmh.com/en/publications/continued-growth-in-the-third-quarter-of-2026",
+      "tier1": "箱包",
+      "type": "财报",
+      "importance": 5,
+      "segment": "奢侈品",
+      "summary": "前九个月营收 571 亿欧元，有机增长 2%；时装皮具在 Q3 受中国需求放缓拖累；LV 推 Monogram 130 周年新包，Fendi 新 Baguette 表现好；Marc Jacobs 已于 9 月 1 日出售给 WHP Global。"
+    },
+    {
+      "date": "2026-10-12",
+      "source": "BoF",
+      "title": "LVMH Fashion Sales Slip on China Weakness, Dimming Recovery Hopes",
+      "url": "https://www.businessoffashion.com/articles/luxury/lvmh-fashion-sales-slip-on-china-weakness-dimming-recovery-hopes/",
+      "tier1": "箱包",
+      "type": "财报",
+      "importance": 5,
+      "segment": "奢侈品",
+      "summary": "LVMH 时装皮具 Q3 有机下滑 5%，中国需求疲弱，削弱行业复苏预期。"
+    },
+    {
+      "date": "2026-10-13",
+      "source": "Insight Luxury",
+      "title": "LVMH Quarterly Results: The Luxury Market Is Growing at Two Different Paces",
+      "url": "https://insight-luxury.com/en/2026/10/13/lvmh-quarterly-results-the-luxury-market-is-growing-at-two-different-paces/",
+      "tier1": "珠宝腕表",
+      "type": "财报",
+      "importance": 4,
+      "segment": "奢侈品",
+      "summary": "LVMH 腕表珠宝前九月营收 77.25 亿欧元，固定汇率增 8%，Tiffany、Bulgari 表现强劲；开云、爱马仕 10 月 22 日、历峰 11 月 13 日发布业绩。"
+    },
+    {
+      "date": "2026-10-14",
+      "source": "Vogue Adria",
+      "title": "LVMH: Fashion revenue falls 5% in the third quarter",
+      "url": "https://vogueadria.com/lvmh-fashion-revenue-q3/",
+      "tier1": "箱包",
+      "type": "财报",
+      "importance": 3,
+      "segment": "奢侈品",
+      "summary": "CFO 称手袋在经典款焕新与新款培育上进展良好；汇丰预计开云 Q3 -1.6%、爱马仕 +5.3%。"
+    },
+    {
+      "date": "2026-10-11",
+      "source": "BoF",
+      "title": "Luxury’s China Hopes Face a Reality Check",
+      "url": "https://www.businessoffashion.com/briefings/retail/luxurys-china-hopes-face-a-reality-check/",
+      "tier1": "综合",
+      "type": "深度",
+      "importance": 4,
+      "segment": "奢侈品",
+      "summary": "BoF 中国简报：奢侈品牌对中国复苏的期待面临现实检验。"
+    },
+    {
+      "date": "2026-10-07",
+      "source": "RetailBoss",
+      "title": "Michael Kors Adds JC-T to Its London Fall Campaign With Hamilton and Nolita Bags",
+      "url": "https://retailboss.co/michael-kors-adds-jc-t-to-its-london-fall-campaign-with-hamilton-and-nolita-bags/",
+      "tier1": "箱包",
+      "type": "营销",
+      "importance": 2,
+      "segment": "轻奢",
+      "summary": "Michael Kors（Capri）秋季伦敦广告新增 JC-T，主推焕新 Hamilton 与 Nolita 包款，配合品牌重置。"
+    },
+    {
+      "date": "2026-10-14",
+      "source": "Simply Wall St",
+      "title": "How Jimmy Choo Revenue Growth At Capri Holdings (CPRI) Has Changed Its Investment Story",
+      "url": "https://simplywall.st/stocks/us/consumer-durables/nyse-cpri/capri-holdings/news/how-jimmy-choo-revenue-growth-at-capri-holdings-cpri-has-cha",
+      "tier1": "箱包",
+      "type": "资本",
+      "importance": 2,
+      "segment": "轻奢",
+      "summary": "Capri 旗下 Jimmy Choo 2027 财年 Q1 营收同比 +10.5%；市场关注 Michael Kors 能否恢复增长。"
+    },
+    {
+      "date": "2026-10-13",
+      "source": "FashionTV / Little European News",
+      "title": "MULBERRY: Inside Christopher Kane’s Radical S/S 27 Debut",
+      "url": "https://www.infosites.eu/2026/10/13/mulberry-inside-christopher-kanes-radical-s-s-27-debut-london-fashion-week/",
+      "tier1": "箱包",
+      "type": "新品",
+      "importance": 2,
+      "segment": "轻奢",
+      "summary": "Christopher Kane 任 Mulberry 创意总监首秀，将 Bayswater 包与 Postman's Lock 五金语汇延展至全品类。"
+    },
+    {
+      "date": "2026-10-07",
+      "source": "钛媒体",
+      "title": "千元“痛包”被00后疯抢，过气老牌强势翻红",
+      "url": "https://www.tmtpost.com/8009993.html",
+      "tier1": "箱包",
+      "type": "深度",
+      "importance": 4,
+      "segment": "轻奢",
+      "summary": "Coach 靠 Tabby、Brooklyn 与包挂文化重获年轻客群，大中华区高速增长；试图上探 3000-6000 元「新轻奢」，与国产千元包正面交锋。"
+    },
+    {
+      "date": "2026-10-09",
+      "source": "数英",
+      "title": "国产包三巨头，是如何上位的？",
+      "url": "https://www.digitaling.com/articles/1596734.html",
+      "tier1": "箱包",
+      "type": "深度",
+      "importance": 3,
+      "segment": "轻奢",
+      "summary": "拆解山下有松（东方美学）、裘真（水染植鞣皮）、个乐（原创设计）三条路径及各自短板。"
+    }
+  ],
+  "brand_news": [
+    {
+      "brand": "新秀丽",
+      "date": "2026-10-02",
+      "source": "港交所公告",
+      "title": "CLOSING OF THE ACQUISITION OF BÉIS, LLC",
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1002/2026100200003.pdf",
+      "summary": "收购于 2026-10-01 完成，BÉIS 成为新秀丽间接持股 85% 的子公司，继续作为独立品牌运营。"
+    },
+    {
+      "brand": "新秀丽",
+      "date": "2026-10-14",
+      "source": "The Edge Malaysia",
+      "title": "Samsonite’s new collection caters to the stylish traveller on the go",
+      "url": "https://theedgemalaysia.com/article/travel-samsonite%E2%80%99s-new-collection-caters-stylish-traveller-go",
+      "summary": "Tru-Frame 硬壳箱系列，63/68/76cm 三尺寸，全球 10 年保修。"
+    },
+    {
+      "brand": "GENTLE MONSTER",
+      "date": "2026-10-14",
+      "source": "newiing",
+      "title": "GENTLE MONSTER于上海西岸梦中心构筑全新空间",
+      "url": "https://www.newiing.com/fashion/4782.html",
+      "summary": "上海西岸梦中心店开幕，艺术装置式零售空间；于适演绎 2026 OPTICAL 系列。"
+    },
+    {
+      "brand": "GENTLE MONSTER",
+      "date": "2026-10-14",
+      "source": "Dailyeye（韩）",
+      "title": "젠틀몬스터x프라다 협업 컬렉션, 일본 이어 한국서도 완판",
+      "url": "https://www.dailyeye.co.kr/news/articleView.html?idxno=10320",
+      "summary": "与 PRADA 联名系列在日本、韩国相继售罄，已在中国上市；该系列与依视路陆逊梯卡合作生产。"
+    },
+    {
+      "brand": "GENTLE MONSTER",
+      "date": "2026-10-13",
+      "source": "IT之家（网易转载）",
+      "title": "三星首款智能眼镜曝光：约41克重、骁龙AR1 Gen1，预计下月上市",
+      "url": "https://www.163.com/dy/article/L940L3QD0511B8LM.html",
+      "summary": "三星智能眼镜由 GENTLE MONSTER 与 Warby Parker 合作打造，GM 款 6 种框型 16 个版本，预计 11 月在韩美发售。"
+    },
+    {
+      "brand": "卡西欧",
+      "date": "2026-10-01",
+      "source": "CASIO 官网",
+      "title": "Casio to Release MR-G Crafted in Blue Sapphire Crystal",
+      "url": "https://www.casio.com/intl/news/2026/1001-mrg-d5000/",
+      "summary": "MR-G 蓝色蓝宝石水晶表壳限量款发布。"
+    },
+    {
+      "brand": "卡西欧",
+      "date": "2026-10-06",
+      "source": "CASIO 官网（日）",
+      "title": "雄大な海のうねりを表現した “OCEANUS”",
+      "url": "https://www.casio.co.jp/release/2026/1006-ocw-sg1000mc/",
+      "summary": "OCEANUS OCW-SG1000MC 限量款发布。"
+    },
+    {
+      "brand": "Fakeme",
+      "date": "2026-10-10",
+      "source": "Fakeme眼镜官方微博",
+      "title": "Fakeme 官宣迪丽热巴为首位全球品牌代言人，10月17日举办新品发布会",
+      "url": "https://weibo.com/u/7348341643",
+      "summary": "官方微博预告 10 月 17 日新品发布会，话题 #Fakeme首位全球品牌代言人迪丽热巴#；同日宣布南京景枫店开业，2026AW 系列（Mauna、NEIL 等）持续上新。"
+    },
+    {
+      "brand": "山下有松",
+      "date": "2026-10-11",
+      "source": "潮流新闻网",
+      "title": "Songmont「山下有松」2026秋季新款百纳闲云手提包曝光",
+      "url": "http://www.chaoliunews.com/shishang/xiangbao/29143.html",
+      "summary": "百纳系列新款闲云手提包，售价 1480 元，10 月 15 日 20:00 发售。"
+    },
+    {
+      "brand": "山下有松",
+      "date": "2026-10-08",
+      "source": "中国快报网",
+      "title": "连续第三年走进巴黎时装周，Songmont山下有松以产品力讲述中国品牌的文化自信",
+      "url": "https://www.zguokbw.com/articleid/458811.html",
+      "summary": "9 月 28-30 日巴黎时装周期间于玛黑区办「远山有声」展览；海外独立站用户覆盖超 140 个国家和地区。"
+    },
+    {
+      "brand": "LOLA ROSE",
+      "date": "2026-10-13",
+      "source": "X（粉丝账号转引 Lola Rose 微博）",
+      "title": "Lola Rose 官宣刘浩存为大中华区品牌代言人",
+      "url": "https://x.com/axnc2n/status/2109840001832013984",
+      "summary": "转引 Lola Rose 官方微博：刘浩存出任大中华区品牌代言人。原始微博链接未直接获取，以转引为准。"
+    },
+    {
+      "brand": "HEFANG",
+      "date": "2026-10-09",
+      "source": "新浪（HEFANG 官方微博）",
+      "title": "HEFANG 全新「婚礼系列」橱窗上线",
+      "url": "https://www.sina.cn/weibo/detail/5352184203969925.html",
+      "summary": "门店橱窗随新季「婚礼系列」焕新，以婚纱、牵手、誓言等装置呈现；系列以月桂叶、丝带、蕾丝为灵感。"
+    },
+    {
+      "brand": "蔡司",
+      "date": "2026-10-09",
+      "source": "新浪（极米官方微博）",
+      "title": "蔡司成为极米 AI 眼镜 MemoMind One 官方配镜合作伙伴",
+      "url": "https://www.sina.cn/weibo/detail/5352054061008202.html",
+      "summary": "MemoMind One 为首个搭载「蔡司显示系列翎思镜片」的 AI 显示眼镜。"
+    },
+    {
+      "brand": "万事利",
+      "date": "2026-10-11",
+      "source": "每日商报",
+      "title": "杭州丝绸溯源首店来了",
+      "url": "https://hzdaily.hangzhou.com.cn/mrsb/2026/10/11/article_detail_3_20261011A019.html",
+      "summary": "万事利在杭州大厦开设超 600 平方米丝绸溯源首店，含工艺溯源、国礼鉴赏、AI 丝巾定制等体验。"
+    },
+    {
+      "brand": "万事利",
+      "date": "2026-10-14",
+      "source": "同花顺",
+      "title": "万事利：拟2000万元至3000万元回购股份用于股权激励或员工持股计划",
+      "url": "https://stock.10jqka.com.cn/20261014/c680662045.shtml",
+      "summary": "公司公告拟以 2000-3000 万元回购股份，用于股权激励或员工持股。"
+    },
+    {
+      "brand": "万事利",
+      "date": "2026-10-10",
+      "source": "同花顺",
+      "title": "对话万事利丝绸董事长李建华:传统丝绸开启体验式消费新探索",
+      "url": "https://news.10jqka.com.cn/20261010/c680553670.shtml",
+      "summary": "董事长谈体验式消费与新店定位。"
+    },
+    {
+      "brand": "欧克利",
+      "date": "2026-10-13",
+      "source": "Hypebeast",
+      "title": "SATISFY x Oakley「Equipment for Our World」第八篇章系列",
+      "url": "https://hypebeast.cn/2026/10/satisfy-oakley-equipment-for-our-world-chapter-viii-collaborative-collection-release-info",
+      "summary": "与跑步品牌 SATISFY 第八弹联名，含复刻 Scar、Suture Jacket 镜款及跑步服饰，10 月 13 日发售。"
+    },
+    {
+      "brand": "明月镜片",
+      "date": "2026-10-12",
+      "source": "新浪科技",
+      "title": "聚焦“一老一少”眼健康，明月镜片专业赋能中国行全国首站正式启程",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-10-12/doc-iniuyhwz5317620.shtml",
+      "summary": "启动面向渠道的「专业赋能中国行」，聚焦青少年近视管理与中老年渐进镜。"
+    },
+    {
+      "brand": "BAGSMART",
+      "date": "2026-10-09",
+      "source": "Knox News (USA TODAY Network)",
+      "title": "Overpackers, this Bagsmart suitcase fixes your biggest travel headache",
+      "url": "https://www.knoxnews.com/story/shopping/travel/luggage/2026/10/09/bagsmart-pebble-hybrid-check-in-suitcase-launch-2026/92174598007/",
+      "summary": "发布 Pebble Hybrid 26 寸托运箱：铝框、干湿分区、压缩板等收纳设计。"
+    },
+    {
+      "brand": "天美时集团",
+      "date": "2026-10-13",
+      "source": "Gizmochina",
+      "title": "Timex launches Pan Am Waterbury GMT",
+      "url": "https://www.gizmochina.com/2026/10/13/timex-pan-am-waterbury-gmt-launched-in-the-us-specs-price/",
+      "summary": "Pan Am x Timex Waterbury GMT 联名，石英款美国售价 349 美元，另有自动款。"
+    },
+    {
+      "brand": "天美时集团",
+      "date": "2026-10-08",
+      "source": "Gizmochina",
+      "title": "Timex launches two Marlin Chatham Automatic watches",
+      "url": "https://www.gizmochina.com/2026/10/08/timex-marlin-chatham-automatic-watches-launched-specs-price/",
+      "summary": "两款 Marlin Chatham 自动表，Miyota 8215 机芯，289-299 美元。"
+    },
+    {
+      "brand": "飞亚达",
+      "date": "2026-10-11",
+      "source": "中财网",
+      "title": "飞亚达表业筑底成功 制造重估打开第二曲线",
+      "url": "http://www1.cfi.net.cn/p20261011000301.html",
+      "summary": "上半年营收 18.40 亿元（+3.16%），归母净利 1.01 亿元（+21.9%）；收购长空齿轮，布局精密制造与机器人业务。"
+    },
+    {
+      "brand": "柯达",
+      "date": "2026-10-08",
+      "source": "X（日本眼镜店 中めがね）",
+      "title": "KODAK Lens PolarMax Pro 新色「Chrome series」发售",
+      "url": "https://x.com/nakamegane_com/status/2108013767938433051",
+      "summary": "日本市场 KODAK Lens 偏光镜片 PolarMax Pro 推出 Chrome 系列新色（零售商发布）。"
+    }
+  ],
+  "insights": [
+    {
+      "title": "轻奢包袋的两头挤压：国际品牌承压、Coach 复苏与国产千元包上探",
+      "tier1": "箱包",
+      "body": "LVMH 三季度时装皮具有机下滑 5%，管理层把原因指向中国需求放缓（LVMH 公告、BoF）。同期，同一集团的腕表珠宝业务固定汇率增长 8%，说明奢侈品需求在品类间分化：「硬奢」好于皮具。\n\n轻奢层的分化更明显。钛媒体梳理指出，Coach 依靠 Tabby、Brooklyn 等款和包挂玩法重获 Z 世代，大中华区增速领先，并尝试把价格带抬至 3000-6000 元；但其长期折扣与奥莱渠道形成的「两千多元能买到」心理锚点，使它在千元级价格带与国产品牌正面竞争。Capri 则仍处于 Michael Kors 的重置期，靠新款与门店翻新寻求下半年恢复增长。\n\n国产侧，山下有松、裘真、GROTTO 个乐分别以东方美学、水染植鞣皮材质、原创设计切入 1000-3000 元区间（数英、Jing Daily），并通过进驻核心商场、提价向国际轻奢靠拢。共同风险是客群重叠、设计趋同与仿冒，以及提价后品控与服务能否兑现。\n\n对经营者的含义：材质/工艺壁垒与可持续爆款体系比单纯的叙事更能支撑提价；对投资者：关注国产头部的同店效率与复购，而不只是 GMV 排名。",
+      "refs": [
+        {
+          "title": "LVMH Q3 2026 公告",
+          "url": "https://www.lvmh.com/en/publications/continued-growth-in-the-third-quarter-of-2026"
+        },
+        {
+          "title": "BoF：LVMH Fashion Sales Slip on China Weakness",
+          "url": "https://www.businessoffashion.com/articles/luxury/lvmh-fashion-sales-slip-on-china-weakness-dimming-recovery-hopes/"
+        },
+        {
+          "title": "钛媒体：千元“痛包”被00后疯抢",
+          "url": "https://www.tmtpost.com/8009993.html"
+        },
+        {
+          "title": "数英：国产包三巨头，是如何上位的？",
+          "url": "https://www.digitaling.com/articles/1596734.html"
+        },
+        {
+          "title": "Jing Daily：Are Chinese handbag brands set to dominate accessible luxury?",
+          "url": "https://jingdaily.com/posts/are-local-handbag-brands-set-to-dominate-accessible-luxury"
+        }
+      ]
+    },
+    {
+      "title": "金价高位下的珠宝零售：从「卖克重」到「卖设计」",
+      "tier1": "珠宝腕表",
+      "body": "今年上半年国内金饰消费量同比下降约 30%，而金条金币消费增长约 28%，投资金占黄金消费比重升至约 66%（世界黄金协会数据，见 21 经济网报道）。与此同时，六家头部金饰品牌上半年合计净关店 2159 家，过半为加盟店。\n\n零售端并非全面降温：国庆期间金价回调，深圳水贝足金报价回落至约 1061 元/克，带动客流明显走高；但广东省黄金协会人士认为这是多因素叠加的短期行情。\n\n品牌侧的应对已较清晰：轻克重、文化 IP（敦煌、国宝等）与计件定价产品成为主推方向，促销以每克立减、以旧换新为主。对于以设计和悦己消费为卖点的轻珠宝品牌，这意味着克重价格敏感度下降、设计溢价空间相对提升；但对依赖低价直播走量的模式，2025 年 11 月的黄金税收新政已构成明显压力。",
+      "refs": [
+        {
+          "title": "珠宝大王倒在黄金牛市（21经济网）",
+          "url": "https://www.21jingji.com/article/20261013/herald/9fef86c9aaf9d618f12dbd16e9511112.html"
+        },
+        {
+          "title": "国庆节后深圳水贝黄金市场消费热度延续（中国经济网）",
+          "url": "http://bgimg.ce.cn/cysc/newmain/yc/jsxw/202610/t20261014_3257088.shtml"
+        },
+        {
+          "title": "多家黄金珠宝品牌国庆集中促销（新京报）",
+          "url": "https://www.bjnews.com.cn/detail/1791423353189760.html"
+        },
+        {
+          "title": "LVMH Quarterly Results: two different paces（Insight Luxury）",
+          "url": "https://insight-luxury.com/en/2026/10/13/lvmh-quarterly-results-the-luxury-market-is-growing-at-two-different-paces/"
+        }
+      ]
+    },
+    {
+      "title": "AI 眼镜进入「国补 + 大厂」阶段，传统眼镜品牌的角色",
+      "tier1": "眼镜",
+      "body": "奥维云网数据显示，1-8 月智能眼镜线上销量 82.3 万台，同比增长 38.9%，均价 2135 元；智能眼镜今年首次纳入国补目录。但 IDC 口径下二季度出货量同比下降 8%，说明线上零售与整体出货存在口径差异，市场仍处在用户导入期。\n\n10 月 13 日阿里发布千问 N1/N1 Pro，以换电设计回应续航痛点；三星智能眼镜则选择与 GENTLE MONSTER、Warby Parker 两个眼镜品牌合作，框型与配色由时尚眼镜品牌主导。这表明在 AI 眼镜中，「戴得出去」的设计与验配能力是传统眼镜品牌的切入点。\n\n同时，监管层面眼镜制配全链条计量监管持续收紧，验光设备检定、人员资质和验光数据管理要求提高，规范经营、专业验配的连锁渠道相对受益。",
+      "refs": [
+        {
+          "title": "2026年智能眼镜市场（电器杂志）",
+          "url": "https://www.dianqizazhi.com/2026/10/13/74447.html"
+        },
+        {
+          "title": "阿里推出千问N1系列AI眼镜（动点科技）",
+          "url": "https://cn.technode.com/post/2026-10-14/alibaba-qwen-n1-ai-glasses-swappable-batteries/"
+        },
+        {
+          "title": "三星首款智能眼镜曝光（IT之家）",
+          "url": "https://www.163.com/dy/article/L940L3QD0511B8LM.html"
+        },
+        {
+          "title": "眼镜制配计量监督检查工作指南（市场监管总局）",
+          "url": "https://www.fxxh.gov.cn/content/2026/1098403.html"
+        },
+        {
+          "title": "深度 | Gentle Monster的平替危机（LADYMAX）",
+          "url": "http://news.ladymax.cn/202608/14-39719.html"
+        }
+      ]
+    }
+  ],
+  "trends": [
+    {
+      "title": "时尚眼镜品牌 × 科技公司共建 AI 眼镜",
+      "tier1": "眼镜",
+      "stage": "上升",
+      "description": "科技公司负责芯片与 AI，眼镜品牌负责框型设计、渠道与验配。",
+      "opportunity": "具备设计与验配网络的眼镜品牌可作为 AI 眼镜的设计/渠道合作方；关注 11 月三星 × GENTLE MONSTER 上市后的反馈。",
+      "evidence": [
+        {
+          "title": "三星首款智能眼镜曝光（IT之家）",
+          "url": "https://www.163.com/dy/article/L940L3QD0511B8LM.html"
+        },
+        {
+          "title": "阿里千问N1系列（动点科技）",
+          "url": "https://cn.technode.com/post/2026-10-14/alibaba-qwen-n1-ai-glasses-swappable-batteries/"
+        }
+      ]
+    },
+    {
+      "title": "金饰轻量化与文化 IP 计件款",
+      "tier1": "珠宝腕表",
+      "stage": "成熟",
+      "description": "高金价下，轻克重、IP 联名与计件定价成为主流品牌标配。",
+      "opportunity": "设计驱动的轻珠宝、银饰与非足金材质有替代空间；需警惕同质化。",
+      "evidence": [
+        {
+          "title": "新京报：国庆集中促销与轻量化新品",
+          "url": "https://www.bjnews.com.cn/detail/1791423353189760.html"
+        },
+        {
+          "title": "21经济网：金饰消费量下滑 30%",
+          "url": "https://www.21jingji.com/article/20261013/herald/9fef86c9aaf9d618f12dbd16e9511112.html"
+        }
+      ]
+    },
+    {
+      "title": "翡翠市场 K 型分化与溯源合规",
+      "tier1": "玉石翡翠",
+      "stage": "上升",
+      "description": "高端种水货坚挺，通货与直播低价货承压；证书、溯源、产地透明度成为定价关键。",
+      "opportunity": "可溯源、带权威证书的中高端精品渠道；以「买精不买多」叙事做品牌化。",
+      "evidence": [
+        {
+          "title": "全球玉石网：翡翠市场风向变了",
+          "url": "https://globejade.cn/article/expert-1-mv2itpnw-1uy4"
+        },
+        {
+          "title": "香港新闻社：2026年翡翠市场路在何方",
+          "url": "https://www.hkong.cn/2026/0907/71782.shtml"
+        }
+      ]
+    },
+    {
+      "title": "箱包龙头外延并购生活方式品牌",
+      "tier1": "箱包",
+      "stage": "萌芽",
+      "description": "新秀丽完成收购数字原生品牌 BÉIS，以并购补齐年轻女性与生活方式客群。",
+      "opportunity": "具备 DTC 能力与社媒心智的国产新锐箱包品牌估值参照提升。",
+      "evidence": [
+        {
+          "title": "港交所公告：完成收购 BÉIS",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1002/2026100200003.pdf"
+        },
+        {
+          "title": "大和上调新秀丽目标价",
+          "url": "https://www.waimao.me/post/4fd91998"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "动点科技",
+      "url": "https://cn.technode.com",
+      "tier1": "眼镜"
+    },
+    {
+      "name": "电器杂志",
+      "url": "https://www.dianqizazhi.com",
+      "tier1": "眼镜"
+    },
+    {
+      "name": "中国经济网",
+      "url": "http://www.ce.cn",
+      "tier1": "珠宝腕表"
+    },
+    {
+      "name": "21经济网",
+      "url": "https://www.21jingji.com",
+      "tier1": "珠宝腕表"
+    },
+    {
+      "name": "新京报",
+      "url": "https://www.bjnews.com.cn",
+      "tier1": "综合"
+    },
+    {
+      "name": "港交所披露易",
+      "url": "https://www.hkexnews.hk",
+      "tier1": "综合"
+    },
+    {
+      "name": "CASIO 官网新闻",
+      "url": "https://www.casio.com/intl/news/",
+      "tier1": "珠宝腕表"
+    },
+    {
+      "name": "全球玉石网",
+      "url": "https://globejade.cn",
+      "tier1": "玉石翡翠"
+    }
+  ],
+  "brand_scan": {
+    "window": "2026-10-07..2026-10-14",
+    "method": "逐一检索 64 个品牌（中文名/英文名/别名）：web 搜索 + X 搜索；Exa 因限流不可用",
+    "note": "无动态的品牌表示在窗口内未检索到可核实日期与链接的新闻，不代表品牌无活动。"
+  },
+  "reading_list": [
+    {
+      "title": "LVMH Fashion Sales Slip on China Weakness, Dimming Recovery Hopes",
+      "source": "BoF",
+      "date": "2026-10-12",
+      "url": "https://www.businessoffashion.com/articles/luxury/lvmh-fashion-sales-slip-on-china-weakness-dimming-recovery-hopes/",
+      "tier1": "箱包"
+    },
+    {
+      "title": "Luxury’s China Hopes Face a Reality Check",
+      "source": "BoF",
+      "date": "2026-10-11",
+      "url": "https://www.businessoffashion.com/briefings/retail/luxurys-china-hopes-face-a-reality-check/",
+      "tier1": "综合"
+    },
+    {
+      "title": "LVMH Quarterly Results: The Luxury Market Is Growing at Two Different Paces",
+      "source": "Insight Luxury",
+      "date": "2026-10-13",
+      "url": "https://insight-luxury.com/en/2026/10/13/lvmh-quarterly-results-the-luxury-market-is-growing-at-two-different-paces/",
+      "tier1": "珠宝腕表"
+    },
+    {
+      "title": "国产包三巨头，是如何上位的？",
+      "source": "数英",
+      "date": "2026-10-09",
+      "url": "https://www.digitaling.com/articles/1596734.html",
+      "tier1": "箱包"
+    },
+    {
+      "title": "千元“痛包”被00后疯抢，过气老牌强势翻红",
+      "source": "钛媒体",
+      "date": "2026-10-07",
+      "url": "https://www.tmtpost.com/8009993.html",
+      "tier1": "箱包"
+    },
+    {
+      "title": "山下有松与Coach的竞争，像极了当年瑞幸与星巴克的样子",
+      "source": "钛媒体",
+      "date": "2026-09-03",
+      "url": "https://www.tmtpost.com/8127152.html",
+      "tier1": "箱包"
+    },
+    {
+      "title": "深度 | Gentle Monster的平替危机",
+      "source": "LADYMAX",
+      "date": "2026-08-14",
+      "url": "http://news.ladymax.cn/202608/14-39719.html",
+      "tier1": "眼镜"
+    },
+    {
+      "title": "Are Chinese handbag brands set to dominate accessible luxury?",
+      "source": "Jing Daily",
+      "date": "2026-06-30",
+      "url": "https://jingdaily.com/posts/are-local-handbag-brands-set-to-dominate-accessible-luxury",
+      "tier1": "箱包"
+    },
+    {
+      "title": "中产嫌弃的Coach，翻红了",
+      "source": "36氪（DT商业观察）",
+      "date": "2026-05-14",
+      "url": "https://www.36kr.com/p/3808412916473353",
+      "tier1": "箱包"
+    },
+    {
+      "title": "裘真的第 11 年：「规模」与「信仰」的平衡之道",
+      "source": "品牌星球",
+      "date": "2026-04-29",
+      "url": "https://www.brandstar.com.cn/in-depth/8099",
+      "tier1": "箱包"
+    },
+    {
+      "title": "珠宝大王倒在黄金牛市，金价越涨金店活得越难",
+      "source": "21经济网（钛媒体）",
+      "date": "2026-10-13",
+      "url": "https://www.21jingji.com/article/20261013/herald/9fef86c9aaf9d618f12dbd16e9511112.html",
+      "tier1": "珠宝腕表"
+    },
+    {
+      "title": "2026年智能眼镜市场：AI驱动普及，开启生态升级新时代",
+      "source": "电器杂志",
+      "date": "2026-10-13",
+      "url": "https://www.dianqizazhi.com/2026/10/13/74447.html",
+      "tier1": "眼镜"
+    }
+  ],
+  "brand_insights": [
+    {
+      "brand": "山下有松",
+      "tier1": "箱包",
+      "title": "山下有松：从东方美学叙事到与 Coach 同桌竞争",
+      "body": "定位与产品：以东方美学、克制设计和皮具工艺建立辨识度，主力价格带 1000-3000 元并持续上探，部分款超 4000 元；过去一年均价约从 1600 元升至 2200 元（赢商网/网易转载）。\n\n渠道：线上为基本盘，2025 年 618 位列天猫箱包服配榜第二、双 11 登顶箱包榜（钛媒体）；2025 年门店数翻番，进驻核心商场，并筹备香港铜锣湾首店；海外独立站覆盖 140+ 国家和地区，连续三年在巴黎时装周办展（中国快报网）。\n\n竞争：在价格、商场位置和电商榜单上已与 Coach 重叠；同梯队有裘真、GROTTO 个乐、古良吉吉。",
+      "investor_view": "增长兑现依赖供应链与产能能否跟上复杂工艺、能否持续产出经典款；提价后的品控口碑与仿冒稀释是主要风险（钛媒体）。",
+      "operator_view": "「东方审美」正成为共同叙事，差异化需落到可复用的版型/工艺资产与门店体验；10 月 15 日新品闲云手提包（1480 元）也显示其以入门价位补齐价格带。",
+      "sources": [
+        {
+          "title": "钛媒体：山下有松与Coach的竞争",
+          "url": "https://www.tmtpost.com/8127152.html"
+        },
+        {
+          "title": "Coach失守高端mall，怪不得山下有松、裘真（网易）",
+          "url": "https://www.163.com/dy/article/L0N75JSI05158BF0.html"
+        },
+        {
+          "title": "连续第三年走进巴黎时装周（中国快报网）",
+          "url": "https://www.zguokbw.com/articleid/458811.html"
+        },
+        {
+          "title": "「山下有松」香港首店进驻铜锣湾（香港纺织商会）",
+          "url": "https://www.textileschamber.com.hk/?p=29223"
+        }
+      ]
+    },
+    {
+      "brand": "裘真",
+      "tier1": "箱包",
+      "title": "裘真：用「水染植鞣皮」做品类定义者",
+      "body": "产品与供应链：专注水染植鞣皮，2023 年初自建皮革厂，覆盖原料、鞣制、设计到制作全链路，研发与采购投入超千万元（36氪、品牌星球）。\n\n规模与渠道：2023 年销售额破 1 亿元，2024 年 2.3 亿元；2025 年跻身天猫双 11 千元女包 TOP3；2026 年五一在无锡、杭州、南京、佛山连开 4 店，计划 2028 年门店超 30 家（36氪）。代言人春夏，品牌内容以「时间容器」「养包」叙事为主。\n\n定价：成交均价约 1700 元，低于山下有松约 2200 元；个别款两年内从 968 元涨至 1601 元（钛媒体、网易）。",
+      "investor_view": "材质壁垒与自建工厂带来毛利与品控优势，但植鞣皮养护门槛限制破圈；持续提价的空间取决于皮料溯源透明度（钛媒体指出仅标注集散地）。",
+      "operator_view": "线下门店是材质体验的关键触点，开店节奏与单店效率是下一阶段核心指标；设计「偏老」的评价提示需扩展年轻化款式。",
+      "sources": [
+        {
+          "title": "36氪：挤进国产千元包顶流的裘真",
+          "url": "https://m.36kr.com/p/3784446048984067"
+        },
+        {
+          "title": "品牌星球：裘真的第 11 年",
+          "url": "https://www.brandstar.com.cn/in-depth/8099"
+        },
+        {
+          "title": "钛媒体：登上双11榜单前三的裘真",
+          "url": "https://www.tmtpost.com/7799918.html"
+        },
+        {
+          "title": "数英：国产包三巨头，是如何上位的？",
+          "url": "https://www.digitaling.com/articles/1596734.html"
+        }
+      ]
+    },
+    {
+      "brand": "GENTLE MONSTER",
+      "tier1": "眼镜",
+      "title": "GENTLE MONSTER：AI 眼镜合作 + 全球扩店，对冲平替冲击",
+      "body": "战略：与三星、Google 合作智能眼镜，GM 款预计 11 月在韩美上市（IT之家）；同时推进海外扩店，报道称 3-5 年海外门店扩至约四倍（陀螺科技，2026-07）。\n\n品牌与渠道：策展式零售空间是其流量与溢价引擎，10 月新开上海西岸梦中心店；与 PRADA 联名在日韩售罄。\n\n竞争：低价「平替」品牌 Blue Elephant 被指 33 款产品相似度超 90%，GM 已提起诉讼；LADYMAX 认为更深层问题是自身增长放缓与创新迭代变慢。",
+      "investor_view": "AI 眼镜给了时尚眼镜品牌新的 B2B/联名收入与估值叙事，但硬件成败主要由科技伙伴决定；需观察核心太阳镜/光学镜业务在平替冲击下的价格与销量。",
+      "operator_view": "空间体验与联名可维持热度，但模仿门槛低；知识产权维权、快速迭代与供应链成本控制同等重要。",
+      "sources": [
+        {
+          "title": "LADYMAX：Gentle Monster的平替危机",
+          "url": "http://news.ladymax.cn/202608/14-39719.html"
+        },
+        {
+          "title": "陀螺科技：Gentle Monster启动全球扩张计划",
+          "url": "https://www.tuoluo.cn/article/detail-10130053.html"
+        },
+        {
+          "title": "IT之家：三星首款智能眼镜曝光",
+          "url": "https://www.163.com/dy/article/L940L3QD0511B8LM.html"
+        },
+        {
+          "title": "Asia IP：Gentle Monster v Blue Elephant",
+          "url": "https://www.asiaiplaw.com/article/south-koreas-gentle-monster-takes-legal-action-against-blue-elephant-over-alleged-design-copying"
+        }
+      ]
+    },
+    {
+      "brand": "新秀丽",
+      "tier1": "箱包",
+      "title": "新秀丽：提价、并购 BÉIS 与美国双重上市",
+      "body": "经营：大和预计 Q3 固定汇率销售同比 -0.5%，好于 Q2；亚洲已于 Q3 提价，欧洲 Q4、北美或 2027 年初跟进（外贸内参）。\n\n品牌组合：10 月 1 日完成收购数字原生品牌 BÉIS（持股 85%），预计 Q4 贡献约 6000 万美元销售，补强年轻女性与生活方式客群；TUMI 在亚洲、欧洲增长而北美承压（国泰海通研报摘要）。\n\n资本：股东已批准在美国双重上市（观点网），旨在提升流动性与全球投资者覆盖。",
+      "investor_view": "短期看提价能否抵消原材料通胀且不伤销量；BÉIS 并表提供增量；美国上市可能带来估值重估。",
+      "operator_view": "DTC 与营销投入上升（上半年约 6.5% 营收）是年轻化代价；对国产箱包品牌而言，龙头通过并购补齐 DTC 能力，抬升了新锐品牌的估值参照。",
+      "sources": [
+        {
+          "title": "大和上调新秀丽目标价（外贸内参）",
+          "url": "https://www.waimao.me/post/4fd91998"
+        },
+        {
+          "title": "港交所公告：完成收购 BÉIS",
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1002/2026100200003.pdf"
+        },
+        {
+          "title": "国泰海通：新秀丽 26Q1 点评（慧博）",
+          "url": "https://wap.hibor.com.cn/repinfodetail_5140025.html"
+        },
+        {
+          "title": "观点网：新秀丽股东批准美国双重上市",
+          "url": "https://www.guandian.cn/article/20260320/549637.html"
+        }
+      ]
+    },
+    {
+      "brand": "明月镜片",
+      "tier1": "眼镜",
+      "title": "明月镜片：1.74 高折射与近视防控驱动的国产替代",
+      "body": "业绩：2026 年上半年营收 4.565 亿元（+14.37%），归母净利 1.111 亿元（+16.30%）；1.74 高折射率镜片销售 5588.82 万元，同比 +227.94%（半年报）。\n\n产品与渠道：「1+4」策略——轻松控 Pro 系列做青少年近视防控，PMC 超亮、高折、渐进、户外有色为主力品类；10 月 12 日启动「专业赋能中国行」，面向渠道推广「一老一少」验配能力（新浪科技）。\n\n竞争：以高阿贝数、性价比和下沉渠道对抗依视路、蔡司，外资仍主导高端渐进与品牌溢价（研报摘要）。",
+      "investor_view": "1.74 产线爬坡、良率与原料成本是毛利率关键变量；离焦防控镜片价格战是行业性风险。",
+      "operator_view": "渠道赋能（验光与验配能力）是国产镜片从「性价比」走向「专业品牌」的抓手，与监管层收紧眼镜制配计量要求方向一致。",
+      "sources": [
+        {
+          "title": "明月镜片 2026 半年报",
+          "url": "http://static.cninfo.com.cn/finalpage/2026-08-25/1225494206.PDF"
+        },
+        {
+          "title": "新浪科技：明月镜片专业赋能中国行",
+          "url": "https://finance.sina.com.cn/tech/roll/2026-10-12/doc-iniuyhwz5317620.shtml"
+        },
+        {
+          "title": "约投顾：高折射率镜片收入占比近半",
+          "url": "https://ag.yueniuzq.com/company/mingyue-high-index-lens-industry-trend/"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+ "site_name": "Accessory Radar",
+ "site_name_cn": "配 饰 雷 达",
+ "title": "ACCESSORY RADAR · 配饰行业情报",
+ "base_path": "/",
+ "sections": {
+  "daily": true,
+  "year": true,
+  "archive": true,
+  "brands": true,
+  "sources": true
+ },
+ "palette": {
+  "bg": "#FAF8F4",
+  "paper": "#FFFEFB",
+  "ink": "#161514",
+  "ink2": "#3d3a36",
+  "grey": "#8a857d",
+  "hair": "#e4dfd6",
+  "hair2": "#d2ccc1",
+  "acc": "#9a7b52"
+ },
+ "fonts": {
+  "serif": "\"Cormorant Garamond\",\"Noto Serif SC\",\"Songti SC\",\"STSong\",\"SimSun\",serif",
+  "sans": "\"Inter\",\"Noto Sans SC\",\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",system-ui,sans-serif"
+ }
+}

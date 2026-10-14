@@ -1,0 +1,386 @@
+[
+ {
+  "name": "裘真",
+  "watch_level": "P0",
+  "tier1": "箱包",
+  "aliases": []
+ },
+ {
+  "name": "Fakeme",
+  "watch_level": "P0",
+  "tier1": "眼镜",
+  "aliases": []
+ },
+ {
+  "name": "山下有松",
+  "watch_level": "P0",
+  "tier1": "箱包",
+  "aliases": []
+ },
+ {
+  "name": "LOLA ROSE",
+  "watch_level": "P0",
+  "tier1": "珠宝腕表",
+  "aliases": []
+ },
+ {
+  "name": "HEFANG",
+  "watch_level": "P0",
+  "tier1": "珠宝腕表",
+  "aliases": []
+ },
+ {
+  "name": "雅瑞光学",
+  "watch_level": "P0",
+  "tier1": "眼镜",
+  "aliases": []
+ },
+ {
+  "name": "ARSIS",
+  "watch_level": "P0",
+  "tier1": "珠宝腕表",
+  "aliases": []
+ },
+ {
+  "name": "蔡司",
+  "watch_level": "P0",
+  "tier1": "眼镜",
+  "aliases": []
+ },
+ {
+  "name": "依视路",
+  "watch_level": "P0",
+  "tier1": "眼镜",
+  "aliases": []
+ },
+ {
+  "name": "CHARLES&KEITH",
+  "watch_level": "P0",
+  "tier1": "箱包",
+  "aliases": []
+ },
+ {
+  "name": "新秀丽",
+  "watch_level": "P0",
+  "tier1": "箱包",
+  "aliases": []
+ },
+ {
+  "name": "ITO",
+  "watch_level": "P0",
+  "tier1": "箱包",
+  "aliases": []
+ },
+ {
+  "name": "GROTTO个乐",
+  "watch_level": "P0",
+  "tier1": "珠宝腕表",
+  "aliases": []
+ },
+ {
+  "name": "白岚",
+  "watch_level": "P0",
+  "tier1": "珠宝腕表",
+  "aliases": []
+ },
+ {
+  "name": "万事利",
+  "watch_level": "P0",
+  "tier1": "服配",
+  "aliases": []
+ },
+ {
+  "name": "ECODAY",
+  "watch_level": "P0",
+  "tier1": "箱包",
+  "aliases": []
+ },
+ {
+  "name": "bampo",
+  "watch_level": "P0",
+  "tier1": "箱包",
+  "aliases": []
+ },
+ {
+  "name": "卡西欧",
+  "watch_level": "P0",
+  "tier1": "珠宝腕表",
+  "aliases": []
+ },
+ {
+  "name": "德津",
+  "watch_level": "P0",
+  "tier1": "箱包",
+  "aliases": []
+ },
+ {
+  "name": "LEVEL8地平线8号",
+  "watch_level": "P0",
+  "tier1": "箱包",
+  "aliases": []
+ },
+ {
+  "name": "九格眼镜",
+  "watch_level": "P0",
+  "tier1": "眼镜",
+  "aliases": []
+ },
+ {
+  "name": "欧克利",
+  "watch_level": "P0",
+  "tier1": "眼镜",
+  "aliases": []
+ },
+ {
+  "name": "FANCI范琦",
+  "watch_level": "P0",
+  "tier1": "珠宝腕表",
+  "aliases": []
+ },
+ {
+  "name": "GENTLE MONSTER",
+  "watch_level": "P0",
+  "tier1": "眼镜",
+  "aliases": []
+ },
+ {
+  "name": "纽芝兰",
+  "watch_level": "P0",
+  "tier1": "箱包",
+  "aliases": []
+ },
+ {
+  "name": "明月镜片",
+  "watch_level": "P1",
+  "tier1": "眼镜",
+  "aliases": []
+ },
+ {
+  "name": "CECE",
+  "watch_level": "P1",
+  "tier1": "箱包",
+  "aliases": []
+ },
+ {
+  "name": "柯达",
+  "watch_level": "P1",
+  "tier1": "眼镜",
+  "aliases": []
+ },
+ {
+  "name": "BAGSMART",
+  "watch_level": "P1",
+  "tier1": "箱包",
+  "aliases": []
+ },
+ {
+  "name": "CIGALONG",
+  "watch_level": "P1",
+  "tier1": "箱包",
+  "aliases": []
+ },
+ {
+  "name": "abyb jewelry",
+  "watch_level": "P1",
+  "tier1": "珠宝腕表",
+  "aliases": []
+ },
+ {
+  "name": "海伦凯勒眼镜",
+  "watch_level": "P1",
+  "tier1": "眼镜",
+  "aliases": []
+ },
+ {
+  "name": "包包树BAGTREE",
+  "watch_level": "P1",
+  "tier1": "箱包",
+  "aliases": []
+ },
+ {
+  "name": "飞亚达",
+  "watch_level": "P1",
+  "tier1": "珠宝腕表",
+  "aliases": []
+ },
+ {
+  "name": "梵誓ONESWEAR",
+  "watch_level": "P1",
+  "tier1": "珠宝腕表",
+  "aliases": []
+ },
+ {
+  "name": "KKLUE轻珠宝",
+  "watch_level": "P1",
+  "tier1": "珠宝腕表",
+  "aliases": []
+ },
+ {
+  "name": "天美时集团",
+  "watch_level": "P1",
+  "tier1": "珠宝腕表",
+  "aliases": []
+ },
+ {
+  "name": "JELLYTOYBOY",
+  "watch_level": "P1",
+  "tier1": "箱包",
+  "aliases": []
+ },
+ {
+  "name": "卡蒂罗",
+  "watch_level": "P1",
+  "tier1": "珠宝腕表",
+  "aliases": []
+ },
+ {
+  "name": "尤目",
+  "watch_level": "P1",
+  "tier1": "眼镜",
+  "aliases": []
+ },
+ {
+  "name": "ORANGE CUBE",
+  "watch_level": "P1",
+  "tier1": "箱包",
+  "aliases": []
+ },
+ {
+  "name": "古良吉吉",
+  "watch_level": "P1",
+  "tier1": "珠宝腕表",
+  "aliases": []
+ },
+ {
+  "name": "亨得利钟表",
+  "watch_level": "P1",
+  "tier1": "珠宝腕表",
+  "aliases": []
+ },
+ {
+  "name": "甲目眼镜",
+  "watch_level": "P1",
+  "tier1": "眼镜",
+  "aliases": []
+ },
+ {
+  "name": "TAD FAB",
+  "watch_level": "P1",
+  "tier1": "箱包",
+  "aliases": []
+ },
+ {
+  "name": "FANGYI方宜",
+  "watch_level": "P1",
+  "tier1": "珠宝腕表",
+  "aliases": []
+ },
+ {
+  "name": "老雷线上配镜",
+  "watch_level": "P1",
+  "tier1": "眼镜",
+  "aliases": []
+ },
+ {
+  "name": "抱树BYROOTS",
+  "watch_level": "P1",
+  "tier1": "箱包",
+  "aliases": []
+ },
+ {
+  "name": "TELETIES",
+  "watch_level": "P1",
+  "tier1": "服配",
+  "aliases": []
+ },
+ {
+  "name": "DAVENA",
+  "watch_level": "P1",
+  "tier1": "珠宝腕表",
+  "aliases": []
+ },
+ {
+  "name": "首末集团",
+  "watch_level": "P1",
+  "tier1": "箱包",
+  "aliases": []
+ },
+ {
+  "name": "大图",
+  "watch_level": "P1",
+  "tier1": "眼镜",
+  "aliases": []
+ },
+ {
+  "name": "卡拉羊",
+  "watch_level": "P1",
+  "tier1": "箱包",
+  "aliases": []
+ },
+ {
+  "name": "P&N",
+  "watch_level": "P1",
+  "tier1": "珠宝腕表",
+  "aliases": []
+ },
+ {
+  "name": "PARIM",
+  "watch_level": "P1",
+  "tier1": "眼镜",
+  "aliases": []
+ },
+ {
+  "name": "上海夕和眼镜",
+  "watch_level": "P1",
+  "tier1": "眼镜",
+  "aliases": []
+ },
+ {
+  "name": "超视立",
+  "watch_level": "P1",
+  "tier1": "眼镜",
+  "aliases": []
+ },
+ {
+  "name": "御行",
+  "watch_level": "P1",
+  "tier1": "箱包",
+  "aliases": []
+ },
+ {
+  "name": "木九十",
+  "watch_level": "P1",
+  "tier1": "眼镜",
+  "aliases": []
+ },
+ {
+  "name": "天空树假发",
+  "watch_level": "P1",
+  "tier1": "服配",
+  "aliases": []
+ },
+ {
+  "name": "不莱玫",
+  "watch_level": "P1",
+  "tier1": "箱包",
+  "aliases": []
+ },
+ {
+  "name": "帕莎",
+  "watch_level": "P1",
+  "tier1": "眼镜",
+  "aliases": []
+ },
+ {
+  "name": "CASSILE卡思乐",
+  "watch_level": "P1",
+  "tier1": "珠宝腕表",
+  "aliases": []
+ },
+ {
+  "name": "BLACKHEAD",
+  "watch_level": "P1",
+  "tier1": "眼镜",
+  "aliases": []
+ }
+]

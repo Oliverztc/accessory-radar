@@ -1,0 +1,12 @@
+publish.sh
+build.py
+SCHEMA.md
+README.md
+.vercel
+.env.local
+.gitignore
+shots
+DEPLOY.md
+Dockerfile
+nginx.conf
+.git

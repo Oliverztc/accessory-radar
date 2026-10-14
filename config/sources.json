@@ -1,0 +1,312 @@
+{
+ "tiers": [
+  {
+   "tier": "一手信源",
+   "sources": [
+    {
+     "name": "LVMH IR",
+     "url": "https://www.lvmh.com/investors"
+    },
+    {
+     "name": "Kering IR",
+     "url": "https://www.kering.com/en/finance/"
+    },
+    {
+     "name": "Richemont IR",
+     "url": "https://www.richemont.com/investors/"
+    },
+    {
+     "name": "Hermès IR",
+     "url": "https://finance.hermes.com/"
+    },
+    {
+     "name": "Prada IR",
+     "url": "https://www.pradagroup.com/en/investors.html"
+    },
+    {
+     "name": "Tapestry IR",
+     "url": "https://www.tapestry.com/investors/"
+    },
+    {
+     "name": "Capri IR",
+     "url": "https://www.capriholdings.com/investor-relations"
+    },
+    {
+     "name": "Burberry IR",
+     "url": "https://www.burberryplc.com/investors"
+    },
+    {
+     "name": "Swatch IR",
+     "url": "https://www.swatchgroup.com/en/investor-relations"
+    },
+    {
+     "name": "EssilorLuxottica IR",
+     "url": "https://www.essilorluxottica.com/en/investors/"
+    },
+    {
+     "name": "Safilo IR",
+     "url": "https://www.safilogroup.com/en/investors"
+    },
+    {
+     "name": "Marcolin IR",
+     "url": "https://www.marcolin.com/en/investors"
+    },
+    {
+     "name": "披露易 HKEXnews",
+     "url": "https://www.hkexnews.hk"
+    },
+    {
+     "name": "巨潮资讯",
+     "url": "http://www.cninfo.com.cn"
+    },
+    {
+     "name": "SEC EDGAR",
+     "url": "https://www.sec.gov/edgar"
+    },
+    {
+     "name": "品牌官网/公众号",
+     "url": ""
+    },
+    {
+     "name": "中国眼镜协会",
+     "url": ""
+    },
+    {
+     "name": "中国珠宝玉石首饰行业协会（中宝协）",
+     "url": ""
+    },
+    {
+     "name": "中国皮革协会",
+     "url": ""
+    },
+    {
+     "name": "中国钟表协会",
+     "url": ""
+    },
+    {
+     "name": "中国黄金协会",
+     "url": ""
+    },
+    {
+     "name": "世界黄金协会",
+     "url": "https://www.gold.org"
+    }
+   ]
+  },
+  {
+   "tier": "行业媒体",
+   "sources": [
+    {
+     "name": "华丽志",
+     "url": ""
+    },
+    {
+     "name": "LADYMAX",
+     "url": ""
+    },
+    {
+     "name": "Vogue Business",
+     "url": ""
+    },
+    {
+     "name": "BoF",
+     "url": ""
+    },
+    {
+     "name": "WWD",
+     "url": ""
+    },
+    {
+     "name": "界面时尚",
+     "url": ""
+    },
+    {
+     "name": "Jing Daily",
+     "url": ""
+    },
+    {
+     "name": "浪潮新消费",
+     "url": ""
+    },
+    {
+     "name": "明亮公司",
+     "url": ""
+    },
+    {
+     "name": "刀法研究所",
+     "url": ""
+    },
+    {
+     "name": "品牌星球",
+     "url": ""
+    },
+    {
+     "name": "亿邦动力",
+     "url": ""
+    },
+    {
+     "name": "Retail Dive",
+     "url": ""
+    },
+    {
+     "name": "Luxury Daily",
+     "url": ""
+    },
+    {
+     "name": "X",
+     "url": ""
+    }
+   ]
+  },
+  {
+   "tier": "垂直媒体",
+   "sources": [
+    {
+     "name": "完全眼镜",
+     "url": ""
+    },
+    {
+     "name": "中国眼镜科技杂志",
+     "url": ""
+    },
+    {
+     "name": "中镜传媒",
+     "url": ""
+    },
+    {
+     "name": "中国黄金报",
+     "url": ""
+    },
+    {
+     "name": "钻石观察",
+     "url": ""
+    }
+   ]
+  },
+  {
+   "tier": "趋势数据",
+   "sources": [
+    {
+     "name": "小红书灵感",
+     "url": ""
+    },
+    {
+     "name": "巨量算数",
+     "url": ""
+    },
+    {
+     "name": "蝉妈妈",
+     "url": ""
+    },
+    {
+     "name": "飞瓜",
+     "url": ""
+    },
+    {
+     "name": "淘宝天猫趋势榜",
+     "url": ""
+    },
+    {
+     "name": "Google Trends",
+     "url": ""
+    }
+   ]
+  },
+  {
+   "tier": "趋势预测",
+   "sources": [
+    {
+     "name": "WGSN",
+     "url": ""
+    },
+    {
+     "name": "POP",
+     "url": ""
+    },
+    {
+     "name": "Pinterest Predicts",
+     "url": ""
+    },
+    {
+     "name": "Lyst Index",
+     "url": ""
+    }
+   ]
+  },
+  {
+   "tier": "产业带",
+   "sources": [
+    {
+     "name": "白沟（箱包）",
+     "url": ""
+    },
+    {
+     "name": "狮岭（皮具）",
+     "url": ""
+    },
+    {
+     "name": "丹阳（眼镜）",
+     "url": ""
+    },
+    {
+     "name": "水贝（珠宝）",
+     "url": ""
+    },
+    {
+     "name": "揭阳（玉器）",
+     "url": ""
+    },
+    {
+     "name": "1688",
+     "url": ""
+    }
+   ]
+  },
+  {
+   "tier": "资本和咨询",
+   "sources": [
+    {
+     "name": "36氪",
+     "url": ""
+    },
+    {
+     "name": "投资界",
+     "url": ""
+    },
+    {
+     "name": "贝恩",
+     "url": ""
+    },
+    {
+     "name": "麦肯锡",
+     "url": ""
+    },
+    {
+     "name": "Euromonitor",
+     "url": ""
+    }
+   ]
+  },
+  {
+   "tier": "海外参照",
+   "sources": [
+    {
+     "name": "State of Fashion",
+     "url": ""
+    },
+    {
+     "name": "Highsnobiety",
+     "url": ""
+    },
+    {
+     "name": "Fashionsnap",
+     "url": ""
+    },
+    {
+     "name": "Musinsa",
+     "url": ""
+    }
+   ]
+  }
+ ]
+}
