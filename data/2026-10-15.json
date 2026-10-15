@@ -1,0 +1,410 @@
+{
+  "date": "2026-10-15",
+  "headline": "Frasers 加码 Burberry、Coach 把 Tabby Tour 做成全球营销平台、GENTLE MONSTER 纽约扩旗舰",
+  "summary": "过去 48 小时（10/13–10/15）硬新闻偏少。奢侈品：英国 Frasers 将 Burberry 投票权提至 7.42%，并整合奢侈品事业部；博茨瓦纳接近敲定 De Beers 持股上调。轻奢：Coach 以 19 站 Tabby Tour（含中国 QQ 音乐三站）固化 Z 世代触达，并推秋季眼镜线。眼镜：Meta×依视路陆逊梯卡把 AI 眼镜带入米兰博物馆无障碍场景；欧克利同周推进 Cactus Jack、Satisfy 联名与泰国 Meta AI 开售。珠宝零售：港股亨得利因特别股息异动。64 个 P0/P1 品牌中 4 个有可核验动态。",
+  "industry_news": [
+    {
+      "date": "2026-10-13",
+      "source": "华丽志",
+      "title": "英国 Frasers 集团一周两次增持 Burberry 股权至7.42%，奢侈品版图持续扩张",
+      "url": "https://luxe.co/post/484722",
+      "tier1": "综合",
+      "type": "资本",
+      "importance": 5,
+      "segment": "奢侈品",
+      "summary": "Frasers 于 10 月 8 日将 Burberry 投票权从 6.32% 提至 7.42%（约 2700 万份），全部通过卖出认沽期权持有；市场关注其是否争取董事会席位。集团新设 Frasers Group Luxury，统管 Flannels、Harvey Nichols、The Webster，以及对 Burberry、Mulberry、Hugo Boss 等股权。"
+    },
+    {
+      "date": "2026-10-13",
+      "source": "BoF / Bloomberg",
+      "title": "Botswana Said to Near Agreement on Size of Its De Beers Stake",
+      "url": "https://www.businessoffashion.com/news/luxury/botswana-said-to-near-agreement-on-size-of-its-de-beers-stake/",
+      "tier1": "珠宝腕表",
+      "type": "并购",
+      "importance": 4,
+      "segment": "奢侈品",
+      "summary": "博茨瓦纳与 Global Diamond Consortium 接近就 De Beers 持股达成一致，博方持股或从 15% 升至约 25%，三国合计低于 50%。钻石行业受中国需求与培育钻冲击，近月有回暖迹象；协议尚未最终敲定。"
+    },
+    {
+      "date": "2026-10-14",
+      "source": "Glossy",
+      "title": "Inside Coach's 19-stop plan to keep the Tabby in front of Gen Z",
+      "url": "https://www.glossy.co/fashion/coach-tabby-tour-global-marketing-platform-spotify/",
+      "tier1": "箱包",
+      "type": "营销",
+      "importance": 5,
+      "segment": "轻奢",
+      "summary": "Tabby Tour 自 9 月 16 日纽约启动，共 19 站延至 2027：16 站与 Spotify、中国 3 站与 QQ 音乐（11/6 成都起）。Spotify 页首周访客超 7 万。Coach FY2026 营收 +24% 至 69 亿美元；Tapestry 营销投入约 +20%，新增约 1100 万客户中 35% 为 Z 世代。"
+    },
+    {
+      "date": "2026-10-14",
+      "source": "红秀GRAZIA",
+      "title": "Coach发布2026秋季眼镜系列",
+      "url": "https://www.chinagrazia.com/article/186763.html",
+      "tier1": "眼镜",
+      "type": "新品",
+      "importance": 3,
+      "segment": "轻奢",
+      "summary": "Coach 推出 2026 秋季眼镜系列，由程潇演绎；主推细金属圆框光学镜与窄框猫眼太阳镜，延续复古都市简约。"
+    },
+    {
+      "date": "2026-10-13",
+      "source": "WWD",
+      "title": "Meta, EssilorLuxottica and Pinacoteca di Brera Join Forces to Expand Art Access Through Technology",
+      "url": "https://wwd.com/accessories-news/eyewear/meta-essilorluxottica-milan-museum-ai-glasses-art-accessibility-1239344960/",
+      "tier1": "眼镜",
+      "type": "渠道",
+      "importance": 3,
+      "segment": "大众",
+      "summary": "Meta、依视路陆逊梯卡与米兰布雷拉美术馆推出 Sensing Art，用 AI 眼镜为视障观众讲解馆藏；智能眼镜从消费场景延伸到无障碍与文化机构。依视路陆逊梯卡将于北京时间 10 月 21 日发布 Q3 营收。"
+    },
+    {
+      "date": "2026-10-14",
+      "source": "经济观察网",
+      "title": "康耐特光学（02276）卡位智能眼镜产业链 受新品发布催化股价上涨",
+      "url": "https://www.eeo.com.cn/2026/1014/1063828.shtml",
+      "tier1": "眼镜",
+      "type": "资本",
+      "importance": 3,
+      "segment": "大众",
+      "summary": "千问 AI 眼镜 N1 发布后，镜片供应商康耐特光学股价上涨；券商信息称其与约 20 家头部智能眼镜厂商有超 40 个合作项目，并为阿里夸克 AI 眼镜独家供应处方镜片。"
+    },
+    {
+      "date": "2026-10-13",
+      "source": "WWD",
+      "title": "EXCLUSIVE: Moynat Taps Bad Bunny Collaborators in Newest Creative Hookup",
+      "url": "https://wwd.com/accessories-news/handbags/moynat-collaboration-storm-pablo-marvin-douglas-1239344675/",
+      "tier1": "箱包",
+      "type": "新品",
+      "importance": 2,
+      "segment": "奢侈品",
+      "summary": "Moynat 与 Bad Bunny 造型团队合作 Hotel Moynat：第一章 10 月 15 日上市，在 Monogram M 上手缝复古旅行贴纸，并首次推出丝巾；第二章 11 月推水晶铆钉款。"
+    },
+    {
+      "date": "2026-10-15",
+      "source": "界面新闻·时尚",
+      "title": "上海时装周一线观察：实穿为上，先锋后退",
+      "url": "https://www.jiemian.com/article/15189466.html",
+      "tier1": "综合",
+      "type": "市场",
+      "importance": 3,
+      "segment": "大众",
+      "summary": "上海时装周买手侧整体转向实穿；SND 称实穿型产品已占生意 70% 以上。统计局：1–8 月限额以上服装鞋帽针纺织品零售 +5.1%，百货店 -3%、品牌专卖店 -10%。"
+    },
+    {
+      "date": "2026-10-14",
+      "source": "广东省珠宝玉器协会",
+      "title": "广东省珠宝玉器协会玉石毛料交易会开标通知",
+      "url": "https://npo123941.npoall.com/news/itemid-310372.html",
+      "tier1": "玉石翡翠",
+      "type": "渠道",
+      "importance": 2,
+      "segment": "大众",
+      "summary": "协会主办玉石毛料交易会在佛山南海举行：10/11–13 看货、14 日开标；投标押金 5 万元，可观察平洲毛料端流通热度。"
+    },
+    {
+      "date": "2026-10-14",
+      "source": "BoF / Bloomberg",
+      "title": "Rolex and Gold Were for US and Not Trump, Swiss Trade Chief Says",
+      "url": "https://www.businessoffashion.com/news/luxury/rolex-and-gold-were-for-us-and-not-trump-swiss-trade-chief-says/",
+      "tier1": "珠宝腕表",
+      "type": "政策",
+      "importance": 2,
+      "segment": "奢侈品",
+      "summary": "瑞士 SECO 负责人称去年赠美劳力士座钟与金条是「送给美国人民的礼物」；美国对瑞关税已从 39% 降至封顶 15%，双方仍在谈长期协议，对瑞表出口有政策参考价值。"
+    },
+    {
+      "date": "2026-10-13",
+      "source": "BoF",
+      "title": "Opinion: LVMH's Struggles Are a Bad Look for Luxury",
+      "url": "https://www.businessoffashion.com/opinions/luxury/opinion-lvmhs-struggles-are-a-bad-look-for-luxury/",
+      "tier1": "珠宝腕表",
+      "type": "深度",
+      "importance": 4,
+      "segment": "奢侈品",
+      "summary": "增量视角：LVMH 腕表珠宝 Q3 增长 6%（前季 11%），金价高企削弱「珠宝更划算」叙事；花旗卡数据显示美国奢侈消费近三个月转负，行业复苏或推迟至 2027；Gucci 下调部分手袋价而 LVMH 表示不跟进。"
+    }
+  ],
+  "brand_news": [
+    {
+      "brand": "GENTLE MONSTER",
+      "date": "2026-10-13",
+      "source": "Commercial Observer",
+      "title": "Eyewear Brand Gentle Monster Takes 29K SF at Kushner's Puck Building",
+      "url": "https://commercialobserver.com/2026/10/gentle-monster-lease-kushner-puck-building-rei/",
+      "summary": "与 Kushner Companies 签署纽约 SoHo Puck Building 约 2.85 万平方英尺超 10 年长租，承接原 REI 旗舰部分空间；全球约 84 店，现有 Wooster Street 店是否迁址未明。"
+    },
+    {
+      "brand": "GENTLE MONSTER",
+      "date": "2026-10-14",
+      "source": "The Chosun Ilbo",
+      "title": "Gentle Monster x Prada Collection Sells Out in Japan, Korea",
+      "url": "https://www.chosun.com/english/travel-food-en/2026/10/14/3HSRFPTDV5EDTJ7YMVVMHAV6PY/",
+      "summary": "与 Prada 联名眼镜在日本青山旗舰开售约 1 小时售罄，韩国亦连续售罄，近期登陆中国后同样热捧；共 10 款，钛金属镜腿融合 Prada 三角标与 GM 雕塑感。"
+    },
+    {
+      "brand": "欧克利",
+      "date": "2026-10-13",
+      "source": "Vision Monday",
+      "title": "Travis Scott and Oakley Debut First Cactus Jack x Oakley Collection",
+      "url": "https://www.visionmonday.com/launchpad/sunwear-collection/article/travis-scott-and-oakley-debut-first-cactus-jack-x-oakley-collection/",
+      "summary": "Oakley 发布 Cactus Jack 首章：Travis Scott 策展改款 Plantaris、Straight Jacket 99、Eye Jacket Redux；Prizm Snow Black 镜片，广告由 Justin Jefferson 出演、Nicolas Winding Refn 执导。"
+    },
+    {
+      "brand": "欧克利",
+      "date": "2026-10-14",
+      "source": "Bangkok Post",
+      "title": "Meta AI glasses to go on sale in Thailand on Oct 20",
+      "url": "https://www.bangkokpost.com/life/tech/3336994/meta-ai-glasses-to-go-on-sale-in-thailand-on-oct-20",
+      "summary": "EssilorLuxottica 与 Meta 宣布泰国自 10 月 20 日起开售 Ray-Ban Meta 与 Oakley Meta（支持泰语 AI）；Oakley Meta HSTN 约 16290 泰铢、Vanguard 约 20390 泰铢。"
+    },
+    {
+      "brand": "欧克利",
+      "date": "2026-10-13",
+      "source": "Oneness Boutique",
+      "title": "SATISFY and Oakley Bring Back the 2001 Scar for Chapter VIII, Out October 14",
+      "url": "https://www.onenessboutique.com/blogs/news/satisfy-oakley-equipment-for-our-world-chapter-8-scar-october-14",
+      "summary": "Satisfy × Oakley Chapter VIII 复刻 2001 Scar 并推 Suture Jacket，绑定高端跑者社群；日本镜框约 36800 日元。"
+    },
+    {
+      "brand": "卡西欧",
+      "date": "2026-10-13",
+      "source": "MadboxPC",
+      "title": "Casio lleva G-SHOCK a Roblox con relojes virtuales y desafíos de skateboarding",
+      "url": "https://www.madboxpc.com/casio-g-shock-roblox-relojes-virtuales-skate/",
+      "summary": "Casio 将 G-SHOCK 带入 Roblox（VIRTUAL G-SHOCK）：基于 DW-5600、GA-2100 的 12 款虚拟腕表配件，以及滑板障碍挑战奖励。"
+    },
+    {
+      "brand": "卡西欧",
+      "date": "2026-10-14",
+      "source": "Watch LIFE NEWS",
+      "title": "【10月発売のカシオ“G-SHOCK”】ストリートブランド“BlackEyePatch”とのコラボモデルなど",
+      "url": "https://www.powerwatch.jp/2026/10/14/gshock-74/",
+      "summary": "10 月发售：G-SHOCK × BlackEyePatch 第三弹 DW-5600BEP-9（19800 日元）；G-STEEL GST-W1000 金属线新作各 11 万日元。"
+    },
+    {
+      "brand": "亨得利钟表",
+      "date": "2026-10-13",
+      "source": "同花顺",
+      "title": "【异动解读】亨得利10月13日大涨：特别股息+每股派息0.266港元",
+      "url": "https://news.10jqka.com.cn/20261013/c11703051721.shtml",
+      "summary": "亨得利（03389.HK）10 月 13 日大涨约 7.8%；催化为建议自股份溢价账派发每股 0.266 港元特别股息（约 11.7 亿港元），待 10 月 28 日股东批准。"
+    }
+  ],
+  "insights": [
+    {
+      "title": "SS27 配饰买手共识：静奢让位给「说得通」的情绪单品，编织与腰部配饰抬头",
+      "tier1": "箱包",
+      "body": "WWD 采访 Bergdorf、Neiman/Saks、Nordstrom、Harrods、Printemps、Galeries Lafayette 等 15 家百货与买手店，给出 SS27 配饰清晰信号：消费者不再追 logo，要的是兼顾实用与情绪、价格「说得通」的单品；静奢叙事正在让位于有个性的配件。\n\n包袋呈两极：一边是超大托特与复刻经典（Fendi、Bottega Veneta 大托特，Dior 流苏 hobo），另一边是艺术品式手包与装饰小袋。买手最认可的轮廓是细长东西向肩背包；软塌、折叠结构与麂皮日常托特需求延续。Printemps 把「手工编织皮革、编结工艺」列入五大主题，钩织、串珠、编织包反复出现。Pochette 小袋与「双包叠背」成为新造型手法。\n\n服配侧，宽腰封被 Holt Renfrew 称为新兴品类，编织丝巾腰带与钩织头巾回潮。眼镜侧，超大墨镜与圆形金属太阳镜被点为必买。\n\n对经营：轻奢与国货可把编织/钩织做春夏胶囊，并用丝巾、腰部配饰做低门槛连带。对投资：买手共识显示「可解释溢价」比纯 logo 更重要，渠道与内容要服务参与感而非仅货架陈列。",
+      "refs": [
+        {
+          "title": "WWD: The Key Accessories of Spring 2027, According to 15 Buyers",
+          "url": "https://wwd.com/accessories-news/accessory-trends/top-accessories-spring-2027-shows-shoes-bags-jewelry-buyers-1239343212/"
+        },
+        {
+          "title": "Glossy: Coach Tabby Tour",
+          "url": "https://www.glossy.co/fashion/coach-tabby-tour-global-marketing-platform-spotify/"
+        }
+      ]
+    },
+    {
+      "title": "硬奢珠宝顺风或在减弱：LVMH 腕表珠宝减速与金价叙事转折",
+      "tier1": "珠宝腕表",
+      "body": "昨日已报 LVMH Q3 与国内金饰「量降额升」。今日 BoF/Bloomberg Opinion 给出增量：腕表珠宝 Q3 增速从 11% 回落至 6%，中美客户同步放缓；过去包袋涨价后珠宝被视为「更物有所值」，但金价高企后这一顺风减弱，LVMH 亦表示涨价节奏将放缓。\n\n同步信号还包括：花旗信用卡数据显示美国奢侈消费近三个月转负；分析预计行业复苏推迟到 2027；Gucci 下调部分手袋价而 LVMH 表示不跟进。钻石端，博茨瓦纳接近上调 De Beers 持股，行业仍在消化中国需求与培育钻冲击。\n\n对经营：金饰与轻珠宝要区分「投资属性」与「佩戴/情绪属性」货盘，后者更依赖设计与渠道体验而非克重促销。对投资：硬奢珠宝不再是自动对冲时装皮具疲软的安全垫，需跟踪金价、提价弹性与美国消费数据。",
+      "refs": [
+        {
+          "title": "BoF Opinion: LVMH's Struggles Are a Bad Look for Luxury",
+          "url": "https://www.businessoffashion.com/opinions/luxury/opinion-lvmhs-struggles-are-a-bad-look-for-luxury/"
+        },
+        {
+          "title": "BoF: Botswana near De Beers stake deal",
+          "url": "https://www.businessoffashion.com/news/luxury/botswana-said-to-near-agreement-on-size-of-its-de-beers-stake/"
+        }
+      ]
+    }
+  ],
+  "trends": [
+    {
+      "title": "编织/钩织/串珠手工包",
+      "tier1": "箱包",
+      "stage": "上升",
+      "description": "SS27 买手把手工编织皮革、钩织与串珠列为核心主题；Chloé、Valentino、Bottega Veneta 及新锐编织包被多店点名。",
+      "opportunity": "轻奢与国货可做春夏手工质感胶囊，并联名民族/手工艺供应链（狮岭、白沟可做产能匹配）。",
+      "evidence": [
+        {
+          "title": "WWD SS27 Key Accessories",
+          "url": "https://wwd.com/accessories-news/accessory-trends/top-accessories-spring-2027-shows-shoes-bags-jewelry-buyers-1239343212/"
+        }
+      ]
+    },
+    {
+      "title": "丝巾、丝巾腰带与宽腰封",
+      "tier1": "服配",
+      "stage": "上升",
+      "description": "小丝巾造型持续出圈；买手称宽腰封为新兴配饰品类，编织丝巾腰带与钩织头巾回潮。Moynat 借联名首次推丝巾。",
+      "opportunity": "皮具品牌可用丝巾/腰部配饰做低客单连带与内容素材；万事利等丝绸品牌可嵌入「腰封+丝巾」场景化陈列。",
+      "evidence": [
+        {
+          "title": "WWD SS27 Key Accessories",
+          "url": "https://wwd.com/accessories-news/accessory-trends/top-accessories-spring-2027-shows-shoes-bags-jewelry-buyers-1239343212/"
+        },
+        {
+          "title": "WWD: Moynat Hotel Moynat",
+          "url": "https://wwd.com/accessories-news/handbags/moynat-collaboration-storm-pablo-marvin-douglas-1239344675/"
+        }
+      ]
+    },
+    {
+      "title": "Pochette 小袋与双包叠背；包挂持续流行",
+      "tier1": "箱包",
+      "stage": "上升",
+      "description": "Bloomingdale's 称 pochette 为本季巨大趋势；Coach 同步推演唱会门票造型可对半分的包挂，强化社交分享。",
+      "opportunity": "主包+小袋/包挂的组合销售与内容种草空间大，适合做可拆分、可赠礼的配件 SKU。",
+      "evidence": [
+        {
+          "title": "WWD SS27 Key Accessories",
+          "url": "https://wwd.com/accessories-news/accessory-trends/top-accessories-spring-2027-shows-shoes-bags-jewelry-buyers-1239343212/"
+        },
+        {
+          "title": "Glossy: Coach Tabby Tour",
+          "url": "https://www.glossy.co/fashion/coach-tabby-tour-global-marketing-platform-spotify/"
+        }
+      ]
+    },
+    {
+      "title": "超大墨镜与圆形金属太阳镜",
+      "tier1": "眼镜",
+      "stage": "上升",
+      "description": "买手把超大墨镜列为配饰焦点，并预测 Celine 圆形金属太阳镜畅销；Coach 秋季眼镜同步主推细金属圆框。",
+      "opportunity": "时尚镜架品牌可加大金属细框与超大太阳镜备货；轻奢服装品牌延伸眼镜线仍有窗口。",
+      "evidence": [
+        {
+          "title": "WWD SS27 Key Accessories",
+          "url": "https://wwd.com/accessories-news/accessory-trends/top-accessories-spring-2027-shows-shoes-bags-jewelry-buyers-1239343212/"
+        },
+        {
+          "title": "红秀GRAZIA: Coach 秋季眼镜",
+          "url": "https://www.chinagrazia.com/article/186763.html"
+        }
+      ]
+    }
+  ],
+  "brand_insights": [
+    {
+      "brand": "GENTLE MONSTER",
+      "tier1": "眼镜",
+      "title": "GENTLE MONSTER：纽约体验旗舰扩容 + Prada 联名去化，双线加压",
+      "body": "渠道：10 月 13 日 Commercial Observer 披露其租下纽约 SoHo Puck Building 约 2.85 万平方英尺超十年长租，对标体验式旗舰而非标准光学店，与全球约 84 店、现有 Wooster 店形成北美升级信号。\n\n产品与联名：Prada 联名系列在日韩售罄、中国跟进热销（朝鲜日报 10/14），显示高端联名在亚洲核心市场的稀缺性去化能力。西岸梦中心装置零售仍被中文媒体二次传播，强化「空间即内容」。\n\n对照：智能眼镜合作（三星等）仍处预约/预热阶段，与实体艺术零售扩张形成双线——本周硬新闻集中在零售地产与联名去化。",
+      "investor_view": "体验旗舰资本开支高，需观察同店与联名的边际贡献；联名热卖验证品牌溢价，但可持续性取决于自有产品迭代与平替冲击。",
+      "operator_view": "「空间叙事 + 限量联名」仍是高转化打法；国内时尚眼镜品牌可借鉴策展零售，但要控制租金与内容制作成本。",
+      "sources": [
+        {
+          "title": "Commercial Observer: Puck Building lease",
+          "url": "https://commercialobserver.com/2026/10/gentle-monster-lease-kushner-puck-building-rei/"
+        },
+        {
+          "title": "Chosun: GM x Prada sellout",
+          "url": "https://www.chosun.com/english/travel-food-en/2026/10/14/3HSRFPTDV5EDTJ7YMVVMHAV6PY/"
+        }
+      ]
+    },
+    {
+      "brand": "欧克利",
+      "tier1": "眼镜",
+      "title": "欧克利：CVO 潮流联名、跑步圈层与 Meta AI 区域落地三线并行",
+      "body": "潮流线：Travis Scott（Cactus Jack）首章改款经典 Jacket 族，配合 NFL 球星与电影导演广告，强化街头/体育交叉（Vision Monday 10/13）。\n\n圈层线：Satisfy Chapter VIII 复刻 2001 Scar，绑定高端跑者社群，与 Cactus Jack 形成客群分化。\n\n智能线：泰国 10 月 20 日起开售 Oakley Meta（泰语 AI），智能眼镜从北美/欧转入东南亚本地化。三线并行显示 EssilorLuxottica 旗下运动时尚品牌同时服务文化资本、垂直社群与硬件生态。",
+      "investor_view": "联名驱动短期声量与 ASP；Meta 合作打开智能眼镜渠道分成，但硬件周期与区域语言本地化决定放量节奏。",
+      "operator_view": "同一品牌可用不同联名切分圈层，避免单一代言稀释；国内运动太阳镜可参考「社群联名 + 区域智能落地」的节奏，而非只做电商爆款。",
+      "sources": [
+        {
+          "title": "Vision Monday: Cactus Jack x Oakley",
+          "url": "https://www.visionmonday.com/launchpad/sunwear-collection/article/travis-scott-and-oakley-debut-first-cactus-jack-x-oakley-collection/"
+        },
+        {
+          "title": "Bangkok Post: Meta AI glasses Thailand",
+          "url": "https://www.bangkokpost.com/life/tech/3336994/meta-ai-glasses-to-go-on-sale-in-thailand-on-oct-20"
+        },
+        {
+          "title": "Oneness: Satisfy x Oakley Chapter VIII",
+          "url": "https://www.onenessboutique.com/blogs/news/satisfy-oakley-equipment-for-our-world-chapter-8-scar-october-14"
+        }
+      ]
+    }
+  ],
+  "reading_list": [
+    {
+      "title": "The Key Accessories of Spring 2027, According to 15 Buyers",
+      "source": "WWD",
+      "date": "2026-10-13",
+      "url": "https://wwd.com/accessories-news/accessory-trends/top-accessories-spring-2027-shows-shoes-bags-jewelry-buyers-1239343212/",
+      "tier1": "箱包"
+    },
+    {
+      "title": "Opinion: LVMH's Struggles Are a Bad Look for Luxury",
+      "source": "BoF",
+      "date": "2026-10-13",
+      "url": "https://www.businessoffashion.com/opinions/luxury/opinion-lvmhs-struggles-are-a-bad-look-for-luxury/",
+      "tier1": "珠宝腕表"
+    },
+    {
+      "title": "Dongliang Wants to Be Luxury's Gateway to China",
+      "source": "BoF",
+      "date": "2026-10-13",
+      "url": "https://www.businessoffashion.com/articles/global-markets/dongliang-wants-to-be-luxurys-gateway-to-china/",
+      "tier1": "综合"
+    },
+    {
+      "title": "Inside Coach's 19-stop plan to keep the Tabby in front of Gen Z",
+      "source": "Glossy",
+      "date": "2026-10-14",
+      "url": "https://www.glossy.co/fashion/coach-tabby-tour-global-marketing-platform-spotify/",
+      "tier1": "箱包"
+    },
+    {
+      "title": "上海时装周一线观察：实穿为上，先锋后退",
+      "source": "界面新闻",
+      "date": "2026-10-15",
+      "url": "https://www.jiemian.com/article/15189466.html",
+      "tier1": "综合"
+    },
+    {
+      "title": "英国 Frasers 集团增持 Burberry 至 7.42%",
+      "source": "华丽志",
+      "date": "2026-10-13",
+      "url": "https://luxe.co/post/484722",
+      "tier1": "综合"
+    }
+  ],
+  "brand_scan": {
+    "window": "2026-10-13..2026-10-15",
+    "method": "逐一检索 64 个品牌（中文名/英文名/别名）：WebSearch + WebFetch + X；Exa 因 HTTP 429 限流不可用",
+    "note": "有动态品牌 4/64：GENTLE MONSTER、欧克利、卡西欧、亨得利钟表。无动态表示窗口内未检索到可核实日期与链接的新闻，不代表品牌无活动。大图按用户偏好未深挖。山下有松闲云手提包发售在今晚但媒体稿日期在窗外，未计入 brand_news。"
+  },
+  "sources": [
+    {
+      "name": "华丽志",
+      "url": "https://luxe.co/",
+      "tier1": "综合"
+    },
+    {
+      "name": "BoF",
+      "url": "https://www.businessoffashion.com/",
+      "tier1": "综合"
+    },
+    {
+      "name": "WWD",
+      "url": "https://wwd.com/",
+      "tier1": "综合"
+    },
+    {
+      "name": "Glossy",
+      "url": "https://www.glossy.co/",
+      "tier1": "箱包"
+    },
+    {
+      "name": "界面新闻·时尚",
+      "url": "https://www.jiemian.com/",
+      "tier1": "综合"
+    }
+  ]
+}
