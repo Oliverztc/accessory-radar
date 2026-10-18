@@ -1,0 +1,661 @@
+{
+ "date": "2026-10-18",
+ "headline": "世界黄金协会：上半年金饰「量降三成、金额增5%」；劳力士认证二手季度卖出约2.29亿美元；泰格豪雅退出智能手表",
+ "summary": "周末新闻偏少，窗口放宽到 48 小时（10/16 00:00–10/18 08:00，北京时间）。珠宝：世界黄金协会发布《2026 中国金饰零售市场洞察》，上半年金饰需求吨数降 30%，消费金额却增 5% 至 1440 亿元；四成以上零售商计划多备 5 克以下的货。周生生三季度零售值增 3%；萃华珠宝因未披露年报被终止上市。腕表：劳力士认证二手三季度估算销售 2.29 亿美元，同比增 61%；二手表价格季度只涨 1.2%；泰格豪雅停产智能手表；Hublot 请前爱彼 CEO Bennahmias 任顾问。奢侈品：LVMH 特别开放日首次落地中国（上海张园，15 个品牌）；爱马仕在美国富裕郊区开店；欧盟禁止销毁库存后，折扣清货浮出水面。轻奢：Raymond James 把 Capri 上调至强力买入；Tory Burch 三亚免税快闪、Polène 南海岸广场店开业。眼镜：Rokid 接入腾讯出行，用眼镜打车；黄岩落地 5.5 亿元碳化硅 AR 镜片项目；Ray-Ban Meta 被曝未唤醒即录音；Delfin 与银行探讨内部股权收购。64 个 P0/P1 品牌中 4 个有可核实的新动态。",
+ "industry_news": [
+  {
+   "date": "2026-10-16",
+   "source": "智通财经（腾讯新闻）",
+   "title": "世界黄金协会《2026 中国金饰零售市场洞察》：量降价不降，悦己与轻克重成主线",
+   "url": "https://news.qq.com/rain/a/20261016A0DQ8100",
+   "tier1": "珠宝腕表",
+   "type": "数据",
+   "importance": 5,
+   "segment": "大众",
+   "summary": "上半年中国金饰需求吨数同比降 30%，消费金额同比增 5% 至 1440 亿元，是史上第二高的上半年。44% 的零售商表示顾客买金以悦己为目的；超过 40% 计划提高 5 克以下产品的备货占比，47% 打算扩充 5–10 克区间；古法金、硬足金连续第四年跑赢其他黄金品类；银饰已占零售商营收的 13%。另外，2025 年 11 月起，经上金所非会员渠道销售的投资金新增约 13% 税负，不少加盟商因此缩减甚至停售金条。（10/14 期已收录该协会的上半年吨数数据，本条为新发布的零售调研报告。）"
+  },
+  {
+   "date": "2026-10-16",
+   "source": "东方财富（财中社）",
+   "title": "周生生三季度零售销售值增 3%，大陆同店增 4%，台北首开精品店",
+   "url": "https://finance.eastmoney.com/a/202610163898259592.html",
+   "tier1": "珠宝腕表",
+   "type": "数据",
+   "importance": 4,
+   "segment": "大众",
+   "summary": "截至 9 月 30 日的三个月，零售销售值增长 3%，中国大陆同店增 4%，港澳同店增 7%；计价黄金饰品在大陆受青睐。本季在澳门威尼斯人开出第三家店，在台北开出首家「Chow Sang Sang」精品店。期末大陆珠宝零售店 638 家、港澳 62 家，合计 739 家。"
+  },
+  {
+   "date": "2026-10-16",
+   "source": "巨潮资讯（公司公告）",
+   "title": "萃华珠宝收到终止上市决定，10 月 23 日进入退市整理期",
+   "url": "https://static.cninfo.com.cn/finalpage/2026-10-16/1225607488.PDF",
+   "tier1": "珠宝腕表",
+   "type": "政策",
+   "importance": 3,
+   "segment": "大众",
+   "summary": "深交所公告称，公司未在法定期限内披露 2025 年年报，5 月 6 日停牌，7 月 7 日起被实施退市风险警示，之后两个月内仍未披露经过半数董事保证的年报，触及终止上市情形。退市整理期 15 个交易日，届满后摘牌。（深交所公告：https://www.szse.cn/disclosure/notice/t20261015_623322.html）"
+  },
+  {
+   "date": "2026-10-17",
+   "source": "同花顺期货通",
+   "title": "10/17 品牌金店足金挂牌 1238–1254 元/克，菜百近一月累计降 47 元",
+   "url": "https://goodsfu.10jqka.com.cn/20261017/c680801267.shtml",
+   "tier1": "珠宝腕表",
+   "type": "数据",
+   "importance": 2,
+   "segment": "大众",
+   "summary": "10 月 17 日品牌足金价多数与前一日持平：周大福 1250 元/克，周生生 1254 元/克。菜百一周降 7 元，近一月累计降 47 元（3.67%）；老凤祥一周降 12 元。上金所 Au9999 报 899 元/克。"
+  },
+  {
+   "date": "2026-10-17",
+   "source": "新浪财经（五指山新闻）",
+   "title": "海南封关以来黄金珠宝加工增值内销货值达 1.2 亿元",
+   "url": "https://finance.sina.com.cn/wm/2026-10-17/doc-inivpsqc7158158.shtml",
+   "tier1": "珠宝腕表",
+   "type": "政策",
+   "importance": 3,
+   "segment": "大众",
+   "summary": "截至 9 月底，海口海关累计监管珍珠加工增值内销成品货值 1.2 亿元。政策规定：鼓励类企业含进口料件、在岛内加工增值达到或超过 30% 的货物，进入内地免征进口关税。以珍珠为例，原料进口关税 21%，进口 70 万元原料可省税费超过 14 万元。"
+  },
+  {
+   "date": "2026-10-16",
+   "source": "Buying Time",
+   "title": "劳力士认证二手三季度估算销售 2.29 亿美元，二手表整体价格季度仅涨 1.2%",
+   "url": "https://www.buyingtimenews.com/p/issue-270-buying-time-october-16",
+   "tier1": "珠宝腕表",
+   "type": "数据",
+   "importance": 4,
+   "segment": "奢侈品",
+   "summary": "据其援引的三季度二级市场报告：劳力士 CPO 三季度销售约 2.29 亿美元，同比增 61%、环比增 30%，约 10,300 只成交，前九个月约 5.5 亿美元；授权零售商 167 家，相对非认证二手的溢价收窄到约 23%。二手表整体价格季度涨 1.2%、同比涨 8.3%，其中劳力士只涨 0.5%，百达翡丽涨 2.6%，朗格涨 4.4%。"
+  },
+  {
+   "date": "2026-10-17",
+   "source": "IT之家（援引 Android Headlines）",
+   "title": "泰格豪雅退出智能手表市场，Connected 系列已停产",
+   "url": "https://www.ithome.com/1/014/285.htm",
+   "tier1": "珠宝腕表",
+   "type": "市场",
+   "importance": 4,
+   "segment": "奢侈品",
+   "summary": "据报道，LVMH 旗下泰格豪雅的智能手表已于 2026 年夏季停产，剩余库存计划卖到 2027 年底。现存产品主要是 2025 年 10 月推出的 Connected Calibre E5，售价约 1600 美元；报道认为定价过高，难以吸引主流消费者。已售设备的系统支持期限尚不明确。"
+  },
+  {
+   "date": "2026-10-16",
+   "source": "FashionNetwork",
+   "title": "Hublot 聘前爱彼 CEO Bennahmias 为顾问，同时回归「金+橡胶」原点",
+   "url": "https://in.fashionnetwork.com/news/Hublot-francois-henry-bennahmias-appointed-as-consultant-by-jean-arnault,1876576.html",
+   "tier1": "珠宝腕表",
+   "type": "人事",
+   "importance": 3,
+   "segment": "奢侈品",
+   "summary": "Jean Arnault 任命 François-Henri Bennahmias 为 Hublot 顾问。Buying Time 同日指出，Hublot 同期推出的 Classic Fusion Tributo 回到金、橡胶、小表壳和 12 颗螺丝表圈的原始组合；顾问身份不等于未来出任 CEO。"
+  },
+  {
+   "date": "2026-10-16",
+   "source": "WWD",
+   "title": "LVMH 特别开放日首次落地中国：上海张园，15 个品牌",
+   "url": "https://wwd.com/fashion-news/designer-luxury/lvmh-les-journees-particulieres-from-shanghai-1239363451/",
+   "tier1": "综合",
+   "type": "营销",
+   "importance": 4,
+   "segment": "奢侈品",
+   "summary": "第六届 Les Journées Particulières 从上海张园的两栋历史洋房启幕，路易威登、迪奥、Celine、Berluti、尚美、宝格丽、Make Up For Ever、轩尼诗等 15 个品牌现场展示工艺。Antoine Arnault 称此举重在「中法共同的价值」而非人流，LVMH 已评出 90 位中国「Virtuoso」工匠。华丽志 10/17 也有报道（https://luxe.co/post/485208）。"
+  },
+  {
+   "date": "2026-10-17",
+   "source": "华尔街日报",
+   "title": "爱马仕把美国富裕郊区当作新的「新兴市场」",
+   "url": "https://www.wsj.com/business/retail/hermes-us-emerging-markets-suburbs-f6d19b58",
+   "tier1": "箱包",
+   "type": "渠道",
+   "importance": 4,
+   "segment": "奢侈品",
+   "summary": "爱马仕 8 月在伊利诺伊州 Wilmette 的露天商场开店，还进入新泽西 Short Hills，并把纳什维尔、奥斯汀等城市视为「新兴市场」；Oscar de la Renta、Thom Browne 也随之入驻。今年上半年，爱马仕美洲营收增长 15%，是增长最快的地区；除日本外的亚洲只增长 2%。"
+  },
+  {
+   "date": "2026-10-16",
+   "source": "洛杉矶时报",
+   "title": "欧盟禁止销毁未售商品后，奢侈品清库存转向折扣渠道",
+   "url": "https://www.latimes.com/business/story/2026-10-16/chanel-shredded-thousands-of-unsold-items-there-is-crackdown-on-practice",
+   "tier1": "综合",
+   "type": "政策",
+   "importance": 3,
+   "segment": "奢侈品",
+   "summary": "报道以香奈儿曾大量粉碎库存为例：欧盟已禁止销毁未售服饰。本月 Yoox 上有约 2500 件 Brunello Cucinelli、Gucci、Burberry 商品打折出售，普遍约五折，Burberry T 恤低至四折。品牌过去为维护稀缺感而销毁库存，如今被迫面对折扣与品牌形象之间的取舍。"
+  },
+  {
+   "date": "2026-10-16",
+   "source": "WWD",
+   "title": "开云任命拉扎德传播主管 Flore Larger 为企业传播总监",
+   "url": "https://wwd.com/business-news/human-resources/kering-corporate-communications-director-1239363556/",
+   "tier1": "综合",
+   "type": "人事",
+   "importance": 2,
+   "segment": "奢侈品",
+   "summary": "Larger 12 月 7 日到任，向集团首席品牌官 Laurent Claquin 汇报，接替 7 月去雷诺的 Paul Michon。开云 10 月 22 日发布三季度业绩，McQueen 等品牌的创意班子还在调整（华丽志人事动向：https://luxe.co/post/485070）。"
+  },
+  {
+   "date": "2026-10-16",
+   "source": "BoF",
+   "title": "奢侈品的「惊悚季」：糟糕数字与空出的创意总监席位",
+   "url": "https://www.businessoffashion.com/articles/luxury/luxurys-spooky-season-bad-numbers-and-empty-chairs/",
+   "tier1": "综合",
+   "type": "深度",
+   "importance": 4,
+   "segment": "奢侈品",
+   "summary": "专栏梳理：LVMH 三季度时装皮具有机降 5%，中国客群消费降幅在中双位数；开云旗下多个品牌创意总监相继离任；Kim Jones 重启同名品牌，明年在香港开约 4000 平方英尺首店，单品最高约 1200 欧元。下周开云、Moncler、Ferragamo、爱马仕、Prada、杰尼亚集中发布业绩。"
+  },
+  {
+   "date": "2026-10-16",
+   "source": "Investing.com（雅虎财经）",
+   "title": "Raymond James 将 Capri 上调至强力买入：Michael Kors 转为「乐观」",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/raymond-james-gets-more-bullish-141922120.html",
+   "tier1": "箱包",
+   "type": "资本",
+   "importance": 3,
+   "segment": "轻奢",
+   "summary": "分析师 Rick Patel 认为，Capri 股价约为 2028 财年 EPS 的 6 倍，预期还有上调空间；预计第二财季营收和盈利达到或超过预期。理由包括：一季度重点市场全价可比销售转正、平均售价上升、批发终端销售转正；管理层 9 月称对 Michael Kors 扭亏已从「谨慎乐观」转为「乐观」。"
+  },
+  {
+   "date": "2026-10-16",
+   "source": "DFNI",
+   "title": "Tory Burch 在三亚国际免税城开 Romy 快闪，推出免税独家 T Monogram 系列",
+   "url": "https://www.dfnionline.com/latest-news/tory-burch-opens-exclusive-romy-pop-up-at-sanya-duty-free-16-10-2026/",
+   "tier1": "箱包",
+   "type": "渠道",
+   "importance": 3,
+   "segment": "轻奢",
+   "summary": "快闪位于 B 区一层，10 月 2 日开业，13 日由李一桐、徐若晗出席正式启幕，持续到 2027 年 3 月 31 日。独家 Romy T Monogram 系列为酒红色提花，共水桶包、迷你水桶包、肩包三款，同时陈列 Charlie 包袋和 Icon、Moondance 首饰。"
+  },
+  {
+   "date": "2026-10-16",
+   "source": "WWD",
+   "title": "Polène 美国第二店落地南海岸广场",
+   "url": "https://wwd.com/business-news/retail/polene-south-coast-plaza-store-opening-1239352278/",
+   "tier1": "箱包",
+   "type": "渠道",
+   "importance": 3,
+   "segment": "轻奢",
+   "summary": "继纽约 SoHo 首店后，法国包袋品牌 Polène 在加州 Costa Mesa 南海岸广场开出约 1300 平方英尺的门店。联合创始人 Antoine Mothay 称加州已是重要市场；店内用磨砂玻璃墙与超大彩色皮革花作装置。"
+  },
+  {
+   "date": "2026-10-16",
+   "source": "Vogue",
+   "title": "2027 春夏配饰趋势：近乎赤足、解放双手的包、叠戴腰带与复古大框墨镜",
+   "url": "https://www.vogue.com/article/the-best-spring-2027-accessories-trends",
+   "tier1": "箱包",
+   "type": "深度",
+   "importance": 3,
+   "segment": "奢侈品",
+   "summary": "Vogue 总结本季配饰「古怪当道」：鞋几乎退化成赤足（Calvin Klein 钩织凉鞋，JW Anderson 等直接赤足）；超大双层腰带成为新式束腰；墨镜从运动风转向 Twiggy 式的大眼复古框；Sandy Liang 推出带大量口袋的腰包，设计师普遍鼓励把夸张单品用于日常。"
+  },
+  {
+   "date": "2026-10-16",
+   "source": "路透（MSN 转载）",
+   "title": "Delfin 与银行初步接触，探讨收购部分继承人股权",
+   "url": "https://www.msn.com/en-gb/news/other/italian-holding-company-delfin-explores-funding-for-potential-internal-stake-buyout-sources-say/ar-AA2ekcA9",
+   "tier1": "眼镜",
+   "type": "资本",
+   "importance": 4,
+   "segment": "奢侈品",
+   "summary": "依视路陆逊梯卡的第一大股东 Delfin 与银行就融资进行初步沟通，可能收购一名或多名股东的股权。《晚邮报》称涉及两名股东、约 25% 的股份，若成交，持股继承人将从 8 人减到 6 人，每人持股从 12.5% 升至约 16.5%。Delfin 资产净值约 400 亿欧元，主体是依视路陆逊梯卡 32.4% 的股权。消息人士称谈判处于很早期阶段。"
+  },
+  {
+   "date": "2026-10-17",
+   "source": "Ars Technica",
+   "title": "Ray-Ban Meta 被曝未说「Hey Meta」也在录音，Meta 称已修复",
+   "url": "https://arstechnica.com/gadgets/2026/10/ray-ban-meta-smart-glasses-found-recording-audio-without-wearers-consent/",
+   "tier1": "眼镜",
+   "type": "市场",
+   "importance": 3,
+   "segment": "轻奢",
+   "summary": "有用户反映，在关闭免唤醒设置的情况下，多副眼镜仍在录音并把转写存进 Meta AI 历史。Meta 只回应「问题已解决」，没有说明原因和受影响数量。报道提到，美国已有寻求集体诉讼的案件和德州总检察长的调查，挪威在考虑临时禁令。隐私正在成为 AI 眼镜进入线下渠道的主要阻力。"
+  },
+  {
+   "date": "2026-10-16",
+   "source": "IT之家",
+   "title": "乐奇 Rokid 接入腾讯出行，上线 AI 眼镜原生打车",
+   "url": "https://www.ithome.com/1/013/964.htm",
+   "tier1": "眼镜",
+   "type": "新品",
+   "importance": 3,
+   "segment": "大众",
+   "summary": "双方通过 A2A（Agent-to-Agent）协议直连。用户说出目的地，眼镜就能完成叫车、比价、下单、支付全流程，车辆信息和到达时间留在视野里。修改目的地、取消订单等复杂操作仍建议在手机上完成。"
+  },
+  {
+   "date": "2026-10-17",
+   "source": "浙江在线",
+   "title": "总投资约 5.5 亿元的碳化硅 AR 眼镜片项目落户台州黄岩",
+   "url": "https://tz.zjol.com.cn/tzxw/202610/t20261017_31970732.shtml",
+   "tier1": "眼镜",
+   "type": "资本",
+   "importance": 3,
+   "segment": "大众",
+   "summary": "上海梵创微科技项目由凡刻科技（台州）实施：一期约 1.5 亿元，2027 年建成科创中心和先导产线；二期约 4 亿元建 50 亩基地，2028 年年产 100 吨高纯碳化硅光学材料，用于全彩 AR 镜片。当地看中的是临海眼镜框配套和黄岩的模具产业。"
+  },
+  {
+   "date": "2026-10-16",
+   "source": "Eyecare Business",
+   "title": "依视路发布 AI 设计的入门级渐进片 Varilux Shift",
+   "url": "https://www.eyecarebusiness.com/ebnewproducts/2026/varilux-shift/",
+   "tier1": "眼镜",
+   "type": "新品",
+   "importance": 3,
+   "segment": "轻奢",
+   "summary": "Varilux Shift 定位 Varilux 产品线的入门款，针对老花人群每天约 15 万次的焦点切换。研发分析了数百万条配戴者数据，用 AI 预测不同屈光度和加光下的视线下倾角度，再用 iComfort 技术优化近用区位置；按屈光多设计（Multi-Design by Ametropia）和配戴者模式现已成为该系列的标准基础。"
+  },
+  {
+   "date": "2026-10-18",
+   "source": "南华早报",
+   "title": "Asprey × Silvia Furmanovich：用竹、木和马毛重新演绎翡翠",
+   "url": "https://www.scmp.com/magazines/style/luxury/jewellery/article/3371016/silvia-furmanovich-her-asprey-collaboration-and-redefining-jadeite-interview",
+   "tier1": "玉石翡翠",
+   "type": "深度",
+   "importance": 3,
+   "segment": "奢侈品",
+   "summary": "Asprey 向巴西设计师开放自家的翡翠库存，除常见的绿色外，还有粉、紫、红、白、橙等稀有色。设计师把翡翠与日本竹、木和编织马毛搭配，强调翡翠以「深度与光泽」而非火彩吸引人。西方高珠正在借用非传统材质重新讲翡翠的故事。"
+  },
+  {
+   "date": "2026-10-18",
+   "source": "中国青年报（搜狐）",
+   "title": "新疆玉雕大师樊军民：年轻人「沉下来」玉雕才有未来",
+   "url": "https://www.sohu.com/a/1089179033_119038",
+   "tier1": "玉石翡翠",
+   "type": "深度",
+   "importance": 2,
+   "segment": "大众",
+   "summary": "中青报记者采访中国工艺美术大师樊军民。他认为行业过去「以材料为王，离艺术很远」，年轻玉雕师想挣快钱是「陷阱」。他的做法是搭建青年人才平台，帮年轻人对接客户、参与评比和职称评定，让他们先靠手艺养活自己，再谈创作。"
+  },
+  {
+   "date": "2026-10-16",
+   "source": "Glossy",
+   "title": "美妆单品变身时尚配饰：粉饼腰扣、口红发簪",
+   "url": "https://www.glossy.co/pop/why-brands-are-turning-your-favorite-beauty-products-into-fashion-accessories/",
+   "tier1": "服配",
+   "type": "市场",
+   "importance": 2,
+   "segment": "轻奢",
+   "summary": "Sarah Burton 在 Givenchy 2027 春夏秀上把粉饼盒做成腰带扣、把口红管做成发簪。自 2024 年 Rhode 唇釉手机壳走红以来，美妆品牌持续把产品做成可以穿戴、对外展示的配饰。"
+  },
+  {
+   "date": "2026-10-17",
+   "source": "Cosmopolitan UK",
+   "title": "针织三角巾成为今秋高街配饰热点",
+   "url": "https://www.cosmopolitan.com/uk/fashion/style/a74156556/knit-bandana-triangle-scarf-trend/",
+   "tier1": "服配",
+   "type": "市场",
+   "importance": 2,
+   "segment": "大众",
+   "summary": "Zoë Kravitz 以头巾方式佩戴黑色针织三角巾后，这一单品在社交平台和街头持续升温，M&S 等高街品牌纷纷跟进；冬季款借用了夏季佩斯利印花头巾的设计灵感。"
+  }
+ ],
+ "brand_news": [
+  {
+   "brand": "Fakeme",
+   "date": "2026-10-17",
+   "source": "网易（无锡本地新闻）；无锡etv 10/14 预告",
+   "title": "迪丽热巴出席 Fakeme 无锡万象城新品见面会",
+   "url": "https://m.163.com/local/article/L9F2NOFI052489BV.html",
+   "summary": "这是 Fakeme 官宣迪丽热巴为全球代言人（10/14 期已收录）后的首场线下活动。现场报道称早上 7 点起就有人排队，商场多层挤满，直播间一度进不去。无锡etv 10/14 已向万象城西区门店求证属实，品牌也提醒活动不售票。（两个来源都是网易号发布，暂无品牌官方战报数据。）"
+  },
+  {
+   "brand": "万事利",
+   "date": "2026-10-16",
+   "source": "东方财富（南方财经）",
+   "title": "万事利首次实施回购：80.32 万股，耗资约 1008 万元",
+   "url": "https://finance.eastmoney.com/a/202610163898495145.html",
+   "summary": "10 月 16 日首次通过集中竞价回购 80.32 万股，占总股本 0.34%，成交价 12.34–12.81 元/股，共支付 1007.81 万元（不含交易费用）。"
+  },
+  {
+   "brand": "卡西欧",
+   "date": "2026-10-16",
+   "source": "Gizmochina",
+   "title": "Casio 美国上新三款 MDV106C 潜水风格表，每款 110 美元",
+   "url": "https://www.gizmochina.com/2026/10/16/casio-mdv106c-analog-dive-watches-launched-in-the-us/",
+   "summary": "型号 MDV106C-1AV/3AV/5AV，与常规款的主要区别是换成织物表带（适配腕围 175–215mm）。钢壳配铝圈，48.5×44.2×12.1mm，200 米防水，已在美国官网发售。"
+  },
+  {
+   "brand": "卡西欧",
+   "date": "2026-10-17",
+   "source": "Notebookcheck",
+   "title": "G-SHOCK「CasioNaut」GMC-2500D 提前出现上手评测，展示磁性指针固定结构",
+   "url": "https://www.notebookcheck.net/Unreleased-Casio-G-Shock-CasioNaut-gets-early-hands-on-review-showing-magnetic-hands-in-action.1426427.0.html",
+   "summary": "这款 9 月出现在日本官网的 G-SHOCK 2500 系列计划 11 月在日本发售。YouTube 频道 Gi-Shock-Go 发布了 24 分钟的 GMC-2500D-1A 上手视频，重点演示新的磁力指针固定机构（用于抗冲击）。"
+  },
+  {
+   "brand": "依视路",
+   "date": "2026-10-16",
+   "source": "Eyecare Business",
+   "title": "Varilux Shift：用 AI 设计的入门级渐进片",
+   "url": "https://www.eyecarebusiness.com/ebnewproducts/2026/varilux-shift/",
+   "summary": "AI 根据数百万条配戴数据预测视线下倾角度，iComfort 技术优化近用区位置，让老花新用户更快适应。这款产品让 Varilux 的 AI 设计覆盖到入门价位。"
+  }
+ ],
+ "insights": [
+  {
+   "title": "高金价下的金饰：从「卖克重」转向「卖设计和情绪」",
+   "tier1": "珠宝腕表",
+   "body": "世界黄金协会 10/16 发布的零售调研给出一组反差：上半年金饰需求吨数降 30%，金额却增 5% 至 1440 亿元。44% 的零售商说顾客买金是为了悦己；四成以上计划多备 5 克以下的货，47% 扩充 5–10 克；古法金、硬足金连续四年跑赢，银饰已占营收的 13%。同日周生生的三季报印证了这一点：零售值增 3%，大陆同店增 4%，增量来自计价黄金饰品，同时继续开出台北精品店这类优质门店。\n\n另一端是出清：萃华珠宝因年报难产被终止上市；投资金在非会员渠道新增约 13% 税负，加盟商的金条生意被削弱。海南的加工增值免关税政策（以珍珠为例，原料关税 21% 可免）则为愿意把加工搬上岛的企业提供了成本杠杆。\n\n投资人视角：金饰企业的估值锚正从「克重 × 金价」转向「设计溢价 + 同店」，要重点看一口价产品占比、轻克重 SKU 的周转和直营比例。经营者视角：把 10 克以下的轻量化系列、银饰和金镶玉、珍珠做成门店主陈列，按「自戴 + 叠戴」组织货品；同时评估海南加工增值布局，对冲原料关税。",
+   "refs": [
+    {
+     "title": "智通财经：世界黄金协会《2026 中国金饰零售市场洞察》",
+     "url": "https://news.qq.com/rain/a/20261016A0DQ8100"
+    },
+    {
+     "title": "大众网（央视财经）：上半年金饰消费金额逼近历史最高",
+     "url": "https://www.dzwww.com/ywnews/202610/t20261017_18211420.htm"
+    },
+    {
+     "title": "东方财富：周生生三季度零售销售值增 3%",
+     "url": "https://finance.eastmoney.com/a/202610163898259592.html"
+    },
+    {
+     "title": "深交所：萃华珠宝终止上市公告",
+     "url": "https://www.szse.cn/disclosure/notice/t20261015_623322.html"
+    },
+    {
+     "title": "新浪财经：海南黄金珠宝加工增值内销破亿",
+     "url": "https://finance.sina.com.cn/wm/2026-10-17/doc-inivpsqc7158158.shtml"
+    }
+   ]
+  },
+  {
+   "title": "AI 眼镜下半场：比的不是参数，而是服务接入和信任",
+   "tier1": "眼镜",
+   "body": "这两天的三条新闻正好落在 AI 眼镜产业链的三个环节。应用层：Rokid 通过 A2A 协议接入腾讯出行，眼镜第一次完整承接「叫车—比价—下单—支付」这样的高频交易，但复杂确认仍交给手机，说明眼镜的定位是「发起和提醒入口」，而不是替代手机。上游：台州黄岩引进约 5.5 亿元的碳化硅 AR 镜片项目，2028 年规划年产 100 吨高纯碳化硅光学材料，地方政府看中的是临海镜框配套和模具产业，传统眼镜产业带正在向光学器件延伸。风险端：Ray-Ban Meta 被曝未唤醒即录音，Meta 只回应已修复；挪威考虑临时禁令，美国已有集体诉讼。\n\n与此同时，传统镜片巨头把 AI 用在研发端：依视路 Varilux Shift 用数百万条配戴数据优化近用区，AI 设计已下沉到入门渐进片。\n\n投资人视角：硬件差异在缩小，价值会集中到能接入高频服务的平台和掌握光学材料的上游；依视路陆逊梯卡还要叠加 Delfin 股东结构变动的治理变量。经营者视角：眼镜零售做 AI 眼镜，先把隐私说明、录音指示和数据删除流程做进验配服务里；国货镜框企业可以绑定 AR 光学项目做结构件和镜框，避开整机价格战。",
+   "refs": [
+    {
+     "title": "IT之家：Rokid × 腾讯出行 AI 眼镜打车",
+     "url": "https://www.ithome.com/1/013/964.htm"
+    },
+    {
+     "title": "浙江在线：黄岩 AR 镜片项目",
+     "url": "https://tz.zjol.com.cn/tzxw/202610/t20261017_31970732.shtml"
+    },
+    {
+     "title": "Ars Technica: Ray-Ban Meta recording bug",
+     "url": "https://arstechnica.com/gadgets/2026/10/ray-ban-meta-smart-glasses-found-recording-audio-without-wearers-consent/"
+    },
+    {
+     "title": "Eyecare Business: Varilux Shift",
+     "url": "https://www.eyecarebusiness.com/ebnewproducts/2026/varilux-shift/"
+    }
+   ]
+  }
+ ],
+ "trends": [
+  {
+   "title": "轻克重金饰 + 银饰：高金价下的「悦己日常金」",
+   "tier1": "珠宝腕表",
+   "stage": "上升",
+   "description": "世界黄金协会调研：悦己购买占主导（44% 的零售商这么反馈），偏好 10 克以下轻克重产品的零售商占比明显高于 2025 年的 60%；硬足金买家平均年龄低于整体，18–34 岁是核心人群；银饰占零售商营收 13%。周生生三季度的增长同样来自计价黄金饰品。",
+   "opportunity": "珠宝品牌可做 5 克以下的系列化小件（转运珠、叠戴手链、珐琅或镶钻硬足金），按月高频上新；银饰和金镶玉可作为低客单引流品类；渠道上用「一口价 + 设计款」降低消费者对金价的敏感度。",
+   "evidence": [
+    {
+     "title": "智通财经：WGC 金饰零售洞察",
+     "url": "https://news.qq.com/rain/a/20261016A0DQ8100"
+    },
+    {
+     "title": "大众网（央视财经）：轻克重布局",
+     "url": "https://www.dzwww.com/ywnews/202610/t20261017_18211420.htm"
+    },
+    {
+     "title": "东方财富：周生生三季度",
+     "url": "https://finance.eastmoney.com/a/202610163898259592.html"
+    }
+   ]
+  },
+  {
+   "title": "品牌官方认证二手（CPO）腕表加速",
+   "tier1": "珠宝腕表",
+   "stage": "上升",
+   "description": "劳力士 CPO 三季度估算销售 2.29 亿美元，同比增 61%、环比增 30%，前九个月约 5.5 亿美元，授权零售商 167 家；同期劳力士二手价格只涨 0.5%，CPO 相对非认证二手的溢价收窄到约 23%。消费者愿意为「官方背书 + 门店体验」付费，但对溢价越来越敏感。另一边，泰格豪雅停产智能手表，传统表企的科技化尝试正在收缩。",
+   "opportunity": "国内钟表零售商（如亨得利钟表等连锁）可以试点认证二手 / 以旧换新专区，靠鉴定、翻新和质保赚服务利润；品牌方可用 CPO 稳住二手价格，从而托住新表的残值预期。",
+   "evidence": [
+    {
+     "title": "Buying Time #270",
+     "url": "https://www.buyingtimenews.com/p/issue-270-buying-time-october-16"
+    },
+    {
+     "title": "IT之家：泰格豪雅退出智能手表",
+     "url": "https://www.ithome.com/1/014/285.htm"
+    }
+   ]
+  },
+  {
+   "title": "AI 眼镜接入服务智能体（打车、导览、支付）",
+   "tier1": "眼镜",
+   "stage": "萌芽",
+   "description": "Rokid 通过 A2A 协议接入腾讯出行，眼镜端完成叫车全流程；上游有碳化硅 AR 镜片这类材料项目落地产业带。但 Ray-Ban Meta 的误录音事件说明，隐私信任是规模化的前提。",
+   "opportunity": "眼镜品牌和连锁可以和本地生活、出行、文旅平台合作做场景套装（景区导览、商场导购）；镜框企业可切入 AR 光学模组的结构件和镜框配套。",
+   "evidence": [
+    {
+     "title": "IT之家：Rokid × 腾讯出行",
+     "url": "https://www.ithome.com/1/013/964.htm"
+    },
+    {
+     "title": "浙江在线：黄岩 AR 镜片项目",
+     "url": "https://tz.zjol.com.cn/tzxw/202610/t20261017_31970732.shtml"
+    },
+    {
+     "title": "Ars Technica：误录音事件",
+     "url": "https://arstechnica.com/gadgets/2026/10/ray-ban-meta-smart-glasses-found-recording-audio-without-wearers-consent/"
+    }
+   ]
+  },
+  {
+   "title": "「怪趣实用」配饰：解放双手的包、叠戴腰带、针织三角巾、美妆变配饰",
+   "tier1": "服配",
+   "stage": "萌芽",
+   "description": "Vogue 总结 2027 春夏配饰：解放双手的包（多口袋腰包）、双层超大腰带、复古大眼框墨镜；Givenchy 把粉饼盒做成腰扣、把口红做成发簪；高街方面，针织三角巾在 Zoë Kravitz 的带动下成为今秋热点。",
+   "opportunity": "包袋品牌可推可挂腰、可斜挎的多口袋小包和包挂；服配品牌（丝巾、发饰）可做针织三角巾、头巾和功能型发簪，与美妆联名做可佩戴的礼盒；眼镜品牌可备复古大框太阳镜。",
+   "evidence": [
+    {
+     "title": "Vogue: Spring 2027 accessories trends",
+     "url": "https://www.vogue.com/article/the-best-spring-2027-accessories-trends"
+    },
+    {
+     "title": "Glossy: beauty products as accessories",
+     "url": "https://www.glossy.co/pop/why-brands-are-turning-your-favorite-beauty-products-into-fashion-accessories/"
+    },
+    {
+     "title": "Cosmopolitan UK: knitted triangle scarves",
+     "url": "https://www.cosmopolitan.com/uk/fashion/style/a74156556/knit-bandana-triangle-scarf-trend/"
+    }
+   ]
+  }
+ ],
+ "brand_insights": [
+  {
+   "brand": "依视路",
+   "tier1": "眼镜",
+   "title": "依视路：把 AI 用进镜片研发，母公司股东结构则迎来变量",
+   "body": "产品：10/16 依视路发布 Varilux Shift，这是用 AI 设计的入门级渐进片。它分析数百万条配戴者数据，预测不同屈光度和加光下的视线下倾角，再用 iComfort 技术优化近用区位置；按屈光多设计和配戴者模式已成为整个 Varilux 系列的标准基础。这意味着依视路把高端系列的 AI 设计能力下放到入门价位，主攻首次配渐进片的老花人群。\n\n母公司：路透 10/15 报道，持有依视路陆逊梯卡 32.4% 股权的 Delfin 已与银行初步接触，可能收购部分继承人的股权（《晚邮报》称约 25%），以打破 8 名继承人之间的僵局。智能眼镜方面，Ray-Ban Meta 被曝未唤醒即录音，给集团的 AI 眼镜业务带来声誉压力。\n\n解读：一边是传统镜片用 AI 提升验配成功率，一边是智能眼镜的隐私风险和股东治理变量。",
+   "investor_view": "Varilux Shift 体现的是在存量老花市场用设计能力守住份额和定价的思路，属于防守型增长。股价层面，更大的变量是 Delfin 内部股权整合是否带来治理稳定，以及 AI 眼镜隐私事件是否抬高监管成本。",
+   "operator_view": "对国内镜片企业（如明月镜片），入门渐进片是下一块必争之地：依视路用 AI 降低适应难度后，会挤压国产「性价比渐进片」的空间。国产品牌需要用验配数据积累和门店适配服务来对抗，眼镜零售商可以把「首副渐进片」做成独立服务包。",
+   "sources": [
+    {
+     "title": "Eyecare Business: Varilux Shift",
+     "url": "https://www.eyecarebusiness.com/ebnewproducts/2026/varilux-shift/"
+    },
+    {
+     "title": "Reuters（MSN）：Delfin explores funding for internal stake buyout",
+     "url": "https://www.msn.com/en-gb/news/other/italian-holding-company-delfin-explores-funding-for-potential-internal-stake-buyout-sources-say/ar-AA2ekcA9"
+    },
+    {
+     "title": "Ars Technica: Ray-Ban Meta bug",
+     "url": "https://arstechnica.com/gadgets/2026/10/ray-ban-meta-smart-glasses-found-recording-audio-without-wearers-consent/"
+    }
+   ]
+  },
+  {
+   "brand": "卡西欧",
+   "tier1": "珠宝腕表",
+   "title": "卡西欧：110 美元潜水表与「CasioNaut」，两端加速上新",
+   "body": "入门端：10/16 卡西欧在美国官网上架三款 MDV106C，每款 110 美元，与常规款的区别只是换成织物表带。钢壳配铝圈，48.5×44.2×12.1mm，200 米防水。用换表带、换配色的低成本方式维持热门款的新鲜度。\n\n升级端：外号「CasioNaut」的 G-SHOCK 2500 系列（GMC-2500D）9 月出现在日本官网，计划 11 月在日本发售；10/17 已有 YouTube 博主提前发布 24 分钟上手视频，重点展示新的磁力指针固定结构。这是 G-SHOCK 用全金属、八角「运动奢华」外观向上拓展价格带的又一款。10/14 期收录的 MUDMAN GDG-B100 也在 10/16 发售。\n\n解读：卡西欧的打法是「爆款壳型 × 低成本变体 + 外观向上延伸」，把潜水表、八角表这类热门审美做到平价，靠社媒评测预热。",
+   "investor_view": "新品节奏密集，但单价低，对营收的拉动取决于 G-SHOCK 金属线的放量。可以关注 CasioNaut 11 月开售后的二手溢价和社媒热度，作为判断「平价运动奢华」需求是否持续的先行指标。",
+   "operator_view": "对国内平价腕表和时尚手表品牌，值得学的是两点：一是同一壳型换表带、换配色的低成本 SKU 扩张；二是在开售前借博主做上手评测来预热。卡西欧持续把八角运动风做到千元级，会压缩国产「轻奢风」石英表的定价空间。",
+   "sources": [
+    {
+     "title": "Gizmochina: Casio MDV106C",
+     "url": "https://www.gizmochina.com/2026/10/16/casio-mdv106c-analog-dive-watches-launched-in-the-us/"
+    },
+    {
+     "title": "Notebookcheck: CasioNaut hands-on",
+     "url": "https://www.notebookcheck.net/Unreleased-Casio-G-Shock-CasioNaut-gets-early-hands-on-review-showing-magnetic-hands-in-action.1426427.0.html"
+    }
+   ]
+  }
+ ],
+ "reading_list": [
+  {
+   "title": "2026 中国金饰零售市场洞察：市场调整，信心未失",
+   "source": "世界黄金协会（智通财经转述）",
+   "date": "2026-10-16",
+   "url": "https://news.qq.com/rain/a/20261016A0DQ8100",
+   "tier1": "珠宝腕表"
+  },
+  {
+   "title": "Luxury’s Spooky Season: Bad Numbers and Empty Chairs",
+   "source": "BoF",
+   "date": "2026-10-16",
+   "url": "https://www.businessoffashion.com/articles/luxury/luxurys-spooky-season-bad-numbers-and-empty-chairs/",
+   "tier1": "综合"
+  },
+  {
+   "title": "Hermès Is Targeting a New Emerging Market: The American Suburbs",
+   "source": "华尔街日报",
+   "date": "2026-10-17",
+   "url": "https://www.wsj.com/business/retail/hermes-us-emerging-markets-suburbs-f6d19b58",
+   "tier1": "箱包"
+  },
+  {
+   "title": "时装周上的 15 分钟大秀，如何沉淀为品牌的内容资产？",
+   "source": "华丽志",
+   "date": "2026-10-16",
+   "url": "https://luxe.co/post/485019",
+   "tier1": "综合"
+  },
+  {
+   "title": "Issue #270 | Buying Time（劳力士 CPO 与二手表价格）",
+   "source": "Buying Time",
+   "date": "2026-10-16",
+   "url": "https://www.buyingtimenews.com/p/issue-270-buying-time-october-16",
+   "tier1": "珠宝腕表"
+  },
+  {
+   "title": "Bare Feet, Hands-Free Handbags, and Plenty of Tights: Spring 2027 Accessories Trends",
+   "source": "Vogue",
+   "date": "2026-10-16",
+   "url": "https://www.vogue.com/article/the-best-spring-2027-accessories-trends",
+   "tier1": "箱包"
+  },
+  {
+   "title": "Silvia Furmanovich on her Asprey collaboration and redefining jadeite",
+   "source": "南华早报",
+   "date": "2026-10-18",
+   "url": "https://www.scmp.com/magazines/style/luxury/jewellery/article/3371016/silvia-furmanovich-her-asprey-collaboration-and-redefining-jadeite-interview",
+   "tier1": "玉石翡翠"
+  },
+  {
+   "title": "Bug turns one of the biggest fears about Ray-Ban Meta smart glasses into reality",
+   "source": "Ars Technica",
+   "date": "2026-10-17",
+   "url": "https://arstechnica.com/gadgets/2026/10/ray-ban-meta-smart-glasses-found-recording-audio-without-wearers-consent/",
+   "tier1": "眼镜"
+  }
+ ],
+ "brand_scan": {
+  "window": "2026-10-16..2026-10-18",
+  "method": "逐一检索 64 个品牌（中文名、英文名、别名）：每个品牌用 Google News RSS 和 Bing News RSS 检索（起点 10/16 00:00，北京时间），候选条目再打开原文核对发布日期；另跑 8 组 X search_posts_all 品牌合并查询（噪声高、可用线索少）。行业层另做中文 25 组、英文 40 组主题扫描。Exa 本轮前段可用，后段返回 HTTP 429 限流，改用原文抓取核实。",
+  "note": "有新动态的品牌 4/64：Fakeme、万事利、卡西欧、依视路。其余 60 个品牌在窗口内没有检到可核实日期和原文链接的新闻（不代表品牌没有活动）。未计入：欧克利 / 依视路陆逊梯卡 Meta AI 眼镜泰国开售（REm 10/16 稿，事件已在 10/15 期收录）；蔡司 × 极米 MemoMind One 预售（10/15 开启，10/14 期已收录）；天美时 IBFW 第 12 季闭幕稿（活动在 10/12 前已结束）；明月镜片明星推荐稿与 FANCI范琦商标诉讼开庭预告（只有自媒体或转载稿）；新秀丽印度 Gwalior 开店（只有 X 帖子）；MHL × G-SHOCK 联名（只有社媒信息，未找到可核实的原文）；飞亚达周跌幅（自动生成的行情稿）。大图（DITA）按用户偏好跳过，不追踪。"
+ },
+ "sources": [
+  {
+   "name": "世界黄金协会 / 智通财经",
+   "url": "https://news.qq.com/rain/a/20261016A0DQ8100",
+   "tier1": "珠宝腕表"
+  },
+  {
+   "name": "东方财富",
+   "url": "https://www.eastmoney.com/",
+   "tier1": "珠宝腕表"
+  },
+  {
+   "name": "深交所 / 巨潮资讯",
+   "url": "https://www.szse.cn/",
+   "tier1": "珠宝腕表"
+  },
+  {
+   "name": "Buying Time",
+   "url": "https://www.buyingtimenews.com/",
+   "tier1": "珠宝腕表"
+  },
+  {
+   "name": "IT之家",
+   "url": "https://www.ithome.com/",
+   "tier1": "眼镜"
+  },
+  {
+   "name": "WWD",
+   "url": "https://wwd.com/",
+   "tier1": "综合"
+  },
+  {
+   "name": "BoF",
+   "url": "https://www.businessoffashion.com/",
+   "tier1": "综合"
+  },
+  {
+   "name": "华丽志",
+   "url": "https://luxe.co/",
+   "tier1": "综合"
+  },
+  {
+   "name": "华尔街日报",
+   "url": "https://www.wsj.com/",
+   "tier1": "综合"
+  },
+  {
+   "name": "Reuters",
+   "url": "https://www.reuters.com/",
+   "tier1": "综合"
+  },
+  {
+   "name": "Vogue",
+   "url": "https://www.vogue.com/",
+   "tier1": "箱包"
+  },
+  {
+   "name": "DFNI",
+   "url": "https://www.dfnionline.com/",
+   "tier1": "箱包"
+  },
+  {
+   "name": "Eyecare Business",
+   "url": "https://www.eyecarebusiness.com/",
+   "tier1": "眼镜"
+  },
+  {
+   "name": "Ars Technica",
+   "url": "https://arstechnica.com/",
+   "tier1": "眼镜"
+  },
+  {
+   "name": "浙江在线",
+   "url": "https://www.zjol.com.cn/",
+   "tier1": "眼镜"
+  },
+  {
+   "name": "南华早报",
+   "url": "https://www.scmp.com/",
+   "tier1": "玉石翡翠"
+  },
+  {
+   "name": "Glossy",
+   "url": "https://www.glossy.co/",
+   "tier1": "服配"
+  }
+ ]
+}
