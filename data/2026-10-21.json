@@ -1,0 +1,615 @@
+{
+ "date": "2026-10-21",
+ "headline": "依视路陆逊梯卡 Q3 增 7.2%、近视管理 +24%，同日丹阳「30 元镜片卖 1980」被立案；9 月金银珠宝零售额 −9.6%；瑞士手表 9 月出口 +11.7%",
+ "summary": "10/19、10/20 两期缺失，本期行业动态和品牌动态的时间窗都放宽到 48 小时（10/19–10/21 北京时间）。眼镜是今天信号最强的赛道：依视路陆逊梯卡三季度营收按固定汇率增 7.2%，近视管理 +24%，可穿戴 +20%，CFO 称没有看到消费降级，但暴龙是中国区主要负增长品牌；国内央视曝光丹阳近视防控镜「批发 30 元、标价 1980 元」，丹阳对 4 家立案；商务部称 1–9 月重点平台智能眼镜销售额增长 1.1 倍。珠宝方面，9 月限额以上金银珠宝零售额 −9.6%，已连续三个月负增长，头部金企半年净关店近 2000 家；瑞士手表 9 月出口 +11.7%，但中国内地 −14.2%。箱包方面轻奢分化：Mulberry 上半财年 +18%、Longchamp 预计 2026 年双位数增长，Ferragamo 三季度 −6.2%，UBS 下调 Tapestry 目标价。欧洲骚乱导致巴黎数百家门店遭劫。前瞻：爱马仕 10/22 发布三季度营收（https://finance.hermes.com/en/calendar/），开云预计同日发布。",
+ "industry_news": [
+  {
+   "date": "2026-10-20",
+   "source": "EssilorLuxottica 公告（Yahoo Finance 全文转载）；官网新闻稿",
+   "title": "依视路陆逊梯卡三季度营收 74.86 亿欧元，固定汇率增 7.2%；近视管理 +24%，可穿戴 +20%",
+   "url": "https://www.essilorluxottica.com/en/newsroom/press-releases/q3-2026-revenue/",
+   "tier1": "眼镜",
+   "type": "数据",
+   "importance": 5,
+   "segment": "大众",
+   "summary": "10/20 巴黎时间 18:00 发布：三季度营收 74.86 亿欧元，按固定汇率增 7.2%（报告口径 +9.0%），前九个月 223.04 亿欧元、固定汇率增 8.9%。直营（DTC）增 10.6%，同店 +6.8%；专业渠道（批发）增 3.4%。传统业务（眼科护理与医疗科技）增幅超过 6%，近视管理产品线增 24%，可穿戴（AI 眼镜与 Nuance Audio 助听眼镜）增 20%。亚太按固定汇率增 15.7%，是增速最快的地区。电话会上 CFO 表示：中国近视管理全线双位数增长，但中国区整体略低于双位数，暴龙（Bolon）是本季主要负增长品牌；AI 眼镜在欧洲因去年高基数转负，处方片在可穿戴里的渗透约三分之一。全文：https://finance.yahoo.com/markets/stocks/articles/essilorluxottica-q3-2026-revenue-revenue-160000880.html"
+  },
+  {
+   "date": "2026-10-19",
+   "source": "澎湃新闻（转丹阳市市场监管局通报）",
+   "title": "央视曝光近视防控镜：1.56 多点离焦片批发价 30 元、零售参考价 1980 元，丹阳对 4 家经营主体立案",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34279212",
+   "tier1": "眼镜",
+   "type": "政策",
+   "importance": 5,
+   "segment": "大众",
+   "summary": "10/18 央视《每周质量报告》报道：丹阳部分批发商的微结构（多点离焦）现片批发价仅 30 元，产品手册上的零售参考价却是 1980 元，采购商可自行决定贴牌和售价。丹阳市监局当晚通报，耀程光学、博大光学、多爱美眼镜、极采镜片 4 家存在标签信息不规范、虚假广告等问题，已立案调查。丹阳年产镜片近 4 亿副，是全国最大的镜片生产基地。这类近视防控镜片对品牌镜片的定价可信度和终端客单价都可能造成冲击。"
+  },
+  {
+   "date": "2026-10-19",
+   "source": "IT之家（国新办发布会）",
+   "title": "商务部：1–9 月重点平台智能眼镜销售额增长 1.1 倍（科技兴商意见发布会）",
+   "url": "https://www.ithome.com/1/015/038.htm",
+   "tier1": "眼镜",
+   "type": "政策",
+   "importance": 4,
+   "segment": "大众",
+   "summary": "国新办 10/19 发布会上，商务部援引商务大数据：今年 1–9 月重点平台智能眼镜销售额同比增长 1.1 倍。发布会介绍的是《关于加快推进科技兴商的意见》。"
+  },
+  {
+   "date": "2026-10-20",
+   "source": "艾邦 AR/VR 网（来源：乐奇 Rokid）",
+   "title": "乐奇 Rokid 与博士眼镜签署战略合作，做「AI 眼镜 + 专业验配」线下一体化",
+   "url": "https://www.abvr360.com/a/34602",
+   "tier1": "眼镜",
+   "type": "渠道",
+   "importance": 3,
+   "segment": "大众",
+   "summary": "10/19 签约。Rokid 负责产品与交互，博士眼镜提供专业验配和线下门店网络，共同推「线下体验 + 专业验配」的 AI 眼镜零售模式。国产 AI 眼镜品牌开始借传统眼镜连锁解决处方配镜的问题。（来源为品牌方通稿。）"
+  },
+  {
+   "date": "2026-10-19",
+   "source": "腾讯新闻（开源证券研报，引国家统计局数据）",
+   "title": "9 月社零同比 +1.1%；限额以上金银珠宝零售额同比 −9.6%，降幅较 8 月收窄 7.9 个百分点",
+   "url": "https://news.qq.com/rain/a/20261019A076GC00",
+   "tier1": "珠宝腕表",
+   "type": "数据",
+   "importance": 5,
+   "segment": "大众",
+   "summary": "国家统计局 10/19 数据：9 月社零 42433 亿元，同比 +1.1%；1–9 月 370001 亿元，同比 +1.1%。可选消费里，化妆品 +5.4%，金银珠宝 −9.6%（8 月为 −17.5%），服装鞋帽 +1.2%。1–9 月品牌专卖店零售额 −10.3%。虎嗅转载的斑马消费稿件指出，金银珠宝已连续第三个月负增长（7 月 −10.1%，9 月零售额 258 亿元），见 https://www.huxiu.com/article/4899097.html"
+  },
+  {
+   "date": "2026-10-20",
+   "source": "投中网",
+   "title": "金店「关店潮」：周大生、老凤祥、周六福半年净关店超 1000 家，9 家上市金企一年净减 4781 家门店",
+   "url": "https://www.chinaventure.com.cn/news/78-20261020-393686.html",
+   "tier1": "珠宝腕表",
+   "type": "深度",
+   "importance": 4,
+   "segment": "大众",
+   "summary": "2026 年上半年净关店：周大生 473 家（其中加盟店 454 家）、老凤祥 439 家、周六福 226 家。9 家上市黄金珠宝公司门店总数一年内从 33828 家降到 29047 家。国际金价 1 月底冲上约 5600 美元/盎司，6 月底跌到 3942 美元，品牌金饰克价回落到约 1250 元/克。文章判断行业呈 K 型分化：一端是潮宏基这类轻克重、高设计款（自营毛利率约 40%），另一端是老铺黄金式的高端化（上半年毛利率 41.3%）；夹在中间的传统按克加盟店最先出清。"
+  },
+  {
+   "date": "2026-10-20",
+   "source": "WWD（瑞士钟表工业联合会数据）",
+   "title": "瑞士手表 9 月出口 22.3 亿瑞郎，同比 +11.7%；对美 +85.7%，对中国内地 −14.2%",
+   "url": "https://wwd.com/accessories-news/watches/swiss-watch-exports-rise-september-1239376107/",
+   "tier1": "珠宝腕表",
+   "type": "数据",
+   "importance": 5,
+   "segment": "奢侈品",
+   "summary": "1–9 月出口累计 195 亿瑞郎，同比 +2.7%。9 月钢表 +13%，双金属表 +29.3%；出口价 3000 瑞郎以上的产品 +9.9%，500 瑞郎以下 +39.5%，增幅最大。按市场看，美国 +85.7%，日本 +12.3%，香港 +3%，法国 +128.8%；中国内地 −14.2%，英国 −5.2%，阿联酋 −9%。"
+  },
+  {
+   "date": "2026-10-19",
+   "source": "Investing.com（Yahoo Finance）；Mulberry 半年度交易更新",
+   "title": "Mulberry 上半财年销售 +18%：美国 +28%，坚持不打折，拉菲草、钩织新品带动",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/mulberry-shares-surge-first-half-090132551.html",
+   "tier1": "箱包",
+   "type": "数据",
+   "importance": 4,
+   "segment": "轻奢",
+   "summary": "截至 9/26 的 26 周，销售按报告口径 +18.1%（固定汇率 +18.2%）。美国 +28%（同店 +34%），欧洲（不含英国）+23%，英国 +10%，亚太 +5%（同店 +24%）；特许经营与批发 +52%，占总销售 17%。促销销售占比比去年低 300 个基点。带动增长的有 Raffia、Crochet、Stevie、Darley Camera Bag 等新品和 Bayswater、Lily 等经典款，股价当日大涨。中期目标为年收入超过 2 亿英镑、经调整 EBIT 利润率 15%；11/19 发布完整中期业绩。"
+  },
+  {
+   "date": "2026-10-20",
+   "source": "Modaes（Ferragamo 九个月数据公告）",
+   "title": "Ferragamo 前九个月营收 6.75 亿欧元、同比 −2.8%，三季度 −6.2%；批发 −15%",
+   "url": "https://www.modaes.com/global/companies/ferragamos-sales-drop-28-in-the-first-nine-months-impacted-by-europe-and-wholesale",
+   "tier1": "箱包",
+   "type": "数据",
+   "importance": 4,
+   "segment": "奢侈品",
+   "summary": "前九个月营收 6.748 亿欧元（去年同期 6.946 亿）。三季度营收 2.07 亿欧元，同比 −6.2%。按渠道：直营 5.365 亿欧元，+1.9%；批发 1.234 亿欧元，−15%。按地区：北美 2.22 亿欧元，+7.3%；欧洲 −8.6%，日本 −12%。中国市场进一步走弱。"
+  },
+  {
+   "date": "2026-10-20",
+   "source": "Vogue Business",
+   "title": "骚乱波及欧洲奢侈品零售：巴黎数百家门店遭劫，品牌为未来三个周末的抗议做准备",
+   "url": "https://www.vogue.com/article/brands-prepare-for-more-looting-as-further-protests-are-planned-across-europe",
+   "tier1": "综合",
+   "type": "市场",
+   "importance": 4,
+   "segment": "奢侈品",
+   "summary": "10/17–18 的抗议中，巴黎及法国其他城市数百家门店被劫，包括 Saint Laurent、Celine、Dior、Louis Vuitton；网上还在号召未来三个周末继续罢工和示威。米兰部分门店关门，意大利已派驻军队，西班牙、比利时、葡萄牙也有抗议。巴黎时装周主办方 FHCM 10/20 发声明支持会员，并下发安全指引。被抢商品已出现在 Vinted、eBay 等转售平台，法国政府要求平台监控并下架。短期会影响欧洲旅游零售和四季度节日季的客流。"
+  },
+  {
+   "date": "2026-10-20",
+   "source": "Mining Weekly（De Beers 三季度生产报告）",
+   "title": "De Beers 三季度产量 680 万克拉、同比 −11%；年内平均实现价格 −37% 至 97 美元/克拉",
+   "url": "https://www.miningweekly.com/article/de-beers-reports-lower-q3-output-raises-full-year-guidance-on-increased-gahcho-ku-stake-2026-10-20",
+   "tier1": "珠宝腕表",
+   "type": "数据",
+   "importance": 4,
+   "segment": "奢侈品",
+   "summary": "博茨瓦纳产量 480 万克拉（Orapa 计划检修），南非 Venetia 为两年停产做准备、年内不再出产。10/16 起 De Beers 全资持有加拿大 Gahcho Kué，因此上调全年口径产量。公司称三季度毛坯交易出现企稳迹象，美国和印度需求改善，但培育钻石继续挤压低价天然钻需求；年内平均毛坯价格指数降 18%。（历峰、Signet 洽购 De Beers 的事 10/16 期已收录。）"
+  },
+  {
+   "date": "2026-10-20",
+   "source": "MarketBeat（Benzinga 转引 UBS 研报）",
+   "title": "UBS 把 Tapestry 目标价从 232 美元下调到 200 美元，称 Coach 趋势放缓；财报 11/5",
+   "url": "https://www.marketbeat.com/instant-alerts/analyst-tapestry-nyse-tpr-stock-price-target-lowered-at-ubs-group-2026-10-20/",
+   "tier1": "箱包",
+   "type": "资本",
+   "importance": 3,
+   "segment": "轻奢",
+   "summary": "UBS 维持「买入」评级。Yahoo 同日标题称 UBS 认为 Tapestry 财年第一季度业绩难以扭转市场情绪，因为 Coach 的增长趋势在放缓。市场一致目标价约 171.56 美元。Tapestry 财年 Q1（截至 9 月）业绩定于 11/5 发布，重点看 Coach 在高基数后还能增长多少。"
+  },
+  {
+   "date": "2026-10-20",
+   "source": "Vogue Business",
+   "title": "Longchamp CEO 访谈：2025 年销售 +10%、北美 +40%，预计 2026 年双位数增长",
+   "url": "https://www.vogue.com/article/the-unlikely-longevity-of-longchamp",
+   "tier1": "箱包",
+   "type": "深度",
+   "importance": 4,
+   "segment": "轻奢",
+   "summary": "第三代掌门 Jean Cassegrain 透露：2025 年销售同比 +10%，北美 +40%（占营收 15%），电商 +17%；法国、中国、美国是前三大市场，中国仍保持个位数增长；预计 2026 年双位数增长，营收将超过 2022 年的两倍。Le Pliage 是最畅销款，经典大号帆布款 165 美元。品牌称 Z 世代的流行「不是营销造出来的」；My Pliage 定制服务 2025 年升级。约 80% 客户为女性，客户年龄中位数 35–36 岁，35 岁以下占比三年里明显上升。"
+  },
+  {
+   "date": "2026-10-20",
+   "source": "City A.M.",
+   "title": "Frasers 把 Burberry 持股从 7.4% 降到约 6%",
+   "url": "https://www.cityam.com/mike-ashleys-frasers-loosens-grip-on-burberry/",
+   "tier1": "综合",
+   "type": "资本",
+   "importance": 3,
+   "segment": "奢侈品",
+   "summary": "Mike Ashley 旗下 Frasers 上周通过看跌期权把 Burberry 持股增至 7.4%（10/15 期已收录），最新披露降到约 6%，市值约 2.4 亿英镑。这意味着这位英国零售大亨开始从 Burberry 撤出。"
+  },
+  {
+   "date": "2026-10-20",
+   "source": "WWD",
+   "title": "香奈儿总裁 Bruno Pavlovsky 出任 The Fashion Pact 联席主席",
+   "url": "https://wwd.com/sustainability/business/chanel-bruno-pavlovsky-named-co-chair-the-fashion-pact-1239373874/",
+   "tier1": "综合",
+   "type": "市场",
+   "importance": 2,
+   "segment": "奢侈品",
+   "summary": "10/13 起生效，与 Inditex CEO Óscar García Maceiras、联合创始人 Paul Polman 共同领导这个 CEO 层面的气候与生物多样性倡议（50 多家签约方、150 多个品牌）。此前他已退出香奈儿董事会（10/16 期已收录），继续担任 FHCM 主席。"
+  },
+  {
+   "date": "2026-10-19",
+   "source": "上海证券报·中国证券网（新浪财经转载）",
+   "title": "开云集团将携全品牌参加第九届进博会：麒麟 Qeelin 发布新里程碑，开云眼镜首发 LINDBERG 2027 羊年限定",
+   "url": "https://finance.sina.com.cn/roll/2026-10-19/doc-inivumam6853598.shtml",
+   "tier1": "综合",
+   "type": "营销",
+   "importance": 3,
+   "segment": "奢侈品",
+   "summary": "展馆主题为「开物至真，云程致远」。开云眼镜将全球首发 LINDBERG 2027 羊年限定和茂宜晴（Maui Jim）户外运动系列；「开云 CRAFT 创意驻留计划」也会展示最新进展。开云 Q3 营收预计 10/22 公布（日期出自券商预告，公司日历尚未确认）。"
+  },
+  {
+   "date": "2026-10-19",
+   "source": "点财网（新浪转载）；展会官网 bjjewelfair.com",
+   "title": "2026 中国国际珠宝展 10/22–26 在北京开幕，揭阳、平洲等翡翠产区组团参展",
+   "url": "https://news.sina.cn/sx/2026-10-19/detail-inivtuer6209984.d.html",
+   "tier1": "玉石翡翠",
+   "type": "市场",
+   "importance": 3,
+   "segment": "大众",
+   "summary": "由中宝协与国检集团联合主办，地点为中国国际展览中心（朝阳馆），揭阳展团在 4 号馆。揭阳有 10 万从业者、7500 多家商户，展品覆盖挂件、手镯、牌子、摆件和镶嵌首饰，打「品牌直供 + 源头价」；国检（NGTC）驻场提供免费检测咨询。（展团介绍为宣传稿，展期和主办方以官网 http://www.bjjewelfair.com/ 为准。）"
+  },
+  {
+   "date": "2026-10-20",
+   "source": "佳士得新闻稿",
+   "title": "佳士得香港 11/24 瑰丽珠宝秋拍：120 余件，含一组高档翡翠",
+   "url": "https://press.christies.com/christies-presents-highlights-from-the-hong-kong-magnificent-jewels-autumn-auction/?lang=eng",
+   "tier1": "玉石翡翠",
+   "type": "市场",
+   "importance": 2,
+   "segment": "奢侈品",
+   "summary": "拍卖在香港奢华周期间举行。领衔拍品为 8.41 克拉艳彩紫粉钻「The Pink Petal」；翡翠部分以一条珠粒大、颜色匹配均匀的翡翠珠链领衔，另有罕见翡翠手镯和翡翠钻石套装。高端翡翠在拍卖场仍是亚洲藏家的核心品类，可作为年底观察高端翡翠价格的参考。"
+  }
+ ],
+ "brand_news": [
+  {
+   "brand": "依视路",
+   "date": "2026-10-20",
+   "source": "EssilorLuxottica 新闻稿 / 电话会实录",
+   "title": "三季度近视管理 +24%；Stellest 进入美国一年铺开 1.2 万家 B2B 门店",
+   "url": "https://www.essilorluxottica.com/en/newsroom/press-releases/q3-2026-revenue/",
+   "summary": "集团三季度近视管理产品线增 24%。电话会上 CFO 表示：中国近视管理全线双位数增长；美国 Stellest 上市一年已铺开 1.2 万家 B2B 门店；管理层称这是一个「从零开始建立」的品类。Transitions 变色片在自营零售里的渗透率约 60%（去年 40%–50%）。Stellest 入选《时代》年度最佳发明。实录：https://stockanalysis.com/quote/epa/EL/transcripts/654009-q3-2026-tu/"
+  },
+  {
+   "brand": "雅瑞光学",
+   "date": "2026-10-20",
+   "source": "EssilorLuxottica Q3 电话会实录",
+   "title": "依视路陆逊梯卡：暴龙（Bolon）是本季中国区主要负增长品牌",
+   "url": "https://stockanalysis.com/quote/epa/EL/transcripts/654009-q3-2026-tu/",
+   "summary": "CFO 在介绍亚太业务时说，中国专业渠道里近视管理全线双位数增长，镜架方面 Ray-Ban 双位数增长、奢侈品牌组合中个位数增长，「Bolon 是本季主要落入负增长的品牌」。暴龙是雅瑞光学的核心品牌，这是暴龙在国内中价太阳镜/镜架市场承压的一手信号（集团未披露具体降幅）。"
+  },
+  {
+   "brand": "欧克利",
+   "date": "2026-10-20",
+   "source": "KLGadgetGuy；EssilorLuxottica Q3 电话会",
+   "title": "Oakley Meta HSTN / Vanguard 10/20 在马来西亚开售，HSTN 2069 林吉特起",
+   "url": "https://klgadgetguy.com/ray-ban-meta-gen-3-oakley-meta-ai-glasses-malaysia-price/",
+   "summary": "马来西亚这次上市的有 Ray-Ban Meta（Gen 3）、Ray-Ban Meta Optics（Gen 2，处方镜框）、Oakley Meta HSTN（2069 林吉特）和 Oakley Meta Vanguard（2589 林吉特）。渠道包括 Ray-Ban 和 Oakley 门店、Sunglass Hut 及多家眼镜连锁；10/30–11/1 Oakley 将在雪邦 MotoGP 场地展示。集团电话会提到，三季度欧洲 Oakley 双位数增长。"
+  },
+  {
+   "brand": "GENTLE MONSTER",
+   "date": "2026-10-20",
+   "source": "Herald Business（韩国先驱经济）；Korea Herald 10/18",
+   "title": "揭秘 Gentle Monster 机器人实验室：60 人团队、40 多件作品，专为门店空间体验研发",
+   "url": "https://biz.heraldcorp.com/article/10908372",
+   "summary": "母公司 IICOMBINED 2017 年以 20 亿韩元收购机器人公司 Wizard，成立 Robotics Lab，现有约 60 名设计、控制、制造专业人员，2021 年以来为门店做了 40 多件机器人和动态装置。Korea Herald 10/18 长文回顾了 IICOMBINED 诉 Blue Elephant 抄袭案：检方指控对方 2023 年至 2025 年中卖出 51 款仿款、约 32.1 万件、123 亿韩元，这是韩国首例对未注册外观设计提起刑事诉讼，12 月和 1 月继续开庭。"
+  },
+  {
+   "brand": "山下有松",
+   "date": "2026-10-19",
+   "source": "Nikkei Asia（KrASIA 转载）；澎湃新闻 10/20",
+   "title": "日经：上海淮海路 Songmont 门店工作日也排队，月弯包 1880 元成外国游客伴手礼",
+   "url": "https://kr-asia.com/chinas-songmont-pane-accessory-brands-shine-with-thrifty-shoppers",
+   "summary": "日经报道：在理性消费、在意性价比的风气下，山下有松和鞋履品牌 Pane 受到年轻人和外国游客欢迎；招牌月弯（Luna）包售价 1880 元，可四种背法；品牌已进入泰国。报道称部分新锐品牌有意出海并正在融资。澎湃 10/20 发布品牌长文（偏品牌叙事），回顾连续三年在巴黎时装周办「远山有声」展，主要生产已转到粤港澳大湾区供应链，菜篮子包迭代 7 年。"
+  },
+  {
+   "brand": "卡西欧",
+   "date": "2026-10-20",
+   "source": "Gear Patrol；Notebookcheck",
+   "title": "G-SHOCK 2500 系列（「CasioNaut」）官方预告，预计 11 月发售；Edifice EFR-SE108D 薄款现身泰国官网",
+   "url": "https://www.gearpatrol.com/watches/casio-g-shock-casionaut-2500-teaser/",
+   "summary": "9 月卡西欧日本官网误上架后，品牌 10/19 在社交平台发出官方预告，确认 2500 系列存在，并会在下月推出。新款是枕形表壳、全指针设计，被比作百达翡丽 Nautilus，是继 2100「CasiOak」之后最受期待的 G-SHOCK。同期 Edifice EFR-SE108D 以 4 种表盘出现在泰国官网，尺寸 44.8×39.9×8.0mm（见 https://www.notebookcheck.net/Casio-releasing-new-slim-Edifice-EFR-SE108D-watches.1429167.0.html ）。"
+  },
+  {
+   "brand": "天美时集团",
+   "date": "2026-10-20",
+   "source": "Hodinkee；Adgully",
+   "title": "Timex × Dimepiece Intrepid「Blackout」版 36mm 上市，售价 269 美元；印度推出节日「Analog Life」广告",
+   "url": "https://www.hodinkee.com/articles/the-timex-intrepid-x-dimepiece-blackout-edition",
+   "summary": "在 1995 年 Intrepid 航海表复刻版基础上改为黑色 PVD 钢壳，保留 Indiglo 夜光奶油色表盘和紫色点缀；型号 TW6A19800，表径 36mm。另外，Timex 印度 10/19 推出节日广告片，延续「Analog Life」品牌平台（Adgully：https://www.adgully.com/post/22485/timex-unveils-festive-analog-life-campaign-celebrating-meaningful-moments ）。"
+  },
+  {
+   "brand": "明月镜片",
+   "date": "2026-10-19",
+   "source": "证券之星（深交所互动易）",
+   "title": "明月镜片回复投资者：公司在智能眼镜中主要做屈光矫正部分，不涉及 3D 显示",
+   "url": "https://stock.stockstar.com/RB2026101900023286.shtml",
+   "summary": "投资者问是否研发 3D 显示，董秘回复「公司主要参与智能眼镜的屈光矫正部分」。依视路的电话会也显示，处方片在可穿戴中的渗透约三分之一，屈光矫正是 AI 眼镜的刚需环节。同期丹阳近视防控镜被曝光，作为国产离焦镜片龙头（A.M.D.T. 技术），明月要面对行业信任问题，但也可能受益于监管出清。"
+  }
+ ],
+ "insights": [
+  {
+   "title": "近视管理镜片：龙头增 24% 和「30 元贴牌」同时存在，监管出清后品牌溢价要重新定价",
+   "tier1": "眼镜",
+   "body": "当天两条信号正好相反。依视路陆逊梯卡三季度近视管理产品线增 24%，CFO 称中国近视管理全线双位数增长，美国 Stellest 一年铺开 1.2 万家 B2B 门店。同一天，央视曝光丹阳：1.56 多点离焦现片批发价 30 元、零售参考价 1980 元，贴什么牌、卖什么价由采购商自己定，丹阳市监局对 4 家立案。人民日报健康客户端引用弗若斯特沙利文的数据：2025 年中国青少年离焦镜片零售规模约 169.5 亿元，2030 年预计 286 亿元。\n\n结构性原因：离焦镜片既有医疗功效属性，又按消费品定价。家长无法自己验证效果，价格锚点只能来自临床数据和验配服务。丹阳等产业带已经掌握微结构模具，复制外观的成本很低，于是溢价大多被渠道和贴牌拿走，夹在中间的是没有临床背书的「品牌」。\n\n竞争格局：依视路（Stellest）、蔡司靠临床研究和专业渠道守高端；明月镜片等国产龙头用论文和自有技术（A.M.D.T.）争取同等背书；丹阳白牌靠价格。监管针对标签和虚假广告，会先打掉无临床数据的贴牌。\n\n对经营者：门店应只保留有临床数据的品牌，把验光、眼轴随访做成可展示的服务记录，用服务而不是价签解释溢价；自有品牌要尽快补临床和注册。对投资人：重点看有临床数据、有医疗渠道的镜片厂，它们的毛利率更守得住；回避靠营销溢价的连锁。短期舆情可能压低终端客单价，可以跟踪四季度国内镜片上市公司毛利率和依视路中国增速的变化来验证。",
+   "refs": [
+    {
+     "title": "EssilorLuxottica Q3 2026 Revenue",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/essilorluxottica-q3-2026-revenue-revenue-160000880.html"
+    },
+    {
+     "title": "EssilorLuxottica Q3 2026 电话会实录",
+     "url": "https://stockanalysis.com/quote/epa/EL/transcripts/654009-q3-2026-tu/"
+    },
+    {
+     "title": "丹阳市监局通报：建议售价 1980 元的眼镜片批发价 30 元",
+     "url": "https://www.thepaper.cn/newsDetail_forward_34279212"
+    },
+    {
+     "title": "从「看得清」到「控得住」，离焦镜片百亿赛道持续扩容（人民日报健康客户端）",
+     "url": "https://www.sohu.com/a/1090307958_121124517"
+    }
+   ]
+  },
+  {
+   "title": "轻奢包袋分化：全价销售加爆款单品的品牌在涨，靠批发和打折的品牌在跌",
+   "tier1": "箱包",
+   "body": "48 小时内，几家轻奢和准奢侈品牌的数据分化明显。Mulberry 上半财年 +18%，美国 +28%（同店 +34%），促销占比下降 300 个基点，增长来自拉菲草、钩织等新品和 Bayswater 等经典款。Longchamp CEO 向 Vogue Business 透露，2025 年 +10%、北美 +40%，2026 年预计双位数增长，165 美元的 Le Pliage 是最畅销款。反方向是 Ferragamo：三季度 −6.2%，批发 −15%；UBS 也下调 Tapestry 目标价，称 Coach 趋势放缓。\n\n结构性原因：重奢连续提价后，150 到 800 美元的入门价带空出来了，但在中产预算收紧时，消费者只为两类东西买单：一是辨识度高、价格透明的标志款，二是新鲜材质带来的新鲜感。批发渠道一打折，品牌在这个价带的信用就被稀释。增长主要在美国，中国普遍承压（Longchamp 中国仅个位数）。\n\n竞争格局：Coach 处在高基数后的放缓期；Mulberry、Longchamp 靠全价和单品取胜；欧洲老牌（Ferragamo）还在收缩批发。中国本土品牌在同价带用设计和工艺切入，日经报道山下有松 1880 元的月弯包成了外国游客的伴手礼。\n\n对经营者：收缩批发、控制折扣深度，集中资源做一款能被年轻人自发传播的标志款，并提供低成本的个性化（参考 My Pliage）。对投资人：重点看全价销售占比、批发占比和美国敞口。Mulberry 中期目标是收入 2 亿英镑、EBIT 利润率 15%，可作跟踪锚点；Tapestry 11/5 的财报要看 Coach 增速回落的幅度，以及 Kate Spade 是否止跌。",
+   "refs": [
+    {
+     "title": "Mulberry shares surge as first-half sales rise 18%",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/mulberry-shares-surge-first-half-090132551.html"
+    },
+    {
+     "title": "The Unlikely Longevity of Longchamp（Vogue Business）",
+     "url": "https://www.vogue.com/article/the-unlikely-longevity-of-longchamp"
+    },
+    {
+     "title": "Ferragamo Sales Slide 2.8% in Nine Months（Modaes）",
+     "url": "https://www.modaes.com/global/companies/ferragamos-sales-drop-28-in-the-first-nine-months-impacted-by-europe-and-wholesale"
+    },
+    {
+     "title": "UBS lowers Tapestry price target（MarketBeat）",
+     "url": "https://www.marketbeat.com/instant-alerts/analyst-tapestry-nyse-tpr-stock-price-target-lowered-at-ubs-group-2026-10-20/"
+    },
+    {
+     "title": "China's Songmont, Pane accessory brands shine with thrifty shoppers",
+     "url": "https://kr-asia.com/chinas-songmont-pane-accessory-brands-shine-with-thrifty-shoppers"
+    }
+   ]
+  }
+ ],
+ "trends": [
+  {
+   "title": "AI 眼镜分层：无摄像头版、处方版和验配渠道",
+   "tier1": "眼镜",
+   "stage": "上升",
+   "description": "依视路陆逊梯卡称可穿戴三季度 +20%，SKU 已超过 100 个；无摄像头版 Ray-Ban Meta 和入门价 Meta 眼镜在进一步细分人群；处方片在可穿戴中的渗透约三分之一，Transitions 变色片约 60%。马来西亚首发就包含处方镜框版 Ray-Ban Meta Optics，渠道覆盖眼镜连锁。国内 Rokid 与博士眼镜签约做验配一体化，明月镜片明确只做屈光矫正。商务部数据：1–9 月重点平台智能眼镜销售额增长 1.1 倍。",
+   "opportunity": "真正的门槛在验光和处方镜片：传统眼镜连锁和镜片厂可以做 AI 眼镜的验配服务商，按处方片和服务收费。在隐私监管趋严的地区（欧洲），无摄像头的音频/助听版本更容易被接受。",
+   "evidence": [
+    {
+     "title": "EssilorLuxottica Q3 电话会实录",
+     "url": "https://stockanalysis.com/quote/epa/EL/transcripts/654009-q3-2026-tu/"
+    },
+    {
+     "title": "Ray-Ban Meta / Oakley Meta 马来西亚上市",
+     "url": "https://klgadgetguy.com/ray-ban-meta-gen-3-oakley-meta-ai-glasses-malaysia-price/"
+    },
+    {
+     "title": "乐奇 Rokid × 博士眼镜战略合作",
+     "url": "https://www.abvr360.com/a/34602"
+    },
+    {
+     "title": "商务部：1–9 月重点平台智能眼镜销售额增长 1.1 倍",
+     "url": "https://www.ithome.com/1/015/038.htm"
+    }
+   ]
+  },
+  {
+   "title": "平价「致敬款」腕表：枕形/八角表壳、36mm 小尺寸、复刻",
+   "tier1": "珠宝腕表",
+   "stage": "上升",
+   "description": "瑞士钟表工业联合会数据：9 月出口价 500 瑞郎以下的表 +39.5%，是增幅最大的价格段。G-SHOCK 2500（「CasioNaut」，枕形壳、全指针）发出官方预告，下月上市；Timex × Dimepiece 36mm Intrepid 复刻推出第二版，售价 269 美元；卡西欧 Edifice 推出 8mm 薄款八角圈。平价表正在借用高端运动表的造型语言。",
+   "opportunity": "国产腕表（如飞亚达）和时尚表品牌可以做 1000–2000 元的小尺寸、异形壳、限量联名款，用造型和叙事而不是机芯参数来竞争；渠道上适合电商首发加快闪。",
+   "evidence": [
+    {
+     "title": "Swiss Watch Exports Rise in September（WWD）",
+     "url": "https://wwd.com/accessories-news/watches/swiss-watch-exports-rise-september-1239376107/"
+    },
+    {
+     "title": "G-Shock Gives Fans Their First Official Look at Its Viral Nautilus Lookalike",
+     "url": "https://www.gearpatrol.com/watches/casio-g-shock-casionaut-2500-teaser/"
+    },
+    {
+     "title": "Introducing: The Timex Intrepid x Dimepiece 'Blackout' Edition",
+     "url": "https://www.hodinkee.com/articles/the-timex-intrepid-x-dimepiece-blackout-edition"
+    }
+   ]
+  },
+  {
+   "title": "拉菲草/钩织包从秀场潮流进入财报",
+   "tier1": "箱包",
+   "stage": "上升",
+   "description": "10/15 期把编织、钩织包列为 SS27 趋势。本期 Mulberry 在半年交易更新里点名 Raffia、Crochet 系列是带动销售 +18% 的新品之一，同时促销占比下降 300 个基点，说明这类材质能卖全价，不只是话题款。",
+   "opportunity": "狮岭、白沟的产业带工厂可以把钩织、草编工艺做成可复购的基础款（托特、水桶包），加皮质包边提升耐用度；品牌端适合做季节性限定，拉高客单价，同时不必降价清货。",
+   "evidence": [
+    {
+     "title": "Mulberry H1 sales +18%，Raffia / Crochet 新品带动",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/mulberry-shares-surge-first-half-090132551.html"
+    }
+   ]
+  },
+  {
+   "title": "国货轻奢成为来华游客的「China Haul」伴手礼",
+   "tier1": "箱包",
+   "stage": "萌芽",
+   "description": "日经报道，上海淮海路山下有松门店工作日也有年轻人和外国游客排队，有顾客专门买来送海外朋友；鞋履品牌 Pane 门店挤满外国游客，上半年主要电商平台 GMV 接近翻三倍。理性消费下，「品质 + 合理价格 + 东方叙事」的本土品牌正在替代一部分海外大牌。",
+   "opportunity": "一线城市核心商圈门店可以针对入境客群做多语种服务、离境退税、礼盒和城市限定款；品牌出海可以先借助游客口碑，再落地东南亚（山下有松已进入泰国）。",
+   "evidence": [
+    {
+     "title": "China's Songmont, Pane accessory brands shine with thrifty shoppers（Nikkei Asia / KrASIA）",
+     "url": "https://kr-asia.com/chinas-songmont-pane-accessory-brands-shine-with-thrifty-shoppers"
+    },
+    {
+     "title": "中国品牌全球化路径观察：越想让世界看懂自己，就要越懂得克制（澎湃）",
+     "url": "https://www.thepaper.cn/newsDetail_forward_34292467"
+    }
+   ]
+  }
+ ],
+ "brand_insights": [
+  {
+   "brand": "依视路",
+   "tier1": "眼镜",
+   "title": "依视路陆逊梯卡 Q3：传统镜片和镜架没有降级，AI 眼镜进入高基数期，近视管理成第二增长曲线",
+   "body": "战略：集团首次按季度披露「传统业务」和「可穿戴」两类收入。三季度传统业务（含并购）+6.5%，比上半年加快；可穿戴 +20%，但这还不包含 Meta Connect 2026 新品的贡献。增长结构从「AI 眼镜讲故事」回到「镜片 + 镜架 + 零售」的基本盘，近视管理（+24%）是利润率最高的增量。\n\n渠道：直营 +10.6%，同店 +6.8%。北美 LensCrafters 连续 15 个季度同店为正，订阅制 LensCrafters Plus 已覆盖 900 多家门店；Sunglass Hut 北美同店 +8%（去年同期也是 +8%）。亚太 +15.7%，印度、日本、韩国都是双位数，中国略低于双位数，已并购的泰国 Top Charoen 开始贡献。\n\n产品与定价：CFO 称传统业务主要靠价格和产品组合拉动，镜架、镜片销量也为正，「没有看到消费降级」；可穿戴的价格组合在改善，SKU 已约 100 个，入门款和无摄像头款继续细分人群。\n\n竞争：近视管理上，管理层称在美国它是唯一能提供近视管理框架镜片的公司，中国则要和本土离焦品牌、白牌贴牌竞争；中国区暴龙负增长，我们推测是中价镜架受到本土设计品牌挤压（集团未解释原因）。AI 眼镜在欧洲转负，还面临隐私和监管审查。",
+   "investor_view": "三季度看点是基本盘：在高基数上传统业务还在加速，价格组合向上，说明它的定价权来自专业渠道和零售网络，而不只是 AI 眼镜题材。可穿戴进入高基数期，四季度和 2027 年要看新品放量和欧洲监管；近视管理是估值里被低估的部分，能否保持 20% 以上增长是关键变量。风险：中国区放缓、暴龙等本土化品牌转负、汇率。",
+   "operator_view": "对国内眼镜零售和镜片企业：一要对标它的「处方片 + 智能眼镜」组合，AI 眼镜里约三分之一用户配处方片，验配就是收入来源；二要在近视管理上建立临床和随访体系，丹阳事件之后，没有数据的离焦片会被价格战和监管两头挤压；三是暴龙负增长说明中价镜架要靠设计和门店体验，而不是渠道铺货。",
+   "sources": [
+    {
+     "title": "EssilorLuxottica: Q3 2026 Revenue",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/essilorluxottica-q3-2026-revenue-revenue-160000880.html"
+    },
+    {
+     "title": "EssilorLuxottica Q3 2026 电话会实录",
+     "url": "https://stockanalysis.com/quote/epa/EL/transcripts/654009-q3-2026-tu/"
+    },
+    {
+     "title": "官网新闻稿",
+     "url": "https://www.essilorluxottica.com/en/newsroom/press-releases/q3-2026-revenue/"
+    }
+   ]
+  },
+  {
+   "brand": "GENTLE MONSTER",
+   "tier1": "眼镜",
+   "title": "Gentle Monster：用机器人实验室和刑事诉讼守住「设计 + 空间」壁垒",
+   "body": "战略：母公司 IICOMBINED（旗下还有 Tamburins、Nudake）把门店当作品牌宇宙的载体。2017 年以 20 亿韩元收购机器人公司 Wizard，成立约 60 人的 Robotics Lab，为门店做了 40 多件机器人和动态装置。首尔圣水洞旗舰店 House Nowhere 以「Future Retail」为定位，弱化陈列和销售。\n\n渠道与产品：线下体验店加联名（Prada、Maison Margiela），并和 Google、三星合作智能眼镜。前几期已收录它进驻上海西岸梦中心、长租纽约 Puck Building 约 2.85 万平方英尺空间，以及和 Prada 联名售罄。Korea Herald 披露：86 家门店中约 50 家在海外，计划 3–5 年扩到约 200 家；去年海外收入从 3037 亿韩元增到 3329 亿韩元，占比超过 40%，总收入 7723 亿韩元，同比 −2.1%，是多年来首次下滑。Blue Elephant 镜框售价 5–7 万韩元，Gentle Monster 为 20–30 万韩元。\n\n竞争与定价：韩国眼镜热带出一批低价跟随者，Blue Elephant 用相似款式、更低价格和画廊式门店快速扩张。IICOMBINED 2024 年 12 月提起刑事控告，2025 年 10 月提起民事诉讼；检方指控对方卖出 51 款仿款、约 32.1 万件、123 亿韩元，其中 29 款 3D 轮廓吻合度在 95% 以上，18 款超过 99%，这是韩国首例对未注册外观设计提起刑事诉讼。案件仍在一审，12 月和 1 月继续开庭。",
+   "investor_view": "Gentle Monster 的估值溢价来自「设计辨识度 + 空间体验」，但这两项都容易被复制。诉讼结果决定未注册的设计能否得到法律保护，判赢会显著提高跟随者的成本。机器人实验室和大店是重资本开支，要关注单店坪效和新店爬坡；智能眼镜合作是期权，不宜过早计入。",
+   "operator_view": "对国内时尚眼镜品牌（如木九十、BLACKHEAD、帕莎）：一要建立设计存证、3D 扫描比对和外观专利的常规流程，Blue Elephant 案说明抄袭可以被量化和追责；二是门店体验投入要算回报，可以学它「装置自研、可复用」的做法，降低单店成本；三是联名和科技合作能抬高品牌势能，但核心仍是每季稳定出款。",
+   "sources": [
+    {
+     "title": "The 'suspicious lab' inside an eyewear company that caught Google's and Samsung Electronics' attention",
+     "url": "https://biz.heraldcorp.com/article/10908372"
+    },
+    {
+     "title": "Gentle Monster vs. Blue Elephant: a bitter battle over imitation（Korea Herald）",
+     "url": "https://www.koreaherald.com/article/10906068"
+    }
+   ]
+  }
+ ],
+ "reading_list": [
+  {
+   "title": "The Unlikely Longevity of Longchamp",
+   "source": "Vogue Business",
+   "date": "2026-10-20",
+   "url": "https://www.vogue.com/article/the-unlikely-longevity-of-longchamp",
+   "tier1": "箱包"
+  },
+  {
+   "title": "Brands Prepare for More Looting as Further Protests Are Planned Across Europe",
+   "source": "Vogue Business",
+   "date": "2026-10-20",
+   "url": "https://www.vogue.com/article/brands-prepare-for-more-looting-as-further-protests-are-planned-across-europe",
+   "tier1": "综合"
+  },
+  {
+   "title": "Why Luxury Marketing Is Getting More Restrained（付费）",
+   "source": "BoF",
+   "date": "2026-10-20",
+   "url": "https://www.businessoffashion.com/articles/marketing-pr/why-luxury-marketing-is-getting-more-restrained/",
+   "tier1": "综合"
+  },
+  {
+   "title": "金店遭遇「关店潮」，三大品牌半年减少 1000 多家店，行业大换血",
+   "source": "投中网",
+   "date": "2026-10-20",
+   "url": "https://www.chinaventure.com.cn/news/78-20261020-393686.html",
+   "tier1": "珠宝腕表"
+  },
+  {
+   "title": "金价高位波动下黄金珠宝消费连续三个月负增长，头部品牌半年净关店近 2000 家",
+   "source": "虎嗅（斑马消费）",
+   "date": "2026-10-21",
+   "url": "https://www.huxiu.com/article/4899097.html",
+   "tier1": "珠宝腕表"
+  },
+  {
+   "title": "EssilorLuxottica Q3 2026 Earnings Call Transcript",
+   "source": "StockAnalysis",
+   "date": "2026-10-20",
+   "url": "https://stockanalysis.com/quote/epa/EL/transcripts/654009-q3-2026-tu/",
+   "tier1": "眼镜"
+  },
+  {
+   "title": "从「看得清」到「控得住」，离焦镜片百亿赛道持续扩容",
+   "source": "人民日报健康客户端（搜狐转载）",
+   "date": "2026-10-20",
+   "url": "https://www.sohu.com/a/1090307958_121124517",
+   "tier1": "眼镜"
+  },
+  {
+   "title": "Gentle Monster vs. Blue Elephant: Behind K-eyewear's global boom, a bitter battle over imitation",
+   "source": "Korea Herald",
+   "date": "2026-10-18",
+   "url": "https://www.koreaherald.com/article/10906068",
+   "tier1": "眼镜"
+  },
+  {
+   "title": "The 'suspicious lab' inside an eyewear company that caught Google's and Samsung Electronics' attention",
+   "source": "Herald Business",
+   "date": "2026-10-20",
+   "url": "https://biz.heraldcorp.com/article/10908372",
+   "tier1": "眼镜"
+  },
+  {
+   "title": "China's Songmont, Pane accessory brands shine with thrifty shoppers",
+   "source": "Nikkei Asia / KrASIA",
+   "date": "2026-10-19",
+   "url": "https://kr-asia.com/chinas-songmont-pane-accessory-brands-shine-with-thrifty-shoppers",
+   "tier1": "箱包"
+  },
+  {
+   "title": "Kering Q3 2026 Preview: What to Watch in the 22 October Release",
+   "source": "Milano Fashion World",
+   "date": "2026-10-20",
+   "url": "https://milanofashionworld.com/article/kering-q3-2026-preview-what-to-watch-gucci-bottega-veneta-loreal-beauty-deal",
+   "tier1": "综合"
+  }
+ ],
+ "brand_scan": {
+  "window": "2026-10-19..2026-10-21",
+  "method": "逐一检索 64 个品牌（中文名、英文名、别名）：每个品牌用 Google News RSS（中文、英文）和 Bing News RSS 检索，起点为 10/19 00:00（北京时间），候选条目都打开原文核对发布日期；另用 X search_posts_all 跑了 2 组品牌合并查询（中英文），噪声高，只作舆情参考。行业层做了中文 37 组、英文 40 组主题扫描，并抓取集团公告、电话会实录和行业媒体原文核实。Exa 本轮返回 HTTP 429 限流，改用原文抓取",
+  "note": "有新动态的品牌 8/64：依视路、雅瑞光学、欧克利、GENTLE MONSTER、山下有松、卡西欧、天美时集团、明月镜片。其余品牌在窗口内没有检到可核实日期和原文链接的新闻（不代表品牌没有活动）。未计入：万事利（只有资金流和 12315 投诉公示类自动稿）；Fakeme、GENTLE MONSTER × 章若楠（只有微博、小红书、X 等社媒内容）；卡拉羊（软文号测评）；蔡司 × 千叶眼镜公益活动（软文稿）；新秀丽（只有电商促销和南向资金自动稿）；暴龙新加坡秋冬系列（只有生活方式博客，未计入）；FANCI范琦（检到的是同名自然人的减持公告，与品牌无关）。大图（DITA）按用户偏好跳过，不追踪。",
+  "per_brand": {
+   "裘真": "未检到可核实新动态",
+   "Fakeme": "未检到可核实新动态",
+   "山下有松": "有动态",
+   "LOLA ROSE": "未检到可核实新动态",
+   "HEFANG": "未检到可核实新动态",
+   "雅瑞光学": "有动态",
+   "ARSIS": "未检到可核实新动态",
+   "蔡司": "未检到可核实新动态",
+   "依视路": "有动态",
+   "CHARLES&KEITH": "未检到可核实新动态",
+   "新秀丽": "未检到可核实新动态",
+   "ITO": "未检到可核实新动态",
+   "GROTTO个乐": "未检到可核实新动态",
+   "白岚": "未检到可核实新动态",
+   "万事利": "未检到可核实新动态",
+   "ECODAY": "未检到可核实新动态",
+   "bampo": "未检到可核实新动态",
+   "卡西欧": "有动态",
+   "德津": "未检到可核实新动态",
+   "LEVEL8地平线8号": "未检到可核实新动态",
+   "九格眼镜": "未检到可核实新动态",
+   "欧克利": "有动态",
+   "FANCI范琦": "未检到可核实新动态",
+   "GENTLE MONSTER": "有动态",
+   "纽芝兰": "未检到可核实新动态",
+   "明月镜片": "有动态",
+   "CECE": "未检到可核实新动态",
+   "柯达": "未检到可核实新动态",
+   "BAGSMART": "未检到可核实新动态",
+   "CIGALONG": "未检到可核实新动态",
+   "abyb jewelry": "未检到可核实新动态",
+   "海伦凯勒眼镜": "未检到可核实新动态",
+   "包包树BAGTREE": "未检到可核实新动态",
+   "飞亚达": "未检到可核实新动态",
+   "梵誓ONESWEAR": "未检到可核实新动态",
+   "KKLUE轻珠宝": "未检到可核实新动态",
+   "天美时集团": "有动态",
+   "JELLYTOYBOY": "未检到可核实新动态",
+   "卡蒂罗": "未检到可核实新动态",
+   "尤目": "未检到可核实新动态",
+   "ORANGE CUBE": "未检到可核实新动态",
+   "古良吉吉": "未检到可核实新动态",
+   "亨得利钟表": "未检到可核实新动态",
+   "甲目眼镜": "未检到可核实新动态",
+   "TAD FAB": "未检到可核实新动态",
+   "FANGYI方宜": "未检到可核实新动态",
+   "老雷线上配镜": "未检到可核实新动态",
+   "抱树BYROOTS": "未检到可核实新动态",
+   "TELETIES": "未检到可核实新动态",
+   "DAVENA": "未检到可核实新动态",
+   "首末集团": "未检到可核实新动态",
+   "大图": "跳过（用户偏好，不追踪）",
+   "卡拉羊": "未检到可核实新动态",
+   "P&N": "未检到可核实新动态",
+   "PARIM": "未检到可核实新动态",
+   "上海夕和眼镜": "未检到可核实新动态",
+   "超视立": "未检到可核实新动态",
+   "御行": "未检到可核实新动态",
+   "木九十": "未检到可核实新动态",
+   "天空树假发": "未检到可核实新动态",
+   "不莱玫": "未检到可核实新动态",
+   "帕莎": "未检到可核实新动态",
+   "CASSILE卡思乐": "未检到可核实新动态",
+   "BLACKHEAD": "未检到可核实新动态"
+  }
+ },
+ "sources": [
+  {
+   "name": "EssilorLuxottica IR",
+   "url": "https://www.essilorluxottica.com/en/investors/financial-publications/",
+   "tier1": "眼镜"
+  },
+  {
+   "name": "瑞士钟表工业联合会 FH",
+   "url": "https://www.fhs.swiss/",
+   "tier1": "珠宝腕表"
+  },
+  {
+   "name": "Hermès Finance 日历",
+   "url": "https://finance.hermes.com/en/calendar/",
+   "tier1": "综合"
+  },
+  {
+   "name": "中国国际珠宝展",
+   "url": "http://www.bjjewelfair.com/",
+   "tier1": "玉石翡翠"
+  }
+ ]
+}
