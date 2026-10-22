@@ -1,0 +1,607 @@
+{
+ "date": "2026-10-22",
+ "headline": "爱马仕 Birkin 二手溢价收窄、UBS 降至「卖出」，爱马仕与开云今天发布三季报；依视路陆逊梯卡单日 +14.6%；汇丰下调老铺黄金；香奈儿在武汉 SKP 围挡内地新精品店",
+ "summary": "今天最强的信号在箱包和奢侈品定价权：Reuters 报道 Birkin 二手价相对零售价从 2022 年约 2.6 倍降到约 1.7 倍，UBS 把爱马仕降到「卖出」，爱马仕今天（10/22）发布三季度营收，一致预期 +5.2%，为六年来最慢，开云同日发布。依视路陆逊梯卡三季报后单日大涨约 14.6%，市场为「传统镜架镜片没有降级」买单。珠宝方面，汇丰认为老铺黄金的销售没能与金价脱钩，下调评级；金价自 8 月高点回落约 13%，轻克重金饰走俏。腕表方面，二手奢表价格连涨五个季度，但劳力士放缓、库存创纪录；BoF 关注香奈儿入股中端表厂 Ebel。渠道方面，香奈儿在武汉 SKP 围挡独栋店，是 2024 年底沈阳店之后首个内地新精品店项目；新秀丽旗下 Tumi 巴黎旗舰面积翻倍、走向高端。眼镜方面，丹阳近视防控镜案公布扣押细节，维多利亚州立法禁止学校内使用智能眼镜。行业动态以 10/21–10/22 为主，少数 10/20 的条目已注明放宽到 48 小时；品牌动态时间窗为 48 小时（10/20 00:00 起，北京时间）。",
+ "industry_news": [
+  {
+   "date": "2026-10-21",
+   "source": "Reuters（经 MSN）",
+   "title": "Birkin 稀缺光环褪色：二手溢价从 2022 年约 2.6 倍降到约 1.7 倍，UBS 把爱马仕评级降到「卖出」",
+   "url": "https://www.msn.com/en-ca/news/other/end-of-an-era-how-the-hermes-birkin-bag-is-losing-its-scarcity-appeal/ar-AA2fIYaZ",
+   "tier1": "箱包",
+   "type": "市场",
+   "importance": 5,
+   "segment": "奢侈品",
+   "summary": "Reuters 采访了 9 家 Birkin 转售商，6 家说过去一年二手价下跌，5 家说需求走软。Bernstein 统计三季度 Birkin 25 拍卖均价约为零售价的 1.7 倍，2022 年峰值约 2.6 倍；UBS 估计全球在售 Birkin/Kelly 数量是疫情前的 6–7 倍，本月把爱马仕降到「卖出」。Fashionphile 称其平台 Birkin 挂牌量 15 年增长 32 倍。爱马仕股价年内跌近 40%。Visible Alpha 一致预期爱马仕 10/22 发布的三季度营收增长 5.2%，为六年来最慢；皮具预计仍有 +10%，成衣、丝巾、香水在降温。开云也定在 10/22 发布三季度营收。"
+  },
+  {
+   "date": "2026-10-21",
+   "source": "Reuters（经 MSN）",
+   "title": "依视路陆逊梯卡单日大涨约 14.6%，创 2008 年以来最大单日涨幅：传统镜架镜片撑起三季度",
+   "url": "https://www.msn.com/en-gb/money/top-stocks/ray-ban-maker-s-shares-jump-as-strong-eyewear-sales-temper-ai-glasses-worries/ar-AA2fJaoS",
+   "tier1": "眼镜",
+   "type": "资本",
+   "importance": 4,
+   "segment": "奢侈品",
+   "summary": "10/20 盘后发布三季报后，10/21 股价一度涨超 14%。市场看重的是传统眼镜业务稳健，而 AI 眼镜增速从上季度近 100% 降到 20%。Bernstein 认为 Google Gemini 眼镜年底上市是「第一次压力测试」，公司对四季度表态保守是合理的；RBC 认为估值有吸引力、具防御性。股价较一年前高点仍接近腰斩。"
+  },
+  {
+   "date": "2026-10-21",
+   "source": "虎嗅（转自界面新闻）",
+   "title": "香奈儿在武汉 SKP 围挡独栋店，为 2024 年底沈阳店之后首家内地新精品店；杭州西湖项目为 VIC 沙龙",
+   "url": "https://www.huxiu.com/article/4899299.html",
+   "tier1": "综合",
+   "type": "渠道",
+   "importance": 4,
+   "segment": "奢侈品",
+   "summary": "香奈儿内地目前 18 家精品店 + 2 家鞋履店，覆盖 13 城，远少于 LV、Dior（各 50 家以上）和爱马仕（近 40 家）。界面获悉杭州西湖香格里拉 3 号别墅约 1400 平方米的项目是面向 VIC 的「尊享沙龙」而非精品店。Bernstein 的 Luca Solca 认为香奈儿门店基数低、Matthieu Blazy 的新系列带动 2026 上半年可比收入约 +16%，有理由继续扩店。对比：LV 2026 年内地仅开 1 家新店，贵阳荔星中心多个重奢已撤场。"
+  },
+  {
+   "date": "2026-10-21",
+   "source": "Vogue Business",
+   "title": "Moncler 三季度营收 6.055 亿欧元，同比持平；品牌 EMEA −9%，亚洲 +5%",
+   "url": "https://www.vogue.com/article/moncler-revenues-remain-flat-in-q3",
+   "tier1": "综合",
+   "type": "数据",
+   "importance": 3,
+   "segment": "奢侈品",
+   "summary": "Moncler 品牌三季度 −1%（直营 −2%、批发 +2%），Stone Island +5%；前九个月集团 +6% 至 19 亿欧元。EMEA 受 9 月高温和游客消费减弱拖累，亚洲各国均正增长、日韩领先。管理层称中国客群仍是最强客群，国庆黄金周好于去年。可作为本周开云、爱马仕业绩的参照：欧洲游客消费走弱是共同变量。"
+  },
+  {
+   "date": "2026-10-21",
+   "source": "证券之星（金吾财讯）",
+   "title": "汇丰把老铺黄金降为「持有」、目标价下调 39% 至 322.9 港元：三季度复苏不及预期，销售没能与金价脱钩",
+   "url": "https://hk.stockstar.com/IG2026102100019827.shtml",
+   "tier1": "珠宝腕表",
+   "type": "资本",
+   "importance": 4,
+   "segment": "奢侈品",
+   "summary": "汇丰此前看多的逻辑是品牌资产让老铺销售摆脱金价周期；但 9 月金价回调反而抑制了需求，说明需求仍对金价高度敏感。汇丰下调 2026–2028 年净利预测 21%/41%/45%，低于市场一致预期。10/21 股价收跌约 3.8% 至 297.2 港元。"
+  },
+  {
+   "date": "2026-10-21",
+   "source": "新浪财经（证券日报）",
+   "title": "金价自 8 月高点回落约 12.8%，北京金店客流回升，3–10 克轻克重硬足金走俏",
+   "url": "https://finance.sina.com.cn/money/nmetal/gjshz/2026-10-21/doc-inivxrnx6305049.shtml",
+   "tier1": "珠宝腕表",
+   "type": "市场",
+   "importance": 3,
+   "segment": "大众",
+   "summary": "10/20 品牌足金报价每克回调 8–14 元，折后多在 1048–1168 元/克。世界黄金协会 10/16 报告：2026 上半年中国金饰需求吨数 −30%，金额 +5% 至 1440 亿元；44% 的零售商称顾客买金饰主要为「悦己」，18–34 岁是硬足金核心客群。"
+  },
+  {
+   "date": "2026-10-21",
+   "source": "新浪财经",
+   "title": "中国黄金：行业进入「品牌价值重构」期，资本市场从看销量、门店数转向看坪效、溢价和复购；推出文化子品牌「金叙」",
+   "url": "https://finance.sina.com.cn/money/nmetal/gjshz/2026-10-21/doc-inivyxhf5371899.shtml",
+   "tier1": "珠宝腕表",
+   "type": "市场",
+   "importance": 2,
+   "segment": "大众",
+   "summary": "中国黄金珠宝副总经理金文一在 10/20–22 上海可持续全球领导者大会黄金论坛上说，投资者关注点已从产品销量、渠道数量、营收规模，转向单位坪效、品牌营销、产品溢价、定价模式（按克/按件）和复购率。今年推出的「金叙」子品牌主打文化黄金，已在北京、南京、广州、天津开 4 家直营店。"
+  },
+  {
+   "date": "2026-10-21",
+   "source": "FashionUnited",
+   "title": "历峰旗下 Delvaux 上一财年营收 −43% 至 4069 万欧元，净亏损扩大到 4342 万欧元；历峰出具支持函至 2027 年 9 月",
+   "url": "https://fashionunited.uk/news/business/delvaux-posts-wider-losses-as-revenue-plunges-richemont-continues-support/2026102190981",
+   "tier1": "箱包",
+   "type": "数据",
+   "importance": 3,
+   "segment": "奢侈品",
+   "summary": "数据为比利时主体 Delvaux Créateur SA 截至 2026 年 3 月的财年。比利时本土销售 +11%，欧盟其他地区从 2315 万欧元降到 158 万欧元，出口 −40%（海外分销由历峰直接负责，口径变化可能放大降幅）。董事会称门店网络重组后下半财年恢复增长，战略转向本地客户、高潜力新市场和老店翻新。"
+  },
+  {
+   "date": "2026-10-21",
+   "source": "FashionNetwork",
+   "title": "Kate Spade 签约伦敦 Wembley Park 的 LDO 奥莱店，五年租约，年内开业",
+   "url": "https://us.fashionnetwork.com/news/Kate-spade-signs-five-year-lease-for-ldo-store,1877876.html",
+   "tier1": "箱包",
+   "type": "渠道",
+   "importance": 2,
+   "segment": "轻奢",
+   "summary": "面积 1341 平方英尺，邻居包括 Boss、Calvin Klein、Tommy Hilfiger、Kurt Geiger 等。Kate Spade 今年还换了创意总监（Jonathan Saunders）和 CMO，签下 Movado 腕表授权和代言人 Tyla。Tapestry 11/5 发布财报，Kate Spade 能否止跌仍是看点；继续加码奥莱也说明其价格带仍偏折扣渠道。"
+  },
+  {
+   "date": "2026-10-21",
+   "source": "每日经济新闻（MK）",
+   "title": "Coach 在首尔 Musinsa Space 首尔林开快闪店「LIVE YOUR STORY」（10/19–11/7），主攻 Z 世代",
+   "url": "https://www.mk.co.kr/en/business/12181464",
+   "tier1": "箱包",
+   "type": "营销",
+   "importance": 2,
+   "segment": "轻奢",
+   "summary": "快闪店围绕秋季广告「Courage to Be Real / Live Your Story」，以音乐现场和街头海报为主题，设歌单录制、故事墙等互动。Coach 继续借买手平台（Musinsa）的线下空间触达年轻客群。"
+  },
+  {
+   "date": "2026-10-20",
+   "source": "Forbes",
+   "title": "二手奢表价格三季度 +1.2%，连续五个季度涨超 1%；但在售库存创纪录，劳力士仅 +0.5%",
+   "url": "https://www.forbes.com/sites/garthfriesen/2026/10/20/luxury-watch-prices-rise-again-but-record-inventory-clouds-the-outlook/",
+   "tier1": "珠宝腕表",
+   "type": "数据",
+   "importance": 4,
+   "segment": "奢侈品",
+   "summary": "引用摩根士丹利 10/13 报告和 WatchCharts 指数：35 个品牌中 28 个上涨，指数同比 +8.3%，但仍比 2022 年 4 月峰值低约 29%。百达翡丽季度 +2.6%、同比 +17.6%，朗格 +4.4%、萧邦 +3.8%、江诗丹顿 +3.1%；劳力士需求走平，二级市场库存创新高。在售供给增速快于消费，可能限制品牌后续提价空间。（时间窗放宽：美东 10/20 发布）"
+  },
+  {
+   "date": "2026-10-21",
+   "source": "BoF（付费）",
+   "title": "BoF 分析：香奈儿为何投资中端表厂 Ebel",
+   "url": "https://www.businessoffashion.com/articles/luxury/chanel-ebel-investment-fp-journe-swiss-watch-revival/",
+   "tier1": "珠宝腕表",
+   "type": "资本",
+   "importance": 3,
+   "segment": "奢侈品",
+   "summary": "BoF 10/21 的分析文章，讨论香奈儿投资瑞士中端表厂 Ebel；从标题和链接看，文章还涉及香奈儿此前入股的 F.P. Journe 和瑞士制表复兴。正文需付费，持股比例和交易金额本期未能核实，待补充。"
+  },
+  {
+   "date": "2026-10-20",
+   "source": "Professional Watches",
+   "title": "多家媒体报道泰格豪雅已于今夏停产 Connected 智能表，LVMH 未证实",
+   "url": "https://professionalwatches.com/tag-heuer-ends-decade-old-smartwatch-business/",
+   "tier1": "珠宝腕表",
+   "type": "新品",
+   "importance": 2,
+   "segment": "奢侈品",
+   "summary": "消息源为法国 La Lettre，Android Authority、Notebookcheck 等跟进；据报道泰格豪雅在该产品线累计投入 1.5 亿至 2.5 亿美元以上。官方尚未确认，属待证实信息。（时间窗放宽到 48 小时）"
+  },
+  {
+   "date": "2026-10-22",
+   "source": "光明网（转人民网江苏）",
+   "title": "丹阳近视防控镜后续：执法人员扣押无厂名厂址等标识的镜片 6889 片，3 家涉嫌虚假广告，全市开展眼镜行业全面治理",
+   "url": "https://m.gmw.cn/2026-10/22/content_1304577910.htm",
+   "tier1": "眼镜",
+   "type": "政策",
+   "importance": 3,
+   "segment": "大众",
+   "summary": "昨天已报立案，今天是新增的执法细节：耀程光学扣押 1128 片、博大光学 5045 片（另有 1685 片标注已废止的执行标准）、极采镜片 716 片。耀程、博大、多爱美宣传「减缓眼轴增长」等功效，但都拿不出临床数据，共扣押宣传册 218 份。丹阳市监局将开展全行业治理，重点查标签和虚假广告。"
+  },
+  {
+   "date": "2026-10-21",
+   "source": "中国新闻网",
+   "title": "第四届台州国际眼镜展（10/18–20）海外客商翻倍；台州眼镜 1–7 月出口约 +18%，首设智能眼镜专区",
+   "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718538.shtml",
+   "tier1": "眼镜",
+   "type": "市场",
+   "importance": 3,
+   "segment": "大众",
+   "summary": "展会在临海杜桥镇举行，29 个国家和地区、上万名客商参会。杜桥 20 公里半径内有 800 多家眼镜全链工厂，产业规模近 70 亿元，1500 多个自主品牌；台州全域 1800 多家眼镜及配套企业，全链产值超 150 亿元。有参展企业称 70% 的产品已换成生物基和回收材料，因此拿到欧美订单。"
+  },
+  {
+   "date": "2026-10-21",
+   "source": "香港01",
+   "title": "第 34 届香港国际眼镜展 11/4–6 举行，600 多家展商，AI 智能眼镜和银发产品是两大重点",
+   "url": "https://global.hk01.com/%E7%A4%BE%E4%BC%9A%E6%96%B0%E9%97%BB/60402008/%E8%B4%B8%E5%8F%91%E5%B1%80%E4%B8%BB%E5%8A%9E%E9%A6%99%E6%B8%AF%E5%9B%BD%E9%99%85%E7%9C%BC%E9%95%9C%E5%B1%9511%E6%9C%88%E7%99%BB%E5%9C%BA-ai%E6%99%BA%E8%83%BD%E7%9C%BC%E9%95%9C%E5%8F%8A%E9%93%B6%E5%8F%91%E4%BA%A7%E5%93%81%E6%88%90%E7%84%A6%E7%82%B9",
+   "tier1": "眼镜",
+   "type": "市场",
+   "importance": 2,
+   "segment": "大众",
+   "summary": "贸发局引用的数据：2025 年全球 AI 眼镜出货 870 万台、同比 +322%；2026 年一季度全球智能眼镜出货 356.6 万台、同比 +130%。银发品类包括渐进片、智能老花镜和骨传导音频眼镜。"
+  },
+  {
+   "date": "2026-10-21",
+   "source": "MIXED Reality News",
+   "title": "澳大利亚维多利亚州：2027 年起所有学校禁止学生在校使用智能眼镜，公立学校教师和家长全时段禁戴",
+   "url": "https://mixed-news.com/en/victoria-bans-smart-glasses-all-schools-2027-teachers-parents/",
+   "tier1": "眼镜",
+   "type": "政策",
+   "importance": 3,
+   "segment": "大众",
+   "summary": "把手机禁令扩展到智能眼镜等可拍摄的可穿戴设备，覆盖公立、天主教和独立学校；成年人禁令目前只覆盖公立学校，残障人士可豁免。西澳已先行。继欧洲隐私审查之后，又一个监管信号，利好无摄像头款。"
+  },
+  {
+   "date": "2026-10-21",
+   "source": "电商派",
+   "title": "许昌发制品 2025 年出口 172 亿元、+4.9%，占全球市场六成以上；无胶假发借 TikTok 内容电商出海",
+   "url": "https://www.pai.com.cn/p/01m5f25p65e4jd32gy9z7g2qg0",
+   "tier1": "服配",
+   "type": "市场",
+   "importance": 3,
+   "segment": "大众",
+   "summary": "许昌有 4000 多家发制品企业、3000 多种产品、从业者超 30 万人，产品销往约 120 个国家和地区，已建 4 个跨境电商园区。瑞贝卡 2025 年海外主营收入 8.72 亿元，占比 72.84%；OQ Hair 主打无胶头套，靠海外达人演示佩戴，2024 年拿下 TikTok Shop 假发类目品牌第一。"
+  }
+ ],
+ "brand_news": [
+  {
+   "brand": "依视路",
+   "date": "2026-10-21",
+   "source": "Yahoo Finance（GuruFocus）",
+   "title": "母公司依视路陆逊梯卡股价单日 +14.55%：三季度可穿戴收入 4.86 亿欧元，约占总收入 6.5%",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/essilorluxottica-stocks-leap-14-6-181406036.html",
+   "summary": "可穿戴（AI 眼镜 + Nuance 助听眼镜）+20%，比上季度近 100% 的增速明显放缓；传统镜片镜架是本季主要增长来源。下一关是在四季度高基数下，让核心业务保持 6% 以上增长。"
+  },
+  {
+   "brand": "欧克利",
+   "date": "2026-10-21",
+   "source": "HiConsumption",
+   "title": "Oakley MUZM 档案计划复刻 Straight Jacket 99，原版配色 Blood Skull、Rootbeer 回归",
+   "url": "https://hiconsumption.com/style/oakley-muzm-straight-jacket-99-archive-colorways/",
+   "summary": "MUZM（读作 museum）是 Oakley 的档案复刻计划，过去两年已复刻 Eyeshade、Scar、Mars，Eye Jacket 也重新走红。这次复刻第二代 Straight Jacket（1999 年改款），沿用原版配色，不做改款。"
+  },
+  {
+   "brand": "卡西欧",
+   "date": "2026-10-21",
+   "source": "Gear Patrol（经 Yahoo）",
+   "title": "G-SHOCK 羊年限定 GBM-2100CXG「CasiOak」金色版现身海外官网",
+   "url": "https://shopping.yahoo.com/style/accessories/articles/g-shock-gives-casioak-watch-154318438.html",
+   "summary": "基于 G-Steel 2100 系列，不锈钢表圈镀金，表盘刻度、指针同为金色；44.4mm、200 米防水不变。2027 年农历羊年从 2 月 6 日开始，G-SHOCK 的生肖款比大多数品牌上得早。"
+  },
+  {
+   "brand": "卡西欧",
+   "date": "2026-10-21",
+   "source": "Notebookcheck",
+   "title": "Baby-G 方形 BGD-565FG 三款 90 年代 grunge 灰调配色在泰国官网上架，3700 泰铢（约 110 美元）",
+   "url": "https://www.notebookcheck.net/Casio-launching-three-more-square-shaped-digital-watches.1430058.0.html",
+   "summary": "亮蓝、灰蓝、烟棕三色，树脂表壳 42.1×37.9×11.3mm，100 米防水，电池约 3 年。卡西欧照例先在东南亚官网上新，再看是否进入北美。"
+  },
+  {
+   "brand": "天美时集团",
+   "date": "2026-10-20",
+   "source": "Notebookcheck",
+   "title": "Timex × Vontélle（眼镜品牌）Marlin 联名两款，199 美元起",
+   "url": "https://www.notebookcheck.net/Timex-unveils-two-Vontelle-Marlin-watches-with-prices-starting-at-199.1427835.0.html",
+   "summary": "一款蓝色人字纹表盘配皮带，40mm 钢壳加圆顶亚克力镜面；另一款是限量编号的石英计时码表礼盒，黑色太阳纹表盘配金色细节。延续 Timex「一个表壳、换联名方表盘」的低成本高频上新打法。"
+  },
+  {
+   "brand": "新秀丽",
+   "date": "2026-10-21",
+   "source": "FashionNetwork",
+   "title": "旗下 Tumi 巴黎香榭丽舍新旗舰开业：面积翻倍、对标奢侈品标准，将为欧洲更多旗舰铺路",
+   "url": "https://ww.fashionnetwork.com/news/Tumi-revamps-brand-image-with-new-paris-flagship-paves-way-for-more-europe-openings,1877836.html",
+   "summary": "新店位于香榭丽舍大街 93 号，约 300 平方米、两层，设维修工坊（80% 维修可快速完成）和 Lando Norris 联名专区。皮质双肩包占业务 60%，售价 650–900 欧元，行李箱最高 1200 欧元。Tumi 约占新秀丽集团四分之一的收入，2026 上半年收入 4.04 亿美元、同比持平；目标是把电商占比从 15% 提到 20%。"
+  },
+  {
+   "brand": "万事利",
+   "date": "2026-10-21",
+   "source": "东方财富（证券日报）",
+   "title": "万事利董事会：2024 年限制性股票激励第二个归属期，公司层面归属比例 85.03%，47 人可归属 91.09 万股",
+   "url": "https://finance.eastmoney.com/a/202610213902813830.html",
+   "summary": "据公告全文（中财网转载），授予价因 2025 年度分红从 4.29 元调整为 4.24 元；因公司层面业绩考核只完成部分，25.19 万股作废，5 名离职人员的 9.15 万股也作废。业绩考核没有全额达标，可以作为观察公司经营的信号。"
+  },
+  {
+   "brand": "雅瑞光学",
+   "date": "2026-10-21",
+   "source": "厦门晚报（经搜狐）",
+   "title": "暴龙 BOLON 入选福建省工信厅 2024—2026 年福建消费名品名录",
+   "url": "https://www.sohu.com/a/1090817196_121106994",
+   "summary": "全省 105 个品牌入选，厦门 24 个；眼镜类为暴龙 BOLON（太阳镜与光学镜架）和艾普镜片，在厦门本地形成镜架 + 镜片配套。该名单是地方政府背书，对渠道招商和政府采购有一定帮助，但对零售动销影响有限。"
+  }
+ ],
+ "insights": [
+  {
+   "title": "爱马仕的稀缺模型被重新定价：二手溢价收窄后，箱包的护城河从「买不到」转向「值得拥有」",
+   "tier1": "箱包",
+   "body": "Reuters 采访的 9 家 Birkin 转售商里 6 家说二手价在跌；Bernstein 统计三季度 Birkin 25 拍卖均价约为零售价 1.7 倍（2022 年峰值约 2.6 倍）；UBS 估计在售 Birkin/Kelly 是疫情前的 6–7 倍，降评级至「卖出」。爱马仕今天发三季报，一致预期 +5.2%，为六年来最慢。\n\n结构性原因：一是供给增加，爱马仕平均每年新开一座工坊，Fashionphile 的 Birkin 挂牌量 15 年增长 32 倍；二是配货链条松动，拿包前的丝巾、成衣等「前置消费」在降温；三是零售价持续上调而二手价下跌，「买了就赚」的投资叙事失效。\n\n竞争格局：二手并非全面走弱。LV Speedy 连续两年是 Fashionphile 销量第一、价值 +16.2%，Prada Re-Edition 升到第三；Whatnot 预计平价位的 Coach 是复古皮具热的最大受益者。溢价正从「稀缺投机」转向「高频可用的标志款」。没有标志款、依赖批发的老牌更难，Delvaux 上一财年营收 −43%。\n\n对经营者：限量和饥饿营销不是长期护城河，要主动管理二手残值：官方回购或 CPO、维修保养、控制配货和折扣节奏。对投资人：今天看爱马仕皮具能否保持约 10% 增长、成衣丝巾是否转负；Bernstein 的二手溢价倍数可作为奢侈品定价权的领先指标。依据主要是转售商访谈和卖方测算，样本有限。",
+   "refs": [
+    {
+     "title": "End of an era? How the Hermes Birkin bag is losing its scarcity appeal（Reuters）",
+     "url": "https://www.msn.com/en-ca/news/other/end-of-an-era-how-the-hermes-birkin-bag-is-losing-its-scarcity-appeal/ar-AA2fIYaZ"
+    },
+    {
+     "title": "Hermès Birkin Resale Premium Fades as UBS Downgrades Stock to Sell（BigGo Finance）",
+     "url": "https://finance.biggo.com/news/f72e4044-af73-4e03-b1ea-488e0e937098"
+    },
+    {
+     "title": "Louis Vuitton Speedy登顶2026年奢侈手袋转售排行榜（时尚商业网，Fashionphile 报告）",
+     "url": "https://www.fashionnetwork.cn/share/6482.html"
+    },
+    {
+     "title": "Vintage Coach Bags... Set to Influence 2027（WWD，Whatnot 报告）",
+     "url": "https://wwd.com/fashion-news/fashion-trends/2027-fashion-beauty-trends-vintage-y2k-k-beauty-glam-1239377667/"
+    },
+    {
+     "title": "Delvaux posts wider losses as revenue plunges（FashionUnited）",
+     "url": "https://fashionunited.uk/news/business/delvaux-posts-wider-losses-as-revenue-plunges-richemont-continues-support/2026102190981"
+    }
+   ]
+  },
+  {
+   "title": "腕表二级市场：价格连涨五个季度，但库存创纪录，增量转向独立制表和中端复兴",
+   "tier1": "珠宝腕表",
+   "body": "Forbes 引用摩根士丹利报告和 WatchCharts 指数：三季度二手奢表价格 +1.2%，连续五个季度涨超 1%，35 个品牌中 28 个上涨。但劳力士仅 +0.5%，为七个季度最低，二级市场库存创新高；指数仍比 2022 年峰值低约 29%。领涨的是百达翡丽（同比 +17.6%）、朗格、萧邦、江诗丹顿。\n\n结构性原因：大品牌高价位需求走平，二手供给增速快于消费，压缩后续提价空间；收藏需求转向产量小、辨识度高的专业和独立制表；9 月瑞士出口 +11.7% 主要靠美国，中国内地 −14.2%，零售端没有同步修复。\n\n竞争格局两端在变：BoF 报道香奈儿投资中端表厂 Ebel（细节付费未核实），重奢在用资本占位「中端复兴」；多家媒体报道泰格豪雅停产 Connected 智能表（LVMH 未证实）；大众端 Timex（199–228 美元联名）和卡西欧（羊年金色 CasiOak）用「一个表壳、多个联名」高频上新。\n\n对经营者：国产腕表和时尚表品牌可做 30–40mm 中性正装表和复古表壳，用联名或文化 IP 快速试款；零售商要警惕劳力士类「硬通货」二手价走平带来的库存贬值，可做官方认证二手和以旧换新。对投资人：把 WatchCharts 指数和劳力士二手库存作为斯沃琪、历峰（11/13 发半年报）的领先指标，留意被重奢入股的中端和独立表厂。Ebel 交易细节不全，判断偏谨慎。",
+   "refs": [
+    {
+     "title": "Luxury Watch Prices Rise Again, But Record Inventory Clouds The Outlook（Forbes）",
+     "url": "https://www.forbes.com/sites/garthfriesen/2026/10/20/luxury-watch-prices-rise-again-but-record-inventory-clouds-the-outlook/"
+    },
+    {
+     "title": "Why Did Chanel Invest in Mid-Tier Watchmaker Ebel?（BoF，付费）",
+     "url": "https://www.businessoffashion.com/articles/luxury/chanel-ebel-investment-fp-journe-swiss-watch-revival/"
+    },
+    {
+     "title": "TAG Heuer ends decade old smartwatch business?（Professional Watches）",
+     "url": "https://professionalwatches.com/tag-heuer-ends-decade-old-smartwatch-business/"
+    },
+    {
+     "title": "Swiss watch exports rise in September（WWD）",
+     "url": "https://wwd.com/accessories-news/watches/swiss-watch-exports-rise-september-1239376107/"
+    },
+    {
+     "title": "Timex × Vontélle Marlin（Notebookcheck）",
+     "url": "https://www.notebookcheck.net/Timex-unveils-two-Vontelle-Marlin-watches-with-prices-starting-at-199.1427835.0.html"
+    }
+   ]
+  }
+ ],
+ "trends": [
+  {
+   "title": "2027 羊年生肖限定提前上市：从腕表延伸到眼镜",
+   "tier1": "珠宝腕表",
+   "stage": "上升",
+   "description": "G-SHOCK 羊年 GBM-2100CXG 金色 CasiOak 已出现在海外官网，Gear Patrol 称它比大多数品牌上得更早（羊年从 2027 年 2 月 6 日开始）；开云眼镜在进博会首发 LINDBERG 2027 羊年限定（10/19 已报）。生肖款的上市窗口正在提前到双 11 和圣诞前。",
+   "opportunity": "配饰品牌可以把生肖款提前到 11 月，同时覆盖双 11、圣诞和春节三个礼赠节点；颜色上避开满屏红色，用金色、低饱和配色提升日常佩戴率。眼镜、首饰、丝巾都适合做生肖限定的小批量款。",
+   "evidence": [
+    {
+     "title": "G-Shock Gives Its ‘CasiOak’ Watch a Stunning Gold Makeover（Gear Patrol）",
+     "url": "https://shopping.yahoo.com/style/accessories/articles/g-shock-gives-casioak-watch-154318438.html"
+    },
+    {
+     "title": "开云集团携全品牌参加第九届进博会（LINDBERG 2027 羊年限定）",
+     "url": "https://finance.sina.com.cn/roll/2026-10-19/doc-inivumam6853598.shtml"
+    }
+   ]
+  },
+  {
+   "title": "档案复刻与 Y2K 复古：原版配色、老款包型回到主流",
+   "tier1": "箱包",
+   "stage": "上升",
+   "description": "Oakley MUZM 按原配色复刻 Straight Jacket 99；Whatnot 报告称平台上 Fendi Baguette 搜索 +320%，水钻、低腰等 Y2K 元素 +160%，奢侈包袋直播今年观看量超 1.5 亿次，预计平价位的 Coach 最受益；Fashionphile 数据显示 Prada Re-Edition 升到转售第三。",
+   "opportunity": "有历史款的品牌可以做「原样复刻 + 限量」，开发成本低、老客户和年轻人都买单；没有档案的国产品牌可以从 2000 年代的包型（腋下包、Baguette 型）入手做原创版本。二手和直播是验证款式热度的低成本渠道。",
+   "evidence": [
+    {
+     "title": "Oakley’s Straight Jacket 99 Is Back Again（HiConsumption）",
+     "url": "https://hiconsumption.com/style/oakley-muzm-straight-jacket-99-archive-colorways/"
+    },
+    {
+     "title": "Vintage Coach Bags... Set to Influence 2027（WWD）",
+     "url": "https://wwd.com/fashion-news/fashion-trends/2027-fashion-beauty-trends-vintage-y2k-k-beauty-glam-1239377667/"
+    },
+    {
+     "title": "Louis Vuitton Speedy登顶2026年奢侈手袋转售排行榜（时尚商业网）",
+     "url": "https://www.fashionnetwork.cn/share/6482.html"
+    }
+   ]
+  },
+  {
+   "title": "马毛、豹纹肌理配饰和「Haute Hippie」流苏大包",
+   "tier1": "箱包",
+   "stage": "萌芽",
+   "description": "Fashionphile 报告：马毛质感配饰搜索同比 +259%，部分由香奈儿豹纹 Mini Chanel 25 带动；芭蕾平底鞋搜索 +751%。平台预测 2027 年的两种新风格：「Miami Nice」（粉彩、光泽材质、运动尼龙）和「Haute Hippie」（流苏、花卉、超大廓形手袋）。",
+   "opportunity": "马毛/仿马毛、豹纹适合做小皮具、包挂、发箍和鞋，作为秋冬到早春的换季单品，小批量测款；流苏和超大托特可以作为 2027 春夏的提前储备。注意：这些数据来自单一平台的搜索量，仍在萌芽阶段，建议控制库存深度。",
+   "evidence": [
+    {
+     "title": "Louis Vuitton Speedy登顶2026年奢侈手袋转售排行榜（时尚商业网，含 Fashionphile 趋势数据）",
+     "url": "https://www.fashionnetwork.cn/share/6482.html"
+    }
+   ]
+  },
+  {
+   "title": "无胶假发和佩戴演示型内容电商",
+   "tier1": "服配",
+   "stage": "上升",
+   "description": "许昌发制品 2025 年出口 172 亿元，占全球六成以上；新一代跨境品牌 OQ Hair 主打无胶头套，靠海外达人现场演示「几分钟戴好、发际线自然」，2024 年拿下 TikTok Shop 假发类目品牌第一；瑞贝卡也在加快亚马逊、速卖通直营。",
+   "opportunity": "假发和发饰的购买障碍是「戴上是否自然」，短视频演示正好解决。国内品牌（如天空树假发）可以把无胶、局部发片、快速造型做成标准化 SKU，按场景（通勤遮白、聚会造型、医疗脱发）做内容；B 端可以给许昌产业带做品牌化代运营。",
+   "evidence": [
+    {
+     "title": "河南许昌假发爆单，年销170亿（电商派）",
+     "url": "https://www.pai.com.cn/p/01m5f25p65e4jd32gy9z7g2qg0"
+    }
+   ]
+  }
+ ],
+ "brand_insights": [
+  {
+   "brand": "新秀丽",
+   "tier1": "箱包",
+   "title": "新秀丽 / Tumi：把商旅箱包做成「准奢侈品」，香榭丽舍旗舰是上探价格带的样板",
+   "body": "战略：Tumi 约占新秀丽集团四分之一收入，2026 上半年收入 4.04 亿美元，同比持平。Tumi 法国负责人 Xavier Vincent 的说法是「向奢侈品标准看齐」：在消费疲弱时上探价格带、加大品牌投放来抢份额，并通过提高直营占比逐步改善利润率。这与集团此前收购 Béis、推进美国双重上市的方向一致，都是在大众行李箱之外找更高毛利的增长。\n\n渠道：巴黎香榭丽舍店从 63 号搬到 93 号，面积翻倍到约 300 平方米、两层，将为欧洲其他核心商业街的旗舰铺路；老店低调翻新；在春天百货奥斯曼店的专柜面积翻倍；计划扩大机场渠道，把电商占比从 15% 提到 20%。近八成顾客先在网上浏览再购买，所以官网也按新形象改版。\n\n产品与定价：皮质双肩包占业务 60%，售价 650–900 欧元；行李箱最高 1200 欧元；四分之三的销售来自商务线，季节性彩色系列用来补充新鲜感。店内设维修工坊（80% 的维修可快速完成），并有 F1 车手 Lando Norris 联名专区。\n\n竞争：在 650–1200 欧元价位，Tumi 一边对标 Rimowa（LVMH）和奢侈品牌的旅行线，一边要防 Béis、Away 等 DTC 品牌和国产（如 LEVEL8、ITO）的性价比冲击。北美此前承压（10/14 已报），欧洲和亚洲是增量。",
+   "investor_view": "Tumi 的高端化是新秀丽估值能否从「箱包制造商」转向「品牌集团」的关键。要跟踪三个指标：Tumi 收入能否从持平转正、直营和电商占比（目标电商 20%）、以及高端化带来的毛利率提升。风险是欧洲旅游消费走弱（Moncler 三季度 EMEA −9%）和营销费用前置拖累利润；Tumi 收入持平期间加大开店和投放，短期利润率可能承压。",
+   "operator_view": "国产箱包品牌可以借鉴三点：一是用维修和保养服务作为门店的核心功能，提高到店频次和复购；二是用双肩包这类高频品类支撑客单价，而不是只靠行李箱；三是机场和高端百货的小面积专柜比独立大店性价比更高。暂不建议照搬 F1 联名这类高预算营销。",
+   "sources": [
+    {
+     "title": "Tumi revamps brand image with new Paris flagship, paves way for more Europe openings（FashionNetwork）",
+     "url": "https://ww.fashionnetwork.com/news/Tumi-revamps-brand-image-with-new-paris-flagship-paves-way-for-more-europe-openings,1877836.html"
+    },
+    {
+     "title": "Moncler Revenues Remain Flat in Q3（Vogue Business）",
+     "url": "https://www.vogue.com/article/moncler-revenues-remain-flat-in-q3"
+    }
+   ]
+  }
+ ],
+ "reading_list": [
+  {
+   "title": "End of an era? How the Hermes Birkin bag is losing its scarcity appeal",
+   "source": "Reuters",
+   "date": "2026-10-21",
+   "url": "https://www.msn.com/en-ca/news/other/end-of-an-era-how-the-hermes-birkin-bag-is-losing-its-scarcity-appeal/ar-AA2fIYaZ",
+   "tier1": "箱包"
+  },
+  {
+   "title": "Paris, We Have a Problem: Why European Luxury Is Under Pressure in China（付费）",
+   "source": "BoF",
+   "date": "2026-10-21",
+   "url": "https://www.businessoffashion.com/articles/china/paris-we-have-a-problem-why-european-luxury-is-under-pressure-in-china/",
+   "tier1": "综合"
+  },
+  {
+   "title": "Why Did Chanel Invest in Mid-Tier Watchmaker Ebel?（付费）",
+   "source": "BoF",
+   "date": "2026-10-21",
+   "url": "https://www.businessoffashion.com/articles/luxury/chanel-ebel-investment-fp-journe-swiss-watch-revival/",
+   "tier1": "珠宝腕表"
+  },
+  {
+   "title": "Luxury Watch Prices Rise Again, But Record Inventory Clouds The Outlook",
+   "source": "Forbes",
+   "date": "2026-10-20",
+   "url": "https://www.forbes.com/sites/garthfriesen/2026/10/20/luxury-watch-prices-rise-again-but-record-inventory-clouds-the-outlook/",
+   "tier1": "珠宝腕表"
+  },
+  {
+   "title": "香奈儿在武汉SKP围挡独栋店铺，继续审慎拓展中国内地零售网络",
+   "source": "界面新闻（虎嗅转载）",
+   "date": "2026-10-21",
+   "url": "https://www.huxiu.com/article/4899299.html",
+   "tier1": "综合"
+  },
+  {
+   "title": "Tumi revamps brand image with new Paris flagship, paves way for more Europe openings",
+   "source": "FashionNetwork",
+   "date": "2026-10-21",
+   "url": "https://ww.fashionnetwork.com/news/Tumi-revamps-brand-image-with-new-paris-flagship-paves-way-for-more-europe-openings,1877836.html",
+   "tier1": "箱包"
+  },
+  {
+   "title": "Vintage Coach Bags, Worn in Glam, Prada Skirts, Korean Beauty and More Set to Influence 2027",
+   "source": "WWD",
+   "date": "2026-10-21",
+   "url": "https://wwd.com/fashion-news/fashion-trends/2027-fashion-beauty-trends-vintage-y2k-k-beauty-glam-1239377667/",
+   "tier1": "箱包"
+  },
+  {
+   "title": "Louis Vuitton Speedy登顶2026年奢侈手袋转售排行榜（Fashionphile 报告）",
+   "source": "时尚商业网",
+   "date": "2026-10-16",
+   "url": "https://www.fashionnetwork.cn/share/6482.html",
+   "tier1": "箱包"
+  },
+  {
+   "title": "Moncler Revenues Remain Flat in Q3",
+   "source": "Vogue Business",
+   "date": "2026-10-21",
+   "url": "https://www.vogue.com/article/moncler-revenues-remain-flat-in-q3",
+   "tier1": "综合"
+  },
+  {
+   "title": "中国黄金金文一：行业正处于品牌价值重构关键期",
+   "source": "新浪财经",
+   "date": "2026-10-21",
+   "url": "https://finance.sina.com.cn/money/nmetal/gjshz/2026-10-21/doc-inivyxhf5371899.shtml",
+   "tier1": "珠宝腕表"
+  },
+  {
+   "title": "从一座小镇看中国眼镜出海的“三味真火”",
+   "source": "中国新闻网",
+   "date": "2026-10-21",
+   "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718538.shtml",
+   "tier1": "眼镜"
+  },
+  {
+   "title": "河南许昌假发爆单，年销170亿，让全世界上头",
+   "source": "电商派",
+   "date": "2026-10-21",
+   "url": "https://www.pai.com.cn/p/01m5f25p65e4jd32gy9z7g2qg0",
+   "tier1": "服配"
+  }
+ ],
+ "brand_scan": {
+  "window": "2026-10-20..2026-10-22",
+  "method": "逐一检索 64 个品牌（中文名、英文名、别名）：每个品牌用 Google News RSS（中文）和 Bing News RSS 检索，再对国际品牌做英文 Google News 补查（Samsonite、Charles & Keith、Gentle Monster、Oakley、ZEISS Vision、Essilor、Casio、G-SHOCK、Timex、Songmont、BAGSMART、Kodak Lens、FIYTA、Bolon 等）。起点为 10/20 00:00（北京时间），候选条目都打开原文核对发布日期。另用 X search_posts_all 跑了中文、英文两组品牌合并查询，只作舆情参考。行业层做了英文 45 组、中文 41 组主题扫描，并抓取原文核实。Exa 在 08:24 和约 08:35（北京时间）两次调用都返回 HTTP 429 限流，退避后仍未恢复，改用 Google/Bing 新闻检索和原文抓取。",
+  "note": "有新动态的品牌 7/64：雅瑞光学、依视路、新秀丽、万事利、卡西欧、欧克利、天美时集团。其余品牌在窗口内没有检到可核实日期和原文链接的新闻（不代表品牌没有活动）。未计入的原因见 per_brand。大图（DITA）按用户偏好跳过，不追踪。",
+  "per_brand": {
+   "裘真": "未检到可核实新动态",
+   "Fakeme": "未检到可核实新动态",
+   "山下有松": "未计入：搜狐号「慢出海」长文（10/20）属软文性质，无独立媒体佐证；张婧仪出任 Songmont 品牌大使只见微博",
+   "LOLA ROSE": "未检到可核实新动态",
+   "HEFANG": "未检到可核实新动态",
+   "雅瑞光学": "有动态",
+   "ARSIS": "未检到可核实新动态",
+   "蔡司": "未计入：检到的是蔡司半导体、手机影像，与蔡司光学镜片无关",
+   "依视路": "有动态",
+   "CHARLES&KEITH": "未检到可核实新动态",
+   "新秀丽": "有动态",
+   "ITO": "未检到可核实新动态",
+   "GROTTO个乐": "未检到可核实新动态",
+   "白岚": "未检到可核实新动态",
+   "万事利": "有动态",
+   "ECODAY": "未检到可核实新动态",
+   "bampo": "未检到可核实新动态",
+   "卡西欧": "有动态",
+   "德津": "未检到可核实新动态",
+   "LEVEL8地平线8号": "未检到可核实新动态",
+   "九格眼镜": "未检到可核实新动态",
+   "欧克利": "有动态",
+   "FANCI范琦": "未检到（检到的是同名人物/无关内容）",
+   "GENTLE MONSTER": "未计入：章若楠合作、与 Maison Margiela 联名传闻只见社媒（微博、X）",
+   "纽芝兰": "未检到可核实新动态",
+   "明月镜片": "未计入：丹阳明月镜片产业园一期在建（预计 2028 年 11 月竣工），仅见单一搜狐号，未找到第二信源；其余为资金流自动稿",
+   "CECE": "未检到可核实新动态",
+   "柯达": "未计入：墨西哥媒体对柯达 Precise Next 镜片的科普稿，非新闻事件",
+   "BAGSMART": "未检到可核实新动态",
+   "CIGALONG": "未检到可核实新动态",
+   "abyb jewelry": "未检到可核实新动态",
+   "海伦凯勒眼镜": "未检到可核实新动态",
+   "包包树BAGTREE": "未检到可核实新动态",
+   "飞亚达": "未计入：openPR 新闻稿（软文平台）和电商测评稿",
+   "梵誓ONESWEAR": "未检到可核实新动态",
+   "KKLUE轻珠宝": "未检到可核实新动态",
+   "天美时集团": "有动态",
+   "JELLYTOYBOY": "未检到可核实新动态",
+   "卡蒂罗": "未检到可核实新动态",
+   "尤目": "未检到可核实新动态",
+   "ORANGE CUBE": "未检到可核实新动态",
+   "古良吉吉": "未检到可核实新动态",
+   "亨得利钟表": "未计入：多篇「维修网点」类 SEO 稿，与品牌经营无关",
+   "甲目眼镜": "未检到可核实新动态",
+   "TAD FAB": "未检到可核实新动态",
+   "FANGYI方宜": "未检到可核实新动态",
+   "老雷线上配镜": "未检到可核实新动态",
+   "抱树BYROOTS": "未检到可核实新动态",
+   "TELETIES": "未检到可核实新动态",
+   "DAVENA": "未检到可核实新动态",
+   "首末集团": "未检到可核实新动态",
+   "大图": "跳过（用户偏好，不追踪）",
+   "卡拉羊": "未检到可核实新动态",
+   "P&N": "未检到可核实新动态",
+   "PARIM": "未检到可核实新动态",
+   "上海夕和眼镜": "未检到可核实新动态",
+   "超视立": "未检到可核实新动态",
+   "御行": "未检到可核实新动态",
+   "木九十": "未检到可核实新动态",
+   "天空树假发": "未检到可核实新动态",
+   "不莱玫": "未检到可核实新动态",
+   "帕莎": "未计入：鞠婧祎续约帕莎全球代言人、2027 新品只见微博和 X 粉丝转发，无媒体报道",
+   "CASSILE卡思乐": "未检到可核实新动态",
+   "BLACKHEAD": "未检到可核实新动态"
+  }
+ },
+ "sources": [
+  {
+   "name": "Reuters",
+   "url": "https://www.reuters.com/business/retail-consumer/",
+   "tier1": "综合"
+  },
+  {
+   "name": "Hermès Finance 日历",
+   "url": "https://finance.hermes.com/en/calendar/",
+   "tier1": "综合"
+  },
+  {
+   "name": "Kering 财务日历",
+   "url": "https://www.kering.com/en/finance/",
+   "tier1": "综合"
+  },
+  {
+   "name": "Forbes（腕表二级市场）",
+   "url": "https://www.forbes.com/",
+   "tier1": "珠宝腕表"
+  },
+  {
+   "name": "FashionNetwork",
+   "url": "https://fashionnetwork.com/",
+   "tier1": "箱包"
+  },
+  {
+   "name": "Notebookcheck 腕表",
+   "url": "https://www.notebookcheck.net/",
+   "tier1": "珠宝腕表"
+  },
+  {
+   "name": "电商派",
+   "url": "https://www.pai.com.cn/",
+   "tier1": "服配"
+  }
+ ]
+}
