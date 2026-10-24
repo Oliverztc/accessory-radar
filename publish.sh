@@ -9,7 +9,10 @@ DATE=$(python3 -c 'import json,sys;print(json.load(open(sys.argv[1],encoding="ut
 DEST="data/$DATE.json"
 [ "$(realpath "$SRC")" = "$(realpath -m "$DEST")" ] || cp "$SRC" "$DEST"
 python3 build.py
-timeout 300 npx --yes vercel@63 deploy --prod --yes
+ORG=$(python3 -c 'import json;print(json.load(open(".vercel/project.json")).get("orgId",""))' 2>/dev/null || true)
+SCOPE_ARGS=()
+[ -n "${ORG:-}" ] && SCOPE_ARGS=(--scope "$ORG")
+timeout 300 npx --yes vercel@63 deploy --prod --yes "${SCOPE_ARGS[@]}"
 # 同步到 GitHub（失败不影响已完成的部署）
 if [ -d .git ]; then
   git add -A && { git diff --cached --quiet || git commit -q -m "daily: $DATE"; } \
