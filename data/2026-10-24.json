@@ -1,0 +1,447 @@
+{
+ "date": "2026-10-24",
+ "headline": "开云中国方案要 12–24 个月验证、股价再挫；依视路陆逊梯卡 Q3 +9%、近视管理 +24%；AI 眼镜转线下巷战；裘真三里屯曲园启幕；GENTLE MONSTER×Margiela 第四弹预告",
+ "summary": "周六行业动态以财报跟进与渠道结构为主，时间窗以过去 24 小时为主，因净新增 IR 偏少，放宽至 48 小时（自 10/22 00:00 北京时间）并注明。开云侧，21 世纪经济报道详述卢卡·德·梅奥中国行动方案须 12–24 个月验证，全年净关店目标至少 125 家，10/23 股价再跌约 13%。BoF 归纳上周奢侈品季报：中国商场更空、美国支撑放缓、安静奢华回潮、Miu Miu 零售 −3%。眼镜端，北京商报转述依视路陆逊梯卡三季度营收 +9.0%（固定汇率 +7.2%），近视管理组合 +24%，可穿戴 +20%；钛媒体同日写 AI 眼镜因线上退货率 30%–70% 加速转线下「巷战」。珠宝展期内，21 世纪经济报道跟进金价回落与硬足金/悦己叙事，头部品牌上半年合计净减店约 1938 家。品牌窗 48 小时内 5/64 有可核实动态：裘真、GENTLE MONSTER、欧克利、卡西欧、依视路。Exa 早间限流，检索以 WebSearch/WebFetch 与 X 为主。",
+ "industry_news": [
+  {
+   "date": "2026-10-23",
+   "source": "21世纪经济报道",
+   "title": "Gucci 卖不动了，开云将关掉至少 125 家门店：中国方案需 12–24 个月验证",
+   "url": "https://www.21jingji.com/article/20261023/herald/6ea1ef464e8c59ab8cc064953ae043fd.html",
+   "tier1": "综合",
+   "type": "市场",
+   "importance": 5,
+   "segment": "奢侈品",
+   "summary": "相对昨日原始季报，本篇给出策略与股价跟进：10/23 开云股价较前收再跌约 13.36%。CEO 卢卡·德·梅奥明确中国行动方案验证周期 12–24 个月，优先看旗舰转化率、高净值复购与 NPS；落地包括向北上成核心旗舰倾斜、节日限定但不做独立中国产品线、私域 CRM、本土内容主导、提高中国区决策权。三条底线：不大范围打折、不主动抬高批发占比、不割裂全球品牌语言。珠宝可比 +11%、眼镜 +4% 被定位为重要现金流；全年净关店目标上调至至少 125 家。"
+  },
+  {
+   "date": "2026-10-23",
+   "source": "BoF",
+   "title": "Here’s What We Learned From Last Week’s Luxury Results Bonanza",
+   "url": "https://www.businessoffashion.com/briefings/luxury/heres-what-we-learned-from-last-weeks-luxury-results-bonanza/",
+   "tier1": "综合",
+   "type": "深度",
+   "importance": 4,
+   "segment": "奢侈品",
+   "summary": "10/23 BoF 对上周欧洲奢侈品财报季的归纳：普拉达 CEO 称中国商场「确实更空」；开云 CFO 指中国大陆是 Gucci 零售最大逆风；美国作为行业生命线已现放缓，仅 LVMH 三季度好于上半年。安静奢华回潮：Brunello Cucinelli 上调全年展望（Q3 +14%），Zegna +8.2%，Bottega Veneta 与 Loro Piana 表现突出。Miu Miu 在连续四年增长后三季度零售 −3%。开云股价回落至 Luca de Meo 当选 CEO 当日附近水平。"
+  },
+  {
+   "date": "2026-10-22",
+   "source": "北京商报 / 同花顺",
+   "title": "依视路陆逊梯卡 Q3 营收增 9.0%，亚太两位数增长；近视管理 +24%，可穿戴 +20%",
+   "url": "https://news.10jqka.com.cn/20261022/c680984296.shtml",
+   "tier1": "眼镜",
+   "type": "数据",
+   "importance": 5,
+   "segment": "奢侈品",
+   "summary": "集团当季合并营收 74.86 亿欧元，当前汇率 +9.0%、固定汇率 +7.2%；前九个月 223.04 亿欧元，固定汇率 +8.9%。DTC +10.6%（同店 +6.8%），专业解决方案 +3.4%。亚太营收 9.79 亿欧元、+15.7%；北美 +4.7%、EMEA +7.5%。传统眼护理与医技 >6%；近视管理组合季度和前九个月均 +24%；可穿戴（AI 眼镜与 Nuance Audio）营收 4.86 亿欧元、+20%。中国业务再次受镜片尤其是近视管理支撑，Nikon 与 Kodak DOT 贡献强；Ray-Ban、Oakley 门店在中国大陆与日本亦有贡献。截至 9/30 门店 19709 家，亚太门店自 2025 年底 1682 家增至 3632 家。"
+  },
+  {
+   "date": "2026-10-24",
+   "source": "钛媒体 / 蓝洞商业",
+   "title": "线上转战线下，AI 眼镜开打「巷战」：退货率 30%–70% 倒逼验配渠道",
+   "url": "https://www.tmtpost.com/8179553.html",
+   "tier1": "眼镜",
+   "type": "渠道",
+   "importance": 4,
+   "segment": "大众",
+   "summary": "洛图数据显示智能眼镜线上退货率约 30%–70%。10 月雷鸟、Rokid、影目等密集开店；雷鸟称线下渠道已实现 3 倍以上增长。博士眼镜约 583 家门店中仅 160 余家有智能眼镜专柜（覆盖约 27%）；第三方门店毛利约 10%，远低于传统眼镜，线上不控价则线下难卖。行业线上仍占六至七成。资本视角：头部玩家冲刺上市，渠道真实成交成为财报材料关键。对应镜片光学、镜框时尚之外的「智能/线上配镜服务」第三轨。"
+  },
+  {
+   "date": "2026-10-24",
+   "source": "21世纪经济报道",
+   "title": "金价下跌，年轻人买黄金的逻辑也变了：硬足金占零售额 20%+，头部品牌上半年合计净减店约 1938 家",
+   "url": "https://www.21jingji.com/article/20261024/6d8442b2e17a94a5b658695b9894d2cd.html",
+   "tier1": "珠宝腕表",
+   "type": "深度",
+   "importance": 4,
+   "segment": "大众",
+   "summary": "10/23 现货金一度失守 4000 美元/盎司。可持续大会上老凤祥、周大福、中国黄金等判断：决策从克重保值转向设计/工艺/文化叙事；世界黄金协会称硬足金已占中国金饰零售额 20% 以上、主攻 20–35 岁。老凤祥、中国黄金上半年营收净利双降；菜百营收增利润降；老铺黄金 H1 收入 +60.3% 但 Q2 环比回落；周生生 Q3 零售销售值 +3%、内地同店 +4%。老凤祥、周大生、中国黄金、周六福及豫园旗下珠宝品牌上半年合计净减少门店约 1938 家，转向坪效与溢价能力。"
+  },
+  {
+   "date": "2026-10-23",
+   "source": "证券日报 / 中宝协",
+   "title": "2026 中国国际珠宝展在京开幕跟进：轻克重计价黄金与悦己自戴 44% 成主线",
+   "url": "http://www.zqrb.cn/huiyihuodong/2026-10-23/A1792691739281.html",
+   "tier1": "珠宝腕表",
+   "type": "市场",
+   "importance": 3,
+   "segment": "大众",
+   "summary": "展期 10/22–26，面积约 3 万平方米、千余家展商。文中援引上半年限额以上金银珠宝零售额 1929 亿元、+1.9%；黄金消费量 511.4 吨、+1.23%。世界黄金协会洞察：自戴悦己占比升至 44%。品牌展区集中呈现古法金、国潮金、轻克重计价黄金、IP 联名与高级珠宝；国际展区与直播展区并行。"
+  },
+  {
+   "date": "2026-10-23",
+   "source": "LVMH / Moynat",
+   "title": "Moynat 推出 Hotel Moynat 旅行主题胶囊：酒店行李标签缝制于 M Monogram",
+   "url": "https://www.lvmh.com/en/news-lvmh/hotel-moynat-reimagines-the-art-of-travelc",
+   "tier1": "箱包",
+   "type": "新品",
+   "importance": 3,
+   "segment": "奢侈品",
+   "summary": "LVMH 官网 10/23：Moynat 与造型师 Storm Pablo、珠宝设计师 Marvin Douglas 合作首章，将复古酒店行李标签以皮革再现并缝制于 M Monogram 帆布，覆盖 Hobo/托特/手拿包、护照夹、挂饰、丝巾、Mignon 与限量 Limousine 旅行箱；11 月第二章将引入水晶镶钉。精品店已开售。LVMH 时装皮具承压背景下，小众旅行皮具屋用档案叙事引流。"
+  },
+  {
+   "date": "2026-10-22",
+   "source": "羊城晚报·羊城派",
+   "title": "第25届中国（揭阳）玉文化节定档 10月27日",
+   "url": "https://ycpai.ycwb.com/content/ikimvjktii/content_54327456.html",
+   "tier1": "玉石翡翠",
+   "type": "市场",
+   "importance": 3,
+   "segment": "大众",
+   "summary": "将于 10/27 在揭阳缅商玉文化产业基地举行，涵盖玉雕精品展、名家雅集、商贸对接与文旅体验。时点与北京中国国际珠宝展（10/22–26）首尾相接，形成「北方综合珠宝展 + 南方玉都节庆」双周窗口。"
+  }
+ ],
+ "brand_news": [
+  {
+   "brand": "裘真",
+   "date": "2026-10-23",
+   "source": "裘真官方微博 / 新浪",
+   "title": "裘真北京三里屯太古里「曲园」店 10月23日启幕",
+   "url": "https://www.sina.cn/news/detail/5354584957781374.html",
+   "summary": "品牌官方预告并按档启幕：三里屯太古里南区 B1 层 SLG23，营业 10:00–22:00。空间以「曲园」为题，外立面交叠片墙、纵深折转动线对应中式园林；陈列强调水染植鞣皮「时间容器」叙事。继上海兴业太古汇回归后，继续加码一线高端商场体验店。"
+  },
+  {
+   "brand": "GENTLE MONSTER",
+   "date": "2026-10-23",
+   "source": "UP TO DATE / Gentle Monster",
+   "title": "GENTLE MONSTER × Maison Margiela 第4弹联名「Deconstruction」预告，日本 10月29日发售",
+   "url": "https://uptodate.tokyo/gentle-monster-x-maison-margiela-part4/",
+   "summary": "以「Deconstruction（解构）」为主轴，镜架与镜片以非定形方式重组，呈现「未完成」美学。自 2023 年起连续第四年合作；日本 10/29 起发售，官网上架约数十 SKU，含门店限定型号。"
+  },
+  {
+   "brand": "欧克利",
+   "date": "2026-10-23",
+   "source": "PR TIMES / Luxottica Japan",
+   "title": "Oakley MUZM Straight Jacket® 99 限量三色复刻发售",
+   "url": "https://prtimes.jp/main/html/rd/p/000000130.000053882.html",
+   "summary": "MUZM（博物馆）系列复刻 1999 年 wraparound 名作，O-Matter 镜架 + Prizm 镜片。三款限量：PROTOTYPE 透明框 ¥42,350（仅涩谷店）；Blood Skull 与 Matte Rootbeer 各 ¥43,450（涩谷店、官网及部分授权店）。10/23 日本时间起发售。"
+  },
+  {
+   "brand": "卡西欧",
+   "date": "2026-10-23",
+   "source": "Times of India",
+   "title": "Casio India 正式引入 G-SHOCK 2500「CasioNaut」：印度售价 ₹9,995–₹26,995",
+   "url": "https://timesofindia.indiatimes.com/technology/wearables/casio-launches-g-shock-2500-series-in-india-with-prices-from-rs-9995/articleshow/135143551.cms",
+   "summary": "继 10/22 全球发布后，Casio India 于 10/23 在新德里办发布会落地：树脂 GAC-2500 与金属包覆 GMC-2500，Multi-Mission Date、20 巴防水。属区域定价与渠道跟进。"
+  },
+  {
+   "brand": "依视路",
+   "date": "2026-10-22",
+   "source": "北京商报 / 同花顺",
+   "title": "依视路陆逊梯卡 Q3：近视管理 +24%，中国镜片与 Ray-Ban/Oakley 门店贡献亚太双位数增长",
+   "url": "https://news.10jqka.com.cn/20261022/c680984296.shtml",
+   "summary": "集团口径见行业动态。对中国业务：专业解决方案在大中华区等实现两位数增长，镜片尤其近视管理组合、Nikon 与 Kodak DOT 为支撑；Ray-Ban、Oakley 门店在中国大陆亦有贡献。亚太门店数大幅扩张。"
+  }
+ ],
+ "insights": [
+  {
+   "title": "开云「不靠降价」的中国实验：12–24 个月窗口里，珠宝眼镜在输血，Gucci 要靠转化率说话",
+   "tier1": "箱包",
+   "body": "10 月 22–23 日，开云从「交出三季报数字」进入「解释怎么打中国」的阶段。21 世纪经济报道写清三条底线——不大范围打折、不抬批发、不割裂全球语言——以及 12–24 个月的验证周期；BoF 则把市场反应钉在股价回落到 Luca de Meo 就任叙事起点附近。\n\n结构性含义有两层。第一，客流约束已从「周期噪音」变成经营假设：Gucci 直营零售可比 −9%，亚太尤其中国大陆与日本承压，批发 +45% 体量太小对冲不了。第二，集团正在用珠宝（可比 +11%）和眼镜（+4%）做现金流缓冲，同时把关店目标提到至少 125 家，把资源从低效门店抽到北上成旗舰与私域 CRM。\n\n对经营者：这是「存量奢侈品」打法模板——控折扣、做维修与 CPO、把 KPI 从客流改成转化率/复购/NPS，节日限定可以有，但不能长出第二套中国产品线。对投资人：跟踪未来四到六个季度的旗舰同店、高净值复购，以及珠宝眼镜占比能否继续抬升；若中国方案只剩关店而没有欲望感回升，估值修复会继续后移。依据为 21 世纪经济报道跟进稿与 BoF 季报综述，不重复昨日 IR 原文。",
+   "refs": [
+    {
+     "title": "开云中国方案与关店目标（21世纪经济报道）",
+     "url": "https://www.21jingji.com/article/20261023/herald/6ea1ef464e8c59ab8cc064953ae043fd.html"
+    },
+    {
+     "title": "BoF: Luxury Results Bonanza takeaways",
+     "url": "https://www.businessoffashion.com/briefings/luxury/heres-what-we-learned-from-last-weeks-luxury-results-bonanza/"
+    }
+   ]
+  },
+  {
+   "title": "眼镜三轨分化：近视管理与传统验配仍是现金牛，AI 眼镜被迫做线下「巷战」",
+   "tier1": "眼镜",
+   "body": "同一周窗口里，眼镜赛道给出两张几乎相反的成绩单。依视路陆逊梯卡三季度营收 +9%，近视管理组合 +24%，亚太 +15.7%，中国镜片与 Ray-Ban/Oakley 门店是显式贡献项——这是「镜片光学 + 品牌镜框零售」基本盘仍在扩张的证据。另一边，钛媒体 10/24 写清 AI 眼镜的渠道悖论：线上退货率 30%–70%，品牌只好把增长押到验配柜台；博士眼镜智能专柜覆盖仅约 27%，第三方毛利约 10%，控价与培训能力成为扩张瓶颈。\n\n三轨要分开看：镜片光学（近视管理、渐进、功能片）继续吃专业渠道与临床叙事；时尚镜框吃品牌联名与档案复刻（当日 Oakley MUZM、GENTLE MONSTER×Margiela）；线上配镜/智能眼镜则必须 bundling 验光试戴，否则退货会吃掉利润与上市材料。\n\n对经营者：传统光学店可把功能片与验配服务做成主推套餐，智能款只选控价清晰、培训到位的品牌；不必把预算过度押在「全功能 AI」。对投资人：依视路看近视管理与亚太门店扩张质量；AI 眼镜玩家看线下真实成交与退货率，而不是线上 GMV。",
+   "refs": [
+    {
+     "title": "依视路陆逊梯卡 Q3（北京商报）",
+     "url": "https://news.10jqka.com.cn/20261022/c680984296.shtml"
+    },
+    {
+     "title": "AI 眼镜线下巷战（钛媒体）",
+     "url": "https://www.tmtpost.com/8179553.html"
+    },
+    {
+     "title": "EssilorLuxottica Q3 official",
+     "url": "https://www.globenewswire.com/news-release/2026/10/20/3384748/0/en/essilorluxottica-q3-2026-revenue-revenue-growth-at-9-0-in-q3-7-2-at-constant-currency.html"
+    }
+   ]
+  }
+ ],
+ "trends": [
+  {
+   "title": "Cocktail / Evening Bag 日间化",
+   "tier1": "箱包",
+   "stage": "上升",
+   "description": "缎面、丝绒抽绳袋、迷你 top-handle 与软 clutch 从晚宴专用转为牛仔/西装日间点缀；PORTER、Marie Claire 与 British Vogue 秋冬趋势稿同频。",
+   "opportunity": "提升配件客单与社交内容曝光；轻奢与国产千元档可切「日晚两用」迷你系列，商场做场合混搭陈列。",
+   "evidence": [
+    {
+     "title": "PORTER: The Cocktail Bag",
+     "url": "https://www.net-a-porter.com/en-us/porter/article-0ab82d2159a91278/fashion/fashion-memo/cocktail-bag"
+    },
+    {
+     "title": "Marie Claire: Evening Bag Revival",
+     "url": "https://www.marieclaire.com/fashion/fall-fashion/evening-bag-revival-2026/"
+    }
+   ]
+  },
+  {
+   "title": "Novelty / 异形迷你包（动物·食物·自然物）",
+   "tier1": "箱包",
+   "stage": "上升",
+   "description": "ELLE 10/23：Chanel 长颈鹿、Dior 核桃/青蛙等 minaudière 从梗变成收藏型趋势，强调小批量与手作稀缺。",
+   "opportunity": "限量联名与艺术陈列；国产品牌可用树脂/珠绣做可负担异形服务种草，需控翻单与售后。",
+   "evidence": [
+    {
+     "title": "ELLE: Novelty Bags Fall 2026",
+     "url": "https://www.elle.com/fashion/trend-reports/a74220173/animal-nature-inspired-novelty-bags-trend-fall-2026/"
+    }
+   ]
+  },
+  {
+   "title": "印花丝巾 + 丝绒/丝质头巾（颈/发两用）",
+   "tier1": "服配",
+   "stage": "上升",
+   "description": "Vogue 将印花丝巾、流苏披肩列为 2026 秋冬小配趋势；Cosmopolitan 把头巾从夏延到秋冬主色（巧克力、酒红、橄榄绿）。与丝巾产业链、商场丝巾专柜高度相关。",
+   "opportunity": "一巾多戴内容、包挂/发带交叉销售；国风 IP 印花可切文化溢价。",
+   "evidence": [
+    {
+     "title": "Vogue: Fall 2026 Accessory Trends",
+     "url": "https://www.vogue.com/article/fall-2026-accessory-trends"
+    },
+    {
+     "title": "Cosmopolitan: Fall hair accessories",
+     "url": "https://www.cosmopolitan.com/style-beauty/beauty/a73842370/fall-hair-accessories/"
+    }
+   ]
+  },
+  {
+   "title": "硬足金与悦己金饰：从克重逻辑切到工艺溢价",
+   "tier1": "珠宝腕表",
+   "stage": "上升",
+   "description": "世界黄金协会：硬足金已占中国金饰零售额 20% 以上；悦己自戴 44%。金价回落背景下头部品牌仍在减店提质，产品叙事转向搭配与文化含义。",
+   "opportunity": "按克重带与工费带做 SKU 矩阵；直播测轻克重，VIP 做古法/高工费；盯复购与坪效而非门店数。",
+   "evidence": [
+    {
+     "title": "21世纪经济报道：年轻人买黄金的逻辑变了",
+     "url": "https://www.21jingji.com/article/20261024/6d8442b2e17a94a5b658695b9894d2cd.html"
+    },
+    {
+     "title": "证券日报：中国国际珠宝展",
+     "url": "http://www.zqrb.cn/huiyihuodong/2026-10-23/A1792691739281.html"
+    }
+   ]
+  }
+ ],
+ "brand_insights": [
+  {
+   "brand": "GENTLE MONSTER",
+   "tier1": "眼镜",
+   "title": "GENTLE MONSTER：Margiela 第四弹巩固「时尚眼镜联名天花板」，体验零售仍是护城河",
+   "body": "战略：与 Maison Margiela 自 2023 年起连续四年联名，2026 弹以「Deconstruction」把镜架/镜片做成未完成雕塑，继续把太阳镜卖成可收藏的时尚物件，而非功能护目。这与 Oakley MUZM 档案复刻同属「文化符号再商业化」，但 GM 更偏艺术装置与跨界。\n\n渠道与产品：联名靠官网预告 + 多地同步发售制造稀缺；门店限定型号（如报道中的 MM301 类）强化线下到店。结合此前 SoHo 扩店叙事，品牌仍把「展览级零售」当主阵地。\n\n竞争：在智能眼镜赛道喧嚣时，GM 主力盘仍是高溢价时尚框；智能线若推进，需与验配渠道能力匹配，否则会撞上当日行业稿写的退货率问题。",
+   "investor_view": "跟踪联名系列售罄速度、ASP 与复购；智能眼镜若放量，要单独看退货与毛利，避免用时尚框估值去套硬件。",
+   "operator_view": "代理与买手可把联名当季度流量款，但库存要严控；普通光学店学其陈列与故事，不必盲目跟价带。",
+   "sources": [
+    {
+     "title": "UP TO DATE: GM × Margiela Part 4",
+     "url": "https://uptodate.tokyo/gentle-monster-x-maison-margiela-part4/"
+    },
+    {
+     "title": "钛媒体：AI 眼镜巷战（渠道对照）",
+     "url": "https://www.tmtpost.com/8179553.html"
+    }
+   ]
+  },
+  {
+   "brand": "裘真",
+   "tier1": "箱包",
+   "title": "裘真：三里屯「曲园」启幕，继续用空间把「时间容器」做成可感知体验",
+   "body": "战略：在水染植鞣皮与手工擦色的产品信仰之上，用「一店一景」对抗标准化扩店稀释——三里屯曲园把园林动线搬进太古里 B1，让顾客先走完折转，再触摸皮面油润变化。\n\n渠道：一线高端商场（太古里/万象系）仍是主战场；开店节奏服务品牌教育与客单上移，而非铺货。\n\n竞争：与山下有松等同场高端商场化、提价叙事并行；差异在材质工艺可解释性与创始人产品纪律。品牌星球深度稿已论证其「规模与信仰」张力，今日新店是该路线的空间落地。",
+   "investor_view": "盯同店销售、客单与复购能否支撑提价；商场资源集中度高，扩张质量重于速度。",
+   "operator_view": "华东/华北高端商场优先，店员必须能讲皮料与时间；内容侧少推「爆款」，多推使用痕迹与养护。",
+   "sources": [
+    {
+     "title": "裘真三里屯曲园启幕（官方微博/新浪）",
+     "url": "https://www.sina.cn/news/detail/5354584957781374.html"
+    },
+    {
+     "title": "品牌星球：裘真的第11年",
+     "url": "https://www.brandstar.com.cn/in-depth/8099"
+    }
+   ]
+  }
+ ],
+ "reading_list": [
+  {
+   "title": "Here’s What We Learned From Last Week’s Luxury Results Bonanza",
+   "source": "BoF",
+   "date": "2026-10-23",
+   "url": "https://www.businessoffashion.com/briefings/luxury/heres-what-we-learned-from-last-weeks-luxury-results-bonanza/",
+   "tier1": "综合"
+  },
+  {
+   "title": "Gucci卖不动了，开云将关掉至少125家门店",
+   "source": "21世纪经济报道",
+   "date": "2026-10-23",
+   "url": "https://www.21jingji.com/article/20261023/herald/6ea1ef464e8c59ab8cc064953ae043fd.html",
+   "tier1": "箱包"
+  },
+  {
+   "title": "依视路陆逊梯卡Q3营收增9.0%",
+   "source": "北京商报",
+   "date": "2026-10-22",
+   "url": "https://news.10jqka.com.cn/20261022/c680984296.shtml",
+   "tier1": "眼镜"
+  },
+  {
+   "title": "EssilorLuxottica Q3 2026 Revenue",
+   "source": "GlobeNewswire / EssilorLuxottica",
+   "date": "2026-10-20",
+   "url": "https://www.globenewswire.com/news-release/2026/10/20/3384748/0/en/essilorluxottica-q3-2026-revenue-revenue-growth-at-9-0-in-q3-7-2-at-constant-currency.html",
+   "tier1": "眼镜"
+  },
+  {
+   "title": "线上转战线下，AI眼镜开打「巷战」",
+   "source": "钛媒体",
+   "date": "2026-10-24",
+   "url": "https://www.tmtpost.com/8179553.html",
+   "tier1": "眼镜"
+  },
+  {
+   "title": "金价下跌，年轻人买黄金的逻辑也变了",
+   "source": "21世纪经济报道",
+   "date": "2026-10-24",
+   "url": "https://www.21jingji.com/article/20261024/6d8442b2e17a94a5b658695b9894d2cd.html",
+   "tier1": "珠宝腕表"
+  },
+  {
+   "title": "Novelty Bags Are Fashion’s Most Joyful Accessory Trend",
+   "source": "ELLE",
+   "date": "2026-10-23",
+   "url": "https://www.elle.com/fashion/trend-reports/a74220173/animal-nature-inspired-novelty-bags-trend-fall-2026/",
+   "tier1": "箱包"
+  },
+  {
+   "title": "Hotel Moynat reimagines the art of travel",
+   "source": "LVMH",
+   "date": "2026-10-23",
+   "url": "https://www.lvmh.com/en/news-lvmh/hotel-moynat-reimagines-the-art-of-travelc",
+   "tier1": "箱包"
+  },
+  {
+   "title": "Gentle Monster x Maison Margiela Part 4",
+   "source": "UP TO DATE",
+   "date": "2026-10-23",
+   "url": "https://uptodate.tokyo/gentle-monster-x-maison-margiela-part4/",
+   "tier1": "眼镜"
+  },
+  {
+   "title": "裘真的第11年：「规模」与「信仰」的平衡之道",
+   "source": "品牌星球",
+   "date": "2026-04-29",
+   "url": "https://www.brandstar.com.cn/in-depth/8099",
+   "tier1": "箱包"
+  }
+ ],
+ "brand_scan": {
+  "window": "2026-10-22..2026-10-24",
+  "method": "逐一覆盖 64 个品牌（中文名与别名）：WebSearch/WebFetch 全量扫描；高优先级 P0 补 X search_posts_all / search_news。行业层用官方 IR、BoF、21 世纪经济报道、钛媒体、北京商报、证券日报、LVMH 官网、PR TIMES。Exa web_search_exa 早间 HTTP 429，退避后以上述通道完成。大图（DITA）按用户偏好跳过优先追踪。",
+  "note": "有新动态的品牌 5/64：裘真、GENTLE MONSTER、欧克利、卡西欧、依视路。其余品牌在窗口内未检到可核实日期与原文链接的新闻（不代表品牌无活动）。昨日已报且无新事实的不重复计入（明月镜片、天美时集团全球首发等）。",
+  "per_brand": {
+   "裘真": "有动态",
+   "Fakeme": "未检到可核实新动态",
+   "山下有松": "未计入：巴黎展多为 10/1 旧稿；无 48h 新硬新闻",
+   "LOLA ROSE": "未检到可核实新动态",
+   "HEFANG": "未检到可核实新动态",
+   "雅瑞光学": "未检到可核实新动态",
+   "ARSIS": "未检到可核实新动态",
+   "蔡司": "未计入：CT LUCIA 人工晶状体属眼科医疗器械，非消费级镜片/镜框",
+   "依视路": "有动态",
+   "CHARLES&KEITH": "未计入：德里店等旧闻被误标日期",
+   "新秀丽": "未检到可核实新动态",
+   "ITO": "未检到可核实新动态",
+   "GROTTO个乐": "未检到可核实新动态",
+   "白岚": "未检到可核实新动态",
+   "万事利": "未检到可核实新动态",
+   "ECODAY": "未检到可核实新动态",
+   "bampo": "未检到可核实新动态",
+   "卡西欧": "有动态",
+   "德津": "未检到可核实新动态",
+   "LEVEL8地平线8号": "未计入：「越行越顺」主张稿为 10/20，略出 48h 窗",
+   "九格眼镜": "未检到可核实新动态",
+   "欧克利": "有动态",
+   "FANCI范琦": "未检到可核实新动态",
+   "GENTLE MONSTER": "有动态",
+   "纽芝兰": "未检到可核实新动态",
+   "明月镜片": "未计入：昨日三季报已覆盖，窗口内无实质性新事实",
+   "CECE": "未检到可核实新动态",
+   "柯达": "未检到可核实新动态",
+   "BAGSMART": "未检到可核实新动态",
+   "CIGALONG": "未检到可核实新动态",
+   "abyb jewelry": "未检到可核实新动态",
+   "海伦凯勒眼镜": "未检到可核实新动态",
+   "包包树BAGTREE": "未检到可核实新动态",
+   "飞亚达": "未检到可核实新动态",
+   "梵誓ONESWEAR": "未检到可核实新动态",
+   "KKLUE轻珠宝": "未检到可核实新动态",
+   "天美时集团": "未计入：昨日 Bugs Bunny 联名已覆盖",
+   "JELLYTOYBOY": "未检到可核实新动态",
+   "卡蒂罗": "未检到可核实新动态",
+   "尤目": "未检到可核实新动态",
+   "ORANGE CUBE": "未检到可核实新动态",
+   "古良吉吉": "未检到可核实新动态",
+   "亨得利钟表": "未检到可核实新动态",
+   "甲目眼镜": "未检到可核实新动态",
+   "TAD FAB": "未检到可核实新动态",
+   "FANGYI方宜": "未检到可核实新动态",
+   "老雷线上配镜": "未检到可核实新动态",
+   "抱树BYROOTS": "未检到可核实新动态",
+   "TELETIES": "未检到可核实新动态",
+   "DAVENA": "未检到可核实新动态",
+   "首末集团": "未检到可核实新动态",
+   "大图": "跳过（用户偏好，不追踪）",
+   "卡拉羊": "未检到可核实新动态",
+   "P&N": "未检到可核实新动态",
+   "PARIM": "未检到可核实新动态",
+   "上海夕和眼镜": "未检到可核实新动态",
+   "超视立": "未检到可核实新动态",
+   "御行": "未检到可核实新动态",
+   "木九十": "未检到可核实新动态",
+   "天空树假发": "未检到可核实新动态",
+   "不莱玫": "未检到可核实新动态",
+   "帕莎": "未检到可核实新动态",
+   "CASSILE卡思乐": "未检到可核实新动态",
+   "BLACKHEAD": "未检到可核实新动态"
+  }
+ },
+ "sources": [
+  {
+   "name": "BoF",
+   "url": "https://www.businessoffashion.com/",
+   "tier1": "综合"
+  },
+  {
+   "name": "21世纪经济报道",
+   "url": "https://www.21jingji.com/",
+   "tier1": "综合"
+  },
+  {
+   "name": "EssilorLuxottica Investors",
+   "url": "https://www.essilorluxottica.com/",
+   "tier1": "眼镜"
+  },
+  {
+   "name": "钛媒体",
+   "url": "https://www.tmtpost.com/",
+   "tier1": "眼镜"
+  },
+  {
+   "name": "LVMH News",
+   "url": "https://www.lvmh.com/",
+   "tier1": "箱包"
+  }
+ ]
+}
