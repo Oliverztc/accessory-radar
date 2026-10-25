@@ -1,0 +1,201 @@
+{
+  "date": "2026-10-24",
+  "window": "2026-10-22..2026-10-24 (Asia/Shanghai); prefer past 24h since 2026-10-23 00:00 CST, expanded to 48h because primary IR day was 10/22 and today is thinner on net-new IR",
+  "window_note": "Exa MCP rate-limited (429) for ~5min at start; used WebSearch/WebFetch + X search_posts_all. Skipped yesterday's already-covered Hermès/Kering/Prada raw Q3, jewelry fair opening basics, gold tonnage-down/value-up headline, Danyang enforcement, Mingyue Q3 unless NEW follow-up. Richemont interim due 2026-11-13; Burberry interim due ~2026-11-12.",
+  "x_scan_note": "X since 2026-10-22: market reaction (Kering −13%~−16% Fri), Hermès China soft accessories narrative, Bloomberg China wealthy pullback; little primary industry fact beyond stock chatter.",
+  "industry_news": [
+    {
+      "date": "2026-10-24",
+      "source": "钛媒体 / 蓝洞商业",
+      "title": "线上转战线下，AI 眼镜开打「巷战」：退货率 30%–70% 倒逼验配渠道，博士眼镜专柜覆盖约 27%",
+      "url": "https://www.tmtpost.com/8179553.html",
+      "tier1": "眼镜",
+      "type": "渠道",
+      "importance": 4,
+      "segment": "大众",
+      "summary": "2026年10月24日刊发的深度稿指出，AI 眼镜正从线上电商转向传统眼镜店与品牌专卖店「巷战」：洛图数据显示线上退货率约 30%–70%，线下验光试戴后退货显著更低。雷鸟称线下渠道已实现 3 倍以上增长；Rokid、影目、千问等 10 月密集开店。博士眼镜全国约 583 家门店中仅 160 余家有智能眼镜专柜（覆盖约 27%），第三方门店毛利约 10% 远低于传统眼镜，代理商反映线上不控价则线下难卖；行业线上仍占六至七成。资本视角：头部玩家冲刺上市，渠道真实成交成为财报材料关键。"
+    },
+    {
+      "date": "2026-10-24",
+      "source": "21世纪经济报道",
+      "title": "金价高位下消费分化：展会现场低克重/硬足金/古法金并进，超四成零售商加码 5 克以下备货",
+      "url": "https://www.21jingji.com/article/20261024/9524abdd66e5a8b63c1b42dd5db9d498.html",
+      "tier1": "珠宝腕表",
+      "type": "市场",
+      "importance": 4,
+      "segment": "大众",
+      "summary": "在昨日展会开幕与「量跌价升」数据基础上，10月24日现场跟进：上半年金饰需求 136 吨（−30%）vs 消费额约 1440 亿元（+5%）；投资金需求 342 吨。744 家零售商调研显示自戴悦己 44%、婚庆降至 17%；超 40% 计划提高 5 克以下备货、47% 扩充 5–10 克、62% 计划增加高工费产品。菜百并陈古法大套装与硬金小套装，中国黄金主推 1 克小黄鱼及 5D 硬金「好多鱼」。出口方面引用中宝协：2025 年出口额 506.38 亿美元（+41.33%）；电商零售约 3312 亿元（+12.4%）。"
+    },
+    {
+      "date": "2026-10-24",
+      "source": "21世纪经济报道",
+      "title": "金价回落背景下品牌价值重构：硬足金占金饰零售额 20%+，头部品牌上半年合计净减店约 1938 家",
+      "url": "https://www.21jingji.com/article/20261024/6d8442b2e17a94a5b658695b9894d2cd.html",
+      "tier1": "珠宝腕表",
+      "type": "深度",
+      "importance": 4,
+      "segment": "大众",
+      "summary": "10月23日现货金一度失守 4000 美元/盎司。文章梳理老凤祥、周大福、中国黄金等在可持续大会上的判断：决策从克重保值转向设计/工艺/文化叙事；世界黄金协会称硬足金已占中国金饰零售额 20% 以上、主攻 20–35 岁。经营压力方面：老凤祥、中国黄金上半年营收净利双降；菜百营收增利润降；老铺黄金 H1 收入 +60.3% 但 Q2 环比回落；周生生 Q3 零售销售值 +3%、内地同店 +4%（增速放缓）。老凤祥、周大生、中国黄金、周六福及豫园旗下珠宝品牌上半年合计净减少门店约 1938 家，转向坪效与溢价能力。"
+    },
+    {
+      "date": "2026-10-23",
+      "source": "BoF",
+      "title": "Here’s What We Learned From Last Week’s Luxury Results Bonanza：中国商场更空、美国支撑放缓、安静奢华回潮、Miu Miu 回落",
+      "url": "https://www.businessoffashion.com/briefings/luxury/heres-what-we-learned-from-last-weeks-luxury-results-bonanza/",
+      "tier1": "综合",
+      "type": "深度",
+      "importance": 4,
+      "segment": "奢侈品",
+      "summary": "10月23日 BoF 对上周欧洲奢侈品财报季的归纳（非原始财报复述）：普拉达 CEO Andrea Guerra 称中国商场「确实更空」；开云 CFO 指中国大陆是 Gucci 零售最大逆风；美国作为行业生命线已现放缓迹象，仅 LVMH 三季度好于上半年。安静奢华仍在：Brunello Cucinelli 上调全年展望（Q3 +14%），Zegna +8.2%，Bottega Veneta 与 Loro Piana 表现突出。Miu Miu 在连续四年增长后三季度零售 −3%。开云股价承压回落至 Luca de Meo 当选 CEO 当日附近水平。"
+    },
+    {
+      "date": "2026-10-23",
+      "source": "21世纪经济报道",
+      "title": "开云中国方案需 12–24 个月验证：不降价、不抬批发、不割裂全球语言；全年净关店目标上调至至少 125 家",
+      "url": "https://www.21jingji.com/article/20261023/herald/6ea1ef464e8c59ab8cc064953ae043fd.html",
+      "tier1": "综合",
+      "type": "市场",
+      "importance": 4,
+      "segment": "奢侈品",
+      "summary": "相对昨日原始季报，本篇新增中文市场跟进与策略细节：10月23日开云股价较前收再跌约 13.36%（文中数据）。CEO 卢卡·德·梅奥明确中国行动方案验证周期 12–24 个月，优先看旗舰转化率、高净值复购、NPS；五条落地包括向北上成核心旗舰倾斜、节日限定但不做独立中国产品线、私域 CRM、本土内容主导、提高中国区决策权。三条底线：不大范围打折、不主动提高批发占比、不割裂全球品牌语言。珠宝可比 +11%、眼镜 +4% 被定位为重要现金流；Gucci×欧莱雅美妆授权要到 2027 年中才贡献。"
+    },
+    {
+      "date": "2026-10-23",
+      "source": "LVMH / Moynat",
+      "title": "Moynat 推出 Hotel Moynat 旅行主题胶囊：酒店行李标签缝制于 M Monogram，覆盖 Hobo/托特/手拿包与丝巾、Limousine 旅行箱",
+      "url": "https://www.lvmh.com/en/news-lvmh/hotel-moynat-reimagines-the-art-of-travelc",
+      "tier1": "箱包",
+      "type": "新品",
+      "importance": 3,
+      "segment": "奢侈品",
+      "summary": "LVMH 官网 2026年10月23日发布：Moynat 与造型师 Storm Pablo、美国珠宝设计师 Marvin Douglas 合作推出 Hotel Moynat 首章，将复古酒店行李标签以皮革再现并缝制于标志性 M Monogram 帆布，产品线涵盖 Hobo、托特、手拿包、护照夹、挂饰，以及丝巾、新款 Mignon 包与限量 Limousine 旅行箱。第二章 11 月将引入灵感来自箱体金属护件的水晶镶钉。首章已在品牌精品店发售。经营视角：LVMH 皮具承压背景下，小众旅行皮具屋用档案叙事与跨界联名做差异化引流。"
+    },
+    {
+      "date": "2026-10-23",
+      "source": "TheIndustry.fashion",
+      "title": "轻奢箱包 DeMellier 首家实体旗舰落户伦敦 Sloane Square，同步首发 The Sloane / Midi Sloane",
+      "url": "https://www.theindustry.fashion/demellier-opens-first-ever-store-in-londons-sloane-square/",
+      "tier1": "箱包",
+      "type": "渠道",
+      "importance": 3,
+      "segment": "轻奢",
+      "summary": "2017 年成立于伦敦、此前以自有电商与批发（Liberty、Selfridges、Harrods、Net-a-Porter、Mytheresa 等）成长的 DeMellier，将于 10月24日在 Sloane Square 35–37 号开设首店（约 3230 平方英尺，建筑师 Nicolas Schuybroek）。开业同发 The Sloane（£585）与 The Midi Sloane（£540），意大利皮革、LWG 金标评级，肩带可内收变手拿。店内设 Craft Corner 解构包展示，并支持线上下单门店退换与个性化。信号：数字原生轻奢箱包向体验型直营旗舰迁移。"
+    },
+    {
+      "date": "2026-10-23",
+      "source": "Dior / PR TIMES",
+      "title": "Jonathan Anderson 为 Dior 2027 春夏男装设计「Double Up」翻盖邮差包，10月29日起发售",
+      "url": "https://prtimes.jp/main/html/rd/p/000003164.000008795.html",
+      "tier1": "箱包",
+      "type": "新品",
+      "importance": 3,
+      "segment": "奢侈品",
+      "summary": "日本迪奥公司 10月23日新闻稿：新任创意方向 Jonathan Anderson 为 2027 春夏男装推出 Double Up 系列翻盖邮差包， throng 扣件为图形签名，翻盖下隐藏口袋；小号为粒面皮革+Oblique 提花内衬，大号为 Cannage 皮革与麂皮；配色黑/深蓝/taupe/tan。日本市场标价约 ¥650,000（10/29）与 ¥500,000（11/26），全国精品店与官网开售。投资/经营视角：在时装皮具集团承压时，新任创意总监用结构功能型男包补足「日常可背」入口。"
+    },
+    {
+      "date": "2026-10-23",
+      "source": "finanzen.ch / awp",
+      "title": "开云拖累奢侈品板块：Richemont、Swatch 周五盘中分别跌约 5.6%、5.3%，市场等待 11 月中期财报",
+      "url": "https://www.finanzen.ch/nachrichten/aktien/aktien-von-richemont-und-swatch-im-abwartssog-branchenschwache-belastet-1036659416",
+      "tier1": "珠宝腕表",
+      "type": "资本",
+      "importance": 3,
+      "segment": "奢侈品",
+      "summary": "苏黎世 10月23日消息：在开云/爱马仕财报后的板块抛售中，Richemont 盘中一度跌约 5.57% 至 162.85 瑞郎，Swatch 记名股跌约 5.26% 至 169.20 瑞郎；开云当日跌幅更深。市场将压力归因于中国需求疲软的传染定价，而非两家当日发布新财报。Richemont 将于 11 月中旬公布 2026/27 上半年业绩（Cartier、VCA 珠宝韧性待验证）；Swatch 下一份全年数字要到 2027 年 1 月底。文中亦提及 LVMH 旗下 Zenith 计划在 Le Locle 大幅裁员。"
+    },
+    {
+      "date": "2026-10-23",
+      "source": "FashionSnap / Ron Herman",
+      "title": "Ron Herman × Anya Hindmarch 联名托特 10月24日日本发售：Small Mortimer ¥209,000",
+      "url": "https://www.fashionsnap.com/article/2026-10-23/ron-herman-anya-hindmarch-collaboration/",
+      "tier1": "箱包",
+      "type": "营销",
+      "importance": 2,
+      "segment": "轻奢",
+      "summary": "10月23日报道、24日起于 Ron Herman 千駄谷/二子玉川/辻堂/京都/福冈及官网发售：Small Mortimer Tote（¥209,000，含税）与更大号 Mortimer Tote（¥242,000）；另有 Shopping Bag Charm（¥47,300）与 Lemon Cake Charm（¥39,600）定于 12月4日发售。联名把 Anya 幽默日常物件美学嵌入结构化托特，服务日本轻奢零售场景。重要性偏低，作轻奢箱包联名样本。"
+    },
+    {
+      "date": "2026-10-22",
+      "source": "FashionNetwork",
+      "title": "MCM 50 周年联名 adidas × 拜仁慕尼黑：Ottomar Weekender 与 Stark Backpack 10月22日全球开售",
+      "url": "https://us.fashionnetwork.com/news/Mcm-unveils-capsule-collection-with-adidas-and-fc-bayern-munich,1878205.html",
+      "tier1": "箱包",
+      "type": "营销",
+      "importance": 3,
+      "segment": "轻奢",
+      "summary": "慕尼黑轻奢屋 MCM 在担任拜仁女足官方行李合作伙伴后，推出与 adidas、FC Bayern 三方胶囊：核心皮具为 Cognac Visetos 印花的 Ottomar Weekender 与 Stark Backpack，配拜仁队徽与奶油色皮革细节；服装含女款/中性球衣、训练夹克与阔腿训练裤。东京拍摄广告呼应女足夏季巡回；10月20日慕尼黑 VIP 活动后，22日起于拜仁世界/网店、adidas 欧日韩门店与网店、MCM 全球精品店同步发售。轻奢箱包借体育 IP 扩圈层与男包/旅行场景。"
+    },
+    {
+      "date": "2026-10-22",
+      "source": "羊城晚报·羊城派",
+      "title": "第25届中国（揭阳）玉文化节定档 10月27日：玉雕精品、名家雅集、商贸对接与文旅体验",
+      "url": "https://ycpai.ycwb.com/content/ikimvjktii/content_54327456.html",
+      "tier1": "玉石翡翠",
+      "type": "市场",
+      "importance": 3,
+      "segment": "大众",
+      "summary": "10月22日报道：第25届中国（揭阳）玉文化节将于 10月27日在揭阳缅商玉文化产业基地举行，内容涵盖玉雕精品展、名家雅集、商贸对接与文旅体验，串联「揭阳工」与古城文脉。时点上与北京中国国际珠宝展（10/22–26）首尾相接，形成「北方综合珠宝展 + 南方玉都节庆」的双周产业窗口。经营视角：玉石翡翠在金价高位、标准化与流动性承压背景下，仍依赖产地节庆与工艺叙事拉动 B 端对接与文旅消费。"
+    }
+  ],
+  "reading_list": [
+    {
+      "title": "Here’s What We Learned From Last Week’s Luxury Results Bonanza",
+      "source": "BoF",
+      "date": "2026-10-23",
+      "url": "https://www.businessoffashion.com/briefings/luxury/heres-what-we-learned-from-last-weeks-luxury-results-bonanza/",
+      "tier1": "综合"
+    },
+    {
+      "title": "Luxury Q3: Hermès Up 5.5 Percent, Kering's Gucci Down 4 Percent as LVMH, Prada and Moncler Slow",
+      "source": "The Edge",
+      "date": "2026-10-23",
+      "url": "https://edgeconsultancykw.com/european-luxury-q3-2026-hermes-kering-prada-moncler-lvmh/",
+      "tier1": "综合"
+    },
+    {
+      "title": "开云中国方案需12–24个月验证（Gucci卖不动了，开云将关掉至少125家门店）",
+      "source": "21世纪经济报道",
+      "date": "2026-10-23",
+      "url": "https://www.21jingji.com/article/20261023/herald/6ea1ef464e8c59ab8cc064953ae043fd.html",
+      "tier1": "箱包"
+    },
+    {
+      "title": "线上转战线下，AI 眼镜开打「巷战」",
+      "source": "钛媒体",
+      "date": "2026-10-24",
+      "url": "https://www.tmtpost.com/8179553.html",
+      "tier1": "眼镜"
+    },
+    {
+      "title": "金价下跌，年轻人买黄金的逻辑也变了",
+      "source": "21世纪经济报道",
+      "date": "2026-10-24",
+      "url": "https://www.21jingji.com/article/20261024/6d8442b2e17a94a5b658695b9894d2cd.html",
+      "tier1": "珠宝腕表"
+    },
+    {
+      "title": "2026 Chinese jewellery retailer insights: Confidence check",
+      "source": "World Gold Council",
+      "date": "2026-10-16",
+      "url": "https://www.gold.org/goldhub/research/2026-chinese-jewellery-retailer-insights-confidence-check",
+      "tier1": "珠宝腕表"
+    },
+    {
+      "title": "A Tale of Two Luxuries: What LVMH's Latest Earnings Say About Today's Wealthiest Shoppers",
+      "source": "JCK",
+      "date": "2026-10-13",
+      "url": "https://www.jckonline.com/editorial-article/lvmh-jewels-up-leather-down/",
+      "tier1": "珠宝腕表"
+    }
+  ],
+  "discarded_or_out_of_window": [
+    "Hermès/Kering/Prada raw Q3 releases (already in 2026-10-23 briefing)",
+    "China International Jewelry Fair opening wire (already covered 10/23)",
+    "Danyang fake myopia-control lenses enforcement (already covered; no meaningful 10/23–24 NEW follow-up beyond 10/22 recapitulation)",
+    "Mingyue Lens Q3 (already covered)",
+    "EssilorLuxottica Q3 (2026-10-20, outside 48h)",
+    "MOF smart glasses 1.1x sales (primary wire ~2026-10-19)",
+    "Mansur Gavriel acquired by Public Clothing Co. (closed ~2026-10-13)",
+    "WGC retailer insights primary publish 2026-10-16 (kept in reading_list only)"
+  ]
+}

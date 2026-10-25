@@ -1,0 +1,129 @@
+{
+  "brand_news": [
+    {
+      "brand": "GENTLE MONSTER",
+      "date": "2026-10-23",
+      "source": "News1 / UP TO DATE / fashiontrend.jp",
+      "title": "GENTLE MONSTER × Maison Margiela 第4弹联名公开「Deconstruction」预告，日本 10 月 29 日发售",
+      "url": "https://uptodate.tokyo/gentle-monster-x-maison-margiela-part4/",
+      "summary": "10月23日，GENTLE MONSTER 与 Maison Margiela 发布第四次联名预告：以「Deconstruction（解构）」为主轴，将镜架与镜片以非定形方式重组，呈现「未完成」美学。韩国 News1、日本 UP TO DATE 与 IICOMBINED JAPAN 通稿均于当日刊发；ST Magazine（10/24）补充日本官网上架约 25 个型号、65 SKU，定价约 47,300–57,200 日元，MM301 为门店限定不可配镜片物件。发售日为 2026-10-29。"
+    },
+    {
+      "brand": "欧克利",
+      "date": "2026-10-23",
+      "source": "PR TIMES / Luxottica Japan / GQ Japan",
+      "title": "Oakley MUZM Straight Jacket® 99 限量三色复刻发售：原型透明框 / Blood Skull / Matte Rootbeer",
+      "url": "https://prtimes.jp/main/html/rd/p/000000130.000053882.html",
+      "summary": "卢森梯卡日本于 10 月 23 日发布：MUZM 系列复刻 1999 年标志性 wraparound 款 Straight Jacket 99，采用 O-Matter 轻量镜架与 Prizm 镜片。三款限量：PROTOTYPE（¥42,350，仅 Oakley 涩谷店）、Blood Skull 与 Matte Rootbeer（各 ¥43,450，涩谷店、Oakley.com 及部分授权店）。全球媒体亦于 10 月 22 日报道同日全球上架。"
+    },
+    {
+      "brand": "卡西欧",
+      "date": "2026-10-23",
+      "source": "Times of India / MediaInfoline",
+      "title": "Casio India 正式引入 G-SHOCK 2500「CasioNaut」系列：印度售价 ₹9,995–₹26,995，新德里办发布活动",
+      "url": "https://timesofindia.indiatimes.com/technology/wearables/casio-launches-g-shock-2500-series-in-india-with-prices-from-rs-9995/articleshow/135143551.cms",
+      "summary": "在 10 月 22 日全球发布 CasioNaut（GAC/GMC-2500）之后，Casio India 于 10 月 23 日在新德里举办媒体发布会，正式引入印度市场：树脂 GAC-2500 与金属包覆 GMC-2500，标配 Multi-Mission Date、双表眼布局、20 巴防水与抗震。印度售价 ₹9,995–₹26,995。属昨日全球发布的区域落地跟进，含新定价与本地活动事实。"
+    },
+    {
+      "brand": "蔡司",
+      "date": "2026-10-22",
+      "source": "ZEISS / PR Newswire",
+      "title": "蔡司 CT LUCIA 621P 单焦点人工晶状体在日本正式上市，拓展白内障工作流",
+      "url": "https://www.zeiss.com/meditec-ag/en/media-news/press-releases/2026/ct-lucia-621p-japan.html",
+      "summary": "Carl Zeiss Meditec 于 10 月 22 日宣布，疏水丙烯酸非球面单焦点 IOL「CT LUCIA 621P」在日本商业上市，纳入蔡司白内障工作流；将在 10 月 29 日–11 月 1 日京都第 80 回日本临床眼科学会展示。属医疗/眼科植入物，非消费级太阳镜或框架镜，但对蔡司视觉健康版图有实质产品落地意义。"
+    }
+  ],
+  "brand_scan": {
+    "window": "2026-10-22..2026-10-24",
+    "method": "Exa + X search_posts_all; Chinese name + aliases; 48h Asia/Shanghai",
+    "note": "有新动态 4/64：GENTLE MONSTER、欧克利、卡西欧、蔡司。Exa web_search_exa 全程 HTTP 429（免费 MCP 限额），改用 WebSearch/WebFetch + X search_posts_all/search_news 完成 64 品牌扫描。昨日已报且窗口内无新事实故不重复：明月镜片（Q3）、卡西欧全球 CasioNaut 首发（仅保留印度落地跟进）、天美时集团 Looney Tunes。弃用：CHARLES&KEITH 德里店稿标注 Oct 23 但原文为 2026-02 开业；依视路陆逊梯卡 Q3 官方稿为 10/20；LOLA ROSE 刘浩存代言为 10/15；LEVEL8「越行越顺」为 10/20；明月镜片 AI 眼镜概念涨停仅为行情短讯。大图/DITA 按用户偏好不作优先追踪，矩阵记为无更新。软广微信转发、无独立发布日期的社媒种草未计入。",
+    "with_updates": [
+      "GENTLE MONSTER",
+      "欧克利",
+      "卡西欧",
+      "蔡司"
+    ],
+    "no_updates": [
+      "裘真",
+      "Fakeme",
+      "山下有松",
+      "LOLA ROSE",
+      "HEFANG",
+      "雅瑞光学",
+      "ARSIS",
+      "依视路",
+      "CHARLES&KEITH",
+      "新秀丽",
+      "ITO",
+      "GROTTO个乐",
+      "白岚",
+      "万事利",
+      "ECODAY",
+      "bampo",
+      "德津",
+      "LEVEL8地平线8号",
+      "九格眼镜",
+      "FANCI范琦",
+      "纽芝兰",
+      "明月镜片",
+      "CECE",
+      "柯达",
+      "BAGSMART",
+      "CIGALONG",
+      "abyb jewelry",
+      "海伦凯勒眼镜",
+      "包包树BAGTREE",
+      "飞亚达",
+      "梵誓ONESWEAR",
+      "KKLUE轻珠宝",
+      "天美时集团",
+      "JELLYTOYBOY",
+      "卡蒂罗",
+      "尤目",
+      "ORANGE CUBE",
+      "古良吉吉",
+      "亨得利钟表",
+      "甲目眼镜",
+      "TAD FAB",
+      "FANGYI方宜",
+      "老雷线上配镜",
+      "抱树BYROOTS",
+      "TELETIES",
+      "DAVENA",
+      "首末集团",
+      "大图",
+      "卡拉羊",
+      "P&N",
+      "PARIM",
+      "上海夕和眼镜",
+      "超视立",
+      "御行",
+      "木九十",
+      "天空树假发",
+      "不莱玫",
+      "帕莎",
+      "CASSILE卡思乐",
+      "BLACKHEAD"
+    ]
+  },
+  "deep_dive_candidates": [
+    {
+      "brand": "GENTLE MONSTER",
+      "reason": "与 Maison Margiela 连续第四年联名，以解构/未完成美学推高时尚眼镜联名天花板；10/29 发售前可跟型号结构、定价带、门店限定 MM301 与中日韩渠道节奏。",
+      "urls": [
+        "https://uptodate.tokyo/gentle-monster-x-maison-margiela-part4/",
+        "https://www.stmagazine.net/gentle-monster-maison-margiela-fourth-collection-2026",
+        "https://www.gentlemonster.com/int/en/category/collections/maison-margiela-2026"
+      ]
+    },
+    {
+      "brand": "欧克利",
+      "reason": "MUZM 档案复刻路径（Straight Jacket 99）叠 Prizm 技术，可对照品牌「运动性能 × 90 年代文化符号」再商业化，以及旗舰店限定配色策略。",
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000000130.000053882.html",
+        "https://oakley-media-hub.prezly.com/oakley-muzm-straight-jacketr-99",
+        "https://www.gqjapan.jp/article/20261023-oakley-muzm-straight-jacket-99-news"
+      ]
+    }
+  ]
+}

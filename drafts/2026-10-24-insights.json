@@ -1,0 +1,266 @@
+{
+  "date": "2026-10-24",
+  "research_note": "Exa web_search_exa 当日遇 HTTP 429 限流，主检索改用 WebSearch/WebFetch；jade/玉石与多数 P0/P1 品牌在 10/20–10/24 窗口内深度材料偏薄，已如实标注而非编造。昨日已覆盖的奢侈品 Q3 同日、轻克重金饰、秋冬小框太阳镜、CasioNaut、开云眼镜+4%、明月 PMC 不作为本文件主角度。 另：Eyecare Business 10/21 半透明醋酸光学架信号已入 reading_list，因昨日小框太阳镜与今日 AI 眼镜行业稿邻近，未单列为 trend，避免角度挤兑。",
+  "insights": [
+    {
+      "title": "晚装包「日常化」：从小场合专用到日间造型杠杆",
+      "tier1": "箱包",
+      "body": "投资视角：秋冬秀场与买手媒体同步把 cocktail / evening bag 从「偶发 SKU」拉回核心叙事——PORTER（10/6）、Marie Claire（10/13）与 Vogue UK（10/7）共同指出：缎面/丝绒抽绳袋、迷你 top-handle、软塌 clutch 正被街拍与日常造型高频使用，而非只服务晚宴。ELLE（10/23）进一步把动物/食物造型 minaudière（Chanel 长颈鹿、Dior 核桃/青蛙、JW Anderson 鸽子等）定义为「可见的快乐」奢侈品，短内容传播与收藏欲强于功能容量。这意味着在「大托特/实用斜挎」仍占流量的同时，高毛利、低SKU深度的装饰性小包可成为结构溢价抓手。\n\n经营视角：零售端不宜再用「场合货」逻辑压库存——把缎面/珠绣/异形小包做成周主题陈列与试戴短视频，搭配牛仔、西装、针织做「日间反差」；轻奢与国产千元档可切缎面/植绒替代真丝，控制成本同时吃同款情绪。风险是同质化快仿与场合错配导致退货，需用限量色与联名叙事护城。",
+      "refs": [
+        {
+          "title": "Trending Now: The Cocktail Bag | PORTER",
+          "url": "https://www.net-a-porter.com/en-us/porter/article-0ab82d2159a91278/fashion/fashion-memo/cocktail-bag"
+        },
+        {
+          "title": "Evening Bag Trend 2026 | Marie Claire",
+          "url": "https://www.marieclaire.com/fashion/fall-fashion/evening-bag-revival-2026/"
+        },
+        {
+          "title": "The Key Autumn/Winter 2026 Bag Trends | British Vogue",
+          "url": "https://www.vogue.co.uk/article/autumn-winter-2026-bag-trends"
+        },
+        {
+          "title": "Novelty Bags Are Fashion’s Most Joyful Accessory Trend | ELLE",
+          "url": "https://www.elle.com/fashion/trend-reports/a74220173/animal-nature-inspired-novelty-bags-trend-fall-2026/"
+        }
+      ]
+    },
+    {
+      "title": "秋冬小配件极大主义：丝巾、胸针与发饰重新成为「可穿戴叙事」",
+      "tier1": "服配",
+      "body": "投资视角：在箱包客单价承压、成衣同质化加剧的周期里，低客单高连带的「小配件层」被秀场与平台同时加码。Vogue（9/4）将印花丝巾、流苏披肩、花卉胸针、珍珠点缀列为 2026 秋冬十大小配趋势；Pinterest Predicts 的 Glamoratti / Brooched 指向粗金手镯、胸针与腰带，Who What Wear 称「brooch aesthetic」搜索同比约 +110%。Cosmopolitan（9/24）则把头巾、爪夹、法式发簪、加厚发箍写成低维护美丽方案——丝绒/丝质头巾从夏季延续到秋冬。对丝巾产业链（织造、印花、IP 联名）与轻珠宝/发饰品牌，这是「内容驱动、库存周转快」的结构性机会，而非一次性网红单品。\n\n经营视角：商场与电商应把丝巾/胸针/发饰做成「第三件」连带位（包旁、收银台、试衣间），用头戴演示与叠戴教程替代纯货架陈列；国风丝巾品牌可走「一巾多戴」（领巾/发带/包挂）。避开昨日已写的小框太阳镜主线，本洞察聚焦颈/胸/发部位配件。",
+      "refs": [
+        {
+          "title": "10 Fall 2026 Accessory Trends That Stole the Show | Vogue",
+          "url": "https://www.vogue.com/article/fall-2026-accessory-trends"
+        },
+        {
+          "title": "The Biggest Hair Accessory Trends for Fall 2026 | Cosmopolitan",
+          "url": "https://www.cosmopolitan.com/style-beauty/beauty/a73842370/fall-hair-accessories/"
+        },
+        {
+          "title": "Pinterest Predicts 2026 | Pinterest Newsroom",
+          "url": "https://newsroom.pinterest.com/en-gb/news/pinterest-predicts-nonconformity-self-preservation-and-escapism-drive-21-trends-for-2026/"
+        },
+        {
+          "title": "5 Maximalist Accessory Trends to Know for 2026 | Who What Wear",
+          "url": "https://www.whowhatwear.com/fashion/trends/maximalist-accessory-trends-2026"
+        }
+      ]
+    }
+  ],
+  "trends": [
+    {
+      "title": "Cocktail / Evening Bag 日间化",
+      "tier1": "箱包",
+      "stage": "上升",
+      "description": "缎面、丝绒抽绳袋、迷你 top-handle 与软 clutch 从晚宴专用转为牛仔/西装日间点缀；米兰街拍与买手媒体同频强化该用法。",
+      "opportunity": "提升配件 ASP 与社交内容曝光；轻奢可推「日晚两用」迷你系列，商场做场合混搭陈列。",
+      "evidence": [
+        {
+          "title": "PORTER: The Cocktail Bag (2026-10-06)",
+          "url": "https://www.net-a-porter.com/en-us/porter/article-0ab82d2159a91278/fashion/fashion-memo/cocktail-bag"
+        },
+        {
+          "title": "Marie Claire: Evening Bag Revival (2026-10-13)",
+          "url": "https://www.marieclaire.com/fashion/fall-fashion/evening-bag-revival-2026/"
+        }
+      ]
+    },
+    {
+      "title": "Novelty / 异形迷你包（动物·食物·自然物）",
+      "tier1": "箱包",
+      "stage": "上升",
+      "description": "ELLE 10/23 专文确认：Chanel 长颈鹿、Dior 核桃/青蛙、Simone Rocha 珍珠蛋、面包造型等 minaudière 从梗变成可持续的收藏型趋势，强调小批量与手作稀缺。",
+      "opportunity": "限量联名与艺术陈列；国产品牌可用树脂/珠绣做可负担异形，服务小红书种草，但需控翻单与售后。",
+      "evidence": [
+        {
+          "title": "ELLE: Novelty Bags Fall 2026 (2026-10-23)",
+          "url": "https://www.elle.com/fashion/trend-reports/a74220173/animal-nature-inspired-novelty-bags-trend-fall-2026/"
+        },
+        {
+          "title": "British Vogue AW26 playful minaudières (2026-10-07)",
+          "url": "https://www.vogue.co.uk/article/autumn-winter-2026-bag-trends"
+        }
+      ]
+    },
+    {
+      "title": "Pony hair / 马毛感短绒包袋材质",
+      "tier1": "箱包",
+      "stage": "上升",
+      "description": "秋冬纹理主线之一：剪短有光泽的 pony/haircalf（多为牛/山羊皮短绒）介于皮革与毛皮之间，Chanel、Balmain、Ferragamo 到 COS/Zara 价格带齐发，动物纹可当「中性色」用。",
+      "opportunity": "秋冬主力材质升级；注意护理教育与仿马毛 PU 的质感分层，避免高端线被快时尚稀释。",
+      "evidence": [
+        {
+          "title": "Indulgexpress: Pony hair bags fall 2026 (2026-10-03)",
+          "url": "https://www.indulgexpress.com/fashion/trends/2026/Oct/03/what-are-pony-hair-bags-inside-fall-2026s-biggest-handbag-trend"
+        }
+      ]
+    },
+    {
+      "title": "印花丝巾 + 丝绒/丝质头巾（颈/发两用）",
+      "tier1": "服配",
+      "stage": "上升",
+      "description": "秀场印花丝巾与流苏披肩持续；发型师侧把丝/绒头巾从夏延到秋冬，巧克力、酒红、橄榄绿与复古印花成主色。与万事利等丝巾产业链、商场丝巾专柜高度相关。",
+      "opportunity": "一巾多戴内容、包挂/发带交叉销售；国风 IP 印花可切文化溢价，盯联名节奏与库存周转。",
+      "evidence": [
+        {
+          "title": "Vogue: Printed Silk Scarves / Fringe Scarf (2026-09-04)",
+          "url": "https://www.vogue.com/article/fall-2026-accessory-trends"
+        },
+        {
+          "title": "Cosmopolitan: Fall hair accessories / headscarf (2026-09-24)",
+          "url": "https://www.cosmopolitan.com/style-beauty/beauty/a73842370/fall-hair-accessories/"
+        }
+      ]
+    }
+  ],
+  "reading_list": [
+    {
+      "title": "Novelty Bags Are Fashion’s Most Joyful Accessory Trend",
+      "source": "ELLE",
+      "date": "2026-10-23",
+      "url": "https://www.elle.com/fashion/trend-reports/a74220173/animal-nature-inspired-novelty-bags-trend-fall-2026/",
+      "tier1": "箱包"
+    },
+    {
+      "title": "Fall/Winter 2026 is the Season of Classic Shapes, Signature Details, and Rich Color",
+      "source": "Eyecare Business",
+      "date": "2026-10-21",
+      "url": "https://eyecarebusiness.com/issues/2026/frames-lenses-plus-beyond/fallwinter-2026-is-the-season-of-classic-shapes-signature-details-and-rich-color",
+      "tier1": "眼镜"
+    },
+    {
+      "title": "智能时尚、汽车、户外等领域22条品牌最新投资并购态｜全球时尚投资周报第38-41期",
+      "source": "华丽志",
+      "date": "2026-10-15",
+      "url": "https://luxe.co/post/484867",
+      "tier1": "综合"
+    },
+    {
+      "title": "I Missed Having a Bag Just for Going Out—Fashion Apparently Did, Too (Evening Bag Revival)",
+      "source": "Marie Claire",
+      "date": "2026-10-13",
+      "url": "https://www.marieclaire.com/fashion/fall-fashion/evening-bag-revival-2026/",
+      "tier1": "箱包"
+    },
+    {
+      "title": "New status symbols are taking over this fall",
+      "source": "Business Insider",
+      "date": "2026-10-09",
+      "url": "https://www.businessinsider.com/fall-fashion-trends-status-symbols-2026-10",
+      "tier1": "综合"
+    },
+    {
+      "title": "The Key Autumn/Winter 2026 Bag Trends To Know Now",
+      "source": "British Vogue",
+      "date": "2026-10-07",
+      "url": "https://www.vogue.co.uk/article/autumn-winter-2026-bag-trends",
+      "tier1": "箱包"
+    },
+    {
+      "title": "Trending Now: The Cocktail Bag",
+      "source": "PORTER / NET-A-PORTER",
+      "date": "2026-10-06",
+      "url": "https://www.net-a-porter.com/en-us/porter/article-0ab82d2159a91278/fashion/fashion-memo/cocktail-bag",
+      "tier1": "箱包"
+    },
+    {
+      "title": "Pony hair bags explained: The fall 2026 handbag trend to know",
+      "source": "Indulgexpress",
+      "date": "2026-10-03",
+      "url": "https://www.indulgexpress.com/fashion/trends/2026/Oct/03/what-are-pony-hair-bags-inside-fall-2026s-biggest-handbag-trend",
+      "tier1": "箱包"
+    },
+    {
+      "title": "The Biggest Hair Accessory Trends for Fall 2026",
+      "source": "Cosmopolitan",
+      "date": "2026-09-24",
+      "url": "https://www.cosmopolitan.com/style-beauty/beauty/a73842370/fall-hair-accessories/",
+      "tier1": "服配"
+    },
+    {
+      "title": "Scarves! Brooches! Charms! 10 Fall 2026 Accessory Trends That Stole the Show",
+      "source": "Vogue",
+      "date": "2026-09-04",
+      "url": "https://www.vogue.com/article/fall-2026-accessory-trends",
+      "tier1": "服配"
+    },
+    {
+      "title": "裘真和山下有松争着在万象城开店，越卖越贵",
+      "source": "CFW时尚 / 源Sight",
+      "date": "2026-07-29",
+      "url": "https://yun-f.cfw.cn/view/c394320.html",
+      "tier1": "箱包"
+    },
+    {
+      "title": "Pinterest Predicts™: 21 trends for 2026",
+      "source": "Pinterest Newsroom",
+      "date": "2025-12-09",
+      "url": "https://newsroom.pinterest.com/en-gb/news/pinterest-predicts-nonconformity-self-preservation-and-escapism-drive-21-trends-for-2026/",
+      "tier1": "综合"
+    }
+  ],
+  "brand_insights_candidates": [
+    {
+      "brands": [
+        "裘真",
+        "山下有松"
+      ],
+      "tier1": "箱包",
+      "title": "国产新锐箱包「万象系」同台：提价 + 高端商场化",
+      "why_today": "非 10/20–24 新稿，但是昨日未用的深度渠道/定价材料，适合品牌洞察层。源 Sight/CFW 2026-07-29：裘真 2026 年初至今已开约 8 家新店（含西安万象城等），规划 2028 年超 30 店；山下有松约 20 店、西安万象城计划 9–10 月城市首店。窄播/沥金：618 箱包榜山下有松与裘真分列 1–2，均价分别约 1600→2200、1400→1700，复购约 42%/35%。万象天地将集齐裘真、山下有松、GROTTO。",
+      "investor_view": "跟踪同场竞争下的同店销售与客单能否继续上移；商场资源集中度高，扩张质量重于速度。",
+      "operator_view": "华东高端商场优先、一店一景与展览叙事；提价须匹配体验与售后，避免与对家纯价格战。",
+      "sources": [
+        {
+          "title": "裘真和山下有松争着在万象城开店，越卖越贵",
+          "url": "https://yun-f.cfw.cn/view/c394320.html",
+          "date": "2026-07-29"
+        }
+      ],
+      "freshness": "secondary_deep_dive_not_oct20_24"
+    },
+    {
+      "brands": [
+        "GENTLE MONSTER"
+      ],
+      "tier1": "眼镜",
+      "title": "Google 战略入股后的智能眼镜 + 全球扩店叙事（材料偏旧）",
+      "why_today": "可作背景候选，但 10/20–24 无新的独立深度稿；公开报道多为 2025 中 Google ~$100M 入股 IICOMBINED、2026 与三星/Gemini 智能眼镜推进及海外门店扩张计划。与当日行业稿「AI 眼镜巷战/退货」可交叉，但不宜单独当作今日新洞察。",
+      "investor_view": "估值叙事从时尚眼镜切到 AI 硬件生态，需盯量产良率、退货与渠道验配能力。",
+      "operator_view": "传统光学零售可观察其体验店方法论；智能款务必 bundling 验配服务。",
+      "sources": [
+        {
+          "title": "Google to invest $100 mn in Gentle Monster (KED Global)",
+          "url": "https://www.kedglobal.com/tech,-media-telecom/newsView/ked202506200005",
+          "date": "2025-06"
+        },
+        {
+          "title": "Gentle Monster Intelligent Eyewear (brand)",
+          "url": "https://www.gentlemonster.com/int/zh-CN/intelligent-eyewear",
+          "date": "undated_brand"
+        }
+      ],
+      "freshness": "thin_for_today"
+    }
+  ],
+  "thin_or_discarded": [
+    {
+      "topic": "玉石翡翠 10/20–24 新鲜深度",
+      "note": "检索到的「百元级小件翡翠」等多为 2026-06 展会稿；回流平台趋势报告偏 2025 末。窗口内可确认日期+URL 的新深度不足，故不写入 insights/trends。"
+    },
+    {
+      "topic": "木九十 / 蔡司 / 依视路 / CHARLES&KEITH / 新秀丽 / HEFANG / LOLA ROSE / LEVEL8 / 万事利 / 欧克利 今日深度",
+      "note": "未找到 10/20–24 可核实日期的品牌深度融资/门店长文；万事利仅能间接挂靠丝巾趋势。线上配镜专业化文章抓取超时/日期不稳，不入稿。"
+    },
+    {
+      "topic": "BoF / Vogue Business / Jing Daily / LADYMAX / 品牌星球 / 36氪 本窗口箱包眼镜专稿",
+      "note": "BoF/Vogue Business/Jing Daily 在本轮检索中未出现可确认的 10/20–24 箱包/眼镜专深稿（华丽志 10/15 投资周报已收录）。界面新闻裘真文 URL 404，改用 CFW 同源转载。"
+    },
+    {
+      "topic": "编织包/民族风/双肩包",
+      "note": "中文产业报告与德宏景颇小包等信号偏夏/8月；Vogue Taiwan 网袋文为 2026-05，未达「新信号」门槛，故未列入 trends。"
+    }
+  ]
+}
