@@ -12,7 +12,10 @@ python3 build.py
 ORG=$(python3 -c 'import json;print(json.load(open(".vercel/project.json")).get("orgId",""))' 2>/dev/null || true)
 SCOPE_ARGS=()
 [ -n "${ORG:-}" ] && SCOPE_ARGS=(--scope "$ORG")
-timeout 300 npx --yes vercel@63 deploy --prod --yes "${SCOPE_ARGS[@]}"
+if ! timeout 300 npx --yes vercel@63 deploy --prod --yes "${SCOPE_ARGS[@]}"; then
+  echo "warn: deploy with orgId/scope failed, retrying --scope oliverztcs-projects" >&2
+  timeout 300 npx --yes vercel@63 deploy --prod --yes --scope oliverztcs-projects
+fi
 # 同步到 GitHub（失败不影响已完成的部署）
 if [ -d .git ]; then
   git add -A && { git diff --cached --quiet || git commit -q -m "daily: $DATE"; } \
