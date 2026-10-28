@@ -1,0 +1,311 @@
+{
+  "date": "2026-10-27",
+  "window": "2026-10-25..2026-10-27",
+  "method": "user-Exa web_search_exa 全程 HTTP 429（约274s冷却）；改用 WebSearch + WebFetch 核验日期/URL。中文名+英文别名检索，日期锚定 2026-10-25..27；软文 sole source 跳过。",
+  "brand_news": [
+    {
+      "brand": "明月镜片",
+      "date": "2026-10-26",
+      "source": "金融界",
+      "title": "明月镜片接待146家机构调研：单季医疗渠道+113%，PMC超亮/1.74/渐进放量，智能眼镜与小米合作推进",
+      "url": "https://finance.jrj.com.cn/2026/10/26191858872429.shtml",
+      "summary": "2026-10-26，金融界报道明月镜片披露10/01–10/26期间接待睿远、中金、国泰海通等146家机构调研。三季报已披露之外，本次纪要补充结构线索：单三季度毛利率回升至60.1%（同比+2.0pct/环比+4.3pct）；PMC超亮/1.74/渐进多焦点单季分别+76%/+170%/+49%；医疗渠道单季+113.32%、前三季度+169.52%；品牌端联动《你好，星期六》与高铁站投放、联合郭晶晶校园护眼；智能眼镜与小米合作稳步推进但体量仍小。属窗口内可核验新披露（非昨日已覆盖三季报复述）。"
+    }
+  ],
+  "scanned": [
+    {
+      "brand": "明月镜片",
+      "found": true,
+      "note": "10/26机构调研纪要（金融界）"
+    },
+    {
+      "brand": "CECE",
+      "found": false,
+      "note": "未检到窗口内可核实新动态（淘宝/京东在售商品页非硬新闻）"
+    },
+    {
+      "brand": "柯达",
+      "found": false,
+      "note": "未检到窗口内可核实新动态"
+    },
+    {
+      "brand": "BAGSMART",
+      "found": false,
+      "note": "Pebble Hybrid/Gateway 推广为10月初窗外；窗口内无新发售通稿"
+    },
+    {
+      "brand": "CIGALONG",
+      "found": false,
+      "note": "未检到可核实新动态"
+    },
+    {
+      "brand": "abyb jewelry",
+      "found": false,
+      "note": "未检到可核实新动态"
+    },
+    {
+      "brand": "海伦凯勒眼镜",
+      "found": false,
+      "note": "未检到窗口内可核实新动态"
+    },
+    {
+      "brand": "包包树BAGTREE",
+      "found": false,
+      "note": "成都IFS首店9/28、秋冬新品为窗外；无窗口内新通稿"
+    },
+    {
+      "brand": "飞亚达",
+      "found": false,
+      "note": "三季报预约10/30披露，窗口内无新公告"
+    },
+    {
+      "brand": "梵誓ONESWEAR",
+      "found": false,
+      "note": "未检到可核实新动态"
+    },
+    {
+      "brand": "KKLUE轻珠宝",
+      "found": false,
+      "note": "未检到可核实新动态"
+    },
+    {
+      "brand": "天美时集团",
+      "found": false,
+      "note": "窗口内Gizmochina 10/25 Bugs Bunny×M79 已在10/26日报；Intrepid Blackout 已在10/21覆盖（Hodinkee 10/20），不重复计入；无更新独立事实"
+    },
+    {
+      "brand": "JELLYTOYBOY",
+      "found": false,
+      "note": "未检到可核实新动态"
+    },
+    {
+      "brand": "卡蒂罗",
+      "found": false,
+      "note": "未检到可核实新动态"
+    },
+    {
+      "brand": "尤目",
+      "found": false,
+      "note": "未检到可核实新动态"
+    },
+    {
+      "brand": "ORANGE CUBE",
+      "found": false,
+      "note": "未检到可核实新动态"
+    },
+    {
+      "brand": "古良吉吉",
+      "found": false,
+      "note": "26秋冬风筝等为既有社媒/红秀稿，无窗口内新发售日通稿"
+    },
+    {
+      "brand": "亨得利钟表",
+      "found": false,
+      "note": "未检到可核实新动态"
+    },
+    {
+      "brand": "甲目眼镜",
+      "found": false,
+      "note": "未检到可核实新动态"
+    },
+    {
+      "brand": "TAD FAB",
+      "found": false,
+      "note": "未检到可核实新动态（8月永源快闪窗外）"
+    },
+    {
+      "brand": "FANGYI方宜",
+      "found": false,
+      "note": "未检到可核实新动态"
+    },
+    {
+      "brand": "老雷线上配镜",
+      "found": false,
+      "note": "未检到可核实新动态"
+    },
+    {
+      "brand": "抱树BYROOTS",
+      "found": false,
+      "note": "未检到可核实新动态"
+    },
+    {
+      "brand": "TELETIES",
+      "found": false,
+      "note": "未检到可核实新动态"
+    },
+    {
+      "brand": "DAVENA",
+      "found": false,
+      "note": "未检到可核实新动态"
+    },
+    {
+      "brand": "首末集团",
+      "found": false,
+      "note": "未检到可核实新动态"
+    },
+    {
+      "brand": "大图",
+      "found": false,
+      "note": "按用户偏好跳过优先追踪"
+    },
+    {
+      "brand": "卡拉羊",
+      "found": false,
+      "note": "未检到可核实新动态"
+    },
+    {
+      "brand": "P&N",
+      "found": false,
+      "note": "未检到可核实新动态"
+    },
+    {
+      "brand": "PARIM",
+      "found": false,
+      "note": "婴童品牌网10/22软广综述在窗外且非独立硬新闻，跳过"
+    },
+    {
+      "brand": "上海夕和眼镜",
+      "found": false,
+      "note": "未检到可核实新动态"
+    },
+    {
+      "brand": "超视立",
+      "found": false,
+      "note": "未检到可核实新动态"
+    },
+    {
+      "brand": "御行",
+      "found": false,
+      "note": "未检到可核实新动态"
+    },
+    {
+      "brand": "木九十",
+      "found": false,
+      "note": "未检到窗口内可核实新动态（既有联名页无新日期）"
+    },
+    {
+      "brand": "天空树假发",
+      "found": false,
+      "note": "未检到可核实新动态"
+    },
+    {
+      "brand": "不莱玫",
+      "found": false,
+      "note": "促销价目/导购页非硬新闻；无窗口内发售通稿"
+    },
+    {
+      "brand": "帕莎",
+      "found": false,
+      "note": "未检到窗口内可核实新动态"
+    },
+    {
+      "brand": "CASSILE卡思乐",
+      "found": false,
+      "note": "未检到可核实新动态"
+    },
+    {
+      "brand": "BLACKHEAD",
+      "found": false,
+      "note": "未检到可核实新动态"
+    }
+  ],
+  "trend_candidates": [
+    {
+      "title": "板材前框×钛镜腿混搭：光学/太阳镜的主流工程解",
+      "tier1": "眼镜",
+      "stage": "上升",
+      "description": "2026 年光学与太阳镜新品反复回到同一结构：厚板材负责正面色彩与廓形，β钛/钛镜腿与铰链承担重量与开合寿命。行业端 Opti 慕尼黑与奥地利验光商协会趋势稿把透明材与混材写入 2026–27 议程；品牌/供应链侧强调铰链端片（endpiece）是混材寿命瓶颈，比「全钛 vs 全板材」二分法更贴近采购与售后现实。",
+      "opportunity": "对 P1 国产时尚镜：可推「板钛混搭」作为中高价带差异化 SKU（轻量通勤+显色），同时用铰链可维修性（金属嵌件螺丝）做售后话术；避开纯软文「纯钛」口号，改讲克重区间与开合循环测试。",
+      "evidence": [
+        {
+          "title": "Acetate Up Front, Titanium Underneath: The Mixed Build Running Through 2026",
+          "url": "https://www.leeyewear.com/news/acetate-up-front-titanium-underneath-mix-sun-85649152.html"
+        },
+        {
+          "title": "Acetate-Titanium Hybrid Glasses: What Happens Where Two Materials Meet",
+          "url": "https://weissoptix.com/blogs/news/acetate-titanium-hybrid-glasses-what-happens-where-two-materials-meet"
+        },
+        {
+          "title": "Optician Online — Opti: Tomorrow's eyewear trends today",
+          "url": "https://www.opticianonline.net/content/features/opti-tomorrow-s-eyewear-trends-today"
+        }
+      ]
+    },
+    {
+      "title": "培育钻石：产能优势 vs 零售话语权——豫沪对接后的品类独立化",
+      "tier1": "珠宝腕表",
+      "stage": "上升",
+      "description": "2026-10-13《中国黄金报》经同花顺转载指出：河南毛坯产能全球占比高，但国内培育钻零售约15亿元量级、终端价值捕获远低于生产贡献；豫沪看货会强调切磨依赖印度、标准/品牌缺位、价格与天然钻脱钩。叙事从「天然替代」转向独立时尚/悦己品类，11月上海展销会将成试点窗口。",
+      "opportunity": "轻珠宝与设计师品牌可避开「克重对标天然钻」内卷，改做异形切、日常叠戴、国潮/运动场景；渠道上优先上海等认知高城市试点独立专柜/独立话术，避免与天然钻同柜互相干扰。",
+      "evidence": [
+        {
+          "title": "豫沪对接之后：培育钻石零售还要跨过几道坎？",
+          "url": "https://news.10jqka.com.cn/20261013/c680622941.shtml"
+        },
+        {
+          "title": "AIDI Exclusive: Structural Divergence in China's Lab-Grown Diamond Industry",
+          "url": "https://aidi.org/aidi-exclusive-henan-turns-left-jiangsu-zhejiang-jiangxi-anhui-turns-right-the-structural-divergence-in-chinas-lab-grown-diamond-industry/"
+        }
+      ]
+    },
+    {
+      "title": "胸针回潮：从秀场象征到日常「可别即用」配饰",
+      "tier1": "服配",
+      "stage": "上升",
+      "description": "British Vogue 将胸针列为 AW2026 秀场最大珠宝趋势之一（Armani 星座狮/蟹、Ralph Lauren、Tory Burch 动物、Simone Rocha 布艺等）。Fortune 2026-10-15 复盘 Pinterest Predicts「Brooched」：男士西装胸针搜索曾+90%，「brooch outfit ideas」兴趣分在10月初升至92；中文侧什么值得买等亦跟进秋冬胸针入门价位与防掉位。",
+      "opportunity": "服配/轻珠宝可做低门槛金属/珐琅胸针与「西装配饰包」组合；场景扩展到大衣领口、丝巾角、包带——比项链更低决策成本，适合内容种草与节日礼赠。",
+      "evidence": [
+        {
+          "title": "Brooches Are The Biggest Catwalk Jewellery Trend Of Autumn/Winter 2026 | British Vogue",
+          "url": "https://www.vogue.co.uk/gallery/jewellery-trend-brooches-aw26"
+        },
+        {
+          "title": "Pinterest Predicts 2026 accuracy check: Brooches | Fortune",
+          "url": "https://fortune.com/2026/10/15/pinterest-predicts-2026-trends-accuracy-brooches-funhaus/"
+        },
+        {
+          "title": "秋冬胸针回潮入门：价位、防掉和位置 | 什么值得买",
+          "url": "https://post.smzdm.com/p/a4qd3knl/"
+        }
+      ]
+    },
+    {
+      "title": "时尚双肩包：模块化与轻奢日常化",
+      "tier1": "箱包",
+      "stage": "上升",
+      "description": "2026 时尚双肩包从「功能通勤」升级为造型主配件：模块化前袋/磁吸侧袋/可换内胆、复古廓形+黄铜五金、蜡帆布/球纹皮/高丹尼尼龙并存。行业向文强调 18–34 岁「stylish backpack」搜索升温，以及 Topologie 等模块系统与轻奢可转换背法。",
+      "opportunity": "P1 箱包（卡拉羊/不莱玫/CECE 等）可切「都市轻户外+可拆挂件」而非纯学生款；挂件/胸针/丝巾绑带可交叉带动服配 SKU，抬高客单与内容素材。",
+      "evidence": [
+        {
+          "title": "7 Hottest Fashion Backpacks of 2026",
+          "url": "https://www.lmdbag.com/2026/03/09/7-hottest-fashion-backpacks-of-2026-design-trends-top-brands-outfit-styling-guide/"
+        },
+        {
+          "title": "Topologie SS26: Modular Bags System",
+          "url": "https://www.theclothette.com/en/news/topologie-modulable-accessories-ss26"
+        },
+        {
+          "title": "The 2026 Backpack Outlook: Sustainability Meets Smart Luxury",
+          "url": "https://www.guoyanbag.com/info/the-2026-backpack-outlook-sustainability-meet-103379276.html"
+        }
+      ]
+    }
+  ],
+  "brand_insight_candidates": [
+    {
+      "brand": "明月镜片",
+      "why": "10/26 机构调研纪要在既有三季报之外，补充医疗渠道收获期、1.74/PMC/渐进结构、品牌内容投放、近视防控管线与小米智能眼镜合作边界，适合写 300+ 字渠道/产品/定价结构洞察（非财报数字复述）。",
+      "sources": [
+        {
+          "title": "明月镜片接待146家机构调研（金融界）",
+          "url": "https://finance.jrj.com.cn/2026/10/26191858872429.shtml"
+        },
+        {
+          "title": "明月镜片：第三季度归母净利润6531万元，同比增21.85% - 财中社",
+          "url": "https://m.caizhongshe.cn/article-7518962929564841809.html"
+        }
+      ]
+    }
+  ],
+  "notes": "P1 命中 1/39（明月镜片）。天美时窗口内二次稿均为已覆盖事实（Bugs Bunny→10/26；Intrepid Blackout→10/21），按「不重复」未计入 brand_news。大图按用户偏好跳过优先追踪。PARIM 10/22 婴童品牌网软广 sole source 跳过。趋势刻意避开 10/24–26 已用过的拉菲草编织、丝巾复兴、近视防控合规等主线，改选板钛混搭、培育钻零售、胸针、时尚双肩包。"
+}

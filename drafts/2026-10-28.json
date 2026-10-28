@@ -1,0 +1,469 @@
+{
+  "date": "2026-10-28",
+  "headline": "轻奢Bunny Knot对标现代传家；费拉格慕眼镜AW26；深圳水贝购金如菜市场；揭阳玉文化节开幕；明月镜片机构密集调研；GM×Margiela明日开售",
+  "summary": "过去约48小时（主窗10/26–10/28，部分结构稿放宽并注明），轻奢与奢侈配饰同时放新品：Tory Burch以Rachel Mellon命名的Bunny Knot肩包（定价低于500美元）被ELLE推为秋冬传家叙事；Bottega Veneta推出36件假日胶囊（包袋/珠宝/鞋履）；Marchon旗下Ferragamo Eyewear发布AW26 Gancini与Firenze胶囊。金价回落后，上证报实地确认深圳水贝周末客流「像买菜」，销量达前两周2–3倍，婚庆与小克重金饰、投资金条同步升温。玉石侧，第25届中国（揭阳）玉文化节10/27开幕，签约和田玉产城融合总部并揭牌跨境电商产业园。64个P0+P1品牌逐一检索后，窗口内可新计入硬新闻的品牌为2个（明月镜片、GENTLE MONSTER）。",
+  "industry_news": [
+    {
+      "date": "2026-10-27",
+      "source": "ELLE",
+      "title": "Tory Burch’s New Bunny Knot Bag Makes a Case for the Modern Heirloom",
+      "url": "https://www.elle.com/fashion/shopping/a74193411/tory-burch-bunny-knot-bag/",
+      "tier1": "箱包",
+      "type": "新品",
+      "importance": 5,
+      "segment": "轻奢",
+      "summary": "ELLE 10/27确认：Bunny Knot肩包以园艺家Rachel「Bunny」Mellon命名，双连环缝线呼应双T标识，来自修复Antigua宅邸时发现的簇绒靠垫细节；肩包两尺码、多材质，定价低于500美元。Amelia Gray秀场首秀，Alex Consani与Awar Odhiang拍广告。轻奢在奢侈皮具承压期继续用「可负担传家+可识别缝线」抢占日常肩包心智。"
+    },
+    {
+      "date": "2026-10-27",
+      "source": "上海证券报 / 同花顺",
+      "title": "金价跌了，深圳水贝堪比菜市场",
+      "url": "https://news.10jqka.com.cn/20261027/c681113103.shtml",
+      "tier1": "珠宝腕表",
+      "type": "市场",
+      "importance": 5,
+      "segment": "大众",
+      "summary": "上证报10/26走访深圳水贝：周末柜台「人挤人」，多店称销量达前两周同期2–3倍；克价回落至约900元以内后，直接购金增多，婚庆金饰与5/10/100/200克金条均现缺货，商家补货策略分化（随单补货 vs 适度加库存）。分析提示短线仍承压、长线央行购金叙事未改——成交脉冲≠品牌珠宝全面修复。"
+    },
+    {
+      "date": "2026-10-27",
+      "source": "羊城晚报·羊城派",
+      "title": "第25届中国（揭阳）玉文化节开幕",
+      "url": "https://ycpai.ycwb.com/content/ikimvjktil/content_54331671.html",
+      "tier1": "玉石翡翠",
+      "type": "市场",
+      "importance": 4,
+      "segment": "大众",
+      "summary": "10/27在缅商玉文化产业基地开幕，主题「玉耀古城・潮启华章」，为期五天；现场签约玉珠峰・揭阳和田玉产城融合示范总部（达产后宣称5000+岗位），并揭牌百分珠宝跨境电商产业园。报道称全市从业超10万、商户近5000家，中高端翡翠销售额占全国九成以上——产业带从会销走向产城融合与跨境链路。"
+    },
+    {
+      "date": "2026-10-27",
+      "source": "Vogue",
+      "title": "Vogue First! Shop Bottega Veneta’s Holiday Capsule Collection",
+      "url": "https://www.vogue.com/article/bottega-veneta-holiday-capsule-collection",
+      "tier1": "箱包",
+      "type": "新品",
+      "importance": 4,
+      "segment": "奢侈品",
+      "summary": "创意总监Louise Trotter首个假日胶囊共36件，覆盖手袋、珠宝与鞋履；强调shearling、金属光泽与节庆装饰带来的「轻盈感」。Andiamo金属款、1998亮片蝴蝶结托特、knot珠宝与Orbit运动鞋等进入礼赠档期——皮具承压期，集团用节日礼赠SKU与材质叙事维持客单与话题。"
+    },
+    {
+      "date": "2026-10-27",
+      "source": "Vision Monday",
+      "title": "Ferragamo Eyewear Unveils Autumn-Winter 2026 Collection, Campaign",
+      "url": "https://www.visionmonday.com/launchpad/frame-collection-1/article/ferragamo-eyewear-unveils-autumn-winter-2026-collection-campaign-1/",
+      "tier1": "眼镜",
+      "type": "新品",
+      "importance": 4,
+      "segment": "奢侈品",
+      "summary": "Marchon授权的Ferragamo Eyewear发布AW26：Gancini胶囊（SF346S可换镜片飞行员太阳镜、SF3073光学）与Ferragamo Firenze胶囊（七桶铰链连接金属铭牌，SF2146S醋酸panthos太阳镜、SF3085双梁光学）。奢侈镜框继续把品牌符号做成可换镜片/铰链功能件，与时尚联名镜框、镜片光学需分账。"
+    },
+    {
+      "date": "2026-10-27",
+      "source": "HUB Style",
+      "title": "Desigual Leather Jewel Bags: bags become jewellery",
+      "url": "https://hubstyle.it/en/2026/10/27/desigual-transforms-bags-into-jewellery/",
+      "tier1": "箱包",
+      "type": "新品",
+      "importance": 3,
+      "segment": "大众",
+      "summary": "Desigual推出Leather Jewel Bags：把自有珠宝线Zalio的金属件做成结构件（扣具、提手连接），而非挂件；主推hobo与baguette，黑色与oxblood，螺旋纹样贯穿。包×珠宝一体化在大众价位试水，可作为「配饰跨品类SKU」参照，与奢侈高珠叙事分流。"
+    },
+    {
+      "date": "2026-10-26",
+      "source": "Gentle Monster / X",
+      "title": "Maison Margiela × Gentle Monster 第四弹：10/29全球分时区开售",
+      "url": "https://www.gentlemonster.com/int/en/stories/maison-margiela-2026",
+      "tier1": "眼镜",
+      "type": "营销",
+      "importance": 4,
+      "segment": "轻奢",
+      "summary": "官方X确认第四弹10/29开售时刻：美加11AM EST，韩中日澳11AM KST等；解构主题、太阳镜+光学双阵列、多城快闪仍在预热，明星试戴内容在东南亚社交媒体扩散。发售倒计时进入T-1，时尚镜框联名仍是确定性话题引擎。"
+    },
+    {
+      "date": "2026-10-23",
+      "source": "EssilorLuxottica / GlobeNewswire",
+      "title": "EssilorLuxottica announces S&P Global’s rating upgrade to A+",
+      "url": "https://www.globenewswire.com/news-release/2026/10/23/3387124/0/en/essilorluxottica-announces-s-p-global-s-rating-upgrade-to-a.html",
+      "tier1": "眼镜",
+      "type": "资本",
+      "importance": 3,
+      "segment": "大众",
+      "summary": "（窗略放宽）S&P将集团长期信用评级上调至A+、展望稳定，理由包括有机增长、现金流与资产负债表，并点名从消费中心向眼科护理/医技公司演进。与Q3传统框镜/医技强于可穿戴的叙事互证——镜片光学平台信用溢价上升。"
+    },
+    {
+      "date": "2026-10-24",
+      "source": "华丽志",
+      "title": "华丽现场｜蒂芙尼「花语秘境」高级珠宝发布；Lacoste「雨中球场」大秀",
+      "url": "https://luxe.co/post/486393",
+      "tier1": "珠宝腕表",
+      "type": "新品",
+      "importance": 3,
+      "segment": "奢侈品",
+      "summary": "（窗略放宽至跟进）蒂芙尼10/22于上海露香园呈献2026 Blue Book「Hidden Garden花语秘境」，致敬Schlumberger与梅隆夫人花园；展出蔓隐蝶踪、双蕾悬蔓、金缕织梦、棕榈叠影等春夏秋主题高珠及古董典藏。顶端珠宝继续用中国目的地展强化文化溢价，与水贝克价成交是两套生意。"
+    },
+    {
+      "date": "2026-10-19",
+      "source": "华丽志",
+      "title": "日本眼镜连锁 JINS 上财年净销售额增长14.4%，中国大陆市场稳步推进业务重组",
+      "url": "https://luxe.co/post/484842",
+      "tier1": "眼镜",
+      "type": "财报",
+      "importance": 3,
+      "segment": "大众",
+      "summary": "（结构稿，窗略放宽）截至2026/8/31财年净销售额+14.4%至1112.2亿日元，营业利润-5.3%；中国大陆门店161家（新开15、关闭10），业务重组推进。线上配镜/平价镜框连锁与时尚镜框、镜片光学分属不同增长逻辑，JINS提供「服务密度+价格带」参照。"
+    }
+  ],
+  "brand_news": [
+    {
+      "brand": "明月镜片",
+      "date": "2026-10-26",
+      "source": "金融界",
+      "title": "明月镜片接待146家机构调研，包括睿远基金、中金公司等",
+      "url": "https://finance.jrj.com.cn/2026/10/26191858872429.shtml",
+      "summary": "10/26披露：10/1–10/26接待146家机构。前三季度营收7.30亿元+16.5%（Q3+20.3%），归母净利1.76亿元+18.3%；Q3毛利率回至60.1%。PMC超亮/1.74/渐进Q3分别+76%/+170%/+49%，医疗渠道Q3+113%。品牌端联名《你好，星期六》与高铁广告；智能眼镜与小米合作「体量不大」。属窗口内可核验的镜片光学硬新闻。"
+    },
+    {
+      "brand": "GENTLE MONSTER",
+      "date": "2026-10-26",
+      "source": "Gentle Monster / Complex",
+      "title": "Maison Margiela × Gentle Monster 第四弹进入发售倒计时（10/29）",
+      "url": "https://www.complex.com/style/a/jaelaniturnerwilliams/maison-margiela-gentle-monster-collection",
+      "summary": "Complex与官网故事页确认解构主题第四弹10/29发售（43太阳镜+25光学、八城快闪、Alex Prager短片）；品牌官方X再发分时区开售时刻，东南亚明星试戴内容发酵。相对昨日已报发售信息，窗口内新增官方倒计时与社媒扩散证据。"
+    }
+  ],
+  "insights": [
+    {
+      "title": "眼镜三层分账：镜片光学被机构重仓追问，时尚镜框仍靠发售周，奢侈授权框同步换季",
+      "tier1": "眼镜",
+      "body": "同一周里，眼镜赛道的三条曲线再次错位。镜片光学侧，明月镜片10/26披露接待146家机构：前三季度营收+16.5%、Q3毛利率回到60.1%，PMC超亮/1.74/渐进多焦点与医疗渠道成为问答焦点，智能眼镜与小米合作被明确为「体量不大」。集团信用侧，EssilorLuxottica获S&P上调至A+，理由点名向眼科护理与医技演进——这与此前Q3「传统框镜/医技强于可穿戴」的报表叙事同向。\n\n时尚镜框侧，GENTLE MONSTER×Maison Margiela进入10/29发售倒计时，官方分时区开售与明星试戴内容继续扩散；奢侈授权框则由Marchon放出Ferragamo AW26，把Gancini符号做成可换镜片与铰链功能件。三者预算逻辑不同：光学吃验光服务密度与高折/渐进SKU，时尚框吃联名日期与快闪，授权框吃品牌符号产品化。\n\n对经营者：把投放、达人池与门店陈列按「光学/时尚框/线上配镜」拆开，不要用同一套内容打三条赛道。对投资人：机构密集调研与评级上调，说明镜片平台更接近「消费医疗+渠道渗透」定价；时尚联名提供短周期情绪β，但不可替代光学的替换周期与毛利结构。",
+      "refs": [
+        {
+          "title": "明月镜片接待146家机构调研",
+          "url": "https://finance.jrj.com.cn/2026/10/26191858872429.shtml"
+        },
+        {
+          "title": "EssilorLuxottica S&P upgrade to A+",
+          "url": "https://www.globenewswire.com/news-release/2026/10/23/3387124/0/en/essilorluxottica-announces-s-p-global-s-rating-upgrade-to-a.html"
+        },
+        {
+          "title": "Ferragamo Eyewear AW26",
+          "url": "https://www.visionmonday.com/launchpad/frame-collection-1/article/ferragamo-eyewear-unveils-autumn-winter-2026-collection-campaign-1/"
+        },
+        {
+          "title": "Gentle Monster × Margiela",
+          "url": "https://www.complex.com/style/a/jaelaniturnerwilliams/maison-margiela-gentle-monster-collection"
+        }
+      ]
+    },
+    {
+      "title": "金饰成交脉冲与玉都产城升级并行，顶端高珠仍讲花园叙事",
+      "tier1": "珠宝腕表",
+      "body": "金价回落后的零售证据从「北京水贝」延伸到深圳水贝：上证报10/27稿写明周末「像买菜」，销量达前两周2–3倍，婚庆金饰与多规格金条缺货，商家在「随单补货」与「适度加库存」之间分裂。这仍是价格敏感型成交脉冲，分析同时提示短线利率与流动性压力。另一端，蒂芙尼在上海用Blue Book「花语秘境」维持高珠文化溢价，说明顶端叙事与克价成交并未合流。\n\n玉石侧信号更偏产业组织：第25届揭阳玉文化节10/27开幕，签约和田玉产城融合总部、揭牌跨境电商产业园，并强调「天下玉，揭阳工」与全国中高端翡翠销售占比。会展从卖货场转向产城与出海基础设施。\n\n对经营者：金价下行期优先做克重透明、工费可比与以旧换新；翡翠/玉器则更需关注产地会展背后的供应链与跨境直播能力，而非只追展会人流。对投资人：区分金饰β、品牌高珠与玉石加工集群三条估值线，避免用「购金热」外推全部珠宝需求。",
+      "refs": [
+        {
+          "title": "深圳水贝堪比菜市场",
+          "url": "https://news.10jqka.com.cn/20261027/c681113103.shtml"
+        },
+        {
+          "title": "第25届中国（揭阳）玉文化节开幕",
+          "url": "https://ycpai.ycwb.com/content/ikimvjktil/content_54331671.html"
+        },
+        {
+          "title": "华丽志：蒂芙尼花语秘境",
+          "url": "https://luxe.co/post/486393"
+        }
+      ]
+    }
+  ],
+  "trends": [
+    {
+      "title": "轻奢「现代传家」肩包：可识别缝线 + 亚奢侈价",
+      "tier1": "箱包",
+      "stage": "上升",
+      "description": "Tory Burch Bunny Knot以双连环缝线做家徽符号，定价低于500美元，被ELLE定义为现代传家；相对奢侈皮具高基数疲软，轻奢用可负担、可识别细节抢占日常肩包。",
+      "opportunity": "国产品牌可对标「一个可复述的工艺细节 + 明确价格锚 + 秀场/广告一体化」，避免只堆联名没有结构记忆点。",
+      "evidence": [
+        {
+          "title": "ELLE: Bunny Knot",
+          "url": "https://www.elle.com/fashion/shopping/a74193411/tory-burch-bunny-knot-bag/"
+        },
+        {
+          "title": "Parallax汇总",
+          "url": "https://parallax.news/en/style/tory-burch-launches-new-bunny-knot-bag-collection-2026-10-28"
+        }
+      ]
+    },
+    {
+      "title": "包×珠宝结构一体化：金属件从挂件变承重件",
+      "tier1": "箱包",
+      "stage": "萌芽",
+      "description": "Desigual Leather Jewel Bags把Zalio珠宝金属件做成扣具与提手连接结构，hobo/baguette双廓形，螺旋纹样贯穿；与奢侈knot珠宝、轻奢缝线符号形成「配饰跨品类」光谱。",
+      "opportunity": "适合做限定结构款而非全线铺开；需验证金属件售后与重量体验，避免只剩视觉。",
+      "evidence": [
+        {
+          "title": "HUB Style: Leather Jewel Bags",
+          "url": "https://hubstyle.it/en/2026/10/27/desigual-transforms-bags-into-jewellery/"
+        }
+      ]
+    },
+    {
+      "title": "金价回调后的水贝成交脉冲（延续）",
+      "tier1": "珠宝腕表",
+      "stage": "上升",
+      "description": "深圳水贝周末客流与销量倍数级回升，婚庆与小克重、金条同步；与前一日北京水贝实地稿形成连续证据链。",
+      "opportunity": "短线做透明克价与以旧换新；中线仍要区分投资金与品牌金饰客群。",
+      "evidence": [
+        {
+          "title": "上证报：深圳水贝",
+          "url": "https://news.10jqka.com.cn/20261027/c681113103.shtml"
+        },
+        {
+          "title": "新华财经：北京水贝（前序）",
+          "url": "https://www.cnfin.com/dz-lb/detail/20261027/4486700_1.html"
+        }
+      ]
+    },
+    {
+      "title": "玉都产城+跨境：从展销会到供应链出海",
+      "tier1": "玉石翡翠",
+      "stage": "上升",
+      "description": "揭阳玉文化节同步落地和田玉产城融合总部与跨境电商产业园，叠加此前北京国际珠宝展揭阳展团「源头价+NGTC检测」叙事，产业带从展会流量转向组织能力。",
+      "opportunity": "品牌与渠道方可关注产地直播供应链与检测背书；投资侧看产城项目落地与就业/商户质量，而非只看节庆声量。",
+      "evidence": [
+        {
+          "title": "羊城派：玉文化节开幕",
+          "url": "https://ycpai.ycwb.com/content/ikimvjktil/content_54331671.html"
+        },
+        {
+          "title": "消费日报：揭阳展团亮相国际珠宝展",
+          "url": "https://www.xfrb.com.cn/content/202610/19/c1638781.html"
+        }
+      ]
+    }
+  ],
+  "brand_insights": [
+    {
+      "brand": "明月镜片",
+      "tier1": "眼镜",
+      "title": "明月镜片：机构调研周里，高折/渐进/医疗渠道比智能眼镜更被追问",
+      "body": "10/26的146家机构调研纪要，把明月的叙事从「国产镜片替代」推进到「产品结构与渠道质量」。前三季度营收7.30亿元+16.5%，Q3单季+20.3%；毛利率回到60.1%，公司归因原料集中备库成本趋稳、1.74工艺良率与产能利用率。大单品上，PMC超亮前三季度约1.2亿元+59.6%，1.74收入9271万元+202%，渐进+41%；医疗渠道Q3+113%、前三季度近+170%，被表述为进入收获期。\n\n品牌与渠道动作同步：联名《你好，星期六》、高铁站广告、与郭晶晶推进校园护眼公益；渐进完成ECO/PRO/MAX迭代并强调中国人面型。智能眼镜与小米合作「稳步推进但体量不大」，机构问答重心明显偏向光学主业而非可穿戴故事。\n\n战略上，这是「1+4+N」产品战略在报表上的验证期；竞争上，面对蔡司/依视路的品牌与渠道壁垒，明月用高折、膜层与医疗渠道渗透换份额。",
+      "investor_view": "关注高折与渐进占比能否持续抬升毛利，以及医疗渠道拓展是否带来应收与现金流波动（前三季度经营现金流同比-21%已提示备库与应收）。智能眼镜叙事短期不宜给高估值权重。",
+      "operator_view": "可复制的是「大单品放量 + 医疗/连锁双渠道 + 消费者教育内容」，而非堆智能硬件。门店与经销侧应把1.74/渐进的验配话术标准化，并把品牌曝光转化为到店验光而非纯种草。",
+      "sources": [
+        {
+          "title": "金融界：146家机构调研",
+          "url": "https://finance.jrj.com.cn/2026/10/26191858872429.shtml"
+        },
+        {
+          "title": "EssilorLuxottica评级上调（行业对照）",
+          "url": "https://www.globenewswire.com/news-release/2026/10/23/3387124/0/en/essilorluxottica-announces-s-p-global-s-rating-upgrade-to-a.html"
+        }
+      ]
+    }
+  ],
+  "reading_list": [
+    {
+      "title": "Tory Burch’s New Bunny Knot Bag Makes a Case for the Modern Heirloom",
+      "source": "ELLE",
+      "date": "2026-10-27",
+      "url": "https://www.elle.com/fashion/shopping/a74193411/tory-burch-bunny-knot-bag/",
+      "tier1": "箱包"
+    },
+    {
+      "title": "金价跌了，深圳水贝堪比菜市场",
+      "source": "上海证券报",
+      "date": "2026-10-27",
+      "url": "https://news.10jqka.com.cn/20261027/c681113103.shtml",
+      "tier1": "珠宝腕表"
+    },
+    {
+      "title": "第25届中国（揭阳）玉文化节开幕",
+      "source": "羊城晚报",
+      "date": "2026-10-27",
+      "url": "https://ycpai.ycwb.com/content/ikimvjktil/content_54331671.html",
+      "tier1": "玉石翡翠"
+    },
+    {
+      "title": "Bottega Veneta Holiday Capsule",
+      "source": "Vogue",
+      "date": "2026-10-27",
+      "url": "https://www.vogue.com/article/bottega-veneta-holiday-capsule-collection",
+      "tier1": "箱包"
+    },
+    {
+      "title": "Ferragamo Eyewear AW26",
+      "source": "Vision Monday",
+      "date": "2026-10-27",
+      "url": "https://www.visionmonday.com/launchpad/frame-collection-1/article/ferragamo-eyewear-unveils-autumn-winter-2026-collection-campaign-1/",
+      "tier1": "眼镜"
+    },
+    {
+      "title": "明月镜片接待146家机构调研",
+      "source": "金融界",
+      "date": "2026-10-26",
+      "url": "https://finance.jrj.com.cn/2026/10/26191858872429.shtml",
+      "tier1": "眼镜"
+    },
+    {
+      "title": "Maison Margiela × Gentle Monster Fourth Collection",
+      "source": "Complex",
+      "date": "2026-10-26",
+      "url": "https://www.complex.com/style/a/jaelaniturnerwilliams/maison-margiela-gentle-monster-collection",
+      "tier1": "眼镜"
+    },
+    {
+      "title": "EssilorLuxottica S&P rating upgrade to A+",
+      "source": "GlobeNewswire",
+      "date": "2026-10-23",
+      "url": "https://www.globenewswire.com/news-release/2026/10/23/3387124/0/en/essilorluxottica-announces-s-p-global-s-rating-upgrade-to-a.html",
+      "tier1": "眼镜"
+    },
+    {
+      "title": "华丽现场｜蒂芙尼花语秘境",
+      "source": "华丽志",
+      "date": "2026-10-24",
+      "url": "https://luxe.co/post/486393",
+      "tier1": "珠宝腕表"
+    },
+    {
+      "title": "JINS上财年净销售额+14.4%",
+      "source": "华丽志",
+      "date": "2026-10-19",
+      "url": "https://luxe.co/post/484842",
+      "tier1": "眼镜"
+    },
+    {
+      "title": "Desigual Leather Jewel Bags",
+      "source": "HUB Style",
+      "date": "2026-10-27",
+      "url": "https://hubstyle.it/en/2026/10/27/desigual-transforms-bags-into-jewellery/",
+      "tier1": "箱包"
+    },
+    {
+      "title": "揭阳展团亮相2026中国国际珠宝展",
+      "source": "消费日报网",
+      "date": "2026-10-19",
+      "url": "https://www.xfrb.com.cn/content/202610/19/c1638781.html",
+      "tier1": "玉石翡翠"
+    }
+  ],
+  "brand_scan": {
+    "window": "2026-10-26..2026-10-28",
+    "method": "逐一覆盖64个品牌（中文名与常见英文别名）：WebSearch/WebFetch；重点品牌补 X search_posts_all（start_time 2026-10-26）与 search_news。行业层优先 ELLE、Vogue、Vision Monday、上证报、羊城派、金融界、华丽志、Complex、EssilorLuxottica IR。Exa web_search_exa 当日多次HTTP 429，退避后以上述通道完成。大图（DITA）按用户偏好跳过优先追踪。",
+    "note": "有可计入的全新品牌硬新闻 2/64（明月镜片、GENTLE MONSTER）。GENTLE MONSTER相对昨日发售预告，今日补官方倒计时与社媒扩散。依视路集团评级上调放入industry_news而不重复计为品牌条。其余品牌未检到可核实发布日期与原文链接的新闻（不代表品牌无线下活动）。部分行业结构稿（Essilor评级、蒂芙尼上海、JINS财年）因仍具决策价值，在industry_news中注明窗略放宽收录。",
+    "per_brand": {
+      "裘真": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "Fakeme": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "山下有松": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "LOLA ROSE": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "HEFANG": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "雅瑞光学": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "ARSIS": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "蔡司": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "依视路": "未计入品牌硬新闻：集团S&P上调至A+（10/23）作行业层；Q3财报此前已覆盖",
+      "CHARLES&KEITH": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "新秀丽": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "ITO": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "GROTTO个乐": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "白岚": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "万事利": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "ECODAY": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "bampo": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "卡西欧": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "德津": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "LEVEL8地平线8号": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "九格眼镜": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "欧克利": "未计入：国贸直营全品类店属既有开业跟进，无窗口内新通稿日期可独立核验为新事件",
+      "FANCI范琦": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "GENTLE MONSTER": "有动态：×Maison Margiela第四弹10/29发售倒计时（Complex/官网/官方X）",
+      "纽芝兰": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "明月镜片": "有动态：10/26披露接待146家机构调研，前三季度/Q3财务与产品结构细节",
+      "CECE": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "柯达": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "BAGSMART": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "CIGALONG": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "abyb jewelry": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "海伦凯勒眼镜": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "包包树BAGTREE": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "飞亚达": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "梵誓ONESWEAR": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "KKLUE轻珠宝": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "天美时集团": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "JELLYTOYBOY": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "卡蒂罗": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "尤目": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "ORANGE CUBE": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "古良吉吉": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "亨得利钟表": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "甲目眼镜": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "TAD FAB": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "FANGYI方宜": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "老雷线上配镜": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "抱树BYROOTS": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "TELETIES": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "DAVENA": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "首末集团": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "大图": "按用户偏好跳过优先追踪",
+      "卡拉羊": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "P&N": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "PARIM": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "上海夕和眼镜": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "超视立": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "御行": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "木九十": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "天空树假发": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "不莱玫": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "帕莎": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "CASSILE卡思乐": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "BLACKHEAD": "未检到可核实发布日期与原文链接的窗口内新动态"
+    }
+  },
+  "sources": [
+    {
+      "name": "ELLE",
+      "url": "https://www.elle.com/",
+      "tier1": "箱包"
+    },
+    {
+      "name": "Vogue",
+      "url": "https://www.vogue.com/",
+      "tier1": "箱包"
+    },
+    {
+      "name": "Vision Monday",
+      "url": "https://www.visionmonday.com/",
+      "tier1": "眼镜"
+    },
+    {
+      "name": "华丽志",
+      "url": "https://luxe.co/",
+      "tier1": "综合"
+    },
+    {
+      "name": "上海证券报",
+      "url": "https://www.cnstock.com/",
+      "tier1": "珠宝腕表"
+    },
+    {
+      "name": "羊城晚报",
+      "url": "https://www.ycwb.com/",
+      "tier1": "玉石翡翠"
+    },
+    {
+      "name": "金融界",
+      "url": "https://www.jrj.com.cn/",
+      "tier1": "眼镜"
+    },
+    {
+      "name": "EssilorLuxottica",
+      "url": "https://www.essilorluxottica.com/",
+      "tier1": "眼镜"
+    },
+    {
+      "name": "Gentle Monster",
+      "url": "https://www.gentlemonster.com/",
+      "tier1": "眼镜"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "brand_news": [
+    {
+      "brand": "Fakeme",
+      "date": "2026-10-26",
+      "source": "Fakeme眼镜官方微博（新浪镜像）",
+      "title": "Fakeme × MANNER「YOU LOOK GOOD ENOUGH」联名上线：眼镜包挂件套餐与上海主题店",
+      "url": "https://www.sina.cn/weibo/detail/5358208975110543.html",
+      "summary": "2026-10-26，Fakeme 官方微博确认与 MANNER 联名「YOU LOOK GOOD ENOUGH」全国门店上线：¥25 套餐含超大杯咸芝士拿铁并赠联名眼镜包挂件；联名马克杯同日上架积分商城；10/26–11/1 上海北外滩国客 MANNER 主题店限时打卡派限定周边。MANNER 官微于 10/25 20:30 预告同一活动（https://www.sina.cn/news/detail/5358005106246345.html）。"
+    },
+    {
+      "brand": "GENTLE MONSTER",
+      "date": "2026-10-26",
+      "source": "ELLE Japan",
+      "title": "GENTLE MONSTER × Maison Margiela 第四弹公开 Alex Prager 主视觉短片，10/29 发售 68 款",
+      "url": "https://www.elle.com/jp/fashion/a74245071/gentle-monster-maison-margiela-2610/",
+      "summary": "2026-10-26，ELLE Japan 报道 GM×Margiela 第四弹「Deconstruction」公开由艺术家 Alex Prager 执导的主视觉短片；系列含太阳镜 43 型+光学 25 型共 68 型，10/29 起官网及门店发售，并设全球八城快闪；另 10/30 起 NUDAKE 限定茶饮在首尔 House Nowhere 内 Tea House 发售。日文通稿同日见 fashiontrend.jp。父代理已另收 Complex 10/26 作深度章用。"
+    }
+  ],
+  "scanned": [
+    {"brand": "裘真", "found": false, "note": "三里屯太古里「曲园」10/23启幕已报；郑州大卫城华中首店仍为围挡传闻、窗口内无开业核实"},
+    {"brand": "Fakeme", "found": true, "note": "×MANNER 联名10/26上线"},
+    {"brand": "山下有松", "found": false, "note": "百纳闲云/织路mini/百纳法棍及巴黎展均为10月中上旬窗外"},
+    {"brand": "LOLA ROSE", "found": false, "note": "刘浩存大中华区代言为10月中旬旧闻"},
+    {"brand": "HEFANG", "found": false, "note": "婚礼系列/三里屯灵感蛋糕屋收官多为社媒软推；无窗口内独立硬新闻日期"},
+    {"brand": "雅瑞光学", "found": false, "note": "未检到可核实新动态"},
+    {"brand": "ARSIS", "found": false, "note": "Starry Night等为10月上中旬新品推送、窗外"},
+    {"brand": "蔡司", "found": false, "note": "finanznachrichten 10/25 DriveSafe解读为既有产品分析非新品；MyoActive加拿大/CT LUCIA等已窗外或此前覆盖"},
+    {"brand": "依视路", "found": false, "note": "Q3已报；S&P调升A+为10/23窗外；10/26股价波动非品牌硬新闻"},
+    {"brand": "CHARLES&KEITH", "found": false, "note": "30周年Horizons/FW2026为更早发布，窗口内无新稿"},
+    {"brand": "新秀丽", "found": false, "note": "印度Batman×Samsonite Hindu Business Line为10/19窗外；BÉIS交割/大和目标价更早"},
+    {"brand": "ITO", "found": false, "note": "卢昱晓亚太代言/PISTACHIO 2秋冬色为9月稿"},
+    {"brand": "GROTTO个乐", "found": false, "note": "LIMITED快闪10/3结束；Collar Hobo等为社媒推广无独立通稿日"},
+    {"brand": "白岚", "found": false, "note": "未检到可核实新动态"},
+    {"brand": "万事利", "found": false, "note": "杭州大厦溯源店/长江商学院参访为10月中旬窗外"},
+    {"brand": "ECODAY", "found": false, "note": "广告门增长稿为9月；窗口内仅为电商线报"},
+    {"brand": "bampo", "found": false, "note": "官网10/14街拍、10/22配色指南属轻内容且偏窗外"},
+    {"brand": "卡西欧", "found": false, "note": "GMC/GAC-2500官宣10/22窗外；窗口内GQ Japan等为复述无新事实；印度2500已报"},
+    {"brand": "德津", "found": false, "note": "未检到可核实新动态"},
+    {"brand": "LEVEL8地平线8号", "found": false, "note": "「越行越顺」主张10/2启用窗外；电商促销非硬新闻"},
+    {"brand": "九格眼镜", "found": false, "note": "八方资源网SEO软广，跳过"},
+    {"brand": "欧克利", "found": false, "note": "MUZM Straight Jacket已报；Podpah二弹实为2025-12旧闻被SEO站改写日期，弃用"},
+    {"brand": "FANCI范琦", "found": false, "note": "《疯狂动物城》联名持续社媒推广，无窗口内新发售事实"},
+    {"brand": "GENTLE MONSTER", "found": true, "note": "×Margiela第四弹主视觉短片10/26公开；父代理已有Complex作Ch4"},
+    {"brand": "纽芝兰", "found": false, "note": "巴顿包/Angelababy周边多为社媒，无独立可核发日期通稿"}
+  ],
+  "notes": "窗口 2026-10-25..2026-10-27 Asia/Shanghai。方法：cursor WebSearch+WebFetch 核验日期/URL；x search_posts_all（Oakley/GM/Casio/Zeiss/Essilor/C&K/Samsonite）；user-Exa web_search_exa 全程 HTTP 429（约5分钟冷却仍受限），未作主通道。排除复述：Timex Bugs Bunny（昨报）、Oakley MUZM、Casio印度G-SHOCK 2500、依视路Q3、GM×Margiela产品本身（仅计入10/26短片新事实）、裘真曲园。跳过微信软广唯一来源与SEO假日期稿。"
+}

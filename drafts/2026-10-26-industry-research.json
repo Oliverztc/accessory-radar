@@ -1,0 +1,350 @@
+{
+  "window": "2026-10-24..2026-10-26",
+  "industry_candidates": [
+    {
+      "date": "2026-10-25",
+      "source": "AFR / Financial Times",
+      "title": "Luxury groups’ value drops by $398b as Chinese consumer demand fades",
+      "url": "https://www.afr.com/world/asia/luxury-groups-value-drops-by-398b-as-chinese-consumer-demand-fades-20261025-p618fl",
+      "tier1": "综合",
+      "type": "数据",
+      "importance": 5,
+      "segment": "奢侈品",
+      "summary": "FT 系稿指出欧洲六大上市奢侈集团今年市值合计蒸发约 2510 亿欧元（约 3980 亿美元），LVMH、Hermès 分别缩水约 1316 亿、933 亿欧元。本月 LVMH、Hermès、开云季报均逊于已下修预期；中国客群对 LVMH 时装皮具全球销售约 −15%，开云对华客群约 −15%～−20%。美国 Citi 信用卡数据显示 Q3 各月奢侈支出至少 −4%。同期 Hermès 超高端包袋（含 Birkin）销售仍 +10.8%，Tiffany、Boucheron 等高珠录得双位数增长，呈现「皮具承压、珠宝相对韧性」。",
+      "publish_date_verified": true,
+      "notes": "中央社同日中文跟进：https://www.cna.com.tw/news/aopl/202610250194.aspx ；葡萄牙 Eco 摘要同主题。优先一手 FT/AFR。"
+    },
+    {
+      "date": "2026-10-25",
+      "source": "CHOSUNBIZ",
+      "title": "Hermès stumbles as scarcity strategy cracks and shares sink on slowing growth",
+      "url": "https://biz.chosun.com/en/en-international/2026/10/25/B7YE42WGIZCAFLOAPCI6YDAMFY/",
+      "tier1": "箱包",
+      "type": "深度",
+      "importance": 5,
+      "segment": "奢侈品",
+      "summary": "10/25 刊发对 Hermès Q3 的二手市场解读：Q3 固定汇率 +4.3% 至 41 亿欧元，为约六年最慢单季；皮具马具 +10.8%，成衣配饰 −2%、腕表 −6%、丝巾纺织 +1.4%。亚太（除日本）持平。Bernstein 称 Birkin 25 二手溢价自 2022 峰值约 2.6× 零售回落至 Q3 约 1.7×；UBS 估计全球 Birkin/Kelly 挂牌量较疫情前增 6–7 倍并下调至卖出。配货门槛与二手套利收窄，稀缺模式承压。",
+      "publish_date_verified": true,
+      "notes": "与 Reuters 10/21 Birkin 稀缺专题呼应，本条为 10/25 新刊深度；非重复已报 Hermès 中国稳定季报标题。"
+    },
+    {
+      "date": "2026-10-25",
+      "source": "Jing Daily / Bloomberg",
+      "title": "Hermès and Cartier’s last reliable shoppers are retreating in China",
+      "url": "https://jingdaily.com/posts/hermes-and-cartier-s-last-reliable-shoppers-are-retreating-in-china",
+      "tier1": "综合",
+      "type": "深度",
+      "importance": 5,
+      "segment": "奢侈品",
+      "summary": "Bloomberg 供稿、Jing Daily 转载：中国富裕客群预算向旅行、餐饮与静奢倾斜，内地最大 25 个奢侈品牌普遍下滑。Golden Week 未能提振；港澳部分对冲，但 Hermès 亚太仍停滞。LVMH、Gucci 等继续承压，消费者以体验替代 logo 消费。文末提示 2027 较易基数不足以修复结构性问题。",
+      "publish_date_verified": true,
+      "notes": "抓取时显示相对时间「5 hours ago」（约 2026-10-25 晚至 10-26 凌晨 Asia/Shanghai）。与已排除的「开云中国方案」不同，聚焦 Hermès/Cartier 核心客群撤退。"
+    },
+    {
+      "date": "2026-10-25",
+      "source": "中国新闻周刊 / 21经济网",
+      "title": "爱马仕也卖不动了？",
+      "url": "https://www.21jingji.com/article/20261025/herald/3179b772bc0d46d62fb7a5cf0a6cfbd1.html",
+      "tier1": "箱包",
+      "type": "深度",
+      "importance": 4,
+      "segment": "奢侈品",
+      "summary": "中文深度跟进 Hermès 增速拐点：亚太（除日本）Q3 持平，中国「非常困难」；皮具仍 +10.8%，成衣配饰拖累主因中国。分析指向往型中产收缩、配货拉动成衣失效、LV/Chanel 高端线分流。对照 LVMH 皮具有机 −5%、Gucci 可比 −6%。品牌以法国工坊扩产、在华翻新、男装 Grace Wales Bonner 与女装 Couture 求增量。",
+      "publish_date_verified": true,
+      "notes": "一手引用财报电话会与行业专家，非软文。"
+    },
+    {
+      "date": "2026-10-25",
+      "source": "联合早报",
+      "title": "财经人语：全球奢侈品卖不动了？涨价遭反噬 消费者重算品牌价值",
+      "url": "https://www.zaobao.com.sg/finance/world/story20261025-9891629",
+      "tier1": "综合",
+      "type": "深度",
+      "importance": 4,
+      "segment": "奢侈品",
+      "summary": "评论指出奢侈品危机核心是涨价与感知价值脱节：LVMH 时装皮具有机 −5%，开云/Gucci 继续疲软；中国即便 Hermès、Cartier 类韧性品牌亦现压力。引用麦肯锡×BoF 调查：美中消费者更重认同与体验，旅行优先于加购包袋；二手与混搭削弱品牌对价值叙事的垄断。对比 Hermès 皮具 +10.8% 说明「高价≠拒买」，关键是是否仍值。提及山下有松等本土高端分流。",
+      "publish_date_verified": true,
+      "notes": "适合做赛道洞察延伸；非重复已报单一财报标题。"
+    },
+    {
+      "date": "2026-10-25",
+      "source": "华丽志",
+      "title": "英国时尚零售集团 Frasers 增持 Hugo Boss 股票至50%之上，将后者正式纳入旗下",
+      "url": "https://luxe.co/post/486354",
+      "tier1": "综合",
+      "type": "资本",
+      "importance": 4,
+      "segment": "轻奢",
+      "summary": "Frasers 于 10/23 再购 198,666 股、对价 763 万欧元，持股升至 50.08%，雨果博斯将并表；另有看跌期权潜在权益最高约 21.87%。雨果博斯截至 6/30 总资产 35.32 亿欧元；上半财年销售 18.1 亿欧元、同比 −8%，EBIT 利润率 5.2%。此前 6 月要约遭董事会建议拒绝后仍持续增持。",
+      "publish_date_verified": true,
+      "notes": "官方公告+路透/彭博；FashionNetwork 等同日英文覆盖。"
+    },
+    {
+      "date": "2026-10-25",
+      "source": "华丽志",
+      "title": "HOKA 和 UGG 品牌的母公司最新季报：营收同比增长3.5%，盈利超出预期",
+      "url": "https://luxe.co/post/486163",
+      "tier1": "服配",
+      "type": "数据",
+      "importance": 3,
+      "segment": "大众",
+      "summary": "Deckers Brands 2027 财年 Q2（截至 9/30）：净销售 +3.5% 至 14.81 亿美元；HOKA +6.8%、UGG +3.5%；国际 +9%、美国 −0.4%；DTC 可比 −6.4%。下调全年销售指引至 57–57.25 亿美元，但 EPS 上调至 7.80–7.95 美元（含关税退款与回购假设）。对箱包服配赛道属鞋履/生活方式邻接信号。",
+      "publish_date_verified": true,
+      "notes": "公司 IR 日期 10/22，华丽志中文 10/25；属 48h 窗内权威跟进。"
+    },
+    {
+      "date": "2026-10-25",
+      "source": "华丽志",
+      "title": "英国高端运动服品牌 Castore 创始人称：已收到安踏、李宁关于收购的主动问询",
+      "url": "https://luxe.co/post/485994",
+      "tier1": "综合",
+      "type": "资本",
+      "importance": 3,
+      "segment": "大众",
+      "summary": "Castore 联合创始人 Tom Beahon 对 FT 称已收到安踏、李宁主动问询，并与部分美国鞋业巨头接触；出售流程由财务投资人推动，兄弟二人拟留任。上财年销售 +75.8% 至 3.346 亿英镑，仍税前亏损。李宁方面有公开否认接触的报道，需交叉阅读。",
+      "publish_date_verified": true,
+      "notes": "资本并购线索；非箱包主业但反映中资户外/运动品牌出海并购活跃度。"
+    },
+    {
+      "date": "2026-10-25",
+      "source": "Paris Select Book",
+      "title": "Le Cadence de Longchamp s'affiche en Mocha pour Be Creative",
+      "url": "https://www.parisselectbook.com/2026/10/25/le-cadence-de-longchamp-saffiche-en-mocha-pour-be-creative/",
+      "tier1": "箱包",
+      "type": "新品",
+      "importance": 3,
+      "segment": "轻奢",
+      "summary": "Longchamp 为 Be Creative 系列旗舰包 Le Cadence 推出 Mocha（咖啡棕）粒面牛皮配色，强调日常可穿的柔软手感；视觉由摄影师 Guillaume Sanner 以巴黎街景/自行车场景呈现休闲法式 chic。属秋冬棕色/摩卡色包袋趋势的品牌执行样本。",
+      "publish_date_verified": true,
+      "notes": "日期文末标注 2026-10-25；信源为独立时尚编辑站，建议与品牌官方视觉交叉。"
+    },
+    {
+      "date": "2026-10-25",
+      "source": "中财网 / 机构研报转述",
+      "title": "明月镜片Q3增长提速 毛利率改善+AI眼镜催化",
+      "url": "http://www1.cfi.net.cn/p20261025001472.html",
+      "tier1": "眼镜",
+      "type": "数据",
+      "importance": 4,
+      "segment": "大众",
+      "summary": "明月镜片 Q3 营收 2.73 亿元、+20.3%，归母净利 0.65 亿元、+21.9%；毛利率 60.08%（同比 +2.0pct）。PMC 超亮/1.74/渐进多焦点销售分别 +76.3%、+169.8%、+48.8%；医疗渠道单季 +113.3%。机构称其为小米 AI 眼镜独家光学镜片供应商、合作进入稳定期，二代产品进展受关注。",
+      "publish_date_verified": true,
+      "notes": "侧重镜片光学财报与渠道结构，非重复已排除的「AI眼镜巷战」竞争叙事；建议回查交易所公告核对。"
+    },
+    {
+      "date": "2026-10-24",
+      "source": "华丽志",
+      "title": "生于高山自由滑雪，北欧品牌Peak Performance如何诠释“美学户外”？",
+      "url": "https://luxe.co/post/486217",
+      "tier1": "服配",
+      "type": "深度",
+      "importance": 3,
+      "segment": "轻奢",
+      "summary": "40 周年之际，Peak Performance 在上海张园做 HELIUM 限时空间；波浪绗缝源自卡宾雪迹，ÅreLab 维修与节余补料强化长期使用。讨论专业户外如何转化品类心智与城市叠穿，对服配/帽饰/轻便包袋的「美学户外」交叉有参考。",
+      "publish_date_verified": true,
+      "notes": "48h 窗内深度；偏户外服，作服配趋势邻接阅读。"
+    },
+    {
+      "date": "2026-10-24",
+      "source": "华丽快讯 / 胖鲸",
+      "title": "YIN隐 3.0全新品牌空间在上海西岸中環揭幕",
+      "url": "https://tong.luxe.co/event/176548/",
+      "tier1": "珠宝腕表",
+      "type": "渠道",
+      "importance": 3,
+      "segment": "轻奢",
+      "summary": "东方智趣金饰品牌 YIN隐 首家 3.0 主题店落户上海西岸中環，定位日常/旅行/博物馆等多场景金饰而非仅婚庆投资；设「隐金礼物商店」，强调 B Corp 可持续与当代东方设计。胖鲸长文日期 10/23，华丽快讯标注约 10/24。",
+      "publish_date_verified": true,
+      "notes": "放宽至 48h；补充信源 https://pangjing.cn/6114932-2/ 。避开已排除的「金饰克价回落」主题，聚焦品牌渠道升级。"
+    },
+    {
+      "date": "2026-10-26",
+      "source": "香港文匯報",
+      "title": "金價回落刺激需求 買家逼爆深圳水貝",
+      "url": "https://www.wenweipo.com/a/202610/26/AP6ade6730e4b0fa89498a5602.html",
+      "tier1": "珠宝腕表",
+      "type": "市场",
+      "importance": 3,
+      "segment": "大众",
+      "summary": "记者 10/25 实地：深圳水贝黄金交易中心人流逼爆；商户称周末单日销量约平时两倍、达 200–300 克。水贝首饰金会员价约 903–963 元/克，显著低于品牌店约 1200 元/克。婚饰与年底礼金需求集中释放。属水贝产业带客流核验，而非单纯重复前日「克价回落」标题。",
+      "publish_date_verified": true,
+      "notes": "与已排除「金饰克价回落/年轻人买金」主题相邻，仅作产业带信号收录；东方财富/21经济网 10/25 有同类现场报道可交叉。"
+    }
+  ],
+  "deep_articles": [
+    {
+      "title": "Hermès stumbles as scarcity strategy cracks and shares sink on slowing growth",
+      "source": "CHOSUNBIZ",
+      "date": "2026-10-25",
+      "url": "https://biz.chosun.com/en/en-international/2026/10/25/B7YE42WGIZCAFLOAPCI6YDAMFY/",
+      "tier1": "箱包",
+      "why_strong": "把 Q3 增速放缓与 Birkin/Kelly 二手溢价压缩、配货机制失效放在同一分析框架，适合做「稀缺商业模式是否松动」的赛道洞察。",
+      "key_points": [
+        "皮具马具仍 +10.8%，成衣配饰与腕表拖累",
+        "Birkin 25 二手溢价约从 2.6× 降至 1.7×",
+        "UBS：全球挂牌量较疫情前 6–7 倍，评级卖出",
+        "中国门店客流下降打击入门配饰"
+      ]
+    },
+    {
+      "title": "Hermès and Cartier’s last reliable shoppers are retreating in China",
+      "source": "Jing Daily / Bloomberg",
+      "date": "2026-10-25",
+      "url": "https://jingdaily.com/posts/hermes-and-cartier-s-last-reliable-shoppers-are-retreating-in-china",
+      "tier1": "综合",
+      "why_strong": "把 Hermès、Cartier 等「最后防线」客群与旅行/餐饮/静奢替代并置，适合中国奢侈品结构转型的延伸阅读。",
+      "key_points": [
+        "内地头部品牌普遍承压",
+        "Golden Week 未能扭转",
+        "港澳缓冲有限",
+        "2027 低基数难以解决深层需求问题"
+      ]
+    },
+    {
+      "title": "爱马仕也卖不动了？",
+      "source": "中国新闻周刊 / 21经济网",
+      "date": "2026-10-25",
+      "url": "https://www.21jingji.com/article/20261025/herald/3179b772bc0d46d62fb7a5cf0a6cfbd1.html",
+      "tier1": "箱包",
+      "why_strong": "中文语境下拆解向往型消费者退出、配货失效与高端竞品分流，便于对内投研与品牌会沟通。",
+      "key_points": [
+        "增长靠老客复购而非客流",
+        "配货曾拉动成衣，今已失效",
+        "LV/Chanel 高端线分流顶端客群",
+        "工坊扩产强调承接需求而非快速放量"
+      ]
+    },
+    {
+      "title": "财经人语：全球奢侈品卖不动了？涨价遭反噬 消费者重算品牌价值",
+      "source": "联合早报",
+      "date": "2026-10-25",
+      "url": "https://www.zaobao.com.sg/finance/world/story20261025-9891629",
+      "tier1": "综合",
+      "why_strong": "从定价—价值错配与麦肯锡×BoF 消费者调研切入，适合做「涨价周期后的价值重估」行业评论底座。",
+      "key_points": [
+        "危机是价值感而非欲望消失",
+        "旅行与体验挤占包袋预算",
+        "二手与混搭削弱品牌叙事垄断",
+        "本土高端（如山下有松）分流"
+      ]
+    },
+    {
+      "title": "生于高山自由滑雪，北欧品牌Peak Performance如何诠释“美学户外”？",
+      "source": "华丽志",
+      "date": "2026-10-24",
+      "url": "https://luxe.co/post/486217",
+      "tier1": "服配",
+      "why_strong": "完整拆解专业性能→设计符号→售后维修的价值链，适合「美学户外」与服配交叉趋势洞察。",
+      "key_points": [
+        "HELIUM 绗缝源自卡宾轨迹",
+        "张园限时空间+ÅreLab 修补",
+        "品类心智竞争超越单品功能",
+        "轻薄羽绒城市叠穿场景"
+      ]
+    },
+    {
+      "title": "End of an era? How the Hermes Birkin bag is losing its scarcity appeal",
+      "source": "Reuters / Investing.com",
+      "date": "2026-10-21",
+      "url": "https://www.investing.com/news/stock-market-news/end-of-an-era-how-the-hermes-birkin-bag-is-losing-its-scarcity-appeal-4962299",
+      "tier1": "箱包",
+      "why_strong": "一手采访多地转售商与 Fashionphile/Bernstein 数据，是 10/25 Chosun 等跟进稿的底层事实来源；作延伸阅读注明略早于 48h 主窗。",
+      "key_points": [
+        "未使用 Birkin 二手价较 2022 峰值回落超 6000 美元",
+        "Fashionphile Birkin 挂牌 15 年增 32 倍",
+        "配货花费常见 1–2 万美元门槛",
+        "成衣丝巾香水需求降温或削弱配货漏斗"
+      ]
+    }
+  ],
+  "trend_signals": [
+    {
+      "title": "Birkin/Kelly 二手溢价压缩与稀缺模式松动",
+      "tier1": "箱包",
+      "stage": "上升",
+      "evidence_urls": [
+        "https://biz.chosun.com/en/en-international/2026/10/25/B7YE42WGIZCAFLOAPCI6YDAMFY/",
+        "https://www.investing.com/news/stock-market-news/end-of-an-era-how-the-hermes-birkin-bag-is-losing-its-scarcity-appeal-4962299"
+      ],
+      "notes": "二手溢价回落+挂牌量激增，可能削弱「先买配饰再拿包」漏斗，连带丝巾/服配入门单品。"
+    },
+    {
+      "title": "中国富裕客群：体验/旅行/静奢 > logo 包袋",
+      "tier1": "综合",
+      "stage": "上升",
+      "evidence_urls": [
+        "https://jingdaily.com/posts/hermes-and-cartier-s-last-reliable-shoppers-are-retreating-in-china",
+        "https://www.zaobao.com.sg/finance/world/story20261025-9891629"
+      ],
+      "notes": "与欧洲奢侈市值蒸发叙事共振；珠宝高珠与超高端皮具相对更抗跌。"
+    },
+    {
+      "title": "珠宝相对皮具韧性（高珠/设计溢价）",
+      "tier1": "珠宝腕表",
+      "stage": "上升",
+      "evidence_urls": [
+        "https://www.afr.com/world/asia/luxury-groups-value-drops-by-398b-as-chinese-consumer-demand-fades-20261025-p618fl",
+        "https://www.portugal-news.today/en/article/306723"
+      ],
+      "notes": "Tiffany、Boucheron 等双位数；行业「皮具弱、珠宝强」分层继续。"
+    },
+    {
+      "title": "Mocha/咖啡棕等秋冬中性色包袋",
+      "tier1": "箱包",
+      "stage": "萌芽",
+      "evidence_urls": [
+        "https://www.parisselectbook.com/2026/10/25/le-cadence-de-longchamp-saffiche-en-mocha-pour-be-creative/"
+      ],
+      "notes": "Longchamp Cadence Mocha 为轻奢执行样本，需更多品牌验证是否成色。"
+    },
+    {
+      "title": "美学户外 / 轻薄羽绒城市叠穿",
+      "tier1": "服配",
+      "stage": "上升",
+      "evidence_urls": [
+        "https://luxe.co/post/486217"
+      ],
+      "notes": "专业户外品牌用绗缝符号与修补服务争夺日常服配心智。"
+    },
+    {
+      "title": "镜片光学：医疗渠道+高折射/渐进放量，AI 眼镜供片稳定期",
+      "tier1": "眼镜",
+      "stage": "上升",
+      "evidence_urls": [
+        "http://www1.cfi.net.cn/p20261025001472.html"
+      ],
+      "notes": "明月 Q3 医疗渠道 +113%；与时尚镜框/线上配镜赛道分开观察。"
+    },
+    {
+      "title": "水贝：金价回落后周末客流与批发销量脉冲",
+      "tier1": "珠宝腕表",
+      "stage": "成熟",
+      "evidence_urls": [
+        "https://www.wenweipo.com/a/202610/26/AP6ade6730e4b0fa89498a5602.html",
+        "https://finance.eastmoney.com/a/202610253907248337.html"
+      ],
+      "notes": "产业带价格敏感需求脉冲；与已报「克价回落」同根，仅作集群信号，勿重复作头条。"
+    }
+  ],
+  "search_log": [
+    "Exa web_search_exa×多次：持续 HTTP 429（约 300s 冷却），本轮未能用 Exa 成功返回结果，改 WebSearch/WebFetch/X。",
+    "WebSearch：华丽志 10/25–26 箱包珠宝眼镜 → 命中财报速递/奢侈品栏目新稿（Deckers、Frasers、Castore、Peak Performance）。",
+    "WebSearch：LVMH/Hermès/Richemont/Burberry/Tapestry/Capri Oct 25–26 → FT/AFR 市值蒸发、Chosun Hermès 稀缺、Hermès 官方 Q3 PDF。",
+    "WebSearch：BoF site 箱包奢侈 → Birkin 稀缺、US Lifeline（后者为 10/18 预告稿，未作主候选）。",
+    "WebSearch：Jing Daily / Lady Max → Jing Daily Bloomberg 中国客群撤退；Lady Max 窗内无新稿。",
+    "WebSearch：箱包 Coach/Longchamp/Polène/MCM 等 → Longchamp Cadence Mocha 10/25；Polène/Aeyde 偏早。",
+    "WebSearch：珠宝黄金翡翠钻石 Oct 25–26 → 水贝挤爆、珠宝展（展已排除）、Signet/De Beers 博茨瓦纳。",
+    "WebSearch：眼镜/明月/Safilo/AI眼镜 → 明月 Q3 10/25；Safilo/Marcolin/新秀丽窗内无新财报。",
+    "WebSearch：白沟狮岭水贝丹阳揭阳 → 水贝有核验新闻；狮岭/揭阳无 24–26 新硬新闻。",
+    "WebSearch：Frasers Hugo Boss 华丽志 → 核实 luxe.co/post/486354。",
+    "WebSearch：Castore 安踏李宁 → 核实 luxe.co/post/485994。",
+    "WebSearch：Peak Performance 美学户外 → 核实 luxe.co/post/486217。",
+    "WebSearch：YIN隐 西岸 → 华丽快讯+胖鲸。",
+    "WebSearch：21经济网/联合早报 爱马仕 → 两篇 10/25 深度核实。",
+    "WebSearch：Retail Dive/Luxury Daily/亿邦/36氪 → 窗内无强相关新硬新闻。",
+    "WebSearch：服配丝巾帽子假发 → 无强国内一手；VARZAR/真丝发圈偏海外。",
+    "WebFetch：luxe.co 财报/奢侈品栏目、Frasers/Deckers/Castore/Peak、Chosun、AFR、CNA、ParisSelect、文匯報、东方财富、21经济网×2、联合早报、Jing Daily×2、WWD Aeyde、Reuters Investing、Deckers IR。",
+    "X search_news（luxury handbags/jewelry/eyewear，48h）与 search_posts_all（since 10/24）→ 指向 FT €250bn、Deckers、Hermès 市值讨论；无替代一手 URL。",
+    "刻意排除已覆盖：巴黎封窗、杰尼亚/菲拉格慕/Mulberry/瑞士表对华/Prada/+蒂芙尼花语/金价克价主标题/丹阳调查/LV 大皇宫/开云关店/依视路 Q3/AI 眼镜巷战/珠宝展/Moynat/揭阳玉文化节/Gucci 中国方案。"
+  ]
+}

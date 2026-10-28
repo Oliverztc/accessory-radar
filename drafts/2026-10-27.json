@@ -1,0 +1,452 @@
+{
+  "date": "2026-10-27",
+  "headline": "中国奢侈品冷、韩国仍撑溢价；开云珠宝/眼镜对冲古驰；卡地亚京都高珠；金价回落拉动京沪金饰成交；GM×Margiela 10/29 发售倒计时",
+  "summary": "过去约48小时（主窗10/25–10/27，部分结构稿放宽并注明），奢侈品叙事从「爱马仕也放缓」转向区域分化：中国客群继续收缩钱包，韩国/港澳继续贡献溢价与客流。开云侧珠宝与眼镜同比双位数/中个位数增长，对冲古驰零售下滑；卡地亚在京都发布46件高珠系列，强化非皮具增长极。金价回调后，「北京水贝」首饰金约1010元/克、投资金条重回8字头，线下成交升温。镜框时尚层，GENTLE MONSTER×Maison Margiela 第四弹将于10/29发售。64个P0+P1品牌逐一检索后，窗口内可新计入硬新闻的品牌为1个（GENTLE MONSTER）。",
+  "industry_news": [
+    {
+      "date": "2026-10-27",
+      "source": "中国证券报 / 新华财经",
+      "title": "实地探访「北京水贝」黄金市场：首饰金大幅回落 投资金条重返「8」字头",
+      "url": "https://www.cnfin.com/dz-lb/detail/20261027/4486700_1.html",
+      "tier1": "珠宝腕表",
+      "type": "市场",
+      "importance": 5,
+      "segment": "大众",
+      "summary": "10/26走访天雅珠宝城：首饰金约1010元/克（年内高点曾约1700），投资金条重回8字头；铂金首饰约395元/克。金价回调带动线下购金升温，部分黄金矿企Q3利润承压。中长期「超级周期」叙事仍在，但短线成交对金饰零售与水贝/批发渠道更敏感。"
+    },
+    {
+      "date": "2026-10-26",
+      "source": "CHOSUNBIZ",
+      "title": "China slump hits luxury giants as Korea sustains premium growth",
+      "url": "https://biz.chosun.com/en/en-retail/2026/10/26/4AUF7HDXEZD5RFJKI2JKYO6SR4/",
+      "tier1": "综合",
+      "type": "市场",
+      "importance": 5,
+      "segment": "奢侈品",
+      "summary": "复盘LVMH/Hermès/Kering/Prada三季报：中国需求疲软是共同主因；Hermès皮具仍+10.8%但成衣配饰-2%。开云称亚太-5%、中国最弱，韩国继续增长；Prada用韩国/港澳对冲内地客流。韩国爱马仕/LV/香奈儿子公司去年创纪录，香奈儿年内多次涨价、无降价意向——区域定价与客群结构正在分叉。"
+    },
+    {
+      "date": "2026-10-26",
+      "source": "10 Magazine",
+      "title": "Cartier's Latest High Jewellery Collection Is An Ode To Japan",
+      "url": "https://10magazine.com/cartier-le-choeur-des-pierres/",
+      "tier1": "珠宝腕表",
+      "type": "新品",
+      "importance": 4,
+      "segment": "奢侈品",
+      "summary": "卡地亚在京都国立博物馆发布46件高珠系列 Le Chœur des Pierres，强调与日本设计/自然意象的长期对话；主打 Tutti Chaya 等几何网状结构作品，延续 Tutti Frutti 色彩语言但造型全新。在皮具承压背景下，高珠仍是集团叙事与客单价锚点。"
+    },
+    {
+      "date": "2026-10-26",
+      "source": "Complex",
+      "title": "Maison Margiela and Gentle Monster Unveil Fourth Collaborative Collection",
+      "url": "https://www.complex.com/style/a/jaelaniturnerwilliams/maison-margiela-gentle-monster-collection",
+      "tier1": "眼镜",
+      "type": "新品",
+      "importance": 4,
+      "segment": "轻奢",
+      "summary": "第四弹以「解构」为主题，含43款太阳镜与25款光学镜，10/29发售；镜腿保留四白针线标识，配Alex Prager短片，八城快闪（含首尔特别活动）。时尚镜框联名仍是出货与话题引擎，与镜片光学/线上配镜需分开看。"
+    },
+    {
+      "date": "2026-10-23",
+      "source": "FashionUnited 中文",
+      "title": "开云集团：珠宝与眼镜业务抵消古驰下滑，第三季度营收保持稳定",
+      "url": "https://cn.fashionunited.com/xin-wen/shang-wu/kai-yun-ji-tuan-zhu-bao-yu-yan-jing-ye-wu-di-xiao-gu-chi-xia-hua-di-san-ji-du-ying-shou-bao-chi-wen-ding/202610235593",
+      "tier1": "综合",
+      "type": "财报",
+      "importance": 5,
+      "segment": "奢侈品",
+      "summary": "（窗略放宽至财报跟进）开云Q3营收33.45亿欧元，可比-1%。古驰可比-6%、零售-9%；珠宝可比+11%（零售+18%）、眼镜可比+4%（Lindberg四十周年、Maui Jim秋冬等）。前九月净关店105家，全年关店目标上调至至少125家——渠道收缩与品类对冲并行。"
+    },
+    {
+      "date": "2026-10-22",
+      "source": "Prada Group IR",
+      "title": "Prada Group delivers solid 9M-26 performance, with net revenues at 15%, +4% organic",
+      "url": "https://www.pradagroup.com/en/news-media/press-releases-documents/2026/26-10-22-pradagroup-9m-revenue.html",
+      "tier1": "箱包",
+      "type": "财报",
+      "importance": 4,
+      "segment": "奢侈品",
+      "summary": "（窗略放宽）前九月净收入45.41亿欧元，有机+4%；Q3有机+1%。Prada零售有机+2%且Q3含中国在内亚太为正；Miu Miu面对高基数Q3-3%。亚太有机+5%，内地客流疲软由韩国/港澳对冲。托斯卡纳皮具工厂与Galleria改造强调制造与目的地零售。"
+    },
+    {
+      "date": "2026-10-22",
+      "source": "TechNews / MoneyDJ",
+      "title": "傳統眼鏡需求旺 雷朋母公司財報佳、股價彈 15%",
+      "url": "https://finance.technews.tw/2026/10/22/essilorluxottica-beats-earnings-estimates-shares-jump-15/",
+      "tier1": "眼镜",
+      "type": "财报",
+      "importance": 4,
+      "segment": "大众",
+      "summary": "（窗略放宽）依视路陆逊梯卡Q3营收74.86亿欧元，固定汇率+7.2%；传统眼镜/医技>6%，近视管理+24%，DTC+10.6%；可穿戴（含Meta合作AI眼镜）+20%但增速放缓。市场此前担忧智能眼镜，传统框镜/镜片需求成为估值修复主因。"
+    },
+    {
+      "date": "2026-10-26",
+      "source": "CHOSUNBIZ / FT",
+      "title": "Luxury stocks shed €251 billion as China and US demand cool",
+      "url": "https://biz.chosun.com/en/en-international/2026/10/26/LC7QBEL66JCHBPHMR4KKTZBV5A/",
+      "tier1": "综合",
+      "type": "资本",
+      "importance": 4,
+      "segment": "奢侈品",
+      "summary": "FT口径：LVMH/Hermès/Kering/Richemont/Prada/Moncler六家今年合计市值蒸发约€2510亿；LVMH与Hermès分别约€1316亿、€933亿。LVMH时装皮具中国客户销售中双位数下滑；开云中国客户-15%～-20%。美国奢侈消费7–9月每月至少-4%（Citi信用卡），对中产导向品牌压力更大。"
+    },
+    {
+      "date": "2026-10-18",
+      "source": "华丽志",
+      "title": "等候名单曾比肩爱马仕，纽约轻奢包袋品牌 Mansur Gavriel 被一家贴牌服饰生产商全面收购",
+      "url": "https://luxe.co/post/485068",
+      "tier1": "箱包",
+      "type": "并购",
+      "importance": 3,
+      "segment": "轻奢",
+      "summary": "（深度/并购信号，日期略早）Public Clothing Co. 从 GF Capital 全面收购 Mansur Gavriel，对价未披露；超65%销售来自官网DTC，已无直营门店。轻奢「it bag」潮汐退后，供应链型买方接手、押注DTC与后台协同——对Coach/MK以外的独立轻奢包是可参照退出路径。"
+    },
+    {
+      "date": "2026-10-19",
+      "source": "Investing.com",
+      "title": "Mulberry shares surge as first-half sales rise 18% on full-price demand",
+      "url": "https://www.investing.com/news/earnings/mulberry-shares-surge-as-firsthalf-sales-rise-18-on-fullprice-demand-4956653",
+      "tier1": "箱包",
+      "type": "财报",
+      "importance": 3,
+      "segment": "轻奢",
+      "summary": "（窗略放宽）Mulberry截至9/26的26周销售+18.1%，美国+28%、欧洲（除英）+23%，加盟批发+52%；促销占比下降300bp，Raffia/Crochet等新品与伦敦时装周秀带动。与Mansur Gavriel被收购形成对照：仍能守住正价的轻奢皮具仍有机构定价权。"
+    }
+  ],
+  "brand_news": [
+    {
+      "brand": "GENTLE MONSTER",
+      "date": "2026-10-26",
+      "source": "Complex",
+      "title": "Maison Margiela and Gentle Monster Unveil Fourth Collaborative Collection",
+      "url": "https://www.complex.com/style/a/jaelaniturnerwilliams/maison-margiela-gentle-monster-collection",
+      "summary": "Complex 10/26确认第四弹10/29发售：解构主题，43太阳镜+25光学；镜腿四白针；Alex Prager短片；八城快闪与首尔特别活动。官网故事页同步预热。属窗口内可独立核验的发售倒计时硬新闻。"
+    }
+  ],
+  "insights": [
+    {
+      "title": "皮具承压时，眼镜与珠宝成为集团报表的「对冲仓」",
+      "tier1": "眼镜",
+      "body": "本轮三季报最清晰的结构信号，不是某一品牌「突然变差」，而是品类β开始分叉。开云珠宝可比+11%、眼镜+4%，对冲古驰零售-9%；依视路陆逊梯卡传统框镜/镜片与医技业务固定汇率仍逾+6%，近视管理组合+24%，而可穿戴虽+20%但增速已从高位回落。皮具与成衣配饰更吃「情绪与客流」，光学与基础框镜更吃「刚需+医疗渠道+价格组合」。\n\n对经营者：把「眼镜」拆成镜片光学、时尚镜框、线上配镜三类预算。镜框时尚适合联名与快闪（如GM×Margiela），镜片光学适合验光服务密度与渐进/近视管理SKU；不要用同一套达人投放去打三条赛道。对投资人：在奢侈品β下行期，具备渠道密度与替换周期的眼镜平台，估值逻辑更接近「消费医疗+品牌」，而非纯可选消费；需单独跟踪可穿戴占比，避免用智能眼镜叙事覆盖传统业务现金流。",
+      "refs": [
+        {
+          "title": "开云Q3：珠宝与眼镜抵消古驰下滑",
+          "url": "https://cn.fashionunited.com/xin-wen/shang-wu/kai-yun-ji-tuan-zhu-bao-yu-yan-jing-ye-wu-di-xiao-gu-chi-xia-hua-di-san-ji-du-ying-shou-bao-chi-wen-ding/202610235593"
+        },
+        {
+          "title": "EssilorLuxottica Q3 2026 Revenue",
+          "url": "https://www.globenewswire.com/news-release/2026/10/20/3384748/0/en/essilorluxottica-q3-2026-revenue-revenue-growth-at-9-0-in-q3-7-2-at-constant-currency.html"
+        },
+        {
+          "title": "TechNews：传统眼镜需求旺",
+          "url": "https://finance.technews.tw/2026/10/22/essilorluxottica-beats-earnings-estimates-shares-jump-15/"
+        }
+      ]
+    },
+    {
+      "title": "金价回落重启成交，但培育钻零售仍卡在「标准与品牌」",
+      "tier1": "珠宝腕表",
+      "body": "10/27新华财经对「北京水贝」的实地稿，与前日深圳水贝「金价回落刺激需求」形成连续证据：首饰金回到约千元/克、投资金条回8字头后，线下客流与抄底叙事升温。这更像金价β驱动的成交脉冲，不等于品牌珠宝需求全面修复——卡地亚仍在京都用高珠讲文化溢价，说明顶端叙事与克价成交是两套生意。\n\n另一端，中国黄金报10/13豫沪对接报道指出：河南毛坯产能全球占比极高，但国内培育钻珠宝零售价值捕获不足，切磨依赖印度、标准与品牌缺位，价格已与天然钻脱钩。对经营者：金价下行期优先做克重透明、工费可比的引流款，同时把培育钻做成独立品类话术，切勿与天然钻混柜混价。对投资人：金饰零售弹性看金价与渠道库存；培育钻看切磨自主与品牌溢价，而不是再讲「替代天然钻」故事。",
+      "refs": [
+        {
+          "title": "北京水贝：首饰金回落、金条回8字头",
+          "url": "https://www.cnfin.com/dz-lb/detail/20261027/4486700_1.html"
+        },
+        {
+          "title": "豫沪对接：培育钻石零售还要跨过几道坎",
+          "url": "https://news.10jqka.com.cn/20261013/c680622941.shtml"
+        },
+        {
+          "title": "Cartier Le Chœur des Pierres",
+          "url": "https://10magazine.com/cartier-le-choeur-des-pierres/"
+        }
+      ]
+    }
+  ],
+  "trends": [
+    {
+      "title": "金价回调后的首饰金/金条成交脉冲",
+      "tier1": "珠宝腕表",
+      "stage": "上升",
+      "description": "国际金价回落后，北京天雅（「北京水贝」）与深圳水贝同步出现购金升温：首饰金约1010元/克，投资金条重回8字头；铂金亦明显回落。属价格敏感型成交，而非设计溢价驱动。",
+      "opportunity": "短线可做克重透明款与以旧换新；中线仍需区分投资金与品牌金饰客群，避免把「抄底流量」当成品牌复购。",
+      "evidence": [
+        {
+          "title": "新华财经实地探访北京水贝",
+          "url": "https://www.cnfin.com/dz-lb/detail/20261027/4486700_1.html"
+        },
+        {
+          "title": "文汇报：金价回落刺激深圳水贝需求",
+          "url": "https://www.wenweipo.com/a/202610/26/AP6ade6730e4b0fa89498a5602.html"
+        }
+      ]
+    },
+    {
+      "title": "解构联名镜框：GM×Margiela 进入发售周",
+      "tier1": "眼镜",
+      "stage": "上升",
+      "description": "第四弹以破碎/未完成美学做差异化，43+25 SKU、八城快闪、导演短片齐备，10/29开售。时尚镜框联名仍能制造确定性话题与柜台转化。",
+      "opportunity": "国内时尚镜框可对标「有限SKU+城市快闪+内容片」节奏；与镜片光学、线上配镜分包预算与达人池。",
+      "evidence": [
+        {
+          "title": "Complex：第四弹10/29发售",
+          "url": "https://www.complex.com/style/a/jaelaniturnerwilliams/maison-margiela-gentle-monster-collection"
+        },
+        {
+          "title": "Gentle Monster 官网故事页",
+          "url": "https://www.gentlemonster.com/int/en/stories/maison-margiela-2026"
+        }
+      ]
+    },
+    {
+      "title": "钩针/拉菲草包：从夏季度假延伸到正价轻奢主货",
+      "tier1": "箱包",
+      "stage": "成熟",
+      "description": "ELLE梳理2026夏钩针包七大演变（串珠、蕾丝针法、皮革拼接、迷你款等）；Mulberry H1点名Raffia、Crochet等驱动正价销售。编织已从季节单品变成轻奢主货带的材质策略。",
+      "opportunity": "国产品牌可用「编织肌理+皮革结构件」做秋冬延续款，强调通勤容量与可清洁性，避免只做度假视觉。",
+      "evidence": [
+        {
+          "title": "ELLE: 7 Crochet Bag Trends Summer 2026",
+          "url": "https://www.elle.com/fashion/shopping/a71483879/best-crochet-bags-trend/"
+        },
+        {
+          "title": "Mulberry H1：正价需求带动销售+18%",
+          "url": "https://www.investing.com/news/earnings/mulberry-shares-surge-as-firsthalf-sales-rise-18-on-fullprice-demand-4956653"
+        }
+      ]
+    },
+    {
+      "title": "培育钻石：产能强、零售弱，独立品类化起步",
+      "tier1": "珠宝腕表",
+      "stage": "萌芽",
+      "description": "中国黄金报产业对接稿显示河南毛坯产能全球领先，但国内零售价值捕获低，切磨、标准、品牌、消费者教育均不足；价格已与天然钻脱钩。11月上海展销会将成零售试点窗口。",
+      "opportunity": "适合做「时尚/情感消费」而非「保值替代」；渠道需分柜分话术，并关注国内智能切磨产能爬坡对毛坯定价权的影响。",
+      "evidence": [
+        {
+          "title": "中国黄金报：培育钻石零售突围",
+          "url": "https://news.10jqka.com.cn/20261013/c680622941.shtml"
+        }
+      ]
+    }
+  ],
+  "brand_insights": [
+    {
+      "brand": "GENTLE MONSTER",
+      "tier1": "眼镜",
+      "title": "GENTLE MONSTER：用第四次解构联名，把「发售周」做成全球零售事件",
+      "body": "在奢侈皮具叙事偏防守的一周，GENTLE MONSTER选择把资源砸在可感知的发售节奏上：解构主题产品矩阵（太阳镜+光学）、导演级短片、八城快闪与首尔特别活动，时间锚点精确到10/29。这与开云眼镜、依视路传统框镜在报表上的韧性相互印证——时尚镜框仍是「话题→到店→客单」最短闭环之一。\n\n战略上，连续四次与Maison Margiela合作，本质是用艺术时尚背书降低单次联名的新鲜感衰减，同时用光学款扩大日常佩戴场景，而不仅是太阳镜打卡。渠道上，快闪制造稀缺与内容，正店与官网承接长尾；竞争上，面对Oakley/Ray-Ban的运动与智能眼镜叙事，GM守住的是先锋造型与文化资本，而不是技术参数。",
+      "investor_view": "关注联名发售周的同店与二次转化，以及光学款占比能否提升复购；若全球快闪成本上升而售罄率走弱，溢价可持续性需打折。时尚镜框赛道仍优于可选皮具的短期β。",
+      "operator_view": "可复制的是「日期锚点+内容片+有限城市快闪+光学/太阳镜双阵列」，而非单纯堆KOL。国内品牌若跟风解构美学，需先保证试戴体验与售后，避免只剩话题没有转化。",
+      "sources": [
+        {
+          "title": "Complex 报道",
+          "url": "https://www.complex.com/style/a/jaelaniturnerwilliams/maison-margiela-gentle-monster-collection"
+        },
+        {
+          "title": "Gentle Monster 官方故事",
+          "url": "https://www.gentlemonster.com/int/en/stories/maison-margiela-2026"
+        }
+      ]
+    }
+  ],
+  "reading_list": [
+    {
+      "title": "China slump hits luxury giants as Korea sustains premium growth",
+      "source": "CHOSUNBIZ",
+      "date": "2026-10-26",
+      "url": "https://biz.chosun.com/en/en-retail/2026/10/26/4AUF7HDXEZD5RFJKI2JKYO6SR4/",
+      "tier1": "综合"
+    },
+    {
+      "title": "Luxury stocks shed €251 billion as China and US demand cool",
+      "source": "CHOSUNBIZ",
+      "date": "2026-10-26",
+      "url": "https://biz.chosun.com/en/en-international/2026/10/26/LC7QBEL66JCHBPHMR4KKTZBV5A/",
+      "tier1": "综合"
+    },
+    {
+      "title": "实地探访「北京水贝」：首饰金回落、金条回8字头",
+      "source": "新华财经",
+      "date": "2026-10-27",
+      "url": "https://www.cnfin.com/dz-lb/detail/20261027/4486700_1.html",
+      "tier1": "珠宝腕表"
+    },
+    {
+      "title": "开云：珠宝与眼镜抵消古驰下滑",
+      "source": "FashionUnited",
+      "date": "2026-10-23",
+      "url": "https://cn.fashionunited.com/xin-wen/shang-wu/kai-yun-ji-tuan-zhu-bao-yu-yan-jing-ye-wu-di-xiao-gu-chi-xia-hua-di-san-ji-du-ying-shou-bao-chi-wen-ding/202610235593",
+      "tier1": "综合"
+    },
+    {
+      "title": "Prada Group 9M-26 revenue",
+      "source": "Prada Group",
+      "date": "2026-10-22",
+      "url": "https://www.pradagroup.com/en/news-media/press-releases-documents/2026/26-10-22-pradagroup-9m-revenue.html",
+      "tier1": "箱包"
+    },
+    {
+      "title": "EssilorLuxottica Q3 2026 Revenue",
+      "source": "GlobeNewswire",
+      "date": "2026-10-20",
+      "url": "https://www.globenewswire.com/news-release/2026/10/20/3384748/0/en/essilorluxottica-q3-2026-revenue-revenue-growth-at-9-0-in-q3-7-2-at-constant-currency.html",
+      "tier1": "眼镜"
+    },
+    {
+      "title": "Cartier Le Chœur des Pierres",
+      "source": "10 Magazine",
+      "date": "2026-10-26",
+      "url": "https://10magazine.com/cartier-le-choeur-des-pierres/",
+      "tier1": "珠宝腕表"
+    },
+    {
+      "title": "Maison Margiela × Gentle Monster Fourth Collection",
+      "source": "Complex",
+      "date": "2026-10-26",
+      "url": "https://www.complex.com/style/a/jaelaniturnerwilliams/maison-margiela-gentle-monster-collection",
+      "tier1": "眼镜"
+    },
+    {
+      "title": "豫沪对接：培育钻石零售还要跨过几道坎",
+      "source": "中国黄金报",
+      "date": "2026-10-13",
+      "url": "https://news.10jqka.com.cn/20261013/c680622941.shtml",
+      "tier1": "珠宝腕表"
+    },
+    {
+      "title": "Mansur Gavriel 被 Public Clothing 全面收购",
+      "source": "华丽志",
+      "date": "2026-10-18",
+      "url": "https://luxe.co/post/485068",
+      "tier1": "箱包"
+    },
+    {
+      "title": "Mulberry H1 sales +18% on full-price demand",
+      "source": "Investing.com",
+      "date": "2026-10-19",
+      "url": "https://www.investing.com/news/earnings/mulberry-shares-surge-as-firsthalf-sales-rise-18-on-fullprice-demand-4956653",
+      "tier1": "箱包"
+    },
+    {
+      "title": "French Unrest Yet to Hit Hermès Sales, but China Slowdown Weighs",
+      "source": "WWD",
+      "date": "2026-10-22",
+      "url": "https://wwd.com/business-news/financial/hermes-results-q3-2026-1239380176/",
+      "tier1": "箱包"
+    }
+  ],
+  "brand_scan": {
+    "window": "2026-10-25..2026-10-27",
+    "method": "逐一覆盖64个品牌（中文名与常见英文别名）：WebSearch/WebFetch；P0及眼镜/箱包/腕表重点补 X search_posts_all（since 2026-10-25）与 search_news。行业层优先 Chosun、Prada IR、开云/依视路财报原文、新华财经、华丽志、Complex、10 Magazine、WWD。Exa web_search_exa 当日HTTP 429，退避后以上述通道完成。大图（DITA）按用户偏好跳过优先追踪。",
+    "note": "有可计入的全新品牌硬新闻 1/64（GENTLE MONSTER）。窗口内可见但属昨日已报或窗外、无实质性新事实而不重复计入：天美时 Bugs Bunny/Vontélle、裘真三里屯曲园、山下有松百纳闲云（10/15）、LOLA ROSE刘浩存代言（10/15）、LEVEL8「越行越顺」（10/2）、依视路/明月/蔡司/卡西欧等已覆盖财报或产品。其余品牌未检到可核实发布日期与原文链接的新闻（不代表品牌无线下活动）。部分行业结构稿（开云/Prada/依视路/Mulberry/Mansur Gavriel）因仍具当日决策价值，在industry_news中注明窗略放宽收录。",
+    "per_brand": {
+      "裘真": "未计入：三里屯太古里「曲园」10/23启幕已在10/26覆盖，无窗口内新事实",
+      "Fakeme": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "山下有松": "未计入：百纳闲云手提包10/15开售属窗外；无窗口内新通稿",
+      "LOLA ROSE": "未计入：刘浩存大中华区代言为10/15 SocialBeta，窗外",
+      "HEFANG": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "雅瑞光学": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "ARSIS": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "蔡司": "未计入：此前已覆盖产品/活动，窗口内无新硬新闻",
+      "依视路": "未计入：Q3财报10/20已覆盖；TechNews 10/22 传统眼镜/股价解读作阅读清单",
+      "CHARLES&KEITH": "未计入：孟买Inorbit概念店为5月旧闻",
+      "新秀丽": "未检到可核实新动态",
+      "ITO": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "GROTTO个乐": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "白岚": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "万事利": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "ECODAY": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "bampo": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "卡西欧": "未计入：印度G-SHOCK等已覆盖，窗口内无新硬新闻",
+      "德津": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "LEVEL8地平线8号": "未计入：「越行越顺」主张启用为10/2，新华/界面复述10/15，窗外",
+      "九格眼镜": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "欧克利": "未计入：MUZM等已覆盖；Meta Vanguard 为存量产品说明稿（Talaya 10/25更新），无独立新品发售日",
+      "FANCI范琦": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "GENTLE MONSTER": "有动态：Complex 10/26 报道 ×Maison Margiela 第四弹 10/29 发售（43太阳镜+25光学，八城快闪，Alex Prager短片）",
+      "纽芝兰": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "明月镜片": "未计入：三季报已覆盖",
+      "CECE": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "柯达": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "BAGSMART": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "CIGALONG": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "abyb jewelry": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "海伦凯勒眼镜": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "包包树BAGTREE": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "飞亚达": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "梵誓ONESWEAR": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "KKLUE轻珠宝": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "天美时集团": "未计入：Bugs Bunny×M79 / Vontélle×Marlin 已在10/26日报计入",
+      "JELLYTOYBOY": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "卡蒂罗": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "尤目": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "ORANGE CUBE": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "古良吉吉": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "亨得利钟表": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "甲目眼镜": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "TAD FAB": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "FANGYI方宜": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "老雷线上配镜": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "抱树BYROOTS": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "TELETIES": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "DAVENA": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "首末集团": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "大图": "按用户偏好跳过优先追踪",
+      "卡拉羊": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "P&N": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "PARIM": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "上海夕和眼镜": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "超视立": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "御行": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "木九十": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "天空树假发": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "不莱玫": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "帕莎": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "CASSILE卡思乐": "未检到可核实发布日期与原文链接的窗口内新动态",
+      "BLACKHEAD": "未检到可核实发布日期与原文链接的窗口内新动态"
+    }
+  },
+  "sources": [
+    {
+      "name": "华丽志",
+      "url": "https://luxe.co/",
+      "tier1": "综合"
+    },
+    {
+      "name": "CHOSUNBIZ",
+      "url": "https://biz.chosun.com/",
+      "tier1": "综合"
+    },
+    {
+      "name": "Prada Group",
+      "url": "https://www.pradagroup.com/",
+      "tier1": "箱包"
+    },
+    {
+      "name": "Kering",
+      "url": "https://www.kering.com/",
+      "tier1": "综合"
+    },
+    {
+      "name": "EssilorLuxottica",
+      "url": "https://www.essilorluxottica.com/",
+      "tier1": "眼镜"
+    },
+    {
+      "name": "新华财经",
+      "url": "https://www.cnfin.com/",
+      "tier1": "珠宝腕表"
+    },
+    {
+      "name": "Gentle Monster",
+      "url": "https://www.gentlemonster.com/",
+      "tier1": "眼镜"
+    },
+    {
+      "name": "WWD",
+      "url": "https://wwd.com/",
+      "tier1": "综合"
+    }
+  ]
+}
