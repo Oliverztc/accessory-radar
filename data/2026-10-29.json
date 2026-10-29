@@ -1,0 +1,628 @@
+{
+ "date": "2026-10-29",
+ "headline": "山下有松声明非日本品牌并维权；Marc Jacobs大中华交I.T运营；黄金珠宝三季报分化（周大生/曼卡龙/菜百）；博士眼镜净利+49%；丹阳镜片智能化上人民日报头版；Lyst Q3 Prada登顶",
+ "summary": "主窗10/28–10/29，因三季报与周末前后发稿集中，部分条目放宽至48小时（10/27）并注明。黄金珠宝三季报集中披露：菜百营收+29%但Q3净利-59%，周大生营收-17.5%、净利-26%，曼卡龙Q3扣非仅47万元；Inside Retail复盘周大福内地净关240店、Dawn系列半年约28亿港元。眼镜侧博士眼镜前三季度净利+49%，人民日报头版报道丹阳（全球约45%树脂镜片）向智能眼镜转型，Rokid发布全彩AI眼镜，CooperCompanies更换CEO。奢侈与轻奢侧：Marc Jacobs大中华区交由I.T长期授权运营；Global Blue显示中国游客退税消费-18%、赴韩+123%；Lyst Q3 Prada重回第一、Wish Pouch最热；Celine CEO披露入门品类策略；Jing Daily称中国奢侈品复苏由U转L。64个P0+P1品牌逐一检索，窗口内可计入硬新闻的品牌3个（山下有松、天美时集团、Fakeme）。",
+ "industry_news": [
+  {
+   "date": "2026-10-28",
+   "source": "智通财经/同花顺",
+   "title": "周大生前三季度营收55.84亿元同比-17.54%，归母净利6.51亿元-26.15%；门店3809家",
+   "url": "https://stock.10jqka.com.cn/20261028/c681158390.shtml",
+   "tier1": "珠宝腕表",
+   "type": "数据",
+   "importance": 4,
+   "segment": "大众",
+   "summary": "三季报：前三季度营收55.84亿元-17.54%，归母净利6.51亿元-26.15%，扣非6.41亿元-24.87%。期末门店3809家（加盟3424、自营385），自营与电商渠道对冲加盟收缩；产品向轻克重、高性价比与「国家宝藏」高端黄金系列倾斜。10/29券商点评（新浪）关注加盟去库存与黄金产品毛利修复节奏。"
+  },
+  {
+   "date": "2026-10-28",
+   "source": "观点网",
+   "title": "曼卡龙Q3营收3.57亿元-41.34%，单季扣非净利仅47万元-97.89%；经营现金流+204%",
+   "url": "https://www.guandian.cn/m/show/619667",
+   "tier1": "珠宝腕表",
+   "type": "数据",
+   "importance": 4,
+   "segment": "轻奢",
+   "summary": "前三季度营收13.37亿元-38.19%，归母净利8352万元-18.27%；Q3单季营收3.57亿元-41.34%，归母净利287万元-88.75%，扣非47万元-97.89%。前三季度经营现金流1.31亿元+204%。年轻化时尚黄金/轻珠宝定位在金价高位、克重消费收缩下，收入与利润同时承压，现金流改善主要来自收缩备货。"
+  },
+  {
+   "date": "2026-10-27",
+   "source": "观点网/格隆汇",
+   "title": "菜百股份前三季度营收264.48亿元+29.19%，但Q3归母净利-59.44%（黄金租赁与金价波动拖累）",
+   "url": "https://www.guandian.cn/article/20261027/618985.html",
+   "tier1": "珠宝腕表",
+   "type": "数据",
+   "importance": 3,
+   "segment": "大众",
+   "summary": "前三季度营收264.48亿元+29.19%，归母净利5.13亿元-20.67%，扣非5.74亿元-1.91%；Q3单季归母净利7628万元-59.44%。投资金条需求推高收入，但金价剧烈波动叠加黄金租赁相关公允价值/投资损失压低利润——「量增利减」是本轮黄金零售的典型报表形态。"
+  },
+  {
+   "date": "2026-10-28",
+   "source": "Inside Retail Asia",
+   "title": "周大福9月季度复盘：内地净关240店、港澳同店+29.6%，新系列Dawn半年零售值约28亿港元",
+   "url": "https://insideretail.asia/2026/10/28/fewer-stores-bigger-tickets-how-chow-tai-fooks-september-quarter-played-out/",
+   "tier1": "珠宝腕表",
+   "type": "深度",
+   "importance": 3,
+   "segment": "大众",
+   "summary": "对10/22季报的深度拆解（数据本身前期已报，本条收录新增细节）：内地占零售值83.3%（一年前约87.5%），季度内开23关263；集团门店5192个，较一年前6041个少约七分之一。内地自营同店+2.2%、加盟同店-2.9%。4月推出的Dawn系列半年零售值约28亿港元。摩根士丹利指10月同店因高基数与中秋错期下滑，预计11月起基数缓和。"
+  },
+  {
+   "date": "2026-10-28",
+   "source": "格隆汇/新浪财经",
+   "title": "博士眼镜前三季度归母净利1.31亿元+49.23%，Q3单季净利+51%；高盛国际新进前十大流通股东",
+   "url": "https://www.gelonghui.com/news/5336180",
+   "tier1": "眼镜",
+   "type": "数据",
+   "importance": 4,
+   "segment": "大众",
+   "summary": "三季报（10/27晚披露）：前三季度营收11.70亿元+8.30%，归母净利1.31亿元+49.23%，扣非1.03亿元+30.19%；Q3营收4.23亿元+7.41%，归母净利4803万元+51.06%。含公允价值变动收益2916万元；拟每10股派0.8元。可转债转股等使股本由2.28亿增至3.19亿股；高盛国际（自有资金）新进前十大流通股东。眼镜零售在消费疲软中仍跑出利润弹性。"
+  },
+  {
+   "date": "2026-10-29",
+   "source": "人民日报（人民网）",
+   "title": "人民日报头版：丹阳产全球约45%树脂镜片、1600余家链上企业，加快向传统+智能眼镜双轮驱动",
+   "url": "http://finance.people.com.cn/n1/2026/1029/c1004-40823471.html",
+   "tier1": "眼镜",
+   "type": "深度",
+   "importance": 4,
+   "segment": "大众",
+   "summary": "丹阳视觉光学产业配套自给率超90%；光刻工艺做镜片使1500度近视片中心厚约2mm、材料利用率95%以上；一款量产AI眼镜最轻25.3克、首批订单破千万元。当地出台《人工智能赋能视觉光学产业发展行动方案（2026—2030年）》，短板在芯片、光学模组与电池配套。与10/25丹阳防控镜片立案事件形成「治理+升级」两面。"
+  },
+  {
+   "date": "2026-10-28",
+   "source": "21经济网（封面新闻）",
+   "title": "Rokid发布首款全彩AI眼镜Rokid Color与交互戒指，雷鸟同日官宣iO+；全彩成头部厂商新战场",
+   "url": "https://www.21jingji.com/article/20261028/herald/2fb7a1f46f53cfc87daf6006518423bf.html",
+   "tier1": "眼镜",
+   "type": "新品",
+   "importance": 3,
+   "segment": "大众",
+   "summary": "10/27 Rokid发布Rokid Glasses 2、全彩Micro-LED光机的Rokid Color（55g）及Rokid Ring；雷鸟创新同日官宣第四代双目全彩iO+。IDC：2025H1全球智能眼镜出货406.5万台+64.2%，但无屏音频/拍摄类仍为主力。全彩短期受成本、续航、良率制约，难快速下沉平价市场。IT之家10/27报道Glasses 2售价3699元起。"
+  },
+  {
+   "date": "2026-10-27",
+   "source": "CooperCompanies IR",
+   "title": "CooperCompanies CEO Al White即刻卸任，Walt Rosebrough任执行董事长；前强生视力业务高管加入董事会",
+   "url": "https://investor.coopercos.com/news-releases/news-release-details/coopercompanies-announces-leadership-transition-and-board",
+   "tier1": "眼镜",
+   "type": "资本",
+   "importance": 3,
+   "segment": "大众",
+   "summary": "美东10/27（北京时间10/28）公告：董事会称「近期业绩未达预期」，CEO即刻离任并启动外部招聘（Russell Reynolds）；前J&J视力业务负责人Shlomi Nachman 12/8入董事会，另三名董事不再连任，重申FY2026指引。CooperVision为全球隐形眼镜龙头之一，属镜片光学/视光医疗侧的治理变动信号。"
+  },
+  {
+   "date": "2026-10-27",
+   "source": "华丽志",
+   "title": "Marc Jacobs大中华区交由I.T集团长期授权运营：独立店+店中店+电商+批发",
+   "url": "https://luxe.co/post/486663",
+   "tier1": "箱包",
+   "type": "渠道",
+   "importance": 5,
+   "segment": "轻奢",
+   "summary": "WHP Global与G-III 10/26宣布：I.T接手Marc Jacobs大中华区业务（长期授权），拓展独立门店、店中店、电商与批发。LVMH出售Marc Jacobs已于9/1完成（约9.25亿美元，WHP与G-III各50%）；Emily George 11/1起任总裁，CEO Eric Marechalle 10月底离任。I.T在区内拥有280+销售点。轻奢品牌「品牌方轻资产+区域运营商」模式在中国再落一例。"
+  },
+  {
+   "date": "2026-10-28",
+   "source": "华丽志（Global Blue数据）",
+   "title": "Global Blue：上半年全球退税奢侈品消费+5%，中国游客-18%（赴日-47%、赴韩+123%），Z世代唯一增长群体",
+   "url": "https://luxe.co/post/486785",
+   "tier1": "综合",
+   "type": "数据",
+   "importance": 4,
+   "segment": "奢侈品",
+   "summary": "上半年全球退税奢侈品消费额+5%、客单价+7%、交易数-2%；亚太+18%，欧洲持平。中国游客整体-18%，赴日-47%、赴韩+123%；美国游客+13%，海湾-28%。超高净值客群占人数1%、贡献27%消费；欧洲腕表+33%、手袋+8%；Z世代为唯一增长年龄层（+8%），意大利28岁以下中国顾客占19%。"
+  },
+  {
+   "date": "2026-10-28",
+   "source": "Hypebae / Lyst",
+   "title": "Lyst Index Q3-26：Prada时隔近三年重回第一（需求+55%），Prada Wish Pouch成最热单品；Celine首进前十",
+   "url": "https://hypebae.com/2026/10/lyst-index-hottest-brands-items-products-q3-prada-balenciaga-cos-free-people-chanel-ballet-flats",
+   "tier1": "综合",
+   "type": "数据",
+   "importance": 4,
+   "segment": "奢侈品",
+   "summary": "Prada自2023年来首次登顶，需求+55%；最热单品Prada Wish Pouch环比需求约+500%。Celine首次进入品牌前十。软塌手提包主导单品榜（COS Trullo Flap Bag第2、Balenciaga Rodeo第8），Cartier Tank第10；Phoebe Philo Peak墨镜、Chanel芭蕾平底鞋上榜。完整报告见Lyst官网。"
+  },
+  {
+   "date": "2026-10-28",
+   "source": "Vogue",
+   "title": "Celine CEO Séverine Merle：Soft Triomphe（€2,200）成最畅销包，帆布Duffle €1,300做入门；腰带、丝巾双位数/三位数增长",
+   "url": "https://www.vogue.com/article/at-celine-ceo-severine-merle-is-taking-things-one-triomphe-at-a-time",
+   "tier1": "箱包",
+   "type": "深度",
+   "importance": 4,
+   "segment": "奢侈品",
+   "summary": "HSBC估算Celine销售由2023年€26亿降至2026年€18.7亿；Michael Rider接任后美国与鞋履双位数增长。CEO称价格「两端都做」：Soft Triomphe Small Half Moon €2,200为头号单品，帆布Duffle €1,300、托特与鞋履承担获客；腰带供不应求，丝巾三位数增长。不靠开店，以翻新扩店为主；法国约占其欧洲近半，巴黎骚乱曾致蒙田大道店被抢。"
+  },
+  {
+   "date": "2026-10-28",
+   "source": "Jing Daily",
+   "title": "Jing Daily：奢侈品准备迎接中国「长冬」——Bernstein称U型复苏变L型，国产手袋五品牌天猫年复合+51%",
+   "url": "https://jingdaily.com/posts/luxury-braces-for-a-long-chinese-winter",
+   "tier1": "综合",
+   "type": "深度",
+   "importance": 5,
+   "segment": "轻奢",
+   "summary": "Bernstein估算Songmont、裘真、GROTTO、迪桑娜、bampo五个国产皮具品牌2021–2025年天猫销售合计年增约51%，头部本土品牌约占天猫份额18%（头部海外品牌19%）。Euromonitor：2025年没有中国品牌在个人奢侈品市场份额超过0.5%，西方集团约63%。Gucci降价20–30%，开云年内净关店至少125家；离岸信托所得20%税7/24起实施。"
+  },
+  {
+   "date": "2026-10-28",
+   "source": "FashionUnited",
+   "title": "FashionUnited评论：奢侈品耐心见底——设计师密集离任、二手需求上升，开云年内计划关闭126家店",
+   "url": "https://fashionunited.com/news/fashion/patience-with-luxury-is-wearing-thin/2026102875390",
+   "tier1": "综合",
+   "type": "深度",
+   "importance": 3,
+   "segment": "奢侈品",
+   "summary": "LVMH时装皮具Q3-5%。The RealReal报告：平台复古需求自2020年+432%，47%买家买新品前先查转售价（作者提示利益相关）。Vaccarello离开Saint Laurent、McGirr离开McQueen；YSL销售由峰值超€30亿降至2025年€26.4亿，远离2022年设定的€50亿目标；Bernstein估McQueen 2025年不足€2亿。开云Q3-1%，年底前计划关闭共126家精品店。"
+  },
+  {
+   "date": "2026-10-28",
+   "source": "Businesskorea",
+   "title": "LF旗下Atte Vanessa Bruno推「饺子包」MANDU BAG：褶皱软体+两用肩带，呼应26FW软包潮",
+   "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=279862",
+   "tier1": "箱包",
+   "type": "新品",
+   "importance": 2,
+   "segment": "轻奢",
+   "summary": "继10次以上连续补单的Demain Bag后，推出圆润褶皱的MANDU BAG，深棕/黑/灰褐米三色，可拆卸肩带实现托特/斜挎两用；10/26起LF Mall首发后铺至线下。韩国轻奢配饰品牌把「软、褶、圆」体量快速商品化。"
+  },
+  {
+   "date": "2026-10-27",
+   "source": "华丽志",
+   "title": "路易威登任命前蒂芙尼高管Hector Muelas为首席品牌创意官（11/1起）；Graff任命Katy Chen",
+   "url": "https://luxe.co/post/486466",
+   "tier1": "综合",
+   "type": "市场",
+   "importance": 2,
+   "segment": "奢侈品",
+   "summary": "LV新设/更替首席品牌创意官岗位，由曾任职Tiffany的Hector Muelas于11月1日出任，负责品牌形象与创意表达统筹；同期Graff宣布Katy Chen任职。头部集团在需求疲软期继续把资源押在品牌叙事与高端珠宝人才上。"
+  }
+ ],
+ "brand_news": [
+  {
+   "brand": "山下有松",
+   "date": "2026-10-28",
+   "source": "北京商报（同花顺转）",
+   "title": "山下有松发布声明：自创立即为中国本土原创品牌，非日本品牌，已对造谣账号存证维权",
+   "url": "https://news.10jqka.com.cn/20261028/c681208539.shtml",
+   "summary": "10/28晚声明：品牌2013年由山西籍付崧、王捷创立，「崧」拆为山与松，Songmont=Song+Mont；已对编造「日本品牌」并恶意嘲讽的账号公证存证，将发函、投诉与诉讼。此前上海警方通报「黑嘴伤企」案中，被攻击包袋品牌经南都核实即山下有松。报道称其定价约1000–4000元，2025年前三季度线上销售+约90%。另见同花顺同日快讯（c681207454）。"
+  },
+  {
+   "brand": "天美时集团",
+   "date": "2026-10-27",
+   "source": "Hodinkee",
+   "title": "Timex首次与WM Brown（Matt Hranek）合作长方形礼服表，含表链+皮带礼盒349美元",
+   "url": "https://www.hodinkee.com/articles/wm-brown-x-timex",
+   "summary": "26.5×41.3mm钢壳、浅灰盘、六点小秒针，Miyota 1L40石英，50米防水；礼盒含棕色皮带与蝴蝶扣钢链，Timex与WM Brown渠道现售（非限量）。同日T3报道Harry Potter×Timex新增4款（Time Turner计时/怀表等，£200–£290），Gizmochina报道Looney Tunes Tweety Weekender——联名节奏延续，但价格带首次触及「礼服表」品类。"
+  },
+  {
+   "brand": "Fakeme",
+   "date": "2026-10-26",
+   "source": "Fakeme官方微博（新浪转载）/SocialBeta",
+   "title": "Fakeme × Manner「YOU LOOK GOOD ENOUGH」联名全国门店上线，10/26–11/1上海北外滩主题店打卡",
+   "url": "https://www.sina.cn/weibo/detail/5358208975110543.html",
+   "summary": "10/26起Manner全国门店上线联名，¥25套餐（超大杯咸芝士拿铁）赠「Fakeme联名眼镜包挂件」；10/26–11/1上海北外滩主题店打卡派发限定周边。上期窗口未收录，活动仍在本窗口内进行，故补录。时尚镜框品牌借咖啡高频场景做低价触点获客。SocialBeta同步收录案例：https://socialbeta.com/campaign/28818"
+  }
+ ],
+ "insights": [
+  {
+   "title": "黄金珠宝三季报：「量增利减」与「量利双降」分化，克重收缩正在把利润留给有产品力与现金流的人",
+   "tier1": "珠宝腕表",
+   "body": "本窗口三份三季报把金价高位下的分化写进了报表。菜百前三季度营收+29%，但Q3归母净利-59%，投资金条需求撑起收入，金价波动与黄金租赁损失吃掉利润；周大生营收-17.5%、净利-26%，3809家门店中加盟占九成，自营与电商只能部分对冲；曼卡龙最极端，Q3营收-41%、扣非仅47万元，但经营现金流+204%，本质是收缩备货换安全垫。对照周大福：内地一季净关240店，Dawn系列半年做到约28亿港元，港澳同店+29.6%，说明「设计款/一口价+渠道瘦身」能抵消克重下滑。Global Blue显示中国游客退税消费-18%、赴韩+123%，高端珠宝腕表需求在离岸与高净值客群中更稳。\n\n投资人视角：黄金零售估值应从「门店数×单店」切换为「一口价占比、自营同店、存货与租赁敞口」；菜百式收入高增不宜外推利润。经营者视角：加盟体系要用轻克重、可叠戴的定价产品稳住单店，削减长尾SKU与库存周转天数，把营销预算集中到少数可复述系列。",
+   "refs": [
+    {
+     "title": "周大生三季报",
+     "url": "https://stock.10jqka.com.cn/20261028/c681158390.shtml"
+    },
+    {
+     "title": "曼卡龙三季报",
+     "url": "https://www.guandian.cn/m/show/619667"
+    },
+    {
+     "title": "菜百三季报",
+     "url": "https://www.guandian.cn/article/20261027/618985.html"
+    },
+    {
+     "title": "Inside Retail Asia：周大福季度复盘",
+     "url": "https://insideretail.asia/2026/10/28/fewer-stores-bigger-tickets-how-chow-tai-fooks-september-quarter-played-out/"
+    },
+    {
+     "title": "Global Blue上半年数据",
+     "url": "https://luxe.co/post/486785"
+    }
+   ]
+  },
+  {
+   "title": "眼镜三条线同周换挡：零售利润弹性、丹阳制造升级、全彩AI眼镜与视光医疗治理",
+   "tier1": "眼镜",
+   "body": "眼镜零售侧，博士眼镜前三季度营收+8.3%、归母净利+49%，Q3单季净利+51%，说明验光配镜服务+自有品牌结构在消费疲软中仍有利润弹性（需剔除2916万元公允价值收益）。制造侧，人民日报头版报道丹阳产全球约45%树脂镜片，光刻工艺把高度数片做薄、材料利用率超95%，并配套出台AI赋能视觉光学行动方案；结合10/25防控镜片立案，丹阳正走「治理+升级」两条腿。智能眼镜侧，Rokid发布全彩Rokid Color与交互戒指，雷鸟同日官宣iO+，但IDC显示出货主力仍是无屏音频/拍摄类，全彩仍受成本与良率约束。视光医疗侧，CooperCompanies因业绩不达预期更换CEO，隐形眼镜龙头也在治理调整。\n\n投资人视角：镜片光学与零售看服务密度和高附加值SKU占比，智能眼镜看出货结构而非发布会数量；丹阳供应链是AI眼镜的确定性受益环节。经营者视角：时尚镜框与线上配镜品牌可优先接入丹阳轻薄镜片与AI眼镜代工，门店话术分「光学升级」与「智能尝鲜」两套，避免用科技叙事稀释验配专业度。",
+   "refs": [
+    {
+     "title": "博士眼镜三季报",
+     "url": "https://www.gelonghui.com/news/5336180"
+    },
+    {
+     "title": "人民日报：丹阳眼镜智能化转型",
+     "url": "http://finance.people.com.cn/n1/2026/1029/c1004-40823471.html"
+    },
+    {
+     "title": "21经济网：全彩AI眼镜",
+     "url": "https://www.21jingji.com/article/20261028/herald/2fb7a1f46f53cfc87daf6006518423bf.html"
+    },
+    {
+     "title": "CooperCompanies领导层变更",
+     "url": "https://investor.coopercos.com/news-releases/news-release-details/coopercompanies-announces-leadership-transition-and-board"
+    }
+   ]
+  }
+ ],
+ "trends": [
+  {
+   "title": "软塌Pouch与褶皱「饺子包」：结构包让位于软体量感",
+   "tier1": "箱包",
+   "stage": "上升",
+   "description": "Lyst Q3最热单品为Prada Wish Pouch（环比需求约+500%），COS Trullo Flap、Balenciaga Rodeo等软塌手提包占据单品榜；Celine以软皮小Logo的Soft Triomphe成为头号单品；韩国轻奢Atte Vanessa Bruno同周推出褶皱圆体MANDU BAG。从奢侈到轻奢，「软、褶、圆」正在同步商品化。",
+   "opportunity": "国产轻奢可用软皮/褶皱工艺做千元级Pouch与两用托特，配合小Logo或可识别五金，抢在冬季礼赠季前铺货；供应链侧关注软皮鞣制与手工褶皱产能。",
+   "evidence": [
+    {
+     "title": "Lyst Index Q3-26（Hypebae）",
+     "url": "https://hypebae.com/2026/10/lyst-index-hottest-brands-items-products-q3-prada-balenciaga-cos-free-people-chanel-ballet-flats"
+    },
+    {
+     "title": "Vogue：Celine Soft Triomphe",
+     "url": "https://www.vogue.com/article/at-celine-ceo-severine-merle-is-taking-things-one-triomphe-at-a-time"
+    },
+    {
+     "title": "Businesskorea：MANDU BAG",
+     "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=279862"
+    }
+   ]
+  },
+  {
+   "title": "丝巾、腰带成为奢侈品「获客型配饰」",
+   "tier1": "服配",
+   "stage": "上升",
+   "description": "Celine CEO称丝巾销售三位数增长、Maison Celine腰带供不应求，与鞋履一起承担入门获客；L'Officiel盘点FW26秀场大号围巾回潮，Lyst Q3榜单中Dries Van Noten长款围裹半裙式围巾进入前五。在手袋高价抑制需求时，丝巾/腰带以低客单价承接品牌热度。",
+   "opportunity": "服配与丝绸品牌可推出可系包、可作腰带的多用途丝巾，与箱包品牌做搭售；节礼季以「入门奢侈配饰」定位做礼盒。",
+   "evidence": [
+    {
+     "title": "Vogue：Celine丝巾与腰带",
+     "url": "https://www.vogue.com/article/at-celine-ceo-severine-merle-is-taking-things-one-triomphe-at-a-time"
+    },
+    {
+     "title": "L'Officiel：FW26大号围巾",
+     "url": "https://www.lofficielusa.com/fashion/oversized-scarves-trend-fall-winter-2026s-runway-photos-how-to-style"
+    }
+   ]
+  },
+  {
+   "title": "全彩AI眼镜+交互戒指：智能眼镜从工具走向内容终端",
+   "tier1": "眼镜",
+   "stage": "萌芽",
+   "description": "Rokid推出全彩Micro-LED的Rokid Color与Rokid Ring，雷鸟官宣双目全彩iO+，Google同日推出首款Android XR眼镜XREAL AURA；但出货仍以无屏音频/拍摄类为主，全彩成本与良率仍待验证。",
+   "opportunity": "时尚镜框品牌宜以「镜框设计+处方镜片适配」切入合作，而非自研硬件；零售端可设立智能眼镜试戴+验光一体化服务，收取验配增值费。",
+   "evidence": [
+    {
+     "title": "21经济网：全彩AI眼镜",
+     "url": "https://www.21jingji.com/article/20261028/herald/2fb7a1f46f53cfc87daf6006518423bf.html"
+    },
+    {
+     "title": "IT之家：Rokid Glasses 2",
+     "url": "https://www.ithome.com/1/018/475.htm"
+    },
+    {
+     "title": "Google：XREAL AURA",
+     "url": "https://blog.google/products-and-platforms/platforms/android/xreal-aura/"
+    }
+   ]
+  },
+  {
+   "title": "珍珠耳饰：珍珠复兴的入门品类，男性佩戴成新增量",
+   "tier1": "珠宝腕表",
+   "stage": "上升",
+   "description": "JCK 10/28专题：珍珠耳饰是本轮「珍珠珠宝复兴」中最易入手的品类，从简约耳钉、经典吊坠到巴洛克大件、珍珠耳圈与定制耳夹（ear jacket）供给空前丰富；纽约珠宝顾问认为男性珍珠耳饰是尚未开发的真正机会。价格带从1,805美元（银+大溪地珍珠）到2万美元以上（南洋珠+钻石）。在金价高位、克重消费收缩背景下，珍珠以相对低单价提供「高级感」。",
+   "opportunity": "轻珠宝品牌可推珍珠+K金/银的低克重组合、单只佩戴的中性款与可拆卸耳夹，与黄金一口价产品形成价格带互补，并测试男性客群。",
+   "evidence": [
+    {
+     "title": "JCK：Pearl earrings trend",
+     "url": "https://www.jckonline.com/editorial-article/pearl-earrings-into-pearl-trend/"
+    }
+   ]
+  }
+ ],
+ "brand_insights": [
+  {
+   "brand": "山下有松",
+   "tier1": "箱包",
+   "title": "山下有松：从「被误读为日本品牌」到正面确权，国产轻奢包的品牌资产进入保卫战",
+   "body": "战略：10/28声明把品牌起源（2013年、山西创始人、「崧=山+松」）写成公开叙事，并对造谣账号公证存证、走诉讼——此前上海警方通报的「黑嘴伤企」案被攻击品牌即为山下有松。这是从增长期转入品牌资产防守期的标志。\n\n渠道与产品：定价约1000–4000元，东方美学+软皮包型，连续三年巴黎时装周期间办「远山有声」展；报道称2025年前三季度线上销售+约90%。Jing Daily引Bernstein估算Songmont、裘真、GROTTO、迪桑娜、bampo五品牌2021–2025年天猫销售年增约51%，头部本土品牌约占天猫18%份额，已与头部海外品牌（19%）接近。\n\n竞争：Gucci降价20–30%、开云净关店，海外品牌下探价格带，与国产轻奢在1000–5000元区间正面相遇；同时Euromonitor称尚无中国品牌在个人奢侈品市场份额超0.5%，上探仍远。",
+   "investor_view": "关注三点：线上高增能否转化为线下自营店坪效；舆情攻击说明头部国产包已成为竞争对手与灰产的目标，品牌安全成本将上升；在海外品牌降价背景下，毛利率与折扣率是判断定价权的核心指标。",
+   "operator_view": "品牌起源与工艺叙事要提前「资产化」（商标、命名释义、创始人故事统一口径），舆情监测与法务响应要制度化；产品端顺势做软塌Pouch/托特，保持千元段价格锚，避免被海外品牌降价拖入折扣战。",
+   "sources": [
+    {
+     "title": "北京商报：山下有松声明非日本品牌",
+     "url": "https://news.10jqka.com.cn/20261028/c681208539.shtml"
+    },
+    {
+     "title": "同花顺快讯：山下有松否认是日本品牌",
+     "url": "https://news.10jqka.com.cn/20261028/c681207454.shtml"
+    },
+    {
+     "title": "Jing Daily：Luxury braces for a long Chinese winter",
+     "url": "https://jingdaily.com/posts/luxury-braces-for-a-long-chinese-winter"
+    }
+   ]
+  },
+  {
+   "brand": "天美时集团",
+   "tier1": "珠宝腕表",
+   "title": "天美时：高频联名把「平价表」推向收藏与礼服表价格带",
+   "body": "战略：10月以来Timex几乎每周有联名（Dimepiece、Vontélle、Bugs Bunny等），本窗口再出WM Brown礼服表（349美元礼盒）与Harry Potter四款新品（£200–£290）。Gear Patrol年度清单已列出70余款2026年新品，联名是其核心增长与内容引擎。\n\n产品与定价：WM Brown款用长方形钢壳+石英机芯，套装含表链与皮带，以礼盒形式抬升客单；IP款覆盖怀表、计时等收藏型形态。渠道：官网与合作方DTC并行，媒体首发（Hodinkee、T3）带动搜索。\n\n竞争：在Swatch与卡西欧占据的百美元段之上，Timex以「设计师/IP联名+复刻」构筑300美元档，避开与智能手表的功能竞争。",
+   "investor_view": "联名驱动的增长依赖IP授权成本与售罄率，需关注库存与授权费率；礼服表与收藏款抬升ASP，但规模弹性有限。",
+   "operator_view": "可借鉴其「每周一个故事」的发布节奏和礼盒抬价方式；国产腕表与配饰品牌可用本土设计师/文化IP做小批量联名，并用媒体首发+DTC控制渠道价格。",
+   "sources": [
+    {
+     "title": "Hodinkee：WM Brown x Timex",
+     "url": "https://www.hodinkee.com/articles/wm-brown-x-timex"
+    },
+    {
+     "title": "T3：Harry Potter x Timex",
+     "url": "https://www.t3.com/luxury/watches/timex-harry-potter-retro-chronograph-golden-pocket-watch-1026"
+    },
+    {
+     "title": "Gear Patrol：Timex 2026新品清单",
+     "url": "https://www.gearpatrol.com/watches/best-timex-watch-releases-2026-october-update/"
+    }
+   ]
+  }
+ ],
+ "reading_list": [
+  {
+   "title": "Luxury braces for a long Chinese winter",
+   "source": "Jing Daily",
+   "date": "2026-10-28",
+   "url": "https://jingdaily.com/posts/luxury-braces-for-a-long-chinese-winter",
+   "tier1": "综合"
+  },
+  {
+   "title": "At Celine, CEO Séverine Merle Is Taking Things One Triomphe at a Time",
+   "source": "Vogue",
+   "date": "2026-10-28",
+   "url": "https://www.vogue.com/article/at-celine-ceo-severine-merle-is-taking-things-one-triomphe-at-a-time",
+   "tier1": "箱包"
+  },
+  {
+   "title": "Patience with luxury is wearing thin",
+   "source": "FashionUnited",
+   "date": "2026-10-28",
+   "url": "https://fashionunited.com/news/fashion/patience-with-luxury-is-wearing-thin/2026102875390",
+   "tier1": "综合"
+  },
+  {
+   "title": "The Lyst Index Q3 2026",
+   "source": "Lyst",
+   "date": "2026-10-28",
+   "url": "https://www.lyst.com/the-lyst-index/Q3-26/",
+   "tier1": "综合"
+  },
+  {
+   "title": "Fewer stores, bigger tickets: How Chow Tai Fook's September quarter played out",
+   "source": "Inside Retail Asia",
+   "date": "2026-10-28",
+   "url": "https://insideretail.asia/2026/10/28/fewer-stores-bigger-tickets-how-chow-tai-fooks-september-quarter-played-out/",
+   "tier1": "珠宝腕表"
+  },
+  {
+   "title": "眼镜产业加快智能化转型（先进制造业发展一线见闻）",
+   "source": "人民日报",
+   "date": "2026-10-29",
+   "url": "http://finance.people.com.cn/n1/2026/1029/c1004-40823471.html",
+   "tier1": "眼镜"
+  },
+  {
+   "title": "百镜大战杀出全彩新变量 AI眼镜能否迎来iPhone时刻",
+   "source": "21经济网",
+   "date": "2026-10-28",
+   "url": "https://www.21jingji.com/article/20261028/herald/2fb7a1f46f53cfc87daf6006518423bf.html",
+   "tier1": "眼镜"
+  },
+  {
+   "title": "Global Blue上半年全球退税奢侈品消费数据",
+   "source": "华丽志",
+   "date": "2026-10-28",
+   "url": "https://luxe.co/post/486785",
+   "tier1": "综合"
+  },
+  {
+   "title": "周大生三季报券商点评",
+   "source": "新浪财经",
+   "date": "2026-10-29",
+   "url": "https://finance.sina.com.cn/stock/stockzmt/2026-10-29/doc-iniwvwra6088974.shtml",
+   "tier1": "珠宝腕表"
+  },
+  {
+   "title": "Pearl earrings into pearl trend",
+   "source": "JCK",
+   "date": "2026-10-28",
+   "url": "https://www.jckonline.com/editorial-article/pearl-earrings-into-pearl-trend/",
+   "tier1": "珠宝腕表"
+  },
+  {
+   "title": "Oversized scarves trend fall/winter 2026",
+   "source": "L'Officiel USA",
+   "date": "2026-10-27",
+   "url": "https://www.lofficielusa.com/fashion/oversized-scarves-trend-fall-winter-2026s-runway-photos-how-to-style",
+   "tier1": "服配"
+  }
+ ],
+ "brand_scan": {
+  "window": "2026-10-27..2026-10-29",
+  "method": "逐一覆盖63个品牌（中文名+常见英文名）：Exa web_search_exa（公开端点）首轮全量检索，结果按发布时间≥10/26过滤；重点品牌补WebSearch/WebFetch（三季报披露日、官网/IR）与X search_posts_all（start_time 2026-10-26T16:00Z，含GENTLE MONSTER、CHARLES&KEITH、Oakley、Timex、Casio、Samsonite等）。行业层优先华丽志、Jing Daily、Vogue、FashionUnited、Inside Retail Asia、Vision Monday、CooperCompanies IR、人民日报、21经济网、观点网、同花顺/格隆汇。按URL与事件对10月往期去重。大图（DITA）按用户偏好跳过。",
+  "note": "有可计入的品牌硬新闻3/64（山下有松、天美时集团、Fakeme）。Fakeme×Manner于10/26上线、活动持续至11/1，上期未收录故补录。GENTLE MONSTER×Margiela今日开售属往期已报事件，不重复计入。万事利、飞亚达三季报预约10/30披露。其余品牌未检到可核实发布日期与原文链接的新闻（不代表无线下活动）；软文/SEO页面不作唯一信源。",
+  "per_brand": {
+   "裘真": "窗口内无独立新闻；Jing Daily行业稿中被提及（见山下有松洞察）",
+   "Fakeme": "Fakeme×Manner联名10/26上线、10/26–11/1主题店活动进行中（官方微博，上期漏检补录）",
+   "山下有松": "10/28发布「非日本品牌」声明并启动维权（北京商报）；另入品牌洞察",
+   "LOLA ROSE": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "HEFANG": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "雅瑞光学": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "ARSIS": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "蔡司": "Carl Zeiss Meditec确认Bronwyn Brophy O'Connor 12/1任CEO（属医疗技术板块且5月已宣布），不计入眼镜品牌条",
+   "依视路": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "CHARLES&KEITH": "仅30周年「Created for 30」艺术家合作社媒内容（官方X 10/27）与软文盘点，无可计入硬新闻",
+   "新秀丽": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "ITO": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "GROTTO个乐": "窗口内无独立新闻；Jing Daily行业稿中被提及",
+   "白岚": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "万事利": "三季报预约10/30披露，窗口内未发布",
+   "ECODAY": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "bampo": "仅地方门户品牌文化稿（疑似软文），不作唯一信源；Jing Daily行业稿中被提及",
+   "卡西欧": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "德津": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "LEVEL8地平线8号": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "九格眼镜": "仅SEO/软文页面，排除",
+   "欧克利": "X上主要为Oakley Meta用户与赞助内容，无新品牌公告",
+   "FANCI范琦": "代言相关内容在10/26且为粉丝转载，未计入",
+   "GENTLE MONSTER": "×Maison Margiela第四季10/29开售（官方X 10/27发布Alex Prager短片、10/28公布分时区开售）；与10-27/10-28同一事件，不重复计入",
+   "纽芝兰": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "明月镜片": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "CECE": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "柯达": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "BAGSMART": "仅电商促销导购稿，无品牌硬新闻",
+   "CIGALONG": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "abyb jewelry": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "海伦凯勒眼镜": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "包包树BAGTREE": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "飞亚达": "三季报预约10/30披露，窗口内未发布",
+   "梵誓ONESWEAR": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "KKLUE轻珠宝": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "天美时集团": "10/27 WM Brown×Timex礼服表、Harry Potter四款新品（Hodinkee/T3）",
+   "JELLYTOYBOY": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "卡蒂罗": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "尤目": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "ORANGE CUBE": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "古良吉吉": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "亨得利钟表": "仅售后服务SEO稿，排除",
+   "甲目眼镜": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "TAD FAB": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "FANGYI方宜": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "老雷线上配镜": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "抱树BYROOTS": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "TELETIES": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "DAVENA": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "首末集团": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "大图": "按用户偏好跳过优先追踪",
+   "卡拉羊": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "P&N": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "PARIM": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "上海夕和眼镜": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "超视立": "仅SEO/软文页面，排除",
+   "御行": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "木九十": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "天空树假发": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "不莱玫": "仅明星直播穿搭粉丝稿（10/27），无品牌官方发布，未计入",
+   "帕莎": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "CASSILE卡思乐": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "BLACKHEAD": "未检到可核实发布日期与原文链接的窗口内新动态"
+  }
+ },
+ "sources": [
+  {
+   "name": "华丽志",
+   "url": "https://luxe.co/",
+   "tier1": "综合"
+  },
+  {
+   "name": "Jing Daily",
+   "url": "https://jingdaily.com/",
+   "tier1": "综合"
+  },
+  {
+   "name": "Vogue",
+   "url": "https://www.vogue.com/",
+   "tier1": "箱包"
+  },
+  {
+   "name": "FashionUnited",
+   "url": "https://fashionunited.com/",
+   "tier1": "综合"
+  },
+  {
+   "name": "Hypebae / Lyst",
+   "url": "https://www.lyst.com/the-lyst-index/",
+   "tier1": "综合"
+  },
+  {
+   "name": "Inside Retail Asia",
+   "url": "https://insideretail.asia/",
+   "tier1": "珠宝腕表"
+  },
+  {
+   "name": "观点网",
+   "url": "https://www.guandian.cn/",
+   "tier1": "珠宝腕表"
+  },
+  {
+   "name": "同花顺财经",
+   "url": "https://news.10jqka.com.cn/",
+   "tier1": "综合"
+  },
+  {
+   "name": "格隆汇",
+   "url": "https://www.gelonghui.com/",
+   "tier1": "眼镜"
+  },
+  {
+   "name": "人民网",
+   "url": "http://finance.people.com.cn/",
+   "tier1": "眼镜"
+  },
+  {
+   "name": "21经济网",
+   "url": "https://www.21jingji.com/",
+   "tier1": "眼镜"
+  },
+  {
+   "name": "CooperCompanies IR",
+   "url": "https://investor.coopercos.com/",
+   "tier1": "眼镜"
+  },
+  {
+   "name": "Vision Monday",
+   "url": "https://www.visionmonday.com/",
+   "tier1": "眼镜"
+  },
+  {
+   "name": "Hodinkee",
+   "url": "https://www.hodinkee.com/",
+   "tier1": "珠宝腕表"
+  },
+  {
+   "name": "T3",
+   "url": "https://www.t3.com/",
+   "tier1": "珠宝腕表"
+  },
+  {
+   "name": "Businesskorea",
+   "url": "https://www.businesskorea.co.kr/",
+   "tier1": "箱包"
+  },
+  {
+   "name": "JCK",
+   "url": "https://www.jckonline.com/",
+   "tier1": "珠宝腕表"
+  },
+  {
+   "name": "L'Officiel USA",
+   "url": "https://www.lofficielusa.com/",
+   "tier1": "服配"
+  },
+  {
+   "name": "X (search_posts_all)",
+   "url": "https://x.com/",
+   "tier1": "综合"
+  }
+ ]
+}
