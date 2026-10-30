@@ -1,0 +1,666 @@
+{
+ "date": "2026-10-30",
+ "headline": "Delfin遭300亿欧元收购要约、依视路陆逊梯卡控股权生变；珠宝三季报分化：潮宏基+69%、DR扣非转亏；Birkin二手溢价收窄、RealReal创纪录",
+ "summary": "窗口：2026-10-29 08:00至10-30 08:00（北京时间），共14条；博士伦Q3（10/28晚发布）按48小时延展纳入，箱包展报道发布于10/20、展会于窗口内开幕。主线：①眼镜资本面——Delfin股权争夺升级；②珠宝腕表三季报继续分化，一口价/设计款优于钻石婚戒，飞亚达追溯调整后基本持平、万事利利润承压；③二手奢侈品重定价稀缺。待发布：Capri FQ2（今晚约19:00）、老凤祥/莱绅通灵/瑞贝卡（10/31）、HOYA上半财年（今日）、Tapestry（11/5）、Safilo（11/10）。说明：飞亚达同比按公司追溯调整后口径（调整前口径不可比）；Vogue Business无法访问。 品牌层：64个P0+P1品牌逐一检索，8个品牌有可计入动态。",
+ "industry_news": [
+  {
+   "date": "2026-10-29",
+   "source": "Reuters / Euronext；la Repubblica",
+   "title": "捷克军工富豪Strnad出价300亿欧元收购Delfin（依视路陆逊梯卡关键股东），同日Basilico拒绝LMDV 35亿欧元收购其12.5%股份",
+   "url": "https://live.euronext.com/en/financial-news/czech-billionaire-strnad-offers-eu30-billion-essilux-shareholder-delfin-sources-say",
+   "tier1": "眼镜",
+   "type": "资本",
+   "importance": 5,
+   "segment": "奢侈品",
+   "summary": "路透援引知情人士称，CSG掌门人Michal Strnad经Tilaris于10/20致函，出价约300亿欧元收购Del Vecchio家族控股平台Delfin；Delfin同时持有依视路陆逊梯卡、Generali、MPS、UniCredit股权，持仓市值约430亿欧元。Delfin由8名继承人等额持有，出售需近乎一致同意；Leonardo Maria Del Vecchio（LMDV）表示已获知并称公司“必须留在意大利”。同日la Repubblica披露，LMDV以较NAV折价约30%的35亿欧元求购Rocco Basilico所持12.5%遭无视，股东间分红仍被三名继承人阻断。全球最大镜框/镜片集团的控股权进入不确定期，需关注对治理和Meta智能眼镜合作的潜在影响。"
+  },
+  {
+   "date": "2026-10-29",
+   "source": "观点网；时代周报",
+   "title": "潮宏基前三季度归母净利5.36亿元+69.09%，Q3营收15.68亿元-26.57%；经营现金流16.65亿元+176.66%",
+   "url": "https://www.guandian.cn/article/20261029/620449.html",
+   "tier1": "珠宝腕表",
+   "type": "数据",
+   "importance": 4,
+   "segment": "轻奢",
+   "summary": "潮宏基前三季度营收59.42亿元-4.73%，归母净利5.36亿元+69.09%，扣非5.29亿元+68.55%；Q3单季归母净利1.14亿元+897.65%，主要因上年同期计提商誉减值形成低基数。经营现金流16.65亿元+176.66%，公司称系库存优化；总资产66.10亿元-12.58%。上半年时尚珠宝（一口价）收入23.26亿元+16.84%、毛利率27.33%，明显高于传统克重黄金的18.63%，产品结构向高工费、设计款倾斜是利润弹性来源。"
+  },
+  {
+   "date": "2026-10-29",
+   "source": "同花顺财经；界面新闻",
+   "title": "迪阿股份（DR）前三季度归母净利3787.68万元-63.06%，扣非亏损9236.84万元；镶嵌收入下滑、存货减值上升",
+   "url": "https://yuanchuang.10jqka.com.cn/20261030/c681262518.shtml",
+   "tier1": "珠宝腕表",
+   "type": "数据",
+   "importance": 4,
+   "segment": "轻奢",
+   "summary": "迪阿股份前三季度营收11.10亿元-4.05%，归母净利3787.68万元-63.06%，扣非净利-9236.84万元；毛利率约66.79%，经营现金流829.72万元由负转正，Q3单季经营现金流9685万元。业绩承压主因钻石镶嵌类收入下降及存货跌价计提增加。公司继续推进出海：已入驻美国TikTok Shop、5月开设新加坡旗舰店，上半年海外收入+50.59%，高定线TWINE IN BLUE将于11月发布（出海信息来自公司口径报道）。"
+  },
+  {
+   "date": "2026-10-29",
+   "source": "The RealReal IR；WWD",
+   "title": "The RealReal Q3 GMV 6.42亿美元+23%、营收2.061亿美元+19%创纪录，订单增速为2022年来最快，上调全年指引",
+   "url": "https://investor.therealreal.com/news/news-details/2026/THE-REALREAL-ANNOUNCES-THIRD-QUARTER-2026-RESULTS/default.aspx",
+   "tier1": "综合",
+   "type": "数据",
+   "importance": 4,
+   "segment": "奢侈品",
+   "summary": "美国奢侈品寄售平台The RealReal Q3 GMV 6.42亿美元+23%，营收2.061亿美元+19%，毛利率74.9%，调整后EBITDA利润率8.3%（+290bp），净利润1600万美元（含2120万美元认股权证收益）。订单量+15%为2022年来最强，活跃买家115.2万+13%，客单价629美元+8%。全年GMV指引上调至25.85–26.00亿美元、营收8.06–8.10亿美元，Q4 GMV指引7.20–7.35亿美元。二手奢侈品在新品涨价与需求疲软期逆势放量。"
+  },
+  {
+   "date": "2026-10-29",
+   "source": "Jing Daily",
+   "title": "Jing Daily：中国专柜Birkin 25两年涨约22%至11.5万元，得物新包溢价由1.7倍收窄至约1.5倍、销量-8%",
+   "url": "https://jingdaily.com/posts/has-china-broken-the-birkin",
+   "tier1": "箱包",
+   "type": "深度",
+   "importance": 3,
+   "segment": "奢侈品",
+   "summary": "Jing Daily引用LuxuryIQ（DLG/Re-Hub）数据：内地专柜Birkin 25 Togo自2024年以来涨约22%至11.5万元，而得物同款新包价格仅涨约7%至约17万元，溢价从约1.7倍收窄至约1.5倍；两年间得物成交量下降8%。文章认为中国二级市场正成为全球Birkin“稀缺溢价”松动的放大器，配货门槛（据转售商称需先消费1–2万美元）与二手流通量上升形成矛盾。皮具约占爱马仕前九月收入46%，固定汇率+10%，品牌端仍稳。"
+  },
+  {
+   "date": "2026-10-29",
+   "source": "巨潮资讯网（公司公告）；每日经济新闻",
+   "title": "飞亚达三季报：前三季度营收30.14亿元+0.50%、归母净利1.50亿元-0.97%；Q3单季净利-45.61%",
+   "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225641615.PDF",
+   "tier1": "珠宝腕表",
+   "type": "数据",
+   "importance": 3,
+   "segment": "大众",
+   "summary": "10/29晚披露。因7月收购同一控制下的陕西长空齿轮，上年同期已追溯调整：调整后口径前三季度营收+0.50%、归母净利-0.97%、扣非+2.53%，经营现金流+37.99%；Q3单季营收9.50亿元-5.23%、归母净利2724万元-45.61%。部分媒体按调整前口径报「营收+12.7%、净利+19.6%」，不可比。预付款+182%主要为名表业务预付采购款，同日另公告注销线上零售子公司亨吉利电商。"
+  },
+  {
+   "date": "2026-10-29",
+   "source": "证券日报（东方财富）",
+   "title": "万事利前三季度营收5.73亿元+10.44%，但归母净利1038万元-48.30%、扣非-87.27%；Q3单季亏损928万元",
+   "url": "https://finance.eastmoney.com/a/202610293914762386.html",
+   "tier1": "服配",
+   "type": "数据",
+   "importance": 3,
+   "segment": "大众",
+   "summary": "丝绸丝巾品牌万事利Q3营收1.65亿元+4.33%，单季归母净亏损928.13万元。前三季度营收5.73亿元+10.44%，归母净利1038.43万元-48.30%，扣非净利246.72万元-87.27%。收入增长但利润大幅下滑，显示文化礼赠/丝巾业务在渠道与费用投入上的利润率承压，Q4礼品旺季是全年关键。"
+  },
+  {
+   "date": "2026-10-29",
+   "source": "时代周报（同花顺）；新华社（21经济网）",
+   "title": "金价较1月高点回落约28%至4039美元，世界黄金协会调研744家零售商：超40%将提高5克以下产品占比、45%计划降黄金库存",
+   "url": "https://invest.10jqka.com.cn/20261029/c681255572.shtml",
+   "tier1": "珠宝腕表",
+   "type": "市场",
+   "importance": 3,
+   "segment": "大众",
+   "summary": "美联储维持利率3.75–4.00%，10/29现货金约4039美元/盎司，较1月高点5598.75美元回落约28%，周大福足金报价1217元/克（一个月前约1300元）。世界黄金协会对744家零售商调研：超40%将提高5克以下轻克重产品占比，62%将增加高工费产品，45%计划削减黄金库存。周大福内地定价首饰同店+11.1%、计价黄金仅+1.7%；六福内地净关75店至2655家，中国黄金上半年净减加盟店323家。新华社同日报道“大金镯”需求降温、轻量化与设计款走强。"
+  },
+  {
+   "date": "2026-10-29",
+   "source": "WWD",
+   "title": "Mykita在比佛利山开设2370平方英尺门店，引入远程验光、视网膜成像与店内镜片车间，计划2027年发力中国",
+   "url": "https://wwd.com/business-news/retail/mykita-beverly-hills-store-opening-1239391363/",
+   "tier1": "眼镜",
+   "type": "渠道",
+   "importance": 3,
+   "segment": "奢侈品",
+   "summary": "德国高端镜框品牌Mykita新店位于9612 Brighton Way，取代洛杉矶市中心店，面积约2370平方英尺。门店由持证远程验光师提供眼科检查、视网膜成像和眼压检测，并设有店内镜片加工车间，实现“镜框+验光+镜片”闭环。美国是Mykita最大市场，全球13家门店，计划将该模式推向国际并于2027年开拓中国市场。"
+  },
+  {
+   "date": "2026-10-29",
+   "source": "Women In Optometry",
+   "title": "The Vision Council Q3调研（1.2万名美国成人）：线上购镜者53%一次买多副，线下仅36%；智能眼镜购买占比13%环比-3pp",
+   "url": "https://www.womeninoptometry.com/opticians/article/are-eyewear-shoppers-spending-differently-new-research-reveals-q3-trends/",
+   "tier1": "眼镜",
+   "type": "数据",
+   "importance": 3,
+   "segment": "大众",
+   "summary": "The Vision Council 2026年Q3 Consumer inSights调研12099名美国成人：花费100–199美元区间的购镜者占比上升；线上购买者中53%一次购买多副，线下为36%，但线下自付金额更高。13%受访者购买过智能眼镜，较Q2下降3个百分点；72%拥有视力保险，59%隐形眼镜年支出低于100美元。线上配镜以“多副低单价”抢量，线下以验光与保险支付守住客单价。"
+  },
+  {
+   "date": "2026-10-29",
+   "source": "消费日报网",
+   "title": "XREAL发布Android XR分体式眼镜AURA，限时价1099美元起，12月前发货、2027年进Google Store",
+   "url": "https://www.xfrb.com.cn/content/202610/29/c1640819.html",
+   "tier1": "眼镜",
+   "type": "新品",
+   "importance": 3,
+   "segment": "大众",
+   "summary": "北京时间10/29凌晨，XREAL在Google Android开发者峰会发布与Google、高通合作的分体式XR眼镜AURA：眼镜约95克，自研X Prism光学、70°视场角、1200p/120Hz，计算单元搭载骁龙Reality Elite。美、加、日、韩开放订购，12GB+256GB版1279美元（限时1099美元），16GB+512GB版1499美元（限时1299美元），2027年起进入美日Google Store门店。国产AR眼镜品牌借平台生态打入海外高价段，对传统光学渠道的“智能镜框+验配”提出新课题（稿件偏企业口径，参数以官方为准）。"
+  },
+  {
+   "date": "2026-10-28",
+   "source": "Bausch + Lomb（SEC 8-K）",
+   "title": "博士伦Q3营收13.75亿美元+7%，视力保健板块7.74亿美元+5%，日抛硅水凝胶+24%，上调全年指引至54.5–55.5亿美元",
+   "url": "https://www.sec.gov/Archives/edgar/data/1860742/000186074226000108/ex991q3-2026.htm",
+   "tier1": "眼镜",
+   "type": "数据",
+   "importance": 3,
+   "segment": "大众",
+   "summary": "博士伦10/28（北京时间10/28晚，属48小时延展窗口）公布Q3营收13.75亿美元+7%（固定汇率+8%），GAAP净利3200万美元扭亏，调整后EBITDA 3.25亿美元（上年2.43亿）。视力保健板块7.74亿美元+5%，由日抛硅水凝胶（+24%）、ULTRA隐形眼镜及LUMIFY带动。全年营收指引上调至54.5–55.5亿美元，调整后EBITDA指引上调至10.9–11.4亿美元。隐形眼镜高端化（日抛SiHy）仍是镜片光学赛道的确定性增量。"
+  },
+  {
+   "date": "2026-10-30",
+   "source": "Jing Daily",
+   "title": "Jing Daily：武汉成华中奢侈品门户——Celine入驻武汉SKP、阿玛尼三层旗舰开业，武汉年引首店目标300家+",
+   "url": "https://jingdaily.com/posts/wuhan-becomes-luxury-gateway-to-central-china",
+   "tier1": "综合",
+   "type": "渠道",
+   "importance": 2,
+   "segment": "奢侈品",
+   "summary": "Jing Daily梳理武汉奢侈品集聚：Celine 10/21入驻武汉SKP，阿玛尼10/22开设三层旗舰，Prada 10/23举办门店周年活动；香奈儿首家武汉精品店（亦为内地首个独栋）已于10/18在K Avenue围挡。武汉SKP于2024年7月开业，武汉提出每年引进300家以上首店，一季度新增82家。在一线城市奢侈品零售调整期，品牌正向新一线城市做选择性加密。"
+  },
+  {
+   "date": "2026-10-30",
+   "source": "Leather World News；广州华威展览",
+   "title": "2026亚洲箱包皮具交易会（秋季）10/30–11/2在广州琶洲开幕：面积3万平米（扩2.5倍）、展商约500家，预计专业观众3万人次",
+   "url": "https://leatherworldnews.com/article/news/fourday-asia-bags-and-cases-fair-scheduled-from-october-30-grows-25-times-in-size-8647-2656-3791",
+   "tier1": "箱包",
+   "type": "市场",
+   "importance": 2,
+   "segment": "大众",
+   "summary": "展会与第140届广交会同期，在广州琶洲LINGAN创新会展中心举办，展览面积由1.2万平米扩至3万平米，展商由280余家增至约500家，预计专业观众3万人次；春季展吸引专业观众1.2万人次、国际采购商5600人。规模扩张反映箱包OEM/ODM在关税扰动下加速争取多元化海外买家（报道发布于10/20，展会于本窗口内开幕）。"
+  }
+ ],
+ "brand_news": [
+  {
+   "brand": "万事利",
+   "date": "2026-10-29",
+   "source": "巨潮资讯网（公司公告）",
+   "title": "万事利三季报：Q3单季营收1.65亿元+4.33%，归母净亏损928万元；前三季度扣非净利247万元-87.27%",
+   "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225642801.PDF",
+   "summary": "10/29晚披露（巨潮文件日期10/30）。前三季度营收5.73亿元+10.44%，归母净利1038万元-48.30%，扣非247万元-87.27%，经营现金流-3228万元；Q3单季营收1.65亿元+4.33%、归母-928万元、扣非-964万元。公司解释：支付其他与经营活动有关的现金+41.78%「主要系品牌宣传及平台费用增加较多」，预付平台推广费+44%；智能工厂转固后利息费用化。同日公告：AI工厂募投拟用募资由5.85亿元调减至3.80亿元（B幢车间暂不装修、保留472.8万米旧产能设备，总产能仍为1000万米，12月达可使用状态），剩余2.08亿元待结项后补流或新项目；拟注销39.19万股回购股份；11/16召开临时股东会审议。每经、证券日报同步报道：https://www.nbd.com.cn/articles/2026-10-29/4628370.html"
+  },
+  {
+   "brand": "飞亚达",
+   "date": "2026-10-29",
+   "source": "巨潮资讯网（公司公告）",
+   "title": "飞亚达三季报：Q3单季营收9.50亿元-5.23%、归母净利2724万元-45.61%；前三季度营收30.14亿元+0.50%、净利1.50亿元-0.97%",
+   "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225641615.PDF",
+   "summary": "10/29晚披露。因7月完成收购同一控制下的陕西长空齿轮（3.25亿元，航空工业集团体系内），上年同期数据已追溯调整：调整后口径前三季度营收+0.50%、归母净利-0.97%、扣非+2.53%、经营现金流4.29亿元+37.99%；Q3单季营收-5.23%、归母-45.61%、扣非-43.13%。注意：部分媒体（如乐居财经）按调整前口径报「营收+12.69%、净利+19.64%」，不可比。研发费用+39%；预付款+182%「主要由于名表业务预付采购款增加」。10/29盘中股价一度跌超5%；同日在互动平台称液冷业务仍处投入培育期。每经快讯：https://www.nbd.com.cn/articles/2026-10-29/4628270.html"
+  },
+  {
+   "brand": "飞亚达",
+   "date": "2026-10-28",
+   "source": "巨潮资讯网（公司公告）",
+   "title": "飞亚达管理层调整：宋瑶明辞任总会计师兼董秘，黄凯转任总会计师、方嘉锐任董秘；拟注销零售电商子公司亨吉利电商",
+   "url": "https://static.cninfo.com.cn/finalpage/2026-10-28/1225630979.PDF",
+   "summary": "10/24董事会决议、10/28公告：董事黄凯辞去董事后受聘总会计师，方嘉锐（2021年起负责董办及资本投资）任董事会秘书；董事会提名中航科创财务管理部副部长靳哲为非独立董事候选人；董事长周进群仍代行总经理职责。同日公告注销全资子公司深圳市亨吉利电子商务有限公司（1997年成立，2026年6月末资产总额1019万元），名表零售线上主体收缩。注销公告：https://static.cninfo.com.cn/finalpage/2026-10-28/1225630981.PDF"
+  },
+  {
+   "brand": "新秀丽",
+   "date": "2026-10-29",
+   "source": "Vogue",
+   "title": "新秀丽收购Béis后首次专访：Shay Mitchell称将借集团全球基础设施出海，英国与亚洲先做快闪",
+   "url": "https://www.vogue.com/article/post-acquisition-shay-mitchells-beis-is-ready-for-takeoff",
+   "summary": "新秀丽10/1以1.785亿美元收购Béis 85%股权（估值约2.1亿美元）。专访披露：Béis 2025年净销售约2.1亿美元、主要来自美国DTC；50%收入来自非拉杆箱的生活方式品类（Weekender、Duffel等），价格108–394美元；团队约50人。收购后计划先借新秀丽全球供应链与市场经验扩张，以快闪店进入英国与亚洲，长期考虑自营门店。新秀丽将于11/12公布三季度业绩。"
+  },
+  {
+   "brand": "卡西欧",
+   "date": "2026-10-29",
+   "source": "PR Newswire（Casio America）",
+   "title": "卡西欧发布钛壳自动机械表CMK-100：五款320–440美元，11月美国上市",
+   "url": "https://www.prnewswire.com/news-releases/casio-unleashes-the-cmk100-series--a-titanium-automatic-built-to-go-the-distance-302922796.html",
+   "summary": "继Edifice EFK后卡西欧第二个自动机械系列，定位野战表：轻质钛壳、日本产自动机芯、蓝宝石镜面、100米防水，钛链/意大利皮带/尼龙带共5款，美国售价320–440美元，11月起经gshock.casio.com、SoHo店及指定零售商发售；同日卡西欧亚太中文通稿同步发布（https://www.prnewswire.com/apac/zh/news-releases/-302921890.html）。另：10/28 Casio India在印多尔开出首家G-SHOCK专卖店（PTI/The Tribune）。"
+  },
+  {
+   "brand": "天美时集团",
+   "date": "2026-10-29",
+   "source": "Gizmochina",
+   "title": "Timex推出Addison镶50颗水晶方表三款（159–179美元），官方同日上新Cavatina Mini项链/手链两用表",
+   "url": "https://www.gizmochina.com/2026/10/29/timex-addison-tw2y90-watches-launched-in-the-us-specs-price/",
+   "summary": "Addison TW2Y90系列：23mm方形黄铜壳、表圈镶50颗水晶、罗马数字盘、石英，银色159美元、金色/双色179美元，美国官网现售。Timex官方X同日（10/29）发布Cavatina Mini 17mm小表盘+20.5英寸水晶链，可作项链或多圈手链（https://x.com/timex/status/2115866475055440101）。与此前高频男表联名不同，本轮发力「首饰化」女表，价格带留在200美元以下。"
+  },
+  {
+   "brand": "欧克利",
+   "date": "2026-10-29",
+   "source": "Arsenal官网",
+   "title": "阿森纳与Oakley Meta宣布新合作，首支影片《We Go Again》由赖斯佩戴Oakley Meta Vanguard出镜",
+   "url": "https://www.arsenal.com/news/arsenal-and-oakley-meta-present-we-go-again-ajAIV5W5opQe",
+   "summary": "双方新合作伙伴关系的首个项目：Declan Rice清晨沿北伦敦夺冠游行路线跑步，佩戴Oakley Meta Vanguard智能眼镜；球员此前已在夺冠游行中使用Oakley Meta。阿森纳CRO Omar Shaikh与Meta可穿戴副总裁Eshan Ponnadurai发声，赛季内将陆续推出幕后内容与球迷体验。懂球帝/网易10/30凌晨中文转载。"
+  },
+  {
+   "brand": "欧克利",
+   "date": "2026-10-28",
+   "source": "Theboom中文网（品牌新闻稿）",
+   "title": "OAKLEY×上海马拉松30周年纪念系列发售：CYBR ZERO、DOUBLE DOWN红蓝配色，同步推出CYBR LIGHTNING",
+   "url": "http://www.theboom.com.cn/article/111246.html",
+   "summary": "品牌10/28发布：以上马标志性红蓝配色打造CYBR ZERO（一体式镜片）与DOUBLE DOWN（可替换镜腿光学架）纪念款，已通过指定渠道发售；TEAM OAKLEY成员葛曼棋、陈妤颉、曾克理、姚妙演绎「看头还在前头」。Oakley为上马30周年特许联名眼镜（单一品类）独家合作品牌，12/3–5上海体博会亮相，12/6比赛日到赛道现场。"
+  },
+  {
+   "brand": "蔡司",
+   "date": "2026-10-29",
+   "source": "SocialBeta",
+   "title": "卡尔蔡司光学官宣田嘉瑞为眼健康大使，以镜片护理产品+明星周边带动零售",
+   "url": "https://api.socialbeta.com/campaign/28864",
+   "summary": "官宣围绕镜片镜头清洁湿巾等护理产品展开：即日起购买蔡司镜片护理产品有机会获田嘉瑞主题拍立得、撕拉片及透卡等周边。新浪娱乐同日有官宣视频（https://k.sina.cn/article_1886903325_m7077dc1d03301logy.html）。属高频消费品类的明星营销，与其镜片主业形成引流。"
+  },
+  {
+   "brand": "蔡司",
+   "date": "2026-10-29",
+   "source": "新浪财经",
+   "title": "蔡司光学中国总裁杨晓光：以「打造平台」为2030战略，内部已有上百个AI应用，推出儿童近视眼轴预测工具",
+   "url": "https://finance.sina.com.cn/hy/hyjz/2026-10-29/doc-iniwwtux5265042.shtml",
+   "summary": "10/29哈佛商业评论（中文）年会发言：AI用于帮助验光/视光师提升诊断、帮助消费者理解屈光度与散光；基于临床数据的AI软件可预测儿童眼轴增长、辅助选择干预方案；制造端以AI提升效率，实现大规模个性化定制镜片。"
+  },
+  {
+   "brand": "依视路",
+   "date": "2026-10-29",
+   "source": "证券日报网",
+   "title": "依视路陆逊梯卡连续第九年参展进博会：将宣布丹阳基地新一轮投资，万里路启视灵悦渐进镜片亚洲首发",
+   "url": "http://www.zqrb.cn/gscy/qiyexinxi/2026-10-29/A1793261254386.html",
+   "summary": "11/5开幕的第九届进博会上：继去年向江苏丹阳基地投资近1.5亿元后宣布新一轮投资升级设施；星趣控2.0（H.A.L.T. MAX技术）发布近视预防与控制6个月临床新进展；万里路®启视灵悦™渐进镜片亚洲首发，全视线®首发ColorTouch™焕彩感光系列；支持北大发布《国民视觉健康报告2.0》中期成果。美通社同日发布通稿：https://www.prnasia.com/story/553775-1.shtml"
+  }
+ ],
+ "insights": [
+  {
+   "title": "二手市场正在给“稀缺”重新定价：Birkin溢价收窄与RealReal创纪录是同一枚硬币",
+   "tier1": "箱包",
+   "body": "本周两组数据指向同一结构变化。Jing Daily引用LuxuryIQ数据：内地专柜Birkin 25两年涨约22%，得物新包价格仅涨约7%，溢价从1.7倍收窄到约1.5倍、成交量-8%；路透此前引用的拍卖数据显示全球Birkin 25二手溢价从2022年峰值2.6倍降至约1.7倍，UBS估算Birkin/Kelly挂牌量为疫情前6–7倍。与此同时，The RealReal Q3 GMV+23%、订单增速创2022年来新高并上调全年指引。\n\n成因有三：一是品牌连续提价压缩了“专柜价—二手价”的套利空间；二是疫情期间的配货与囤包逐步释放为供给；三是中产客群转向“买二手、看残值”，二手平台成为新的价格发现中心。竞争格局上，头部品牌的稀缺叙事从“一包难求”变成“残值管理”，而平台方通过鉴定、寄售与数据积累获得议价权。\n\n投资视角：稀缺品牌的估值溢价需按“二级市场溢价”跟踪而非只看提价，UBS已据此下调爱马仕；二手平台在新品疲软期具备逆周期属性，但盈利依赖鉴定与运营效率。经营视角：对轻奢与国货箱包客户而言，残值本身可成为卖点——可考虑官方回收/以旧换新、标准化品质证明与限量节奏，避免以频繁提价透支二手价格体系。证据局限：中国数据来自单一数据商与单一平台，样本代表性有限。",
+   "refs": [
+    {
+     "title": "Has China broken the Birkin?（Jing Daily）",
+     "url": "https://jingdaily.com/posts/has-china-broken-the-birkin"
+    },
+    {
+     "title": "The RealReal Announces Third Quarter 2026 Results",
+     "url": "https://investor.therealreal.com/news/news-details/2026/THE-REALREAL-ANNOUNCES-THIRD-QUARTER-2026-RESULTS/default.aspx"
+    },
+    {
+     "title": "End of an era? How the Hermes Birkin bag is losing its scarcity appeal（Reuters）",
+     "url": "https://live.euronext.com/en/financial-news/end-era-how-hermes-birkin-bag-losing-its-scarcity-appeal"
+    }
+   ]
+  },
+  {
+   "title": "珠宝利润分水岭从“金价”转向“定价方式”：一口价设计款走强，钻石婚戒失速",
+   "tier1": "珠宝腕表",
+   "body": "同一季度，潮宏基归母净利+69%、DR扣非亏损9237万元，差异并非来自金价，而是定价方式与品类。潮宏基上半年一口价时尚珠宝收入+16.8%、毛利率27.3%，高于克重黄金的18.6%；周大福内地定价首饰同店+11.1%，计价黄金仅+1.7%；世界黄金协会调研中62%零售商计划增加高工费产品、超40%提升5克以下占比。反观钻石：De Beers Q3原石均价同比-45%，培育钻石持续压价，DR镶嵌收入下滑叠加存货减值。\n\n结构上，金价从高点回落约28%后，“按克卖金”的价格锚和存货收益同时弱化，零售商转向以设计、IP与工艺获取溢价；钻石则面临婚恋场景收缩与培育钻对“价值锚”的冲击，品牌心智（如“一生唯一”）难以抵消单价下行。\n\n投资视角：应把一口价/设计款收入占比与毛利率差作为核心跟踪指标，警惕Q3利润中低基数（如商誉减值）带来的高增长失真；钻石标的看出海与品类转型能否对冲国内。经营视角：品牌与零售客户可加速轻克重、IP联名与非婚场景（悦己、礼赠），钻石业务压库存、试点“钻+金”组合；营销预算宜向能讲设计故事的内容渠道倾斜。证据局限：多数结构数据为半年报口径，Q3单季分品类数据尚未披露。",
+   "refs": [
+    {
+     "title": "潮宏基三季报（观点网）",
+     "url": "https://www.guandian.cn/article/20261029/620449.html"
+    },
+    {
+     "title": "迪阿股份前三季度业绩（同花顺）",
+     "url": "https://yuanchuang.10jqka.com.cn/20261030/c681262518.shtml"
+    },
+    {
+     "title": "金价下探4000美元：轻克重与渠道洗牌（时代周报）",
+     "url": "https://invest.10jqka.com.cn/20261029/c681255572.shtml"
+    },
+    {
+     "title": "De Beers 三季度钻石原石总销量同比上涨71%，平均售价跌45％（华丽志）",
+     "url": "https://luxe.co/post/486632"
+    }
+   ]
+  }
+ ],
+ "trends": [
+  {
+   "title": "毛绒/羊羔毛包：秋冬「触感」从服装外溢到包袋",
+   "tier1": "箱包",
+   "stage": "上升",
+   "description": "FW26秀场上Chanel、Fendi、Loewe、Dior、Miu Miu、Chloé都推出了毛绒包（Elle 8/7）；10月进入零售期后，Phia 10/15、10/24两次专题整理了Saint Laurent羊羔毛Icare托特、Loro Piana仿羊羔毛Sesia等单品，以及ALC、Kurt Geiger等百至数百美元的轻奢款。Bottega Veneta在10/27首发的节日胶囊系列，以羊羔毛和红色仿毛Madison肩包作为核心材质。需求端有一个可参照的数据：小红书电商学习中心的《女装秋冬趋势及爆品指南》显示，今年8月皮草成交同比+128%，比往年提前约两个月放量，10月进一步陡升。不过这组数据统计的是女装，包袋自身的成交数据还有待验证。（与10/22的马毛、豹纹肌理是不同方向，属于新证据。）",
+   "opportunity": "经营：轻奢箱包品牌可以把爆款包型直接换成短密仿羊羔毛或羊剪绒面料，做节日限定，不需要另开模；最好与同色羊毛大衣一起成套陈列。注意掉毛和起结问题，要优先选短而密的毛。备货要浅，可在双11到春节礼赠季快速翻单。投资：关注狮岭等产业带里仿毛、羊剪绒复合面料和包袋代工的产能弹性，这类季节性材质溢价高，但库存风险也大。",
+   "evidence": [
+    {
+     "title": "Vogue：Bottega Veneta节日胶囊系列（2026-10-27）",
+     "url": "https://www.vogue.com/article/bottega-veneta-holiday-capsule-collection"
+    },
+    {
+     "title": "Phia：Fall 2026 Accessory Trends – Fuzzy Bags（2026-10-15）",
+     "url": "https://phia.com/editorials/fall-2026-accessory-trends-from-fuzzy-bags-to-big-buckles-collection-202609-4c9eb3f1664d34bc"
+    },
+    {
+     "title": "Phia：Shearling and Faux-Fur Bags（2026-10-24）",
+     "url": "https://phia.com/editorials/shearling-and-faux-fur-bags-collection-202609-4d1ff5c850f88834"
+    },
+    {
+     "title": "Elle：Fall 2026秀场五大包袋趋势（2026-08-07）",
+     "url": "https://www.elle.com/fashion/shopping/a73336227/fall-2026-bag-trends/"
+    },
+    {
+     "title": "小红书电商学习中心：女装秋冬趋势及爆品指南（东方财富研报库，2026-10）",
+     "url": "https://pdf.dfcfw.com/pdf/H3_AP202610211830739143_1.pdf"
+    }
+   ]
+  },
+  {
+   "title": "胸针复兴：Pinterest预测兑现，男装与新中式成双引擎",
+   "tier1": "珠宝腕表",
+   "stage": "上升",
+   "description": "据Fortune 10/15报道，Pinterest Predicts 2026中的「Brooched」趋势是兑现度最高的一项。Pinterest搜索词「brooch outfit ideas」自6月起持续走高，10月初达到92/100的峰值；「brooches handmade fabric」10月达到87/100。FW26秀场上，Giorgio Armani、Ralph Lauren、Tory Burch都在用胸针。台湾媒体动脑10/13的文章提到，拍卖市场上Art Deco双夹胸针和彩宝动物胸针很热门，Dries Van Noten、Chanel则把胸针别在领口、丝巾结甚至2.55包上。国内方面，POP趋势网在26/27秋冬预测中把「国潮新古典」列为胸针三大方向之一；上观新闻报道，128元的宋锦「仕女马球胸针」在马年春节卖出超5000枚，还有男性客户一次批量采购。",
+   "opportunity": "经营：珠宝和服配品牌可以把胸针做成多位置佩戴的配件（领口、帽子、丝巾、包身），推出男士西装领针系列，以及可夹在包上的胸针兼包挂；金价高位下，用银、珐琅、织锦等低克重材质守住300元以下的价格带。投资：胸针单价低、复购和叠戴属性强，适合作为珠宝品牌拉新的入口品类；古董、中古胸针也可能形成二手交易机会。",
+   "evidence": [
+    {
+     "title": "Fortune：Pinterest 2026预测兑现情况（胸针，2026-10-15）",
+     "url": "https://fortune.com/2026/10/15/pinterest-predicts-2026-trends-accuracy-brooches-funhaus/"
+    },
+    {
+     "title": "动脑：不是回魂，胸针从没走远（2026-10-13）",
+     "url": "https://www.marketersgo.com/%E5%AA%92%E9%AB%94%E6%96%B0%E8%81%9E/202610/%E4%B8%8D%E6%98%AF%E5%9B%9E%E9%AD%82%EF%BC%8C%E8%83%B8%E9%87%9D%E5%BE%9E%E6%B2%92%E8%B5%B0%E9%81%A0/"
+    },
+    {
+     "title": "POP趋势：26/27秋冬胸针流行趋势预测（2026-01-05）",
+     "url": "https://www.pop-fashion.com/jewelry/reports/t_report-id_2006515713505760392-col_5"
+    },
+    {
+     "title": "上观新闻：宋锦仕女马球胸针售超5000枚（2026-02-17）",
+     "url": "https://cbgc.scol.com.cn/news/7297155"
+    }
+   ]
+  },
+  {
+   "title": "发饰珠宝化：锯齿发箍、金属发夹、法式发簪取代基础抓夹",
+   "tier1": "服配",
+   "stage": "上升",
+   "description": "British Vogue 10/5报道，巴黎时装周Miu Miu秀场内外，Gigi Hadid等人戴的90年代玳瑁锯齿发箍成为爆款单品，它也是Miu Miu FW26的造型重点。Elle 10/9称发夹（barrette）正在回归，Jennifer Behr把这股势头归因于胸针潮带动的「发间珠宝」，建议选金属色、雕塑感的款式，避开塑料和儿童风。Cosmopolitan 9/24采访的发型师认为，基础大号中性色抓夹已经不新鲜，玳瑁、金属、雕塑感、复古风的抓夹和法式发簪在接棒；蝴蝶结则转向丝绒、长缎带等更成熟的用法。",
+   "opportunity": "经营：配饰品牌可以用醋酸纤维、金属和珐琅做「发饰+胸针」同系列，以及可与耳饰配套的发夹；锯齿发箍成本低、视觉辨识度高，适合在抖音、小红书做试戴内容测款。义乌产业带的醋酸抓夹供应链可以快速升级为金属件加玳瑁纹的款式。投资：发饰正从小商品向轻珠宝定价迁移，需要关注有设计IP、毛利能达到轻珠宝水平的品牌，而不是走量的白牌。",
+   "evidence": [
+    {
+     "title": "British Vogue：锯齿发箍成巴黎时装周爆款（2026-10-05）",
+     "url": "https://www.vogue.co.uk/article/zig-zag-headband-trend"
+    },
+    {
+     "title": "Elle：Barrettes Are Back（2026-10-09）",
+     "url": "https://www.elle.com/beauty/a73987363/barrettes-hair-trend-2026/"
+    },
+    {
+     "title": "Cosmopolitan：Fall 2026发饰趋势（2026-09-24）",
+     "url": "https://www.cosmopolitan.com/style-beauty/beauty/a73842370/fall-hair-accessories/"
+    }
+   ]
+  },
+  {
+   "title": "近视运动眼镜：可配度数+模块化功能片，从标品走向验配方案",
+   "tier1": "眼镜",
+   "stage": "萌芽",
+   "description": "据消费日报（新华网转载，9/24）报道，在第37届中国国际眼镜业展览会上，大量展商围绕近视运动人群推新品，包括加装近视内框的滑雪镜、可直接配度数的弯弧运动镜架，以及「近视镜+推入式功能片」的组合款。组合款渠道报价约450元，终端零售价超过千元，主要通过眼镜店和视光渠道销售。丹阳日报10/9报道，国庆期间丹阳眼镜城接待约18万人次，运动变色镜、轻量化纯钛小众框的咨询量大幅增加，年轻人一次购买两三副轮换佩戴。",
+   "opportunity": "经营：时尚镜框品牌可以推出「日常框+可拆功能片」系列，对接跑步、骑行、匹克球等场景，并把验光、调校服务做成门店的增值收费项目；弯弧镜片的变形控制和夹片耐久是关键门槛。投资：附加值主要在镜片、验配服务和专业渠道，而不在镜架本身，可关注具备弯弧处方镜片能力的镜片厂和连锁视光渠道。",
+   "evidence": [
+    {
+     "title": "新华网/消费日报：运动眼镜细分需求催生新市场（2026-09-24）",
+     "url": "https://www.news.cn/fashion/20260924/daa1ac899a5b464784e53f37ec99e5eb/c.html"
+    },
+    {
+     "title": "丹阳新闻网：丹阳眼镜城国庆假期接待游客近18万人次（2026-10-09）",
+     "url": "https://www.dy001.cn/2026/1009/236007.shtml"
+    }
+   ]
+  }
+ ],
+ "brand_insights": [
+  {
+   "brand": "新秀丽",
+   "tier1": "箱包",
+   "title": "新秀丽：用Béis补「年轻女性+生活方式」缺口，组合打法从拉杆箱转向全出行场景",
+   "body": "战略：新秀丽10/1以1.785亿美元收购Béis 85%股权（估值约2.1亿美元），Vogue 10/29专访首次披露整合逻辑——集团明确看中Béis在「年轻女性消费者」上的空白填补；收购后Béis维持原团队与创始人创意主导，集团提供全球基础设施、工厂与供应商资源。加上10月Tumi巴黎香榭丽舍旗舰面积翻倍、对标奢侈品标准，以及印度市场的Batman授权系列，新秀丽正同时在高端（Tumi）、大众（Samsonite/American Tourister）与DTC新锐（Béis）三端加码。\n\n产品与定价：Béis约50%收入来自非拉杆箱品类（Weekender、Duffel、妈咪包等），定价108–394美元，以「社媒评论驱动迭代」著称——Weekender 7月改版遭差评后迅速返工并邀核心用户内测。这与新秀丽传统的「工程+耐用」叙事形成互补，承担生活方式包袋的增长任务。\n\n渠道：Béis 2025年约2.1亿美元净销售主要来自美国DTC，尚无实体店；下一步以快闪进入英国与亚洲，长期再评估自营门店。对中国市场而言，这意味着新秀丽集团在轻奢旅行包/通勤包价格带（约800–3000元）可能多出一个社媒原生品牌。\n\n竞争：国内出行箱包赛道中，地平线8号、不莱玫等以大容量与明星代言抢占大众价格带，BAGSMART、CIGALONG等走线上性价比；Béis若进入亚洲，将以「颜值+功能细节+创始人IP」切入女性旅行包，与CHARLES&KEITH、山下有松等的包袋客群部分重叠。11/12新秀丽三季报将是观察Béis并表贡献与Tumi高端化成效的首个窗口。",
+   "investor_view": "关注三点：①Béis约1倍市销率的收购价能否被集团供应链降本与海外扩张兑现，11/12三季报中的并表口径与毛利率变化；②名人品牌依赖度——创始人减持一半股份后仍任CCO，关键人风险与复购率是估值核心；③Tumi旗舰升级+Béis年轻化是否能对冲美国关税与中国出行消费放缓对主品牌的拖累。",
+   "operator_view": "对国内箱包品牌的启示：把「非拉杆箱」的周末包/托特/妈咪包做成第二增长曲线，用评论区与私域反馈驱动小步快跑的产品改版；出海或进新城市可先以快闪（如「洗箱」类服务型活动）验证需求再开店；与大集团竞争时，差异化应落在细分人群与场景功能细节，而非价格。",
+   "sources": [
+    {
+     "title": "Vogue：Post-Acquisition, Shay Mitchell’s Béis Is Ready for Takeoff",
+     "url": "https://www.vogue.com/article/post-acquisition-shay-mitchells-beis-is-ready-for-takeoff"
+    },
+    {
+     "title": "Samsonite IR：Press Releases（完成收购BÉIS）",
+     "url": "https://corporate.samsonite.com/en/press-releases.html"
+    },
+    {
+     "title": "FashionNetwork：Tumi巴黎新旗舰",
+     "url": "https://ww.fashionnetwork.com/news/Tumi-revamps-brand-image-with-new-paris-flagship-paves-way-for-more-europe-openings,1877836.html"
+    },
+    {
+     "title": "凤凰网：新秀丽拟11月12日举行董事会批准季度业绩",
+     "url": "https://feng.ifeng.com/c/8x5IdXt5hHi"
+    }
+   ]
+  },
+  {
+   "brand": "万事利",
+   "tier1": "服配",
+   "title": "万事利：营收仍增长但Q3转亏，「买流量」与「建工厂」两头承压，募投主动缩减2亿元",
+   "body": "财务：前三季度营收5.73亿元+10.44%，但归母净利1038万元-48.30%、扣非仅247万元-87.27%；Q3单季营收1.65亿元+4.33%，归母亏损928万元、扣非亏损964万元，经营现金流转负（-3228万元）。增收不增利的直接原因写在报表里：支付的其他经营活动现金+41.78%「主要系品牌宣传及平台费用增加较多」，预付平台推广费+44%——线上渠道获客成本正在吞噬丝巾礼品业务的毛利（前三季毛利率约45.8%，与上年基本持平，说明问题在费用端而非定价端）。\n\n产能与资本开支：10/29同时公告将「人工智能工厂」募投用款由5.85亿元调减至3.80亿元，B幢车间暂不装修，保留472.8万米旧数码印花产能设备，总产能仍为1000万米，12月达可使用状态；剩余2.08亿元待结项后补流或投新项目。工厂转固后利息费用化，又带来财务费用+206%。公司以「市场竞争加剧、宏观经济多变」为由收缩投资，属主动降风险。\n\n产品与渠道：万事利以丝巾、丝绸礼品与文化IP为核心，近年加码自有品牌零售与线上平台。Q3作为传统淡季（礼赠旺季在Q4与春节），亏损部分有季节性，但扣非利润连续下滑显示投放效率下降；同日注销39.19万股回购股，并将于11/16临时股东会审议上述事项。\n\n竞争：丝巾/丝绸配饰在国内面临两类挤压——国际奢侈品与轻奢品牌（降价下探）占据高端礼赠心智，白牌与产业带直播以低价分流大众需求；万事利需在「文化礼品」与「时尚配饰」之间找到更高效的投放模型。",
+   "investor_view": "短期看Q4礼赠旺季能否把费用投放转化为利润，以及2.08亿元结余募资的去向（补流 vs 新项目）；中期看扣非利润率能否回到3%以上、经营现金流转正。募投缩减降低了产能闲置与折旧风险，但也意味着管理层对需求增速判断转向保守。",
+   "operator_view": "对配饰品牌：平台投放需按渠道/品类核算ROI，并设费用率上限，避免以营收增长掩盖亏损；产能规划宜「先满一栋楼再建第二栋」，利用柔性数码印花做小批量快反；礼赠属性强的品类应把预算集中到节点（双11、年货节）并加强企业团购等低获客成本渠道。",
+   "sources": [
+    {
+     "title": "万事利2026年三季度报告（巨潮资讯）",
+     "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225642801.PDF"
+    },
+    {
+     "title": "万事利：关于变更募集资金投资项目的公告（巨潮资讯）",
+     "url": "https://static.cninfo.com.cn/finalpage/2026-10-30/1225642805.PDF"
+    },
+    {
+     "title": "证券日报：万事利第三季度营业收入同比增长4.33%",
+     "url": "https://finance.eastmoney.com/a/202610293914762386.html"
+    },
+    {
+     "title": "每经：万事利前三季度净利润约1038万元",
+     "url": "https://www.nbd.com.cn/articles/2026-10-29/4628370.html"
+    }
+   ]
+  }
+ ],
+ "reading_list": [
+  {
+   "title": "Has China broken the Birkin?",
+   "source": "Jing Daily",
+   "date": "2026-10-29",
+   "url": "https://jingdaily.com/posts/has-china-broken-the-birkin",
+   "tier1": "箱包"
+  },
+  {
+   "title": "Wuhan becomes luxury's gateway to central China",
+   "source": "Jing Daily",
+   "date": "2026-10-30",
+   "url": "https://jingdaily.com/posts/wuhan-becomes-luxury-gateway-to-central-china",
+   "tier1": "综合"
+  },
+  {
+   "title": "Czech billionaire Strnad offers €30 billion for EssiLux shareholder Delfin",
+   "source": "Reuters / Euronext",
+   "date": "2026-10-29",
+   "url": "https://live.euronext.com/en/financial-news/czech-billionaire-strnad-offers-eu30-billion-essilux-shareholder-delfin-sources-say",
+   "tier1": "眼镜"
+  },
+  {
+   "title": "Delfin: Basilico rejects LMDV's offer for the purchase of his 12.5 per cent stake",
+   "source": "la Repubblica",
+   "date": "2026-10-29",
+   "url": "https://www.repubblica.it/en/economy/2026/10/29/news/delfin_basilico_rejects_lmdv_s_offer_for_the_purchase_of_his_125_per_cent_stake-425684327/",
+   "tier1": "眼镜"
+  },
+  {
+   "title": "金价下探4000美元，轻克重与渠道洗牌",
+   "source": "时代周报（同花顺）",
+   "date": "2026-10-29",
+   "url": "https://invest.10jqka.com.cn/20261029/c681255572.shtml",
+   "tier1": "珠宝腕表"
+  },
+  {
+   "title": "大金镯不香了？",
+   "source": "新华社（21经济网）",
+   "date": "2026-10-29",
+   "url": "https://www.21jingji.com/article/20261029/herald/7e44ee3c226d1566fd1e40c70dbdbeb1.html",
+   "tier1": "珠宝腕表"
+  },
+  {
+   "title": "Mykita Beverly Hills store opening",
+   "source": "WWD",
+   "date": "2026-10-29",
+   "url": "https://wwd.com/business-news/retail/mykita-beverly-hills-store-opening-1239391363/",
+   "tier1": "眼镜"
+  },
+  {
+   "title": "Are eyewear shoppers spending differently? New research reveals Q3 trends",
+   "source": "Women In Optometry",
+   "date": "2026-10-29",
+   "url": "https://www.womeninoptometry.com/opticians/article/are-eyewear-shoppers-spending-differently-new-research-reveals-q3-trends/",
+   "tier1": "眼镜"
+  },
+  {
+   "title": "The RealReal Announces Third Quarter 2026 Results",
+   "source": "The RealReal IR",
+   "date": "2026-10-29",
+   "url": "https://investor.therealreal.com/news/news-details/2026/THE-REALREAL-ANNOUNCES-THIRD-QUARTER-2026-RESULTS/default.aspx",
+   "tier1": "综合"
+  }
+ ],
+ "brand_scan": {
+  "window": "2026-10-28..2026-10-30",
+  "method": "逐一检索63个品牌（大图按用户偏好跳过）：Exa web_search_exa公开端点两轮全量检索（中文名/英文名+「10月29日」「新品 联名 门店」等组合，按发布时间或正文日期筛选10/28–10/30）；重点品牌补WebSearch/WebFetch（官网、PR Newswire、Vogue、证券日报、每经、新浪财经等）；X search_posts_all（2026-10-28T00:00Z–10-30T00:00Z，含Samsonite、Charles & Keith、Gentle Monster、Oakley、Timex、Casio/G-SHOCK、ZEISS、EssilorLuxottica等官方账号与关键词）。万事利、飞亚达三季报及10/28–10/30公告直接取自巨潮资讯原文PDF并与东方财富数据中心核对。按URL与事件对10/21–10/29日报去重。",
+  "note": "有可计入的品牌新闻 8/64（万事利、依视路、卡西欧、天美时集团、新秀丽、欧克利、蔡司、飞亚达），共11条。万事利、飞亚达三季报已于10/29晚披露。重要更正：飞亚达因同一控制下合并长空齿轮追溯调整上年数据，调整后前三季度营收+0.50%、归母净利-0.97%（Q3单季净利-45.61%）；乐居财经等按调整前口径报「+12.69%/+19.64%」，行业层草稿如引用该口径需修正。山下有松声明、GENTLE MONSTER×Margiela开售为往期已报事件的跟进，不重复计入。其余品牌未检到可核实发布日期与原文链接的新闻（不代表无线下/社媒活动）；软文/SEO页面不作唯一信源。",
+  "per_brand": {
+   "裘真": "仅新浪自媒体消费评论稿提及，无品牌发布",
+   "Fakeme": "×Manner联名活动持续至11/1（10/29已报），无新增",
+   "山下有松": "10/29 光明网、联合早报、中央社等跟进「非日本品牌」声明，与10/29已报同一事件，不重复计入",
+   "LOLA ROSE": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "HEFANG": "官方微博显示「灵感蛋糕屋」全国巡回第六站深圳COCO Park（10/29–11/23），仅社媒聚合页、发文日期无法核实，未计入",
+   "雅瑞光学": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "ARSIS": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "蔡司": "10/29 官宣田嘉瑞眼健康大使（SocialBeta）；10/29 杨晓光谈AI与2030「平台」战略（新浪财经）。仪器仪表网「进博首日媒体会」稿为旧文转载，排除",
+   "依视路": "10/29 进博会参展预告：丹阳基地新一轮投资、两款镜片首发（证券日报）。行业层另有Delfin股权事件",
+   "CHARLES&KEITH": "仅30周年穿搭盘点类稿件（GirlStyle SG 10/28），无可计入硬新闻",
+   "新秀丽": "10/29 Vogue专访Béis收购后出海计划；另入品牌洞察。印度Batman×Samsonite系列为10/19前后发布，不在窗口内",
+   "ITO": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "GROTTO个乐": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "白岚": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "万事利": "10/29晚三季报：Q3单季亏损928万元、前三季扣非-87%；同日AI工厂募投调减2.05亿元、注销回购股（巨潮公告）；另入品牌洞察",
+   "ECODAY": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "bampo": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "卡西欧": "10/29 CMK-100钛壳自动表（PR Newswire）；10/28印度首家印多尔G-SHOCK专卖店；另有LA680WEM、Edifice新款零售商曝光等小型上新",
+   "德津": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "LEVEL8地平线8号": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "九格眼镜": "仅SEO门店推荐页，排除；人民日报10/29丹阳眼镜智能化转型报道未提及该品牌",
+   "欧克利": "10/28 ×上海马拉松30周年纪念系列（品牌新闻稿）；10/29 Arsenal×Oakley Meta新合作（阿森纳官网）",
+   "FANCI范琦": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "GENTLE MONSTER": "×Maison Margiela第四季10/29全球开售（各地媒体跟进），与10/24–10/28已报同一事件，不重复计入",
+   "纽芝兰": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "明月镜片": "10/28–10/29无新公告（最新为10/26投资者关系记录，已报）",
+   "CECE": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "柯达": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "BAGSMART": "仅电商促销/折扣码稿件（NY Post导购等），无品牌硬新闻",
+   "CIGALONG": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "abyb jewelry": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "海伦凯勒眼镜": "仅百科问答/导购页，排除",
+   "包包树BAGTREE": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "飞亚达": "10/29晚三季报（追溯调整后Q3净利-45.6%）；10/28总会计师/董秘调整及注销亨吉利电商（巨潮公告）",
+   "梵誓ONESWEAR": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "KKLUE轻珠宝": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "天美时集团": "10/29 Addison镶钻方表+Cavatina Mini两用表（Gizmochina/官方X）；10/29 EIN Presswire的Vontélle联名稿属10/22已报事件，不重复计入",
+   "JELLYTOYBOY": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "卡蒂罗": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "尤目": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "ORANGE CUBE": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "古良吉吉": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "亨得利钟表": "上市公司亨得利控股（3389.HK）10/28股东特别大会通过每股0.266港元特别股息（港交所公告）；该公司与「亨得利钟表」零售连锁的权属关系需核实，暂不计入；其余为售后服务SEO稿",
+   "甲目眼镜": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "TAD FAB": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "FANGYI方宜": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "老雷线上配镜": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "抱树BYROOTS": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "TELETIES": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "DAVENA": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "首末集团": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "大图": "按用户偏好跳过优先追踪",
+   "卡拉羊": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "P&N": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "PARIM": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "上海夕和眼镜": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "超视立": "仅SEO/软文页面，排除",
+   "御行": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "木九十": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "天空树假发": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "不莱玫": "王俊凯为首位全球代言人系7月官宣；10/27直播与10/28粉丝晒单活动属社媒内容，未计入",
+   "帕莎": "官方微博10/28–10/29发布新品穿搭内容（PS3080-B等），属社媒日常种草，未计入",
+   "CASSILE卡思乐": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "BLACKHEAD": "未检到可核实发布日期与原文链接的窗口内新动态"
+  }
+ },
+ "sources": [
+  {
+   "name": "观点网",
+   "url": "https://www.guandian.cn/",
+   "tier1": "综合"
+  },
+  {
+   "name": "同花顺财经",
+   "url": "https://www.10jqka.com.cn/",
+   "tier1": "综合"
+  },
+  {
+   "name": "东方财富网",
+   "url": "https://www.eastmoney.com/",
+   "tier1": "综合"
+  },
+  {
+   "name": "每日经济新闻",
+   "url": "https://www.nbd.com.cn/",
+   "tier1": "综合"
+  },
+  {
+   "name": "乐居财经",
+   "url": "https://www.lejucaijing.com/",
+   "tier1": "综合"
+  },
+  {
+   "name": "21经济网",
+   "url": "https://www.21jingji.com/",
+   "tier1": "综合"
+  },
+  {
+   "name": "界面新闻",
+   "url": "https://www.jiemian.com/",
+   "tier1": "综合"
+  },
+  {
+   "name": "消费日报网",
+   "url": "https://www.xfrb.com.cn/",
+   "tier1": "综合"
+  },
+  {
+   "name": "华丽志",
+   "url": "https://luxe.co/",
+   "tier1": "综合"
+  },
+  {
+   "name": "Jing Daily",
+   "url": "https://jingdaily.com/",
+   "tier1": "综合"
+  },
+  {
+   "name": "WWD",
+   "url": "https://wwd.com/",
+   "tier1": "综合"
+  },
+  {
+   "name": "Reuters / Euronext",
+   "url": "https://live.euronext.com/",
+   "tier1": "综合"
+  },
+  {
+   "name": "la Repubblica",
+   "url": "https://www.repubblica.it/",
+   "tier1": "综合"
+  },
+  {
+   "name": "The RealReal IR",
+   "url": "https://investor.therealreal.com/",
+   "tier1": "综合"
+  },
+  {
+   "name": "SEC EDGAR",
+   "url": "https://www.sec.gov/",
+   "tier1": "综合"
+  },
+  {
+   "name": "Women In Optometry",
+   "url": "https://www.womeninoptometry.com/",
+   "tier1": "眼镜"
+  },
+  {
+   "name": "Leather World News",
+   "url": "https://leatherworldnews.com/",
+   "tier1": "箱包"
+  }
+ ]
+}
