@@ -1,0 +1,482 @@
+{
+ "date": "2026-11-01",
+ "headline": "金价跌至一年新低，水贝客流回暖、可议价，高盛重排珠宝股（上调周大福、下调六福）；瑞表中价位塌陷，爱彼推出官方认证二手；Armani拟出售15%股权，依视路陆逊梯卡在优先买家之列",
+ "summary": "窗口：2026-10-30 08:00至11-01 08:00（北京时间）。周末消息较少，统一按48小时窗口取材，共10条行业动态。主线：①黄金珠宝：10/30伦敦金收跌3.61%至3875美元，比1月高点低30%以上；10/31品牌金饰报价降至1161–1168元/克，水贝批发价约989元/克，客流回暖、可议价。高盛把行业盈利预测下调到比市场共识低0–38%，并按渠道结构重排评级：上调周大福至买入，下调六福至卖出。②腕表：瑞士手表出口靠3000瑞郎以上价位支撑，200瑞郎以下销量10年减半；爱彼在欧洲推出官方认证二手项目「The Watch Keepers」，品牌开始接管二级市场。③奢侈品资本：Armani启动15%股权出售，LVMH、欧莱雅、依视路陆逊梯卡为优先买家；Birkin二手溢价从2.6倍降至1.7倍。④箱包产地：2026亚洲箱包皮具交易会在广州琶洲与广交会同期开幕。待发布：Tapestry FQ1（11/5）、进博会（11/5–10）、Safilo Q3（11/10）、新秀丽Q3（11/12）。品牌层：63个P0+P1品牌逐一检索（大图按偏好跳过），3个品牌有可计入动态（卡西欧、天美时集团、依视路）。",
+ "industry_news": [
+  {
+   "date": "2026-10-31",
+   "source": "每日经济新闻；中新经纬；中新网；同花顺",
+   "title": "金价跌至一年新低：伦敦金10/30收跌3.61%至3875美元/盎司；品牌金饰降至1161–1168元/克，水贝客流回暖、可议价",
+   "url": "https://www.nbd.com.cn/articles/2026-10-31/4633273.html",
+   "tier1": "珠宝腕表",
+   "type": "市场",
+   "importance": 5,
+   "segment": "大众",
+   "summary": "10/30伦敦现货金收跌3.61%至3875.19美元/盎司，为一年来低位，比1月高点（约5598美元）低30%以上。10/31品牌足金饰品报价：周生生1161元/克（-42元），周大福1165–1168元/克（-31至-34元），老凤祥1165元/克，比年内高点低约550元/克。每经记者10/31走访深圳水贝：客流增多，价格可议，部分商户为收货给出高于牌价的回购价；当日饰品金批发价约989元/克，回收价约810元/克，上金所Au99.99夜盘约833元/克。中国黄金协会上半年数据：金饰消费132.133吨，同比-33.88%；金条及金币339.336吨，+28.42%。央行已连续第23个月增持黄金。中新经纬：https://www.jwview.com/jingwei/html/m/10-31/694981.shtml；中新网：https://www.chinanews.com.cn/cj/2026/10-31/10723926.shtml"
+  },
+  {
+   "date": "2026-10-31",
+   "source": "Investing.com（高盛研报）",
+   "title": "高盛重排中国珠宝股：周大福上调至买入（目标价13港元），老铺黄金维持买入，六福下调至卖出，周大生维持卖出",
+   "url": "https://hk.investing.com/news/stock-market-news/article-1730835",
+   "tier1": "珠宝腕表",
+   "type": "资本",
+   "importance": 4,
+   "segment": "大众",
+   "summary": "高盛认为，金价从1月高点回落后，库存收益和一口价产品带来的利润贡献将在后续业绩期逐步消退，因此把2026及2027财年盈利预测下调至比市场共识低0–38%。各公司观点：①周大福由中性上调至买入，目标价13.0港元，理由是零售对批发的结构改善和对冲记录，压力情景下的下行风险也低于同业；②老铺黄金维持买入，年内股价已回调53%，市盈率约6倍，看好其在高净值人群中的渗透；③六福由中性下调至卖出，目标价17.9港元，预计2027财年下半年盈利同比-66%；④周大生维持卖出，原因是批发渠道疲弱。估值分化的依据是渠道结构（零售占比和对冲能力），而不是金价本身。"
+  },
+  {
+   "date": "2026-10-31",
+   "source": "中新网；21世纪经济报道",
+   "title": "2026亚洲箱包皮具交易会在广州琶洲开幕：500余家工厂、上万SKU，与广交会同期，吸引20多个国家的采购商",
+   "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723756.shtml",
+   "tier1": "箱包",
+   "type": "渠道",
+   "importance": 4,
+   "segment": "大众",
+   "summary": "展会于10/30在广州琶洲开幕，与广交会三期同期举行，汇集500余家源头工厂和上万个SKU，设六大展区，采购商来自20多个国家和地区。报道梳理了国内箱包产业带的分工：广东以时尚皮具和品牌代工为主，河北白沟、湖南邵东主攻大众走量，浙江提供面料和五金配套。工厂正借广交会客流直接对接海外采购商，也为国内轻奢和大众品牌提供了集中比价、找新供应商的窗口。21世纪经济报道：https://www.21jingji.com/article/20261031/herald/f0af819758587e12e9300e310caaa7d0.html"
+  },
+  {
+   "date": "2026-10-30",
+   "source": "澎湃新闻（澎湃政务·汕尾）",
+   "title": "2026汕尾珠宝产业大会11/1在海丰梅陇开幕：将发布Gemports GPI彩色宝石价格指数和区域公用品牌",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34370008",
+   "tier1": "玉石翡翠",
+   "type": "渠道",
+   "importance": 3,
+   "segment": "大众",
+   "summary": "汕尾（海丰梅陇）产业数据：彩色宝石年加工量约5万吨，加工了全球70%以上的水晶串珠和全国50%以上的金银首饰，经营主体约2.1万家，产业规模超过350亿元。大会将发布Gemports GPI彩色宝石价格指数和区域公用品牌，配套展会设3600个展位。彩宝和水晶此前缺乏公开的价格基准，指数一旦形成，将影响上游采购议价，也会改变直播渠道「无标价」的销售方式。"
+  },
+  {
+   "date": "2026-10-30",
+   "source": "Observer；Billionaires.Africa",
+   "title": "Armani启动15%股权出售，LVMH、欧莱雅、依视路陆逊梯卡为遗嘱指定的优先买家，估值约50–70亿欧元",
+   "url": "https://observer.com/2026/10/giuseppe-marsocci-armani-stake-sale-buyers-valuation/",
+   "tier1": "综合",
+   "type": "资本",
+   "importance": 4,
+   "segment": "奢侈品",
+   "summary": "根据Giorgio Armani的遗嘱安排，集团需在约18个月内（截止2027年3月）出售15%股权，LVMH、欧莱雅、依视路陆逊梯卡为优先买家，可能由三家各购5%。市场估值约50–70亿欧元。依视路陆逊梯卡是Armani眼镜的长期授权方，欧莱雅持有美妆授权；若授权方入股，将加深「授权+股权」的捆绑，眼镜授权的续约和条款将成为观察重点。"
+  },
+  {
+   "date": "2026-10-30",
+   "source": "CNA Luxury",
+   "title": "爱彼推出官方认证二手项目「The Watch Keepers」：先在欧洲和瑞士上线，单批约100枚，5级成色评级、2年质保",
+   "url": "https://cnaluxury.channelnewsasia.com/obsessions/audemars-piguet-certified-pre-owned-program-watch-keepers-296076",
+   "tier1": "珠宝腕表",
+   "type": "渠道",
+   "importance": 4,
+   "segment": "奢侈品",
+   "summary": "爱彼的认证二手（CPO）项目由品牌直接收表、翻修和认证，每批约100枚，按5级成色评级，以一口价或竞价方式出售，并提供2年质保，先在欧洲和瑞士上线。继劳力士CPO之后，又一家顶级制表商把二级市场纳入自营：品牌可以掌握二手价格和真伪背书，同时抽取流通利润，并把二手买家转化为新表客户。"
+  },
+  {
+   "date": "2026-10-30",
+   "source": "PME（瑞士）",
+   "title": "瑞士手表业两极化：1–9月出口+2.7%全靠3000瑞郎以上价位；200瑞郎以下销量10年间从2000万枚降至1000万枚",
+   "url": "https://www.pme.ch/actualites/suisse-lhorlogerie-en-difficulte-des-voix-brisent-lomerta/2h2y2cl",
+   "tier1": "珠宝腕表",
+   "type": "深度",
+   "importance": 4,
+   "segment": "轻奢",
+   "summary": "PME深度报道援引行业数据：今年1–9月瑞士手表出口额+2.7%，增长全部来自3000瑞郎以上价位；200瑞郎以下产品销量10年间从约2000万枚降至约1000万枚，300–500瑞郎价位销量减半。Swatch品牌年销量从约1500万枚降至约400万枚；劳力士2025年营收约110亿瑞郎，超过斯沃琪集团全集团（约63亿瑞郎）。Zenith约100个岗位面临裁撤，Breitling、萧邦、万宝龙也在裁员。中低价机械表和时装表正被智能手表和平价联名表挤压。"
+  },
+  {
+   "date": "2026-10-31",
+   "source": "The Star（转载路透社Breakingviews）",
+   "title": "路透：「Birkin泡沫开始破裂」，Birkin 25二手溢价从2022年峰值2.6倍降至Q3的1.7倍",
+   "url": "https://www.thestar.com.my/business/business-news/2026/10/31/the-birkin-bubble-begins-to-burst",
+   "tier1": "箱包",
+   "type": "市场",
+   "importance": 3,
+   "segment": "奢侈品",
+   "summary": "文章援引Bernstein数据：Birkin 25的二手溢价从2022年峰值约2.6倍降至今年Q3的约1.7倍；二手平台在售挂牌量为疫情前的6–7倍。UBS给予爱马仕卖出评级，爱马仕股价年内下跌约40%。稀缺性溢价回落，并不意味着爱马仕一级市场销售下滑，但「买包保值」的叙事正在减弱，二手平台和寄卖商的库存风险上升。"
+  },
+  {
+   "date": "2026-10-31",
+   "source": "ad-hoc-news",
+   "title": "开云：Berenberg因Gucci复苏缓慢将目标价从175欧元下调至165欧元（卖出），LBBW维持买入（目标价240欧元）",
+   "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/kering-aktie-analysten-senken-ziele-wegen-schleppender-gucci-erholung/70438172",
+   "tier1": "箱包",
+   "type": "资本",
+   "importance": 2,
+   "segment": "奢侈品",
+   "summary": "Q3业绩后，卖方对Gucci复苏节奏的分歧仍在：Berenberg认为Gucci复苏慢于预期，把目标价下调至165欧元并维持卖出；LBBW维持买入，目标价240欧元。这与Gucci巴黎新概念旗舰开业、继续关店收缩同步，市场仍在等待新品和门店改造转化为销售的证据。"
+  },
+  {
+   "date": "2026-10-31",
+   "source": "ContentGrip；GlassesUSA.com",
+   "title": "BONBONWHIMS×GlassesUSA推出Y2K「可换磁吸挂饰」眼镜：10款框型配7种磁吸charm，售价98美元",
+   "url": "https://www.contentgrip.com/bonbonwhims-glassesusa-charm-eyewear/",
+   "tier1": "眼镜",
+   "type": "新品",
+   "importance": 2,
+   "segment": "大众",
+   "summary": "美国线上配镜平台GlassesUSA与饰品品牌BONBONWHIMS于10/29发布联名：5款光学镜和5款太阳镜，镜腿各有4个磁吸位，可自由更换爱心、蝴蝶结、蝴蝶、星星等7种挂饰，支持配处方镜片，售价98美元（WWD 10/23预览）。线上配镜平台通过「可玩配件」提高客单价和复购，这一思路与本期「功能配件挂饰化」趋势一致。"
+  }
+ ],
+ "brand_news": [
+  {
+   "brand": "卡西欧",
+   "date": "2026-10-31",
+   "source": "T客邦（引CasioBlog）",
+   "title": "卡西欧指环表CRW-002：把A168复古电子表缩成戒指，约135美元，11月发售",
+   "url": "https://www.techbang.com/posts/133788-casio-crw-002-ring-watch-a168",
+   "summary": "接替CRW-001，外观照搬经典A168的方形表面、按键布局和金属链节，戒圈用注塑成型以减重。功能包括12/24小时制、日历、双时区、60分钟秒表和LED背光，新增整点或设定时间闪烁提醒的Time Flash功能。卡西欧持续把经典表款缩小做成饰品，测试「电子表配件化」的市场反应。"
+  },
+  {
+   "brand": "卡西欧",
+   "date": "2026-10-30",
+   "source": "Gear Patrol",
+   "title": "G-SHOCK「CasiOak」新款GBM-2100LXB-1A2：格纹立体表盘与表带呼应爱彼皇家橡树Tapisserie",
+   "url": "https://www.gearpatrol.com/watches/g-shock-gbm-2100lxb-1a2-casioak/",
+   "summary": "Luxe Black系列新成员：全黑表壳配立体格纹表盘和同纹树脂表带，模式指针采用接近皇家橡树Bleu Nuit的蓝色，表圈内有蓝色饰圈；Tough Solar、200米防水。目前只在国际官网上架，美国定价待公布（参考前作约260美元）。2100系列自2019年上市以来已推出数百款配色，此次进一步强化与奢侈腕表的设计对照。"
+  },
+  {
+   "brand": "卡西欧",
+   "date": "2026-10-30",
+   "source": "Confirm Good（引CASIO Singapore）",
+   "title": "BABY-G×泡泡玛特Baby Molly联名：表带可转作腰挂或包挂，11/3新加坡发售，169新元",
+   "url": "https://confirmgood.com/post/baby-g-baby-molly-casio-collaboration/",
+   "summary": "盒装设计内含Baby Molly与Baby Tabby猫元素；表带满印Baby Molly图案，附粉色挂扣，可把手表挂在腰间或包上当挂饰；黄色表圈呼应Molly发色，打开背光时LCD会显示Molly的蓝眼睛像素动画。11/3在新加坡全部G-SHOCK门店及官网发售，售价169新元。手表同时承担「潮玩IP」和「包挂」两种消费需求。"
+  },
+  {
+   "brand": "天美时集团",
+   "date": "2026-10-31",
+   "source": "Notebookcheck；Timex官方博客",
+   "title": "Pop & Miffy by Timex MK1：时标错位的「视错觉」表盘，36mm，129美元",
+   "url": "https://www.notebookcheck.net/Timex-teams-up-with-Miffy-for-a-playful-new-watch-with-a-strange-dial.1438921.0.html",
+   "summary": "与阿姆斯特丹滑板服饰品牌Pop Trading Company合作，属其2026年Miffy系列。型号TW6A31000，海军蓝树脂表壳、表盘与织物表带，时标被刻意移位形成视错觉，中央有Miffy小图；36mm×10.5mm，石英机芯，30米防水；英国105英镑、美国129美元。天美时10月已连续推出Looney Tunes、哈利·波特、Dimepiece等IP联名，「一个表壳、多个IP」的高频节奏延续。官方博客：https://timex.com/blogs/the-timex-blog/pop-miffy-by-timex-time-to-dream"
+  },
+  {
+   "brand": "依视路",
+   "date": "2026-10-31",
+   "source": "il Giornale；la Repubblica；Observer",
+   "title": "Delfin收购案：Strnad发声明称「意大利具核心地位」但不评论具体交易，LMdV重申反对；依视路陆逊梯卡同时被列为Armani 15%股权的优先买家",
+   "url": "https://www.ilgiornale.it/news/borsa-e-mercati/essilux-cresce-in-borsa-lmdv-conferma-il-no/",
+   "summary": "il Giornale 10/31报道：在约300亿欧元收购Delfin的要约曝光后（报价较Delfin持仓价值折价约30%），捷克富豪Strnad 10/30发表声明，称其私人资产平台正在寻找支持欧洲工业企业的机会，「意大利具核心地位」，但不评论具体事项；持有Delfin 12.5%的Leonardo Maria Del Vecchio重申「父亲毕生的事业应留在意大利」。依视路陆逊梯卡股价当日+3.4%至184.30欧元（巴黎）。同期，Armani 15%股权出售名单上，依视路陆逊梯卡与LVMH、欧莱雅并列优先买家（Observer 10/30）。控股股东层面的股权博弈与授权方入股Armani，两条线均会影响集团的治理与品牌组合。la Repubblica：https://www.repubblica.it/en/economy/2026/10/30/news/strnad_wants_to_buy_delfin_but_the_del_vecchio_family_are_putting_up_a_wall-425685837/"
+  }
+ ],
+ "insights": [
+  {
+   "title": "金价一年新低后的珠宝业：终端回暖、利润预期下修，估值按渠道结构重排",
+   "tier1": "珠宝腕表",
+   "body": "价格：10/30伦敦金收于3875美元，比1月高点低30%以上；10/31品牌金饰降至1161–1168元/克，比年内高点低约550元/克。水贝出现「客流回暖、价格可议、商户溢价回购」的组合，说明零售端开始出货，批发商也在主动补充现货。\n\n结构：中国黄金协会上半年数据显示，金饰消费-33.88%，金条金币+28.42%。高金价时期，消费者把需求转向投资金；金价回落后，首饰需求能否回流，要看婚庆和年末礼赠季的表现。\n\n盈利：高盛指出，金价上涨期间支撑利润的两个因素将逐步消退：库存增值收益，以及一口价产品较高的毛利。因此它把盈利预测下调到比市场共识低0–38%，并按渠道结构重排评级：零售占比高、对冲记录好的周大福上调至买入；批发敞口大的六福、周大生给予卖出。上游方面，汕尾将发布彩宝价格指数，非黄金品类正在建立定价基准。\n\n判断：与10/30「零售放量、批发承压」的观察一致，金价下行阶段，决定利润的是渠道结构和库存对冲，而不是金价方向。\n\n投资视角：金价下行期，珠宝股估值按「零售占比、对冲能力、一口价占比」重新排序；高盛的分化评级可作为框架。跟踪11月婚庆旺季动销、加盟商补库节奏，以及四季报中的存货跌价准备；老铺黄金这类高端品牌的估值修复，取决于高净值客群的复购。\n\n经营视角：①趁客流回暖主推婚庆三金和以旧换新，用回购和换购锁住现金与客户；②备货按金价区间分档，小批量高频补货，避免在下跌中压库存；③拓展彩宝、银饰等非黄金品类，汕尾价格指数出台后，可用于采购议价和统一定价。",
+   "refs": [
+    {
+     "title": "每日经济新闻：水贝走访与金价一年新低（2026-10-31）",
+     "url": "https://www.nbd.com.cn/articles/2026-10-31/4633273.html"
+    },
+    {
+     "title": "中新经纬：品牌金饰价格（2026-10-31）",
+     "url": "https://www.jwview.com/jingwei/html/m/10-31/694981.shtml"
+    },
+    {
+     "title": "中新网：金价走势（2026-10-31）",
+     "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723926.shtml"
+    },
+    {
+     "title": "Investing.com：高盛调整中国珠宝股评级（2026-10-31）",
+     "url": "https://hk.investing.com/news/stock-market-news/article-1730835"
+    },
+    {
+     "title": "澎湃：2026汕尾珠宝产业大会（2026-10-30）",
+     "url": "https://www.thepaper.cn/newsDetail_forward_34370008"
+    }
+   ]
+  },
+  {
+   "title": "腕表：中价位塌陷，顶级品牌接管二手，平价品牌转向「饰品+IP」",
+   "tier1": "珠宝腕表",
+   "body": "上端：PME援引数据称，瑞士手表1–9月出口+2.7%，增长全部来自3000瑞郎以上价位；劳力士2025年营收约110亿瑞郎，超过斯沃琪集团全集团。爱彼推出认证二手项目「The Watch Keepers」，由品牌直接收表、评级、质保和定价，继劳力士之后把二级市场纳入自营。路透的Birkin数据（二手溢价从2.6倍降至1.7倍）提示：一旦二手溢价下滑，品牌需要亲自掌握二级流通，才能守住价格体系。\n\n中段：200瑞郎以下销量10年减半，300–500瑞郎价位销量减半，Swatch品牌年销量从约1500万枚降至约400万枚；Zenith、百年灵、萧邦、万宝龙相继裁员。\n\n下端：卡西欧和天美时没有在中价位与瑞表正面竞争，而是把手表做成饰品：指环表CRW-002、可当包挂的BABY-G×Baby Molly、以设计对照奢侈表的CasiOak格纹盘、Miffy联名MK1。产品的价值从「计时」转向「搭配和IP收藏」。\n\n判断：「中间价位」被智能手表和IP平价表两头挤压，品牌需要在「稀缺+官方二级市场」与「高频联名+饰品化」之间选定位置。\n\n投资视角：腕表投资应回避「中价位机械表+时装表」，关注顶级品牌的二手自营（提升价格控制力和客户终身价值），以及平价品牌的IP联名效率（单款周期短、库存风险低）。国内腕表公司（如飞亚达）的估值，更多取决于精密制造而非消费品牌溢价。\n\n经营视角：①国产腕表品牌不宜在2000–5000元机械表价位与瑞表硬拼，可试水「饰品化」小表径、手链表和可挂式产品；②与潮玩、动漫IP做小批量联名，用限定款带动年轻客群；③若有直营渠道，可试点官方回收和以旧换新，建立自有的二手价格锚点。",
+   "refs": [
+    {
+     "title": "PME：瑞士制表业困境（2026-10-30）",
+     "url": "https://www.pme.ch/actualites/suisse-lhorlogerie-en-difficulte-des-voix-brisent-lomerta/2h2y2cl"
+    },
+    {
+     "title": "CNA Luxury：爱彼The Watch Keepers（2026-10-30）",
+     "url": "https://cnaluxury.channelnewsasia.com/obsessions/audemars-piguet-certified-pre-owned-program-watch-keepers-296076"
+    },
+    {
+     "title": "The Star/Reuters：The Birkin bubble begins to burst（2026-10-31）",
+     "url": "https://www.thestar.com.my/business/business-news/2026/10/31/the-birkin-bubble-begins-to-burst"
+    },
+    {
+     "title": "T客邦：卡西欧CRW-002（2026-10-31）",
+     "url": "https://www.techbang.com/posts/133788-casio-crw-002-ring-watch-a168"
+    },
+    {
+     "title": "Notebookcheck：Pop & Miffy by Timex（2026-10-31）",
+     "url": "https://www.notebookcheck.net/Timex-teams-up-with-Miffy-for-a-playful-new-watch-with-a-strange-dial.1438921.0.html"
+    }
+   ]
+  }
+ ],
+ "trends": [
+  {
+   "title": "功能配件「挂饰化」：手表变戒指、变包挂，眼镜可换磁吸charm",
+   "tier1": "珠宝腕表",
+   "stage": "上升",
+   "description": "48小时内出现三个独立案例：①卡西欧指环表CRW-002，把A168电子表缩成戒指，约135美元，11月发售；②BABY-G×泡泡玛特Baby Molly，表带附挂扣，可挂在腰间或包上，11/3在新加坡发售；③BONBONWHIMS×GlassesUSA推出带磁吸位的眼镜，7种charm可随时更换，售价98美元。三者共同点：把「功能品」拆解成可玩、可换、可挂的饰品，借IP和Y2K情绪提高购买频次。这一方向与此前跟踪的包挂（bag charm）热潮相承，正从箱包扩散到腕表和眼镜。",
+   "opportunity": "经营：①眼镜品牌和配镜平台可开发镜腿磁吸挂饰、眼镜链等配件SKU，以低单价提高客单价和复购；②手表和饰品品牌可做「表+挂扣」或「表芯+多种佩戴方式」的组合；③箱包品牌可与眼镜、腕表做挂饰的跨品类联名。投资：关注拥有IP授权能力和小件饰品柔性供应链的公司。",
+   "evidence": [
+    {
+     "title": "T客邦：卡西欧指环表CRW-002（2026-10-31）",
+     "url": "https://www.techbang.com/posts/133788-casio-crw-002-ring-watch-a168"
+    },
+    {
+     "title": "Confirm Good：BABY-G × Baby Molly（2026-10-30）",
+     "url": "https://confirmgood.com/post/baby-g-baby-molly-casio-collaboration/"
+    },
+    {
+     "title": "ContentGrip：BONBONWHIMS × GlassesUSA charm eyewear（2026-10-31）",
+     "url": "https://www.contentgrip.com/bonbonwhims-glassesusa-charm-eyewear/"
+    }
+   ]
+  },
+  {
+   "title": "品牌官方接管二手：从劳力士CPO到爱彼「The Watch Keepers」，奢侈品二级市场「去中介化」",
+   "tier1": "珠宝腕表",
+   "stage": "上升",
+   "description": "爱彼10/30在欧洲和瑞士推出认证二手项目：品牌收表、翻修、5级成色评级、一口价或竞价，并提供2年质保。与此同时，第三方二手的溢价在收窄：路透援引Bernstein数据称，Birkin 25二手溢价已从2.6倍降至1.7倍，挂牌量为疫情前的6–7倍。贝恩春季报告也指出，约一半奢侈品消费者在买新品前会先查看二手市场。二手溢价回落时，品牌更有动力亲自掌握二手的定价和认证，防止二手价格拉低新品价格。",
+   "opportunity": "经营：轻奢箱包和腕表品牌可先从「官方回收+以旧换新抵扣」做起，把二手客户导回新品；建立成色评级标准和翻新能力，是开展此类业务的前提。投资：第三方二手平台面临品牌自营挤压与溢价收窄的双重压力，鉴定、翻新和寄售SaaS等B端服务商可能受益。",
+   "evidence": [
+    {
+     "title": "CNA Luxury：Audemars Piguet certified pre-owned programme（2026-10-30）",
+     "url": "https://cnaluxury.channelnewsasia.com/obsessions/audemars-piguet-certified-pre-owned-program-watch-keepers-296076"
+    },
+    {
+     "title": "The Star/Reuters：The Birkin bubble begins to burst（2026-10-31）",
+     "url": "https://www.thestar.com.my/business/business-news/2026/10/31/the-birkin-bubble-begins-to-burst"
+    },
+    {
+     "title": "Bain-Altagamma春季报告新闻稿（2026-06-25）",
+     "url": "https://www.bain.com/about/media-center/press-releases/2026/global-luxury-stabilizes-amid-compounding-disruptions-as-brands-race-to-amplify-meaning-and-rebuild-relevance/"
+    }
+   ]
+  }
+ ],
+ "brand_insights": [
+  {
+   "brand": "卡西欧",
+   "tier1": "珠宝腕表",
+   "title": "卡西欧：把手表做成饰品和潮玩，用「经典表壳×无限变体」应对中价位塌陷",
+   "body": "产品：48小时内有三条产品线同时上新。①CRW-002指环表，以A168为原型缩成戒指，约135美元，11月发售；②G-SHOCK「CasiOak」GBM-2100LXB-1A2，格纹立体表盘对标爱彼皇家橡树Tapisserie，属Luxe Black系列（前作约260美元）；③BABY-G×泡泡玛特Baby Molly，表带可转作包挂，11/3在新加坡发售，169新元。加上10/30发售的G-SHOCK×Girls Don't Cry情侣表，卡西欧沿着「经典表壳+配色/联名/形态变体」的思路高频出新。\n\n定位：2100系列自2019年起已推出数百款配色，「CasiOak」的外号本身就是平价对照奢侈表的营销资产。指环表和包挂把手表推向饰品和潮玩，目标客群从表迷扩展到女性和IP收藏者。\n\n行业背景：PME数据显示，瑞士200瑞郎以下销量10年减半，Swatch品牌年销量从约1500万枚降至约400万枚。卡西欧在同一价位用电子表加IP守住了份额，说明低价表的竞争要素已从机芯转向设计迭代速度和IP运营。\n\n局限：本期材料均为产品层信息，未包含销量和财务数据；中国市场的定价和发售节奏仍需跟踪。",
+   "investor_view": "投资视角：卡西欧手表业务的韧性来自低研发成本的平台化表壳和高周转的联名，可视作「表业中的快时尚」。需跟踪的指标：联名款售罄率、二级市场溢价，以及女性线BABY-G的增长。风险在于高频联名稀释品牌和渠道库存，可在下次财报中验证手表分部的利润率。",
+   "operator_view": "经营视角：①国产腕表和饰品品牌可借鉴「一个经典表壳、多种变体」的平台化开发，降低单款开模成本；②与潮玩IP合作时，把可挂、可拆、可转换的设计做成卖点，同时覆盖手腕和包两个佩戴场景；③指环表、迷你表适合在饰品店和潮玩店铺货，突破传统钟表柜台。",
+   "sources": [
+    {
+     "title": "T客邦：卡西欧CRW-002（2026-10-31）",
+     "url": "https://www.techbang.com/posts/133788-casio-crw-002-ring-watch-a168"
+    },
+    {
+     "title": "Gear Patrol：GBM-2100LXB-1A2（2026-10-30）",
+     "url": "https://www.gearpatrol.com/watches/g-shock-gbm-2100lxb-1a2-casioak/"
+    },
+    {
+     "title": "Confirm Good：BABY-G × Baby Molly（2026-10-30）",
+     "url": "https://confirmgood.com/post/baby-g-baby-molly-casio-collaboration/"
+    },
+    {
+     "title": "PME：瑞士制表业困境（2026-10-30）",
+     "url": "https://www.pme.ch/actualites/suisse-lhorlogerie-en-difficulte-des-voix-brisent-lomerta/2h2y2cl"
+    }
+   ]
+  }
+ ],
+ "reading_list": [
+  {
+   "title": "The Birkin bubble begins to burst",
+   "source": "The Star / Reuters Breakingviews",
+   "date": "2026-10-31",
+   "url": "https://www.thestar.com.my/business/business-news/2026/10/31/the-birkin-bubble-begins-to-burst",
+   "tier1": "箱包"
+  },
+  {
+   "title": "Suisse: l'horlogerie en difficulté, des voix brisent l'omerta",
+   "source": "PME",
+   "date": "2026-10-30",
+   "url": "https://www.pme.ch/actualites/suisse-lhorlogerie-en-difficulte-des-voix-brisent-lomerta/2h2y2cl",
+   "tier1": "珠宝腕表"
+  },
+  {
+   "title": "Wuhan becomes luxury's gateway to central China",
+   "source": "Jing Daily",
+   "date": "2026-10-29",
+   "url": "https://jingdaily.com/posts/wuhan-becomes-luxury-gateway-to-central-china",
+   "tier1": "综合"
+  },
+  {
+   "title": "Luxury is no longer about what you own, but who you become",
+   "source": "Jing Daily",
+   "date": "2026-10-31",
+   "url": "https://jingdaily.com/posts/luxury-is-no-longer-about-what-you-own-but-who-you-become",
+   "tier1": "综合"
+  },
+  {
+   "title": "How Fashion Is Doing Business in the Middle East's New Reality",
+   "source": "BoF",
+   "date": "2026-10-30",
+   "url": "https://www.businessoffashion.com/articles/global-markets/how-fashion-is-doing-business-in-the-middle-easts-new-reality-gulf-dubai-fashion-week-saudi-arabia/",
+   "tier1": "综合"
+  }
+ ],
+ "brand_scan": {
+  "window": "2026-10-30..2026-11-01",
+  "method": "逐一检索63个品牌（大图按用户偏好跳过）：用Exa web_search_exa公开端点，每个品牌2–3组查询（中文名/英文名+新品、联名、门店、财报等），按发布时间筛选10/30–11/01；X（search_posts_all）用中英文品牌名两组布尔查询检索10/30起的帖子；重点条目用WebFetch核对原文（T客邦、Gear Patrol、Confirm Good、Notebookcheck、il Giornale、财闻网等），并按URL和事件与10/21–10/31日报去重。",
+  "note": "有可计入的品牌新闻 3/64（卡西欧、天美时集团、依视路），共5条。周末窗口按48小时取材。GROTTO个乐沈阳活动、帕莎代言人花絮只有聚合页或粉丝转发作为信源，不计入；亨得利控股股价异动与零售品牌的权属关系未核实，不计入。其余品牌未检到可核实发布日期与原文链接的新闻（不代表没有线下或社媒活动）；软文和SEO页面不作为唯一信源。",
+  "per_brand": {
+   "裘真": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "Fakeme": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "山下有松": "X上有10/30–31日媒转述「日本品牌」辟谣与维权，与10/29已报事件相同，不重复计入",
+   "LOLA ROSE": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "HEFANG": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "雅瑞光学": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "ARSIS": "同名噪声",
+   "蔡司": "进博会预告已于10/30–31报道，无新增",
+   "依视路": "有：Delfin案Strnad声明与LMdV重申反对（10/30–31）；被列为Armani 15%股权优先买家（10/30）",
+   "CHARLES&KEITH": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "新秀丽": "港股10/30–31小幅波动仅见财经快讯；Batman联名为10/21，窗口外",
+   "ITO": "同名噪声",
+   "GROTTO个乐": "10/30孙千沈阳万象城线下活动，仅见新浪娱乐聚合页（软文/转载），无独立信源，不计入",
+   "白岚": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "万事利": "三季报已报，无新增",
+   "ECODAY": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "bampo": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "卡西欧": "有：CRW-002指环表（10/31）；G-SHOCK CasiOak GBM-2100LXB格纹盘（10/30）；BABY-G×Baby Molly（10/30，11/3新加坡发售）",
+   "德津": "同名噪声",
+   "LEVEL8地平线8号": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "九格眼镜": "同名噪声",
+   "欧克利": "仅见旧闻与社交帖，无窗口内新闻",
+   "FANCI范琦": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "GENTLE MONSTER": "Margiela联名与三星眼镜已报，无新增",
+   "纽芝兰": "同名噪声",
+   "明月镜片": "仅资金流向类软稿，不计入",
+   "CECE": "同名噪声",
+   "柯达": "同名噪声（柯达镜片无窗口内新闻）",
+   "BAGSMART": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "CIGALONG": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "abyb jewelry": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "海伦凯勒眼镜": "仅电商/百科页",
+   "包包树BAGTREE": "仅电商页",
+   "飞亚达": "三季报与液冷回复均于10/29发布、已报，无新增",
+   "梵誓ONESWEAR": "仅电商页",
+   "KKLUE轻珠宝": "仅官网商品页",
+   "天美时集团": "有：Pop & Miffy by Timex MK1（10/31官宣）；Intrepid×Dimepiece Blackout仅见转载站，未计入",
+   "JELLYTOYBOY": "仅电商页",
+   "卡蒂罗": "仅电商页",
+   "尤目": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "ORANGE CUBE": "澳洲官网10/29博客为内容营销，不计入；上海时装周已报",
+   "古良吉吉": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "亨得利钟表": "上市公司亨得利控股（3389.HK）10/30盘中跌超27%（财闻网），与「亨得利钟表」零售连锁的权属关系需核实，不计入；其余为售后网点SEO稿",
+   "甲目眼镜": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "TAD FAB": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "FANGYI方宜": "同名噪声",
+   "老雷线上配镜": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "抱树BYROOTS": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "TELETIES": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "DAVENA": "仅电商与旧联名页",
+   "首末集团": "同名噪声",
+   "大图": "按用户偏好跳过",
+   "卡拉羊": "仅京东双11促销微博/线报",
+   "P&N": "同名噪声",
+   "PARIM": "检索结果为巴黎三城（Paris Miki）等同名噪声",
+   "上海夕和眼镜": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "超视立": "10/29改革网「一字之差」稿件为品牌软文，且在窗口外，不计入",
+   "御行": "同名噪声",
+   "木九十": "仅官网/电商页",
+   "天空树假发": "仅电商/百科页",
+   "不莱玫": "10/29新浪聚合稿（行李箱配色），软文且在窗口外",
+   "帕莎": "10/30微博发布代言人鞠婧祎拍摄花絮（仅粉丝账号在X转发），属常规社媒内容，不计入",
+   "CASSILE卡思乐": "仅电商页",
+   "BLACKHEAD": "同名噪声，无窗口内新闻"
+  }
+ },
+ "sources": [
+  {
+   "name": "每日经济新闻",
+   "url": "https://www.nbd.com.cn/",
+   "tier1": "综合"
+  },
+  {
+   "name": "中新网",
+   "url": "https://www.chinanews.com.cn/",
+   "tier1": "综合"
+  },
+  {
+   "name": "中新经纬",
+   "url": "https://www.jwview.com/",
+   "tier1": "珠宝腕表"
+  },
+  {
+   "name": "Investing.com",
+   "url": "https://hk.investing.com/",
+   "tier1": "综合"
+  },
+  {
+   "name": "21世纪经济报道",
+   "url": "https://www.21jingji.com/",
+   "tier1": "综合"
+  },
+  {
+   "name": "澎湃新闻",
+   "url": "https://www.thepaper.cn/",
+   "tier1": "综合"
+  },
+  {
+   "name": "Observer",
+   "url": "https://observer.com/",
+   "tier1": "综合"
+  },
+  {
+   "name": "CNA Luxury",
+   "url": "https://cnaluxury.channelnewsasia.com/",
+   "tier1": "珠宝腕表"
+  },
+  {
+   "name": "PME",
+   "url": "https://www.pme.ch/",
+   "tier1": "珠宝腕表"
+  },
+  {
+   "name": "The Star",
+   "url": "https://www.thestar.com.my/",
+   "tier1": "综合"
+  },
+  {
+   "name": "ad-hoc-news",
+   "url": "https://www.ad-hoc-news.de/",
+   "tier1": "综合"
+  },
+  {
+   "name": "ContentGrip",
+   "url": "https://www.contentgrip.com/",
+   "tier1": "眼镜"
+  },
+  {
+   "name": "T客邦",
+   "url": "https://www.techbang.com/",
+   "tier1": "珠宝腕表"
+  },
+  {
+   "name": "Gear Patrol",
+   "url": "https://www.gearpatrol.com/",
+   "tier1": "珠宝腕表"
+  },
+  {
+   "name": "Notebookcheck",
+   "url": "https://www.notebookcheck.net/",
+   "tier1": "珠宝腕表"
+  },
+  {
+   "name": "il Giornale",
+   "url": "https://www.ilgiornale.it/",
+   "tier1": "眼镜"
+  },
+  {
+   "name": "Jing Daily",
+   "url": "https://jingdaily.com/",
+   "tier1": "综合"
+  }
+ ]
+}
