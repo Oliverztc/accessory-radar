@@ -1,0 +1,446 @@
+{
+ "date": "2026-11-02",
+ "headline": "北京补贴智能眼镜引爆镜片股；韩国百货珠宝增速骤降、宝诗龙罕见回调价格，「黄金平替」出口大增",
+ "summary": "补发（原定08:00的定时运行失败）。行业动态窗口为11/1 08:00至11/2 23:00，品牌动态窗口为48小时。主线有三条：一是眼镜政策，北京对智能眼镜补贴15%、最高500元，明月镜片等镜片股涨超10%；二是珠宝需求向下迁移，韩国百货珠宝增速从约70%降到约20%，宝诗龙回调价格，同时金饰小克重和14K、铜饰平替走强；三是大促渠道，天猫奢品独家新品成交额同比增长109%，依视路陆逊梯卡的控股股东Delfin迎来第二份收购报价。",
+ "industry_news": [
+  {
+   "date": "2026-11-01",
+   "source": "韩国经济杂志",
+   "title": "콧대 높던 명품 저무나 가격 올리다 매출감소 역풍",
+   "url": "https://magazine.hankyung.com/business/article/202611018125b",
+   "tier1": "珠宝腕表",
+   "type": "数据",
+   "importance": 4,
+   "segment": "奢侈品",
+   "summary": "乐天、新世界、现代三大百货奢侈品销售增速从Q2约40%降至Q3二十多%、10月降至10%台（乐天15%、新世界10.2%、现代11.8%）；珠宝增速从Q2的65–81%骤降至10月的15–21%。宝诗龙把7月上调的部分价格在10月回调到原价，奢侈品牌少见。"
+  },
+  {
+   "date": "2026-11-01",
+   "source": "东亚日报",
+   "title": "주식 부진은 명품도 못 이긴다…百 매출 '뚝'·부쉐론 가격 인하도",
+   "url": "https://www.donga.com/news/Economy/article/all/20261101/134944410/1",
+   "tier1": "综合",
+   "type": "市场",
+   "importance": 3,
+   "segment": "奢侈品",
+   "summary": "同一组数据的另一来源：LVMH、爱马仕、开云股价较去年末都跌了约40%；FT统计欧洲六大上市奢侈品集团年内市值蒸发2510亿欧元；摩根士丹利称中国奢侈品市场持续两位数增长的时代大概率结束。"
+  },
+  {
+   "date": "2026-11-01",
+   "source": "Global Times",
+   "title": "China's gold jewelry sales pick up as prices fall; consumption shifts to daily wear, emotional purchase",
+   "url": "https://www.globaltimes.cn/page/202611/1373421.shtml",
+   "tier1": "珠宝腕表",
+   "type": "市场",
+   "importance": 4,
+   "segment": "大众",
+   "summary": "金价跌到一年新低后（部分品牌金饰每克较年内高点低近550元），国内金饰销售明显回暖：5克左右的小件和婚庆金最受欢迎；水贝门店10月销售较9月增长30–40%，有的翻倍；羊年生肖金已占部分门店相关品类一半销售。菜百称年轻人约占销售一半。"
+  },
+  {
+   "date": "2026-11-01",
+   "source": "21经济网/央视财经",
+   "title": "“黄金平替”全球爆单！出口大增",
+   "url": "https://www.21jingji.com/article/20261101/herald/a090b5ba071732c96f294b434998fb6f.html",
+   "tier1": "珠宝腕表",
+   "type": "数据",
+   "importance": 4,
+   "segment": "大众",
+   "summary": "海关数据：前三季度贵金属或包贵金属首饰出口超102亿美元，同比增长17.55%；广东73亿美元，增长超36.54%。汕尾工厂里14K金占出口八成以上，18K金占比从18%降到12%；六成客户从银饰改采铜饰，铜饰订单增长50%；电镀从24K改为18K。"
+  },
+  {
+   "date": "2026-11-02",
+   "source": "中国经济网/央视网",
+   "title": "北京：购买智能眼镜补贴15%、最高500元",
+   "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261102_3280163.shtml",
+   "tier1": "眼镜",
+   "type": "政策",
+   "importance": 5,
+   "segment": "大众",
+   "summary": "北京市商务局印发《促进智能眼镜消费政策指南》七项措施：按最终售价15%补贴、每件最高500元；首店和首发活动、品牌IP联名各最高奖励100万元；国际化消费空间最高支持2000万元；另有离境退税、数字化和出海支持。"
+  },
+  {
+   "date": "2026-11-02",
+   "source": "财联社",
+   "title": "AI眼镜概念震荡反弹 明月镜片等多股涨超10%",
+   "url": "https://m.cls.cn/detail/2522186",
+   "tier1": "眼镜",
+   "type": "资本",
+   "importance": 3,
+   "segment": "大众",
+   "summary": "北京智能眼镜补贴政策公布后，明月镜片、极米科技、视涯科技、天键股份盘中涨超10%，芯瑞达涨停，博士眼镜、虹软科技跟涨。"
+  },
+  {
+   "date": "2026-11-02",
+   "source": "Vision Monday",
+   "title": "Hoya Reports Revenue Growth for Second Quarter and First Half of 2026",
+   "url": "https://www.visionmonday.com/eyecare/article/hoya-reports-revenue-growth-for-second-quarter-and-first-half-of-2026/",
+   "tier1": "眼镜",
+   "type": "数据",
+   "importance": 3,
+   "segment": "轻奢",
+   "summary": "豪雅FY2026 Q2营收2602亿日元（+10.9%，固定汇率+6.6%），经营利润+27%。眼镜片销售+8%（固定汇率仅+1%），靠新乐学MiYOSMART等高附加值产品支撑；美国眼镜业务因重组下滑。上半年营收+13.4%，经营利润+31.6%。"
+  },
+  {
+   "date": "2026-11-02",
+   "source": "证券日报网",
+   "title": "双11天猫奢品独家新品成交额同比增长109%",
+   "url": "http://www.zqrb.cn/gscy/qiyexinxi/2026-11-02/A1793611991712.html",
+   "tier1": "箱包",
+   "type": "渠道",
+   "importance": 4,
+   "segment": "奢侈品",
+   "summary": "奢侈品牌在天猫发布了一万多款独家和联名新品，数量创新高；卡地亚、蔻驰、Graff、珑骧、缪缪、普拉达、蒂芙尼等40多个品牌成交额同比两位数增长。Fendi首发Croissant手袋，普拉达、巴黎世家、葆蝶家都上了天猫专享包袋，Tory Burch Charlie水桶包售罄后补货。"
+  },
+  {
+   "date": "2026-11-01",
+   "source": "中国质量新闻网",
+   "title": "黄金首饰京东11.11热销 领丰金、诗普琳、金大福增长超2倍",
+   "url": "https://www.cqn.com.cn/cj/content/2026-11/01/content_9178772.htm",
+   "tier1": "综合",
+   "type": "渠道",
+   "importance": 3,
+   "segment": "轻奢",
+   "summary": "京东11.11前半程（10/30 20:00–10/31）：SGG、依慧达等200多个箱包表配品牌成交额同比翻倍，智能骑行箱、男士托特、多功能手表品类翻倍；宫藏金饰增长超10倍，水贝产业带品牌增长超2倍，和田玉手镯增长近2倍；奢侈品太阳镜成交额同比翻倍。"
+  },
+  {
+   "date": "2026-11-02",
+   "source": "Robb Report Singapore",
+   "title": "This Week in Luxury: Vacheron Constantin marks the upcoming year...",
+   "url": "https://robbreport.com.sg/luxury-news-100/",
+   "tier1": "珠宝腕表",
+   "type": "新品",
+   "importance": 2,
+   "segment": "奢侈品",
+   "summary": "江诗丹顿提前发布2027羊年「艺术大师·中国十二生肖传奇」：浮雕雕刻、微绘和大明火珐琅，搭载Calibre 2460 G4，限量50枚（玫瑰金、铂金各25枚）。生肖题材已同时出现在顶级腕表和大众金饰两端。"
+  }
+ ],
+ "brand_news": [
+  {
+   "brand": "依视路",
+   "date": "2026-11-02",
+   "source": "AD HOC NEWS（援引路透）",
+   "title": "EssilorLuxottica stock faces new Delfin bid from family heir",
+   "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/essilorluxottica-stock-faces-new-delfin-bid-from-family-heir/70445914",
+   "summary": "莱昂纳多·马里亚·德尔维奇奥11/2提出收购Delfin其他股东的持股，据称已获最高220亿欧元融资，目标拿下8份中的5到6份，计划11/7前提交方案；这与捷克商人Strnad约300亿欧元的报价直接竞争。依视路陆逊梯卡股价当日约184.4欧元，小跌约1.4%。"
+  },
+  {
+   "brand": "天美时集团",
+   "date": "2026-11-02",
+   "source": "PR TIMES（日本总代理ウエニ貿易）",
+   "title": "TIMEX「IRONMAN®」40周年 40th Anniversary Edition与Japan Limited Edition 3款",
+   "url": "https://prtimes.jp/main/html/rd/p/000002074.000025284.html",
+   "summary": "Ironman 8-Lap 40周年版（半透明蓝红，TW5M75900）加3款日本限定，11/2开始预订、11/20发售，19,800日元（含税）；附赠可当挂绳或登山扣的赠品，鼓励挂在包上或腰间。"
+  },
+  {
+   "brand": "明月镜片",
+   "date": "2026-11-02",
+   "source": "财联社",
+   "title": "AI眼镜概念震荡反弹 明月镜片等多股涨超10%",
+   "url": "https://m.cls.cn/detail/2522186",
+   "summary": "北京智能眼镜购新补贴（15%、最高500元）公布后，明月镜片盘中涨超10%，领涨AI眼镜板块。"
+  },
+  {
+   "brand": "山下有松",
+   "date": "2026-11-01",
+   "source": "中国质量新闻网",
+   "title": "黄金首饰京东11.11热销 领丰金、诗普琳、金大福增长超2倍",
+   "url": "https://www.cqn.com.cn/cj/content/2026-11/01/content_9178772.htm",
+   "summary": "京东11.11（10/30 20:00–10/31）箱包表配：Songmont成交额同比翻倍，与小米、罗西尼并列为增长翻倍的品牌。"
+  },
+  {
+   "brand": "LOLA ROSE",
+   "date": "2026-11-01",
+   "source": "中国质量新闻网",
+   "title": "黄金首饰京东11.11热销 领丰金、诗普琳、金大福增长超2倍",
+   "url": "https://www.cqn.com.cn/cj/content/2026-11/01/content_9178772.htm",
+   "summary": "京东通过「品类击穿」和品牌共建，把Lola Rose闪星系列项链推进京东11.11品类销售TOP10。"
+  },
+  {
+   "brand": "GENTLE MONSTER",
+   "date": "2026-11-02",
+   "source": "证券日报网",
+   "title": "双11天猫奢品独家新品成交额同比增长109%",
+   "url": "http://www.zqrb.cn/gscy/qiyexinxi/2026-11-02/A1793611991712.html",
+   "summary": "Maison Margiela×GENTLE MONSTER联名眼镜在天猫独家首发，是拉动天猫奢品独家新品成交额同比增长109%的联名系列之一；另据中国质量新闻网11/1报道，GENTLE MONSTER在京东11.11成交额翻倍（https://www.cqn.com.cn/cj/content/2026-11/01/content_9178772.htm）。联名产品本身已于10/29报道过，这里只计渠道表现。"
+  }
+ ],
+ "insights": [
+  {
+   "title": "珠宝：奢侈品高位降温，「平替金」和小克重金饰接住需求",
+   "tier1": "珠宝腕表",
+   "body": "过去48小时的几组数据方向一致：高价珠宝在降温，低克重金饰和平替材质在升温。韩国三大百货的珠宝销售增速从二季度的65–81%降到10月的15–21%，奢侈品整体增速也降到10%台。宝诗龙把7月上调的部分价格在10月回调到原价，在一贯只涨不降的奢侈珠宝行业，这是个值得注意的信号。资本市场上，LVMH、爱马仕、开云股价较去年末都跌了约40%。\n\n同一时间，中国金饰在金价一年新低后回暖。水贝门店10月销售较9月增长30–40%，5克左右的小件、婚庆金和羊年生肖金卖得最好；京东11.11上，宫藏金饰增长超10倍，水贝产业带品牌增长超2倍。出口端的「平替」更明显：前三季度贵金属首饰出口102亿美元（+17.55%），广东增长超36%；海外买家从18K换到14K，从银饰换到铜饰，电镀从24K换到18K。\n\n投资人视角：需求没有消失，而是在往下迁移。估值溢价会更多给到两类公司：一类能把金价波动转化为成交，靠工费、IP和设计溢价，而不是靠克重；另一类掌握柔性供应链（汕尾、水贝）、能快速响应出口平替订单。奢侈珠宝的定价权正在接受考验，宝诗龙降价如果扩散，品牌估值逻辑要重新看。\n\n经营者视角：轻奢和设计师珠宝（如LOLA ROSE、HEFANG、ARSIS）应把主力价格带锁在消费者能冲动购买的区间，用生肖和情绪化主题做节点款。银价高企的情况下，可以测试铜镀金和14K材质的产品线，同时说清楚材质，防止客诉。",
+   "refs": [
+    {
+     "title": "韩国经济：百货奢侈品增速降至10%台",
+     "url": "https://magazine.hankyung.com/business/article/202611018125b"
+    },
+    {
+     "title": "东亚日报：宝诗龙回调价格",
+     "url": "https://www.donga.com/news/Economy/article/all/20261101/134944410/1"
+    },
+    {
+     "title": "Global Times：金饰销售回暖",
+     "url": "https://www.globaltimes.cn/page/202611/1373421.shtml"
+    },
+    {
+     "title": "21经济网：黄金平替出口大增",
+     "url": "https://www.21jingji.com/article/20261101/herald/a090b5ba071732c96f294b434998fb6f.html"
+    },
+    {
+     "title": "中国质量新闻网：京东11.11黄金珠宝",
+     "url": "https://www.cqn.com.cn/cj/content/2026-11/01/content_9178772.htm"
+    }
+   ]
+  },
+  {
+   "title": "眼镜：政策补贴点燃AI眼镜，传统镜片龙头靠高附加值稳住利润",
+   "tier1": "眼镜",
+   "body": "北京的《促进智能眼镜消费政策指南》是这两天最直接的催化：购新补贴15%、单件最高500元，加上首店、首发、IP联名各最高100万元的奖励。市场当天就有反应，明月镜片等AI眼镜概念股盘中涨超10%。补贴的对象是「智能眼镜产品」，但真正落地还要靠验光配镜和处方镜片，这对拥有镜片和渠道能力的公司有利。\n\n海外龙头的数据给出了另一面。豪雅Q2眼镜片销售按报告口径增长8%，固定汇率下只有1%，主要靠新乐学这类近视管理高附加值产品撑着；依视路陆逊梯卡Q3穿戴设备增速从Q2的近100%降到20%，近视管理反而增长24%。也就是说，AI眼镜是增量叙事，近视管理和高端镜片才是利润的压舱石。\n\n依视路陆逊梯卡的控股股东Delfin正在上演争夺：德尔维奇奥之子筹集了220亿欧元，与Strnad的300亿欧元报价竞争，11/7前要提交方案。短期不改变经营，但会影响治理和资本配置的预期。\n\n投资人视角：A股镜片和配镜标的的估值弹性来自政策，但要看补贴真正核销的品类和金额；更稳健的是押注「镜片能力+AI眼镜适配」的公司。经营者视角：配镜连锁和线上配镜服务可以申请首店、联名和数字化补贴，把AI眼镜试戴和处方镜片验配做成一站式服务。",
+   "refs": [
+    {
+     "title": "北京智能眼镜补贴政策",
+     "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261102_3280163.shtml"
+    },
+    {
+     "title": "财联社：AI眼镜概念股反弹",
+     "url": "https://m.cls.cn/detail/2522186"
+    },
+    {
+     "title": "Vision Monday：豪雅Q2",
+     "url": "https://www.visionmonday.com/eyecare/article/hoya-reports-revenue-growth-for-second-quarter-and-first-half-of-2026/"
+    },
+    {
+     "title": "AD HOC：Delfin新报价",
+     "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/essilorluxottica-stock-faces-new-delfin-bid-from-family-heir/70445914"
+    },
+    {
+     "title": "AD HOC：依视路陆逊梯卡穿戴设备增速放缓",
+     "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/essilorluxottica-aktie-wachstum-trifft-auf-schwaechere-wearables-dynamik/70446148"
+    }
+   ]
+  }
+ ],
+ "trends": [
+  {
+   "title": "地方补贴推动AI眼镜进入「配镜渠道」",
+   "tier1": "眼镜",
+   "stage": "萌芽",
+   "description": "北京把智能眼镜纳入购新补贴（15%、最高500元），还配套首店、联名和数字化奖励；资本市场随即追涨镜片股。龙头公司的穿戴设备增速在放缓，政策成为新的需求托底。",
+   "opportunity": "做处方AI眼镜验配一站式服务、适配AI眼镜的镜片（如蔡司翎思一类产品），以及门店的补贴核销工具；其他城市可能跟进类似政策。",
+   "evidence": [
+    {
+     "title": "北京智能眼镜补贴",
+     "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261102_3280163.shtml"
+    },
+    {
+     "title": "财联社：AI眼镜概念股",
+     "url": "https://m.cls.cn/detail/2522186"
+    },
+    {
+     "title": "依视路陆逊梯卡穿戴设备增速放缓",
+     "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/essilorluxottica-aktie-wachstum-trifft-auf-schwaechere-wearables-dynamik/70446148"
+    }
+   ]
+  },
+  {
+   "title": "「黄金平替」：14K、铜饰和镀18K的出口与国内需求同步走强",
+   "tier1": "珠宝腕表",
+   "stage": "上升",
+   "description": "贵金属价格高位，海外买家把18K降到14K、把银饰换成铜饰；国内则是金价回落后小克重金饰放量。",
+   "opportunity": "依托汕尾、水贝产业带做ODM和自有品牌出海，在中东和美国推铜镀金时尚饰品；轻奢品牌可以出平替材质的副线。",
+   "evidence": [
+    {
+     "title": "21经济网：黄金平替出口",
+     "url": "https://www.21jingji.com/article/20261101/herald/a090b5ba071732c96f294b434998fb6f.html"
+    },
+    {
+     "title": "Global Times：金饰回暖",
+     "url": "https://www.globaltimes.cn/page/202611/1373421.shtml"
+    }
+   ]
+  },
+  {
+   "title": "奢侈品把天猫当新品首发渠道：独家联名成为双11增长主力",
+   "tier1": "箱包",
+   "stage": "上升",
+   "description": "一万多款独家和联名新品，奢品独家新品成交额同比增长109%；Fendi、普拉达、葆蝶家都上了专享包袋，GM×Margiela在天猫独家首发。与此同时，韩国线下奢侈品增速在降温。",
+   "opportunity": "国产轻奢箱包可以用平台独家色、独家款做大促的爆品，同时控制折扣，避免伤害价格体系。",
+   "evidence": [
+    {
+     "title": "证券日报网：天猫奢品",
+     "url": "http://www.zqrb.cn/gscy/qiyexinxi/2026-11-02/A1793611991712.html"
+    },
+    {
+     "title": "韩国经济：线下降温",
+     "url": "https://magazine.hankyung.com/business/article/202611018125b"
+    }
+   ]
+  }
+ ],
+ "brand_insights": [
+  {
+   "brand": "依视路",
+   "tier1": "眼镜",
+   "title": "依视路陆逊梯卡：Delfin控制权两强相争，主业由近视管理托底",
+   "body": "11/2，德尔维奇奥之子提出收购Delfin其他继承人的股份，据称已获最高220亿欧元融资，目标是8份中的5到6份，计划11/7前提交方案，与Strnad约300亿欧元的报价正面竞争。Delfin持有依视路陆逊梯卡约32.4%的股份。\n\n经营层面，Q3营收74.86亿欧元（固定汇率+7.2%），近视管理增长24%，穿戴设备增速从Q2的近100%降到20%。主业仍然稳健，AI眼镜的高增长阶段在退潮。",
+   "investor_view": "控制权争夺可能带来溢价预期和治理不确定性；如果最终由「意大利方案」胜出，战略连续性更强。要关注11/7方案中的融资结构，判断是否会带来减持或分红诉求。",
+   "operator_view": "对中国的镜片和配镜经营者来说，依视路的打法（星趣控®/Stellest近视管理+联名镜框+AI眼镜）仍是标杆；在对方股权动荡期间，可以争取它的渠道和人才，加速自己的近视管理产品线。",
+   "sources": [
+    {
+     "title": "AD HOC：Delfin新报价",
+     "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/essilorluxottica-stock-faces-new-delfin-bid-from-family-heir/70445914"
+    },
+    {
+     "title": "Eyewear Intelligence",
+     "url": "https://www.ewintelligence.com/latest-headlines/1603.more?navcode=358"
+    },
+    {
+     "title": "AD HOC：依视路陆逊梯卡Q3",
+     "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/essilorluxottica-aktie-wachstum-trifft-auf-schwaechere-wearables-dynamik/70446148"
+    }
+   ]
+  },
+  {
+   "brand": "GENTLE MONSTER",
+   "tier1": "眼镜",
+   "title": "GENTLE MONSTER：用奢侈品联名占住天猫和京东的大促首发位",
+   "body": "Maison Margiela×GENTLE MONSTER第四次联名（68款）在天猫独家首发，被平台列为奢品独家新品成交额增长109%的代表系列；京东11.11前半程，GENTLE MONSTER成交额同比翻倍，奢侈品太阳镜整体翻倍。\n\n把高频联名和平台独家首发绑定，让一个轻奢眼镜品牌在大促中拿到了与奢侈品同等的流量位。",
+   "investor_view": "联名带来的增长可以复制，但依赖IP合作方；要看非联名常规款的复购和线下体验店的坪效，判断品牌溢价能否持续。",
+   "operator_view": "国产眼镜品牌（木九十、帕莎等）可以借鉴「设计师或奢侈品联名+平台独家首发」的组合，配合北京对首发和联名的补贴，降低首发成本。",
+   "sources": [
+    {
+     "title": "证券日报网：天猫奢品",
+     "url": "http://www.zqrb.cn/gscy/qiyexinxi/2026-11-02/A1793611991712.html"
+    },
+    {
+     "title": "中国质量新闻网：京东11.11",
+     "url": "https://www.cqn.com.cn/cj/content/2026-11/01/content_9178772.htm"
+    },
+    {
+     "title": "GENTLE MONSTER官方X",
+     "url": "https://x.com/_GentleMonster_/status/2117257973877879230"
+    }
+   ]
+  }
+ ],
+ "reading_list": [
+  {
+   "title": "콧대 높던 명품 저무나 가격 올리다 매출감소 역풍",
+   "source": "韩国经济杂志",
+   "date": "2026-11-01",
+   "url": "https://magazine.hankyung.com/business/article/202611018125b",
+   "tier1": "珠宝腕表"
+  },
+  {
+   "title": "China's gold jewelry sales pick up as prices fall",
+   "source": "Global Times",
+   "date": "2026-11-01",
+   "url": "https://www.globaltimes.cn/page/202611/1373421.shtml",
+   "tier1": "珠宝腕表"
+  },
+  {
+   "title": "“黄金平替”全球爆单！出口大增",
+   "source": "21经济网",
+   "date": "2026-11-01",
+   "url": "https://www.21jingji.com/article/20261101/herald/a090b5ba071732c96f294b434998fb6f.html",
+   "tier1": "珠宝腕表"
+  },
+  {
+   "title": "Hoya Reports Revenue Growth for Second Quarter and First Half of 2026",
+   "source": "Vision Monday",
+   "date": "2026-11-02",
+   "url": "https://www.visionmonday.com/eyecare/article/hoya-reports-revenue-growth-for-second-quarter-and-first-half-of-2026/",
+   "tier1": "眼镜"
+  },
+  {
+   "title": "双11天猫奢品独家新品成交额同比增长109%",
+   "source": "证券日报网",
+   "date": "2026-11-02",
+   "url": "http://www.zqrb.cn/gscy/qiyexinxi/2026-11-02/A1793611991712.html",
+   "tier1": "箱包"
+  }
+ ],
+ "brand_scan": {
+  "window": "2026-10-31..2026-11-02",
+  "method": "Exa公开端点被限流（重试后仍返回rate limit），改用网页搜索逐赛道和按品牌组检索；X（search_posts_all）用中英文品牌名分两组布尔查询，检索10/31 15:00 UTC之后的帖子；重点条目用WebFetch核对原文（证券日报网、中国质量新闻网、PR TIMES、AD HOC NEWS等），并按URL和事件与11/1期去重。大图按用户偏好跳过。",
+  "note": "有可计入动态的品牌6/64，共6条。裘真、个乐的天猫箱包榜入榜只有转载汇总作为信源，不计入；帕莎、古良吉吉只见粉丝转发，不计入。其余品牌未检到可核实的窗口内新闻（不代表没有线下或社媒活动）。",
+  "per_brand": {
+   "裘真": "天猫双11箱包榜入榜只见博晓通（转述亿邦动力）汇总，属于转载，不作唯一信源，不计入",
+   "Fakeme": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "山下有松": "有：黄金首饰京东11.11热销 领丰金、诗普琳、金大福增长超2倍",
+   "LOLA ROSE": "有：黄金首饰京东11.11热销 领丰金、诗普琳、金大福增长超2倍",
+   "HEFANG": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "雅瑞光学": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "ARSIS": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "蔡司": "进博会首发预告在10/30发布，已报道过，无新增",
+   "依视路": "有：EssilorLuxottica stock faces n",
+   "CHARLES&KEITH": "秋冬系列在8月发布，在窗口外",
+   "新秀丽": "只见澳洲百货黑五折扣信息，不计入",
+   "ITO": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "GROTTO个乐": "天猫双11箱包榜入榜只见博晓通转述，不计入",
+   "白岚": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "万事利": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "ECODAY": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "bampo": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "卡西欧": "CRW-002、CasiOak等已在11/1期报道；G-Shock 2500系列在10/22公布，在窗口外",
+   "德津": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "LEVEL8地平线8号": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "九格眼镜": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "欧克利": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "FANCI范琦": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "GENTLE MONSTER": "有：双11天猫奢品独家新品成交额同比增长109%",
+   "纽芝兰": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "明月镜片": "有：AI眼镜概念震荡反弹 明月镜片等多股涨超10%",
+   "CECE": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "柯达": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "BAGSMART": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "CIGALONG": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "abyb jewelry": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "海伦凯勒眼镜": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "包包树BAGTREE": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "飞亚达": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "梵誓ONESWEAR": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "KKLUE轻珠宝": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "天美时集团": "有：TIMEX「IRONMAN®」40周年 40th Anniv",
+   "JELLYTOYBOY": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "卡蒂罗": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "尤目": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "ORANGE CUBE": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "古良吉吉": "仅见粉丝转发的小红书明星同款，不计入",
+   "亨得利钟表": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "甲目眼镜": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "TAD FAB": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "FANGYI方宜": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "老雷线上配镜": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "抱树BYROOTS": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "TELETIES": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "DAVENA": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "首末集团": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "大图": "按用户偏好跳过",
+   "卡拉羊": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "P&N": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "PARIM": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "上海夕和眼镜": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "超视立": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "御行": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "木九十": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "天空树假发": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "不莱玫": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "帕莎": "仅见粉丝转发的代言人微博（鞠婧祎出道13周年），不计入",
+   "CASSILE卡思乐": "未检到可核实发布日期与原文链接的窗口内新动态",
+   "BLACKHEAD": "未检到可核实发布日期与原文链接的窗口内新动态"
+  }
+ },
+ "sources": [
+  {
+   "name": "Vision Monday",
+   "url": "https://www.visionmonday.com",
+   "tier1": "眼镜"
+  },
+  {
+   "name": "证券日报网",
+   "url": "http://www.zqrb.cn",
+   "tier1": "综合"
+  }
+ ]
+}
