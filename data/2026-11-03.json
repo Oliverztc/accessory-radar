@@ -1,0 +1,461 @@
+{
+ "date": "2026-11-03",
+ "headline": "金价回落点燃水贝金饰消费、一口价承压；三星智能眼镜锁定12月美韩首发，Delfin四股东拒售",
+ "summary": "行业与品牌动态窗口为2026-11-01至11-03（约48小时，纯24小时除金饰外偏薄）。主线：一是金价回落约三成后，水贝与金店柜台按克计价需求回升，老铺等一口价品牌出现折扣与摩根大通大幅下调目标价；二是眼镜端，三星Intelligent Eyewear据报道12月中旬美韩首发、GENTLE MONSTER参与设计，博士眼镜披露160余家智能眼镜专柜；三是依视路控股股东Delfin争夺升级——LMDV获Citi最高220亿欧元融资意向，但四名股东当晚拒绝出售。箱包侧有BoF对Coach财报的前瞻、Rent the Runway上线奢侈包租赁试点，以及Lyst Q3显示Prada丝绸Wish Pouch需求暴增。",
+ "industry_news": [
+  {
+   "date": "2026-11-03",
+   "source": "证券日报",
+   "title": "国际金价走弱 金饰消费活跃",
+   "url": "http://www.zqrb.cn/money/gold/2026-11-03/A1793611992496.html",
+   "tier1": "珠宝腕表",
+   "type": "市场",
+   "importance": 5,
+   "segment": "大众",
+   "summary": "截至11/2现货金约3898美元/盎司，较1月高点回落约30%；周生生、周大福、老凤祥足金克价较年内高点跌超500元。记者走访深圳水贝见客流涌动，首饰金约990元/克，婚庆大克重与悦己小克重均畅销；专家提醒品牌用租赁/套保管理库存敞口。"
+  },
+  {
+   "date": "2026-11-02",
+   "source": "界面新闻",
+   "title": "金价创年内新低：水贝人头涌动，高端金店打折揽客",
+   "url": "https://finance.sina.com.cn/jjxw/2026-11-02/doc-inixiuey2928465.shtml",
+   "tier1": "珠宝腕表",
+   "type": "市场",
+   "importance": 5,
+   "segment": "轻奢",
+   "summary": "界面记者11/2走访深圳水贝与上海紫锦城：周末客流约6万、7.3万人次；克价金店回暖，一口价古法金（老铺等）门店冷清并推出满减/会员折扣。金价下跌刺激按克计价需求、抑制一口价溢价接受度。"
+  },
+  {
+   "date": "2026-11-02",
+   "source": "第一财经",
+   "title": "金价“跳水”，大金镯又热卖了：线下柜台被顾客包围",
+   "url": "https://www.yicai.com/news/103421856.html",
+   "tier1": "珠宝腕表",
+   "type": "数据",
+   "importance": 4,
+   "segment": "大众",
+   "summary": "线下探访显示金价回落后30–40克大金镯与小克重并行热销，部分金店客流环比增20%–30%。世界黄金协会《2026中国金饰零售趋势洞察》：上半年金饰消费量同比-30%至136吨，但金额+5%至1437亿元；44%零售商称悦己自戴为首要动机。周大生前三季营收/净利同比-17.5%/-26.2%。"
+  },
+  {
+   "date": "2026-11-02",
+   "source": "Yahoo财经/摩根大通",
+   "title": "摩通降老铺黄金评级至「中性」 劈目标价近67%至296港元",
+   "url": "https://hk.finance.yahoo.com/news/%E5%A4%A7%E8%A1%8C-%E6%91%A9%E9%80%9A%E9%99%8D%E8%80%81%E9%8B%AA%E9%BB%83%E9%87%91-06181-hk-%E8%A9%95%E7%B4%9A%E8%87%B3-083025498.html",
+   "tier1": "珠宝腕表",
+   "type": "资本",
+   "importance": 4,
+   "segment": "轻奢",
+   "summary": "摩根大通将老铺黄金由增持降至中性，目标价891→296港元（-66.8%），称近期销售削弱“高端传承金可隔绝金价波动”假设；预计Q3/Q4线下同店销售同比约-20%至-25%，下半年收入/盈利料-26%/-23%。"
+  },
+  {
+   "date": "2026-11-02",
+   "source": "9to5Google",
+   "title": "Samsung’s Android XR ‘Intelligent Eyewear’ reportedly launches in December",
+   "url": "https://9to5google.com/2026/11/02/samsungs-android-xr-intelligent-eyewear-reportedly-launches-in-december/",
+   "tier1": "眼镜",
+   "type": "新品",
+   "importance": 5,
+   "segment": "轻奢",
+   "summary": "援引朝鲜日报Biz：三星Intelligent Eyewear计划12月中旬先在韩国与美国开售，搭载Android XR与Gemini；设计与GENTLE MONSTER、Warby Parker合作共四款。欧中日等市场拟观察首发后再扩；定价未定。"
+  },
+  {
+   "date": "2026-11-02",
+   "source": "巨潮资讯/博士眼镜",
+   "title": "博士眼镜连锁股份有限公司投资者关系活动记录表（2026-05）",
+   "url": "http://static.cninfo.com.cn/finalpage/2026-11-02/1225653012.PDF",
+   "tier1": "眼镜",
+   "type": "渠道",
+   "importance": 4,
+   "segment": "大众",
+   "summary": "截至9/30门店591家。已开深圳、三亚两家SMART GLASSES概念店，全国160余家门店铺智能眼镜专柜；合作阿里、雷鸟、Rokid、魅族、XREAL、界环、李未可、小米mijia等。公司称智能眼镜镜片验配收入占比极小。"
+  },
+  {
+   "date": "2026-11-02",
+   "source": "ANSA/路透",
+   "title": "Leonardo Maria Del Vecchio rilancia: 22 miliardi da Citi per le quote Delfin",
+   "url": "https://www.ansa.it/sito/notizie/economia/2026/11/02/leonardo-maria-del-vecchio-rilancia-22-miliardi-da-citi-per-le-quote-delfin._600e29d0-2e87-46d0-85e0-2ef80439af6c.html",
+   "tier1": "眼镜",
+   "type": "资本",
+   "importance": 5,
+   "segment": "奢侈品",
+   "summary": "路透/ANSA：LMDV称获花旗最高约220亿欧元融资意向，拟收购Delfin其他股东股权；同日晚间Paola、Luca、Clemente Del Vecchio与Rocco Basilico四股东拒绝出售各自12.5%股权。报价约按NAV折价30%估整个Delfin约296–300亿欧元。"
+  },
+  {
+   "date": "2026-11-02",
+   "source": "AD HOC NEWS",
+   "title": "Richemont stock weighs possible De Beers consortium role",
+   "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/richemont-stock-weighs-possible-de-beers-consortium-role/70444662",
+   "tier1": "珠宝腕表",
+   "type": "资本",
+   "importance": 3,
+   "segment": "奢侈品",
+   "summary": "11/2复盘历峰或加入Global Diamond Consortium竞购De Beers（谈判未落定）；11/13将发布财年二季报，珠宝Maison表现与交易进展将成焦点。"
+  },
+  {
+   "date": "2026-11-01",
+   "source": "BoF",
+   "title": "Can Ralph Lauren and Coach Keep Winning Even as US Spending Slows?",
+   "url": "https://www.businessoffashion.com/briefings/luxury/can-ralph-lauren-and-coach-keep-winning-even-as-us-spending-slows/",
+   "tier1": "箱包",
+   "type": "深度",
+   "importance": 4,
+   "segment": "轻奢",
+   "summary": "BoF前瞻Tapestry（Coach/Kate Spade）财报：欧奢北美已减速，美国消费者是否转向可及美国品牌成关键。Coach上一财季固定汇率+14%、全年+23%，Kate Spade-7%；分析师预期本季营收约18.5亿美元（+8%）。Lyst本周榜单Coach跌至第12。"
+  },
+  {
+   "date": "2026-11-02",
+   "source": "GlobeNewswire/Rent the Runway",
+   "title": "Rent the Runway Unveils a New World of Luxury Bags",
+   "url": "https://www.globenewswire.com/news-release/2026/11/02/3393349/0/en/rent-the-runway-unveils-a-new-world-of-luxury-bags-celebrating-the-freedom-to-experience-fashion-s-most-coveted-accessories.html",
+   "tier1": "箱包",
+   "type": "渠道",
+   "importance": 3,
+   "segment": "奢侈品",
+   "summary": "Rent the Runway向Icon会员试点上线奢侈手袋租赁：20+设计师品牌、数百款，租期30天并经第三方鉴真。反映所有权之外的体验型奢侈消费通道扩张。"
+  },
+  {
+   "date": "2026-11-02",
+   "source": "Corriere della Sera",
+   "title": "La borsa pouch in seta conquista la moda",
+   "url": "https://www.corriere.it/moda/26_novembre_02/la-borsa-pouch-in-seta-conquista-la-moda-e-l-accessorio-piu-desiderato-della-stagione-7218bf98-6006-46fd-91f0-f028683d3xlk.shtml",
+   "tier1": "箱包",
+   "type": "营销",
+   "importance": 3,
+   "segment": "奢侈品",
+   "summary": "援引Lyst Index 2026 Q3：Prada凭丝绸Wish Pouch重夺最热品牌，该款需求环比近+500%，品牌总需求+55%；Bottega Veneta需求+66%。趋势指向柔软丝绸手拿/束口袋与低调材质。"
+  }
+ ],
+ "brand_news": [
+  {
+   "brand": "GENTLE MONSTER",
+   "date": "2026-11-02",
+   "source": "9to5Google / The Verge / IT之家（援引朝鲜日报Biz）",
+   "title": "Samsung Intelligent Eyewear reportedly launches mid-December in Korea and US; frames by Gentle Monster and Warby Parker",
+   "url": "https://9to5google.com/2026/11/02/samsungs-android-xr-intelligent-eyewear-reportedly-launches-in-december/",
+   "summary": "11/2多源（9to5Google、The Verge、SamMobile、IT之家）援引朝鲜日报Biz：三星首款Android XR智能眼镜Intelligent Eyewear计划12月中旬先在韩国和美国开售，欧洲、中国、日本等延至2027；搭载骁龙AR1 Gen1、Gemini、12MP摄像头，续航约9小时、无显示屏，售价未定。镜框由GENTLE MONSTER与Warby Parker共同设计。与昨报天猫Maison Margiela联名渠道表现不同，属新品上市窗口新事实。另见https://www.theverge.com/gadgets/1024273/samsungs-smart-glasses-might-stick-to-the-us-and-south-korea 、https://www.ithome.com/0/1020/866.htm"
+  },
+  {
+   "brand": "依视路",
+   "date": "2026-11-02",
+   "source": "ANSA / Milano Finanza / Il Sole 24 Ore（援引路透）",
+   "title": "LMDV Citi融资220亿欧元再提收购Delfin；Paola、Luca、Clemente与Basilico四股东当晚拒绝",
+   "url": "https://www.ansa.it/sito/notizie/economia/2026/11/02/leonardo-maria-del-vecchio-rilancia-22-miliardi-da-citi-per-le-quote-delfin._600e29d0-2e87-46d0-85e0-2ef80439af6c.html",
+   "summary": "相对昨报AD HOC的「已获最高220亿欧元融资」：路透/Boursorama确认出资方为Citi；ANSA与Milano Finanza 11/2晚间新增——四名股东（Paola、Luca、Clemente Del Vecchio与Rocco Basilico）联名拒绝出售各自12.5%股权，与此前拒绝捷克Strnad者为同一阵营，使LMDV冲到至少五份、升至约75–87.5%的路径受阻。报价约按NAV折价30%估整个Delfin约296–300亿欧元，可选全现金或30%现金+12–14个月后70%依视路陆逊梯卡股票；拟11/7会面。Sole 24 Ore同日详述支付结构：https://en.ilsole24ore.com/art/delfin-lmdv-bid-of-30-billion-payable-partly-in-essilux-shares-AJryn71B ；四股东拒绝：https://www.milanofinanza.it/news/delfin-quattro-eredi-del-vecchio-respingono-anche-l-offerta-di-leonardo-maria-202611022150048551"
+  },
+  {
+   "brand": "新秀丽",
+   "date": "2026-11-02",
+   "source": "新秀丽集团官方通稿（港交所IR）",
+   "title": "新秀丽宣布11月12日港股收市后公布2026年第三季度业绩并召开投资者电话会",
+   "url": "https://corporate.samsonite.com/on/demandware.static/-/Sites-InvestorRelations-Library/zh_HK/dw4c9f23d0/PDF/press-release/2026/C%20Samsonite%203Q2026%20Results%20Date%20Conference%20Call%20(FINAL%202026-11-02).pdf",
+   "summary": "11/2官方：将于11/12（周四）香港收市后公布2026年第三季度业绩；当日22:00香港时间召开分析师/投资者电话会并设问答。英文稿同步发布。属财报日程官宣，窗口内新事实（非业绩数字本身）。"
+  },
+  {
+   "brand": "卡西欧",
+   "date": "2026-11-02",
+   "source": "PR Newswire（Casio America）/ Gizmochina",
+   "title": "Casio推出A168造型全金属戒指表CRW-002：银/金两色，美国135–155美元11月上市",
+   "url": "https://www.prnewswire.com/news-releases/casio-reimagines-its-iconic-a168-digital-watch-as-a-full-metal-ring-302926754.html",
+   "summary": "11/2 Casio America官宣CRW-002：把1995年经典A168做成全金属戒指表，模块约标准机芯十分之一；双时区、1/100秒秒表、自动日历、Time Flash整点闪烁与LED背光；银CRW-002D-1A 135美元、金款155美元（日本约19,800/22,000日元），11月经casio.com、G-SHOCK SoHo及指定零售上架，日本走抽选。另11/1日本上新LF-40W三色复古数字表（4400日元）：https://www.gizmochina.com/2026/11/01/casio-lf-40w-digital-watches-launched-specs-price/ 。非昨报窗口外的Baby-G/CMK旧闻。"
+  }
+ ],
+ "insights": [
+  {
+   "title": "珠宝：金价回落把需求拆成「克价放量」与「一口价承压」两条线",
+   "tier1": "珠宝腕表",
+   "body": "过去48小时最硬的证据来自终端。证券日报11/3写道，国际金价自高点回撤约三成，周大福、周生生、老凤祥等品牌金饰零售克价较年内峰值下跌超过500元/克；水贝11/1首饰金约990元/克，婚庆与悦己小克重同时走俏。界面新闻与第一财经的实地走访相互印证：水贝周末客流冲到6万–7.3万人次，部分金店客流环比增20%–30%，银饰、钻石、玉石柜台相对冷清——需求高度集中在「按克计价、能算账」的足金饰品。世界黄金协会上半年数据则提示结构性转变：消费量同比-30%，金额仍+5%，悦己自戴成为首要动机。\n\n另一条线是一口价高端金。界面指出老铺等门店客流稀疏并开始折扣；摩根大通将老铺评级调至中性、目标价砍近七成，并预期下半年收入利润双位数下滑。金价上涨周期里，「克价锚」抬高了设计溢价的心理账户；金价下跌时，同样的锚会反过来惩罚一口价。\n\n投资人视角：短期交易弹性在原料敏感、周转快的产业带与克价连锁；一口价品牌要证明溢价能否在金价下行期留住复购，否则估值要按可选消费而非「类奢侈品」重估。经营者视角：把主力SKU锁在冲动购买价带，明确标注克重/工费或一口价逻辑；库存端用租赁与套保平滑敞口，大促用小克重IP款而不是赌金价反弹。",
+   "refs": [
+    {
+     "title": "证券日报：国际金价走弱 金饰消费活跃",
+     "url": "http://www.zqrb.cn/money/gold/2026-11-03/A1793611992496.html"
+    },
+    {
+     "title": "界面新闻：水贝人头涌动，高端金店打折",
+     "url": "https://finance.sina.com.cn/jjxw/2026-11-02/doc-inixiuey2928465.shtml"
+    },
+    {
+     "title": "第一财经：大金镯又热卖了",
+     "url": "https://www.yicai.com/news/103421856.html"
+    },
+    {
+     "title": "摩通下调老铺黄金评级",
+     "url": "https://hk.finance.yahoo.com/news/%E5%A4%A7%E8%A1%8C-%E6%91%A9%E9%80%9A%E9%99%8D%E8%80%81%E9%8B%AA%E9%BB%83%E9%87%91-06181-hk-%E8%A9%95%E7%B4%9A%E8%87%B3-083025498.html"
+    }
+   ]
+  },
+  {
+   "title": "眼镜：智能眼镜进入「设计联名×配镜专柜」双轨推进",
+   "tier1": "眼镜",
+   "body": "产品与渠道在同一窗口咬合。三星Intelligent Eyewear据报道将于12月中旬在美韩首发，设计合作方包括GENTLE MONSTER与Warby Parker，中国不在首发——海外用消费电子巨头+时尚镜框联名做第一波上量。国内侧，博士眼镜11/2投资者关系记录披露：全国160余家门店已铺智能眼镜专柜，深圳与三亚各有概念店，合作名单覆盖阿里、雷鸟、Rokid、XREAL、小米mijia等；公司坦诚验配收入占比仍极小，说明叙事领先于利润，但「验光+处方镜片+售后」的物理触点正在被锁住。\n\n资本侧，依视路陆逊梯卡控股股东Delfin争夺升级：LMDV获花旗最高220亿欧元融资意向，但四名股东当晚拒绝出售，治理僵局短期难解。\n\n投资人视角：优先看「镜片能力×配镜网络×首发区域」三角，而不是纯整机出货故事；Delfin事件驱动交易要与主业增速分开定价。经营者视角：连锁与线上配镜应把AI眼镜试戴、处方适配做成标准SOP；时尚镜框品牌可提前筹备与消费电子/平台的联名首发位。",
+   "refs": [
+    {
+     "title": "9to5Google：三星智能眼镜12月首发",
+     "url": "https://9to5google.com/2026/11/02/samsungs-android-xr-intelligent-eyewear-reportedly-launches-in-december/"
+    },
+    {
+     "title": "博士眼镜投资者关系活动记录表",
+     "url": "http://static.cninfo.com.cn/finalpage/2026-11-02/1225653012.PDF"
+    },
+    {
+     "title": "ANSA：Delfin融资与拒售",
+     "url": "https://www.ansa.it/sito/notizie/economia/2026/11/02/leonardo-maria-del-vecchio-rilancia-22-miliardi-da-citi-per-le-quote-delfin._600e29d0-2e87-46d0-85e0-2ef80439af6c.html"
+    }
+   ]
+  }
+ ],
+ "trends": [
+  {
+   "title": "智能眼镜进入配镜连锁的「专柜化」阶段",
+   "tier1": "眼镜",
+   "stage": "萌芽",
+   "description": "博士眼镜已在160余家门店设专柜并开概念店，同时承认收入占比仍极小；三星产品据报道12月先在美韩上市。渠道能力建设领先于规模利润。",
+   "opportunity": "抢占验配SOP、镜片适配SKU；与头部整机品牌谈专柜共投；关注地方购新补贴是否扩围。",
+   "evidence": [
+    {
+     "title": "博士眼镜IR记录",
+     "url": "http://static.cninfo.com.cn/finalpage/2026-11-02/1225653012.PDF"
+    },
+    {
+     "title": "三星Intelligent Eyewear首发报道",
+     "url": "https://9to5google.com/2026/11/02/samsungs-android-xr-intelligent-eyewear-reportedly-launches-in-december/"
+    }
+   ]
+  },
+  {
+   "title": "金价下行期：小克重与大金镯克价放量，一口价古法金进入折扣测试",
+   "tier1": "珠宝腕表",
+   "stage": "上升",
+   "description": "水贝客流与柜台成交回升，同时高端一口价品牌开始满减打折，机构下调老铺预期。需求没有消失，而是更严格地用克价核算溢价。",
+   "opportunity": "克价品牌冲刺年底旺季SKU；一口价品牌要准备「可解释溢价」的内容与服务；产业带可对外输出同款结构的平价供给（需合规标注材质）。",
+   "evidence": [
+    {
+     "title": "证券日报金饰消费",
+     "url": "http://www.zqrb.cn/money/gold/2026-11-03/A1793611992496.html"
+    },
+    {
+     "title": "界面新闻水贝与高端金店",
+     "url": "https://finance.sina.com.cn/jjxw/2026-11-02/doc-inixiuey2928465.shtml"
+    },
+    {
+     "title": "第一财经大金镯热卖",
+     "url": "https://www.yicai.com/news/103421856.html"
+    }
+   ]
+  },
+  {
+   "title": "丝绸软包/束口袋成为奢侈箱包当季欲望单品",
+   "tier1": "箱包",
+   "stage": "上升",
+   "description": "Corriere援引Lyst Q3：Prada丝绸Wish Pouch需求环比近+500%，品牌总需求+55%；Bottega Veneta需求+66%。趋势指向柔软丝绸手拿与低调材质，而非硬朗Logo结构包。",
+   "opportunity": "轻奢与大众可跟进柔软面料手拿/束口结构，控制工费与损耗；奢侈联名可押「材质叙事」而非纯Logo。",
+   "evidence": [
+    {
+     "title": "Corriere：丝绸pouch成当季最热配件",
+     "url": "https://www.corriere.it/moda/26_novembre_02/la-borsa-pouch-in-seta-conquista-la-moda-e-l-accessorio-piu-desiderato-della-stagione-7218bf98-6006-46fd-91f0-f028683d3xlk.shtml"
+    }
+   ]
+  },
+  {
+   "title": "奢侈箱包租赁试点扩容，体验消费切入所有权替代",
+   "tier1": "箱包",
+   "stage": "萌芽",
+   "description": "Rent the Runway 11/2向Icon会员上线奢侈手袋租赁精选，30天租期并经第三方鉴真。会员持续要求更高端包袋供给，指向所有权之外的体验通道。",
+   "opportunity": "品牌可评估官方认证二手/租赁渠道的控价与获客；国内中古与租赁平台可对标鉴真与会员分层。",
+   "evidence": [
+    {
+     "title": "Rent the Runway奢侈包租赁上线",
+     "url": "https://www.globenewswire.com/news-release/2026/11/02/3393349/0/en/rent-the-runway-unveils-a-new-world-of-luxury-bags-celebrating-the-freedom-to-experience-fashion-s-most-coveted-accessories.html"
+    }
+   ]
+  }
+ ],
+ "brand_insights": [
+  {
+   "brand": "GENTLE MONSTER",
+   "tier1": "眼镜",
+   "title": "GENTLE MONSTER：从大促联名到消费电子智能眼镜设计位",
+   "body": "11/2的新信息是产品时点：三星Intelligent Eyewear据报道将于12月中旬在韩国与美国开卖，镜框由GENTLE MONSTER与Warby Parker参与设计。这与它前一日在天猫奢品独家联名中的曝光连成一条线——品牌同时占据「时尚联名流量」和「下一代眼镜硬件外观」两个位置。\n\n中国不在首发名单，短期国内销售贡献有限，但心智与联名溢价会提前发酵；配镜与镜片伙伴若能在国内城市接住「同款体验」，仍有渠道机会。",
+   "investor_view": "关注智能眼镜量产定价与GM联名款占比；若只是外观授权，弹性小于自有智能产品线。联名策略可复制，但要看非联名款的复购与线下体验店坪效。",
+   "operator_view": "国产时尚眼镜可学习「消费电子联名设计+平台首发+配镜服务」组合拳；把试戴与验配做成转化闭环。",
+   "sources": [
+    {
+     "title": "9to5Google",
+     "url": "https://9to5google.com/2026/11/02/samsungs-android-xr-intelligent-eyewear-reportedly-launches-in-december/"
+    },
+    {
+     "title": "The Verge",
+     "url": "https://www.theverge.com/gadgets/1024273/samsungs-smart-glasses-might-stick-to-the-us-and-south-korea"
+    }
+   ]
+  },
+  {
+   "brand": "依视路",
+   "tier1": "眼镜",
+   "title": "依视路陆逊梯卡：Delfin争夺进入融资与拒售对峙",
+   "body": "11/2路透/ANSA称LMDV已获得花旗最高220亿欧元融资意向，用于收购Delfin其他股东股份；同日晚间四名股东联名拒绝出售。相对前一日仅有「第二份报价」线索，融资规模与拒售事实同时落地，治理僵局短期难解。控股股东层面的不确定性上升，但近视管理与镜框主业的基本面叙事未改。",
+   "investor_view": "事件驱动交易会围绕11/7方案与对手报价展开；真正定价锚仍是主业增速与可穿戴业务是否继续放缓。",
+   "operator_view": "股权动荡期可争取渠道资源与人才；自身产品线继续押近视管理与AI眼镜适配镜片，不依赖对方治理结果。",
+   "sources": [
+    {
+     "title": "ANSA",
+     "url": "https://www.ansa.it/sito/notizie/economia/2026/11/02/leonardo-maria-del-vecchio-rilancia-22-miliardi-da-citi-per-le-quote-delfin._600e29d0-2e87-46d0-85e0-2ef80439af6c.html"
+    },
+    {
+     "title": "Milano Finanza四股东拒售",
+     "url": "https://www.milanofinanza.it/news/delfin-quattro-eredi-del-vecchio-respingono-anche-l-offerta-di-leonardo-maria-202611022150048551"
+    }
+   ]
+  },
+  {
+   "brand": "卡西欧",
+   "tier1": "珠宝腕表",
+   "title": "卡西欧：把经典A168缩成戒指表，试水「手表→配饰」形态",
+   "body": "Casio America 11/2官宣CRW-002：把1995年经典A168做成全金属戒指表，银/金两色建议零售价135–155美元，11月经官网与G-SHOCK SoHo等渠道上市。模块约标准机芯十分之一，保留双时区、秒表与Time Flash。这是把手表IP直接做成可穿戴配饰的形态实验，价格仍落在大众时尚配件区间。",
+   "investor_view": "单品SKU对集团贡献有限，但可测试年轻客群与配饰渠道的交叉销售；关注复购与连带率。",
+   "operator_view": "经典数字表IP可拆成戒指、吊坠等低价配饰做引流；国内可对标潮流渠道与礼品场景，注意金属戒指的尺码与售后。",
+   "sources": [
+    {
+     "title": "PR Newswire：Casio CRW-002",
+     "url": "https://www.prnewswire.com/news-releases/casio-reimagines-its-iconic-a168-digital-watch-as-a-full-metal-ring-302926754.html"
+    }
+   ]
+  }
+ ],
+ "reading_list": [
+  {
+   "title": "国际金价走弱 金饰消费活跃",
+   "source": "证券日报",
+   "date": "2026-11-03",
+   "url": "http://www.zqrb.cn/money/gold/2026-11-03/A1793611992496.html",
+   "tier1": "珠宝腕表"
+  },
+  {
+   "title": "金价创年内新低：水贝人头涌动，高端金店打折揽客",
+   "source": "界面新闻",
+   "date": "2026-11-02",
+   "url": "https://finance.sina.com.cn/jjxw/2026-11-02/doc-inixiuey2928465.shtml",
+   "tier1": "珠宝腕表"
+  },
+  {
+   "title": "金价“跳水”，大金镯又热卖了",
+   "source": "第一财经",
+   "date": "2026-11-02",
+   "url": "https://www.yicai.com/news/103421856.html",
+   "tier1": "珠宝腕表"
+  },
+  {
+   "title": "卡地亚“穷人三宝”，中产的新入场券？",
+   "source": "界面新闻/DT财经",
+   "date": "2026-11-02",
+   "url": "https://www.jiemian.com/article/15282421.html",
+   "tier1": "珠宝腕表"
+  },
+  {
+   "title": "Can Ralph Lauren and Coach Keep Winning Even as US Spending Slows?",
+   "source": "BoF",
+   "date": "2026-11-01",
+   "url": "https://www.businessoffashion.com/briefings/luxury/can-ralph-lauren-and-coach-keep-winning-even-as-us-spending-slows/",
+   "tier1": "箱包"
+  },
+  {
+   "title": "博士眼镜投资者关系活动记录表",
+   "source": "巨潮资讯",
+   "date": "2026-11-02",
+   "url": "http://static.cninfo.com.cn/finalpage/2026-11-02/1225653012.PDF",
+   "tier1": "眼镜"
+  }
+ ],
+ "brand_scan": {
+  "window": "2026-11-01..2026-11-03",
+  "method": "WebSearch+WebFetch核验日期/URL；x search_posts_all / search_news（品牌组+英文别名，start_time≈2026-11-01T00:00:00Z）；Firecrawl未认证跳过。对照data/2026-11-02.json brand_news去重。 行业侧合并证券日报、界面、第一财经、巨潮PDF、ANSA、BoF、GlobeNewswire、Corriere等。",
+  "note": "有动态 4/64：GENTLE MONSTER、依视路、新秀丽、卡西欧；大图按偏好跳过；明月镜片/天美时/山下有松/LOLA ROSE/GENTLE MONSTER天猫渠道等同昨事实未重复计入。",
+  "per_brand": {
+   "裘真": "未检到11/1–11/3可核验硬新闻；界面拓店稿偏更早时段",
+   "Fakeme": "未检到窗口内新动态；×MANNER联名为10月下旬已覆盖",
+   "山下有松": "昨报京东11.11成交额翻倍已收录，窗口内无新事实",
+   "LOLA ROSE": "昨报京东闪星项链TOP10已收录；「日心说」等多为软广/无独立日期硬稿",
+   "HEFANG": "检索多为电商货架与旧联名，无窗口内可核验通稿",
+   "雅瑞光学": "未检到可核实新动态",
+   "ARSIS": "未检到窗口内可核验硬新闻",
+   "蔡司": "窗口内多为Carl Zeiss Meditec股价/管理层讨论，非光学消费品牌新品；未单列",
+   "依视路": "有动态：四股东拒售+Citi点名+股票对价结构（相对昨报AD HOC新增）",
+   "CHARLES&KEITH": "仅见双11优惠码聚合页，非品牌硬新闻",
+   "新秀丽": "有动态：11/2官宣11/12发三季报",
+   "ITO": "官网色系展示，无窗口内独立新闻日期",
+   "GROTTO个乐": "孙千代言为10/30窗外；窗口内无新稿",
+   "白岚": "未检到可核实新动态",
+   "万事利": "未检到窗口内新公告/报道（三季报已于10月末覆盖）",
+   "ECODAY": "仅电商线报/券，跳过",
+   "bampo": "未检到可核实硬新闻",
+   "卡西欧": "有动态：CRW-002戒指表11/2官宣；LF-40W 11/1日本上新",
+   "德津": "未检到可核实新动态",
+   "LEVEL8地平线8号": "官网月壤色等为既有内容，窗口内无新通稿",
+   "九格眼镜": "未检到可核实硬新闻（SEO软广跳过）",
+   "欧克利": "Oakley Meta泰国/日本发售等为10月旧闻；窗口内无新合作通稿",
+   "FANCI范琦": "范丞丞代言周边梳理站无独立可核发日期，未采用",
+   "GENTLE MONSTER": "有动态：三星Intelligent Eyewear 12月中韩美首发设计合作（相对昨报天猫联名渠道为新事实）",
+   "纽芝兰": "仅编织包/电商线报，无硬新闻",
+   "明月镜片": "昨报财联社涨超10%已收录；同花顺/财闻11/2为同一补贴行情复述，跳过",
+   "CECE": "仅双11券线报，跳过",
+   "柯达": "未检到镜片业务窗口内新动态",
+   "BAGSMART": "仅京东会场券，跳过",
+   "CIGALONG": "未检到可核实新动态",
+   "abyb jewelry": "未检到可核实新动态",
+   "海伦凯勒眼镜": "未检到可核实新动态",
+   "包包树BAGTREE": "未检到可核实新动态",
+   "飞亚达": "三季报/人事为10月末已覆盖，窗口内无新公告",
+   "梵誓ONESWEAR": "未检到可核实新动态",
+   "KKLUE轻珠宝": "未检到可核实新动态",
+   "天美时集团": "昨报Ironman 40周年已收录；Gadgeteer/Gizmochina 11/2为同一产品复述，跳过",
+   "JELLYTOYBOY": "未检到窗口内硬新闻",
+   "卡蒂罗": "对比测评站无日期硬稿，跳过",
+   "尤目": "未检到可核实新动态",
+   "ORANGE CUBE": "未检到可核实新动态",
+   "古良吉吉": "未检到可核实新动态",
+   "亨得利钟表": "未检到可核实新动态",
+   "甲目眼镜": "企业黄页更新非新闻，跳过",
+   "TAD FAB": "未检到可核实新动态",
+   "FANGYI方宜": "未检到可核实新动态",
+   "老雷线上配镜": "未检到可核实新动态",
+   "抱树BYROOTS": "未检到可核实新动态",
+   "TELETIES": "未检到可核实新动态",
+   "DAVENA": "未检到可核实新动态",
+   "首末集团": "未检到可核实新动态",
+   "大图": "按用户偏好跳过不跟踪（DITA）",
+   "卡拉羊": "行李箱测评站无窗口日期硬新闻",
+   "P&N": "未检到可核实新动态",
+   "PARIM": "未检到可核实新动态",
+   "上海夕和眼镜": "未检到可核实新动态",
+   "超视立": "未检到可核实新动态",
+   "御行": "未检到可核实新动态",
+   "木九十": "未检到窗口内可核验硬新闻",
+   "天空树假发": "品牌站/旧艾瑞稿，无11/1–3新事实",
+   "不莱玫": "测评横评无窗口日期硬新闻",
+   "帕莎": "未检到可核实新动态",
+   "CASSILE卡思乐": "未检到可核实新动态",
+   "BLACKHEAD": "未检到可核实新动态"
+  }
+ },
+ "sources": [
+  {
+   "name": "证券日报",
+   "url": "http://www.zqrb.cn",
+   "tier1": "综合"
+  },
+  {
+   "name": "巨潮资讯",
+   "url": "http://www.cninfo.com.cn",
+   "tier1": "眼镜"
+  },
+  {
+   "name": "BoF",
+   "url": "https://www.businessoffashion.com",
+   "tier1": "箱包"
+  },
+  {
+   "name": "9to5Google",
+   "url": "https://9to5google.com",
+   "tier1": "眼镜"
+  }
+ ]
+}

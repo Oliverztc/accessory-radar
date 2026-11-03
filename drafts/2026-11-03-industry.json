@@ -1,0 +1,145 @@
+{
+  "industry_news": [
+    {
+      "date": "2026-11-03",
+      "source": "证券日报",
+      "title": "国际金价走弱 金饰消费活跃",
+      "url": "http://www.zqrb.cn/money/gold/2026-11-03/A1793611992496.html",
+      "tier1": "珠宝腕表",
+      "type": "市场",
+      "importance": 4,
+      "segment": "大众",
+      "summary": "截至11月2日现货金约3898美元/盎司，较1月历史高点回落约30%；周生生、周大福、老凤祥足金克价较年内高点跌超500元（约1161–1168元/克）。记者走访深圳水贝见客流涌动，首饰金约990元/克，婚庆大克重与悦己小克重均畅销；专家提醒品牌用租赁/套保管理库存敞口。"
+    },
+    {
+      "date": "2026-11-02",
+      "source": "界面新闻",
+      "title": "金价创年内新低：水贝人头涌动，高端金店打折揽客",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-02/doc-inixiuey2928465.shtml",
+      "tier1": "珠宝腕表",
+      "type": "市场",
+      "importance": 5,
+      "segment": "大众",
+      "summary": "界面记者11/2实地走访深圳水贝与上海紫锦城：批发档口成交活跃，周末客流分别约6万、7.3万人次；克价金店客流回暖，但一口价古法金（老铺等）门店冷清并推出满减/会员折扣。文章指出金价下跌刺激按克计价需求、抑制一口价溢价接受度，考验古法金高端化叙事。"
+    },
+    {
+      "date": "2026-11-02",
+      "source": "第一财经",
+      "title": "金价“跳水”，大金镯又热卖了：线下柜台被顾客包围",
+      "url": "https://www.yicai.com/news/103421856.html",
+      "tier1": "珠宝腕表",
+      "type": "数据",
+      "importance": 4,
+      "segment": "大众",
+      "summary": "线下探访显示金价回落后30–40克大金镯与小克重并行热销，部分金店客流环比增20%–30%。世界黄金协会《2026中国金饰零售趋势洞察》：上半年金饰消费量同比-30%至136吨（20年最低），但金额+5%至1437亿元；44%零售商称悦己自戴为首要动机。周大生前三季营收/净利同比-17.5%/-26.2%。"
+    },
+    {
+      "date": "2026-11-02",
+      "source": "AASTOCKS/摩通",
+      "title": "摩通降老铺黄金评级至「中性」 劈目标价近67%至296港元",
+      "url": "https://hk.finance.yahoo.com/news/%E5%A4%A7%E8%A1%8C-%E6%91%A9%E9%80%9A%E9%99%8D%E8%80%81%E9%8B%AA%E9%BB%83%E9%87%91-06181-hk-%E8%A9%95%E7%B4%9A%E8%87%B3-083025498.html",
+      "tier1": "珠宝腕表",
+      "type": "资本",
+      "importance": 4,
+      "segment": "轻奢",
+      "summary": "摩根大通将老铺黄金由增持降至中性，目标价891→296港元（-66.8%），称近期销售削弱“高端传承金可隔绝金价波动、支撑奢侈品估值”假设；预计Q3/Q4线下同店销售同比约-20%至-25%，下半年收入/盈利料-26%/-23%。同日股价承压（同花顺异动亦指向金价失守3900与评级下调）。"
+    },
+    {
+      "date": "2026-11-02",
+      "source": "9to5Google",
+      "title": "Samsung’s Android XR ‘Intelligent Eyewear’ reportedly launches in December",
+      "url": "https://9to5google.com/2026/11/02/samsungs-android-xr-intelligent-eyewear-reportedly-launches-in-december/",
+      "tier1": "眼镜",
+      "type": "新品",
+      "importance": 4,
+      "segment": "大众",
+      "summary": "援引朝鲜日报Biz等报道：三星Intelligent Eyewear计划12月中旬先在韩国与美国开售，搭载Android XR与Gemini，定位手机伴侣而非后手机设备；设计与Gentle Monster、Warby Parker合作共四款。定价未定，预期高于Meta 299美元入门款、对标其高端线；欧中日等市场拟观察首发后再扩。"
+    },
+    {
+      "date": "2026-11-02",
+      "source": "Reuters/Boursorama",
+      "title": "Del Vecchio aurait obtenu jusqu'à 22 milliards d'euros auprès de Citi pour son projet de rachat de Delfin",
+      "url": "https://www.boursorama.com/bourse/actualites/del-vecchio-aurait-obtenu-jusqu-a-22-milliards-d-euros-aupres-de-citi-pour-son-projet-de-rachat-de-delfin-selon-une-source-3829cb029d2a9b8e27b95f52ca806ae9",
+      "tier1": "眼镜",
+      "type": "资本",
+      "importance": 5,
+      "segment": "奢侈品",
+      "summary": "路透：Leonardo Maria Del Vecchio称已获花旗最高约220亿欧元融资，拟收购依视路陆逊梯卡控股股东Delfin其他股东股权（目标拿下5–6份），11月7日前呈方案；此前一周捷克商人Michal Strnad有约300亿欧元报价。Delfin持股EssilorLuxottica约32.4%。相对昨日仅“第二份报价”线索，融资规模属新增实质信息。"
+    },
+    {
+      "date": "2026-11-02",
+      "source": "AD HOC NEWS",
+      "title": "Richemont stock weighs possible De Beers consortium role",
+      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/richemont-stock-weighs-possible-de-beers-consortium-role/70444662",
+      "tier1": "珠宝腕表",
+      "type": "资本",
+      "importance": 3,
+      "segment": "奢侈品",
+      "summary": "11月2日市场聚焦历峰或加入由前De Beers CEO Gareth Penny牵头的Global Diamond Consortium竞购戴比尔斯（路透10/15已述谈判深入但未落定，Signet或参与）。动机指向卡地亚、梵克雅宝天然钻供应链话语权；历峰定于11月13日发布财年二季报，珠宝Maison表现与交易进展将成焦点。"
+    },
+    {
+      "date": "2026-11-01",
+      "source": "BoF",
+      "title": "Can Ralph Lauren and Coach Keep Winning Even as US Spending Slows?",
+      "url": "https://www.businessoffashion.com/briefings/luxury/can-ralph-lauren-and-coach-keep-winning-even-as-us-spending-slows/",
+      "tier1": "箱包",
+      "type": "深度",
+      "importance": 4,
+      "segment": "轻奢",
+      "summary": "BoF前瞻本周Tapestry（Coach/Kate Spade）与Ralph Lauren财报：Hermès、开云、Prada等欧奢北美已减速，美国消费者是否转向可及美国品牌成关键。Coach上一财季固定汇率+14%、全年+23%，Kate Spade-7%；分析师预期Tapestry本季营收约18.5亿美元（+8%）。Lyst本周榜单Coach跌至第12，北美增速放缓至7%需关注。"
+    },
+    {
+      "date": "2026-11-02",
+      "source": "GlobeNewswire/Rent the Runway",
+      "title": "Rent the Runway Unveils a New World of Luxury Bags",
+      "url": "https://www.globenewswire.com/news-release/2026/11/02/3393349/0/en/rent-the-runway-unveils-a-new-world-of-luxury-bags-celebrating-the-freedom-to-experience-fashion-s-most-coveted-accessories.html",
+      "tier1": "箱包",
+      "type": "渠道",
+      "importance": 3,
+      "segment": "奢侈品",
+      "summary": "Rent the Runway于11月2日向Icon会员试点上线奢侈手袋租赁精选：20+设计师品牌、数百款新品/中古/vintage，租期30天，经第三方鉴真；其他用户可排队。CEO称会员持续要求更高端包袋供给，反映所有权之外的“体验型”奢侈品消费通道扩张。"
+    },
+    {
+      "date": "2026-11-02",
+      "source": "Corriere della Sera",
+      "title": "La borsa pouch in seta conquista la moda: è l’accessorio più desiderato della stagione",
+      "url": "https://www.corriere.it/moda/26_novembre_02/la-borsa-pouch-in-seta-conquista-la-moda-e-l-accessorio-piu-desiderato-della-stagione-7218bf98-6006-46fd-91f0-f028683d3xlk.shtml",
+      "tier1": "箱包",
+      "type": "营销",
+      "importance": 3,
+      "segment": "奢侈品",
+      "summary": "Corriere报道Lyst Index 2026 Q3：Prada凭丝绸Wish Pouch重夺最热品牌，该款需求环比近+500%，品牌总需求+55%；Chanel、Miu Miu紧随，Celine首次进Top10，Bottega Veneta需求+66%。趋势指向柔软丝绸手拿/束口袋与低调材质，而非硬朗Logo结构包。"
+    }
+  ],
+  "reading_candidates": [
+    {
+      "title": "卡地亚“穷人三宝”，中产的新入场券？",
+      "source": "界面新闻/DT财经",
+      "date": "2026-11-02",
+      "url": "https://www.jiemian.com/article/15282421.html",
+      "tier1": "珠宝腕表"
+    },
+    {
+      "title": "金价“跳水”，大金镯又热卖了：线下柜台被顾客包围",
+      "source": "第一财经",
+      "date": "2026-11-02",
+      "url": "https://www.yicai.com/news/103421856.html",
+      "tier1": "珠宝腕表"
+    },
+    {
+      "title": "Can Ralph Lauren and Coach Keep Winning Even as US Spending Slows?",
+      "source": "BoF",
+      "date": "2026-11-01",
+      "url": "https://www.businessoffashion.com/briefings/luxury/can-ralph-lauren-and-coach-keep-winning-even-as-us-spending-slows/",
+      "tier1": "箱包"
+    },
+    {
+      "title": "金价创年内新低：水贝人头涌动，高端金店打折揽客",
+      "source": "界面新闻",
+      "date": "2026-11-02",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-02/doc-inixiuey2928465.shtml",
+      "tier1": "珠宝腕表"
+    }
+  ],
+  "notes": "Window widened to ~48h (Nov 1–3 Asia/Shanghai) as pure 24h was thin outside gold. Method: WebSearch + WebFetch only; firecrawl CLI installed but unauthenticated (login --browser timed out), no API key in env. Deduped vs 2026-11-02.json: skipped Beijing smart-glasses subsidy/镜片股、韩国百货珠宝/宝诗龙、Global Times金饰回暖旧述、黄金平替出口/汕尾大会、天猫奢品独家+109%、Hoya Q2、仅有“第二份报价”而无融资细节的旧Delfin线索。Capri FY27 Q2 (Oct 30) and Maui Jim per parent skip. Richemont/De Beers talks originally Reuters Oct 15; included via Nov 2 AD HOC market wrap + Nov 13 results catalyst. Samsung primary industry leak Chosun Biz Oct 30; used Nov 2 9to5Google as in-window secondary with same facts. Lao Pu: preferred AASTOCKS/Yahoo over AI-summarized 同花顺异动. Gaps: little fresh 服配/玉石翡翠 hard news in 48h (mostly upcoming trade-fair notices). Deep-dive candidates listed for later 300–500字 insights."
+}

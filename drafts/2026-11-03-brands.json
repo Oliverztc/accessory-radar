@@ -1,0 +1,132 @@
+{
+  "brand_news": [
+    {
+      "brand": "GENTLE MONSTER",
+      "date": "2026-11-02",
+      "source": "9to5Google / The Verge / IT之家（援引朝鲜日报Biz）",
+      "title": "Samsung Intelligent Eyewear reportedly launches mid-December in Korea and US; frames by Gentle Monster and Warby Parker",
+      "url": "https://9to5google.com/2026/11/02/samsungs-android-xr-intelligent-eyewear-reportedly-launches-in-december/",
+      "summary": "11/2多源（9to5Google、The Verge、SamMobile、IT之家）援引朝鲜日报Biz：三星首款Android XR智能眼镜Intelligent Eyewear计划12月中旬先在韩国和美国开售，欧洲、中国、日本等延至2027；搭载骁龙AR1 Gen1、Gemini、12MP摄像头，续航约9小时、无显示屏，售价未定。镜框由GENTLE MONSTER与Warby Parker共同设计。与昨报天猫Maison Margiela联名渠道表现不同，属新品上市窗口新事实。另见https://www.theverge.com/gadgets/1024273/samsungs-smart-glasses-might-stick-to-the-us-and-south-korea 、https://www.ithome.com/0/1020/866.htm"
+    },
+    {
+      "brand": "依视路",
+      "date": "2026-11-02",
+      "source": "ANSA / Milano Finanza / Il Sole 24 Ore（援引路透）",
+      "title": "LMDV Citi融资220亿欧元再提收购Delfin；Paola、Luca、Clemente与Basilico四股东当晚拒绝",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/11/02/leonardo-maria-del-vecchio-rilancia-22-miliardi-da-citi-per-le-quote-delfin._600e29d0-2e87-46d0-85e0-2ef80439af6c.html",
+      "summary": "相对昨报AD HOC的「已获最高220亿欧元融资」：路透/Boursorama确认出资方为Citi；ANSA与Milano Finanza 11/2晚间新增——四名股东（Paola、Luca、Clemente Del Vecchio与Rocco Basilico）联名拒绝出售各自12.5%股权，与此前拒绝捷克Strnad者为同一阵营，使LMDV冲到至少五份、升至约75–87.5%的路径受阻。报价约按NAV折价30%估整个Delfin约296–300亿欧元，可选全现金或30%现金+12–14个月后70%依视路陆逊梯卡股票；拟11/7会面。Sole 24 Ore同日详述支付结构：https://en.ilsole24ore.com/art/delfin-lmdv-bid-of-30-billion-payable-partly-in-essilux-shares-AJryn71B ；四股东拒绝：https://www.milanofinanza.it/news/delfin-quattro-eredi-del-vecchio-respingono-anche-l-offerta-di-leonardo-maria-202611022150048551"
+    },
+    {
+      "brand": "新秀丽",
+      "date": "2026-11-02",
+      "source": "新秀丽集团官方通稿（港交所IR）",
+      "title": "新秀丽宣布11月12日港股收市后公布2026年第三季度业绩并召开投资者电话会",
+      "url": "https://corporate.samsonite.com/on/demandware.static/-/Sites-InvestorRelations-Library/zh_HK/dw4c9f23d0/PDF/press-release/2026/C%20Samsonite%203Q2026%20Results%20Date%20Conference%20Call%20(FINAL%202026-11-02).pdf",
+      "summary": "11/2官方：将于11/12（周四）香港收市后公布2026年第三季度业绩；当日22:00香港时间召开分析师/投资者电话会并设问答。英文稿同步发布。属财报日程官宣，窗口内新事实（非业绩数字本身）。"
+    },
+    {
+      "brand": "卡西欧",
+      "date": "2026-11-02",
+      "source": "PR Newswire（Casio America）/ Gizmochina",
+      "title": "Casio推出A168造型全金属戒指表CRW-002：银/金两色，美国135–155美元11月上市",
+      "url": "https://www.prnewswire.com/news-releases/casio-reimagines-its-iconic-a168-digital-watch-as-a-full-metal-ring-302926754.html",
+      "summary": "11/2 Casio America官宣CRW-002：把1995年经典A168做成全金属戒指表，模块约标准机芯十分之一；双时区、1/100秒秒表、自动日历、Time Flash整点闪烁与LED背光；银CRW-002D-1A 135美元、金款155美元（日本约19,800/22,000日元），11月经casio.com、G-SHOCK SoHo及指定零售上架，日本走抽选。另11/1日本上新LF-40W三色复古数字表（4400日元）：https://www.gizmochina.com/2026/11/01/casio-lf-40w-digital-watches-launched-specs-price/ 。非昨报窗口外的Baby-G/CMK旧闻。"
+    }
+  ],
+  "brand_scan": {
+    "window": "2026-11-01..2026-11-03",
+    "method": "WebSearch+WebFetch核验日期/URL；x search_posts_all / search_news（品牌组+英文别名，start_time≈2026-11-01T00:00:00Z）；Firecrawl未认证跳过。对照data/2026-11-02.json brand_news去重。",
+    "note": "有动态 4/64：GENTLE MONSTER、依视路、新秀丽、卡西欧；大图按偏好跳过；明月镜片/天美时/山下有松/LOLA ROSE/GENTLE MONSTER天猫渠道等同昨事实未重复计入。",
+    "per_brand": {
+      "裘真": "未检到11/1–11/3可核验硬新闻；界面拓店稿偏更早时段",
+      "Fakeme": "未检到窗口内新动态；×MANNER联名为10月下旬已覆盖",
+      "山下有松": "昨报京东11.11成交额翻倍已收录，窗口内无新事实",
+      "LOLA ROSE": "昨报京东闪星项链TOP10已收录；「日心说」等多为软广/无独立日期硬稿",
+      "HEFANG": "检索多为电商货架与旧联名，无窗口内可核验通稿",
+      "雅瑞光学": "未检到可核实新动态",
+      "ARSIS": "未检到窗口内可核验硬新闻",
+      "蔡司": "窗口内多为Carl Zeiss Meditec股价/管理层讨论，非光学消费品牌新品；未单列",
+      "依视路": "有动态：四股东拒售+Citi点名+股票对价结构（相对昨报AD HOC新增）",
+      "CHARLES&KEITH": "仅见双11优惠码聚合页，非品牌硬新闻",
+      "新秀丽": "有动态：11/2官宣11/12发三季报",
+      "ITO": "官网色系展示，无窗口内独立新闻日期",
+      "GROTTO个乐": "孙千代言为10/30窗外；窗口内无新稿",
+      "白岚": "未检到可核实新动态",
+      "万事利": "未检到窗口内新公告/报道（三季报已于10月末覆盖）",
+      "ECODAY": "仅电商线报/券，跳过",
+      "bampo": "未检到可核实硬新闻",
+      "卡西欧": "有动态：CRW-002戒指表11/2官宣；LF-40W 11/1日本上新",
+      "德津": "未检到可核实新动态",
+      "LEVEL8地平线8号": "官网月壤色等为既有内容，窗口内无新通稿",
+      "九格眼镜": "未检到可核实硬新闻（SEO软广跳过）",
+      "欧克利": "Oakley Meta泰国/日本发售等为10月旧闻；窗口内无新合作通稿",
+      "FANCI范琦": "范丞丞代言周边梳理站无独立可核发日期，未采用",
+      "GENTLE MONSTER": "有动态：三星Intelligent Eyewear 12月中韩美首发设计合作（相对昨报天猫联名渠道为新事实）",
+      "纽芝兰": "仅编织包/电商线报，无硬新闻",
+      "明月镜片": "昨报财联社涨超10%已收录；同花顺/财闻11/2为同一补贴行情复述，跳过",
+      "CECE": "仅双11券线报，跳过",
+      "柯达": "未检到镜片业务窗口内新动态",
+      "BAGSMART": "仅京东会场券，跳过",
+      "CIGALONG": "未检到可核实新动态",
+      "abyb jewelry": "未检到可核实新动态",
+      "海伦凯勒眼镜": "未检到可核实新动态",
+      "包包树BAGTREE": "未检到可核实新动态",
+      "飞亚达": "三季报/人事为10月末已覆盖，窗口内无新公告",
+      "梵誓ONESWEAR": "未检到可核实新动态",
+      "KKLUE轻珠宝": "未检到可核实新动态",
+      "天美时集团": "昨报Ironman 40周年已收录；Gadgeteer/Gizmochina 11/2为同一产品复述，跳过",
+      "JELLYTOYBOY": "未检到窗口内硬新闻",
+      "卡蒂罗": "对比测评站无日期硬稿，跳过",
+      "尤目": "未检到可核实新动态",
+      "ORANGE CUBE": "未检到可核实新动态",
+      "古良吉吉": "未检到可核实新动态",
+      "亨得利钟表": "未检到可核实新动态",
+      "甲目眼镜": "企业黄页更新非新闻，跳过",
+      "TAD FAB": "未检到可核实新动态",
+      "FANGYI方宜": "未检到可核实新动态",
+      "老雷线上配镜": "未检到可核实新动态",
+      "抱树BYROOTS": "未检到可核实新动态",
+      "TELETIES": "未检到可核实新动态",
+      "DAVENA": "未检到可核实新动态",
+      "首末集团": "未检到可核实新动态",
+      "大图": "按用户偏好跳过不跟踪（DITA）",
+      "卡拉羊": "行李箱测评站无窗口日期硬新闻",
+      "P&N": "未检到可核实新动态",
+      "PARIM": "未检到可核实新动态",
+      "上海夕和眼镜": "未检到可核实新动态",
+      "超视立": "未检到可核实新动态",
+      "御行": "未检到可核实新动态",
+      "木九十": "未检到窗口内可核验硬新闻",
+      "天空树假发": "品牌站/旧艾瑞稿，无11/1–3新事实",
+      "不莱玫": "测评横评无窗口日期硬新闻",
+      "帕莎": "未检到可核实新动态",
+      "CASSILE卡思乐": "未检到可核实新动态",
+      "BLACKHEAD": "未检到可核实新动态"
+    }
+  },
+  "brand_insight_candidates": [
+    {
+      "brand": "GENTLE MONSTER",
+      "why": "从联名光学框走向三星/Google Android XR智能眼镜量产设计位，韩美12月首发、中日欧延后，可观察AI眼镜「设计品牌溢价」与渠道节奏。",
+      "urls": [
+        "https://9to5google.com/2026/11/02/samsungs-android-xr-intelligent-eyewear-reportedly-launches-in-december/",
+        "https://www.theverge.com/gadgets/1024273/samsungs-smart-glasses-might-stick-to-the-us-and-south-korea"
+      ]
+    },
+    {
+      "brand": "依视路",
+      "why": "控股股东Delfin家族内斗升级：LMDV有Citi意向融资但对四股东拒售无能为力，治理僵局短期难解，影响资本配置预期多于当期经营。",
+      "urls": [
+        "https://www.ansa.it/sito/notizie/economia/2026/11/02/leonardo-maria-del-vecchio-rilancia-22-miliardi-da-citi-per-le-quote-delfin._600e29d0-2e87-46d0-85e0-2ef80439af6c.html",
+        "https://www.milanofinanza.it/news/delfin-quattro-eredi-del-vecchio-respingono-anche-l-offerta-di-leonardo-maria-202611022150048551"
+      ]
+    },
+    {
+      "brand": "卡西欧",
+      "why": "把经典A168缩成戒指表，是「手表→可穿戴配饰」的形态实验，价格带仍在大众时尚配件区间，可对照天美时首饰化女表路径。",
+      "urls": [
+        "https://www.prnewswire.com/news-releases/casio-reimagines-its-iconic-a168-digital-watch-as-a-full-metal-ring-302926754.html"
+      ]
+    }
+  ]
+}
