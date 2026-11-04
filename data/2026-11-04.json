@@ -1,0 +1,466 @@
+{
+  "date": "2026-11-04",
+  "headline": "WGC：中国金饰Q3同比-22%创近20年同期最弱，金条金币前三季创纪录；MCM入驻Whatnot、狮岭广交会意向成交破5000万美元",
+  "summary": "行业新闻窗口放宽至48小时（11/2–11/4）。珠宝：WGC三季报确认「量缩价升」，轻克重设计金与大克重低工费金两极分化，水贝客流与小金条售罄印证投资属性需求。箱包：MCM成首个上Whatnot的奢侈品牌，Polène开维也纳店，卡地亚推珠宝晚宴包，狮岭出口意向单+32%。眼镜：GENTLE MONSTER×Margiela正式发售，Oakley/Ray-Ban Meta进入印尼，超视立渐进片高价拒退引发舆情。今晚Pandora、明晚Tapestry发财报。品牌覆盖8/64。",
+  "industry_news": [
+    {
+      "date": "2026-11-03",
+      "source": "世界黄金协会（WGC）",
+      "title": "2026年三季度中国黄金市场：金饰需求66吨、同比-22%，为2006年以来最弱三季度；金条金币前三季创纪录",
+      "url": "https://china.gold.org/goldhub/research/gold-demand-trends/gold-demand-trends-china-focus-q3-2026",
+      "tier1": "珠宝腕表",
+      "type": "数据",
+      "importance": 5,
+      "segment": "大众",
+      "summary": "Q3中国黄金总需求192吨（+12%）；金饰66吨环比+30%但同比-22%，前三季金饰202吨（-27%）为19年低位，金饰消费金额608亿元（同比-9%）。金条金币79吨（+7%），前三季393吨创纪录；ETF流入27吨。结构上镶嵌钻石/彩宝/珐琅的轻量硬足金仍热销，高克重低工费品类重获关注；零售端整合、库存周转放缓。"
+    },
+    {
+      "date": "2026-11-03",
+      "source": "世界黄金协会（WGC）",
+      "title": "全球Q3金饰消费313吨、同比-17%创有数据以来最弱三季度，但金额+2%至430亿美元",
+      "url": "https://www.gold.org/goldhub/research/gold-demand-trends/gold-demand-trends-q3-2026",
+      "tier1": "珠宝腕表",
+      "type": "数据",
+      "importance": 4,
+      "segment": "大众",
+      "summary": "LBMA金价Q3均价4262美元/盎司（+23%）；全球金饰制造340吨（-19%）、首饰库存补充27吨（-38%）；央行购金321吨（+42%）、ETF流入211吨。WGC判断金饰量将在高金价下继续走弱——「量缩价升」已是全球共性。"
+    },
+    {
+      "date": "2026-11-03",
+      "source": "每日经济新闻",
+      "title": "实物金抢购：深圳水贝周末客流超6万，菜百30克以下小金条售罄",
+      "url": "https://www.nbd.com.cn/articles/2026-11-03/4635302.html",
+      "tier1": "珠宝腕表",
+      "type": "市场",
+      "importance": 3,
+      "segment": "大众",
+      "summary": "11/2现货金反弹1.8%至3945.83美元/盎司；北京菜百总店30克以下小克重投资金条全部售罄，水贝周末客流冲上6万人次。与WGC数据对照：回调期抢的是「投资属性」的小金条和低工费货，而非高工费首饰。"
+    },
+    {
+      "date": "2026-11-03",
+      "source": "21世纪经济报道（中新社稿）",
+      "title": "广交会采购商走进「中国皮具之都」狮岭，意向成交首破5000万美元",
+      "url": "https://www.21jingji.com/article/20261103/herald/264072857ca0ad8f756f502203451e52.html",
+      "tier1": "箱包",
+      "type": "渠道",
+      "importance": 4,
+      "segment": "大众",
+      "summary": "约80名海外采购商对接70家狮岭企业，意向成交5132万美元，较春季+32.4%。狮岭有5000余家企业、年产箱包7亿只（约占全国一半），六成以上出口142个国家；采购关注功能化、轻量化、智能充电与电动行李箱。"
+    },
+    {
+      "date": "2026-11-03",
+      "source": "WWD（Yahoo转载）",
+      "title": "MCM成为首个入驻Whatnot直播电商的奢侈时尚品牌",
+      "url": "https://shopping.yahoo.com/style/accessories/articles/exclusive-mcm-launches-live-shopping-140000454.html",
+      "tier1": "箱包",
+      "type": "渠道",
+      "importance": 4,
+      "segment": "轻奢",
+      "summary": "作为50周年计划一部分，MCM在纽约、洛杉矶旗舰店开播，首场由古着眼镜主播Corey Shapiro带货。Whatnot每周新增65万+买家，47%受访用户称2026年直播购物更多。轻奢皮具首次进入以收藏/卡牌起家的直播平台。"
+    },
+    {
+      "date": "2026-11-03",
+      "source": "FashionNetwork",
+      "title": "Polène开出奥地利首店：维也纳Michaelerplatz 364㎡，全球自营增至16家",
+      "url": "https://fr.fashionnetwork.com/news/Polene-ouvre-une-boutique-a-vienne,1881017.html",
+      "tier1": "箱包",
+      "type": "渠道",
+      "importance": 3,
+      "segment": "轻奢",
+      "summary": "店铺正对霍夫堡，以维也纳新艺术运动与音乐为题，皮革声学板由西班牙Ubrique工坊制作，设「Craft at Work」八音盒装置与私享沙龙。品牌2024年获L Catterton投资，当年营收估约3.5亿欧元，一年前刚开汉堡首店。"
+    },
+    {
+      "date": "2026-11-03",
+      "source": "Business Today Malaysia",
+      "title": "卡地亚Cartier Soir推出7款限量晚宴包，以珠宝工艺做皮具",
+      "url": "https://www.businesstoday.com.my/2026/11/03/cartier-reimagines-the-evening-bag-through-its-jewellery-heritage/",
+      "tier1": "箱包",
+      "type": "新品",
+      "importance": 3,
+      "segment": "奢侈品",
+      "summary": "靠垫、球形、圆筒、长方形等廓形，镶嵌紫水晶、绿玛瑙、金曜石扣件与钙铝榴石凸面宝石；多边形缎面手包沿用1920年代的活动搭扣系统并配尼罗鳄皮饰边，追溯Jeanne Toussaint的配饰传统。"
+    },
+    {
+      "date": "2026-11-03",
+      "source": "VCCircle",
+      "title": "印度新锐珠宝品牌Giva获Multiples PE领投1亿美元，估值约4800亿卢比",
+      "url": "https://www.vccircle.com/multiplespe-leads-100-mn-round-in-jewellery-brand-giva",
+      "tier1": "珠宝腕表",
+      "type": "资本",
+      "importance": 3,
+      "segment": "轻奢",
+      "summary": "Giva从设计型银饰起家，扩至黄金与培育钻石，主打日常佩戴与送礼；FY26营收86.5亿卢比，三年年化约70%增长，门店400+（印度、斯里兰卡），资金用于制造能力与线下扩张。为印度新式珠宝赛道最大单笔融资。"
+    },
+    {
+      "date": "2026-11-03",
+      "source": "Buying Time / Watch Insider",
+      "title": "斯沃琪集团美国区任命Bertrand Delvert为CEO",
+      "url": "https://www.buyingtime.news/bertrand-delvert-appointed-ceo-of-swatch-group-usa/",
+      "tier1": "珠宝腕表",
+      "type": "市场",
+      "importance": 2,
+      "segment": "奢侈品",
+      "summary": "Delvert此前任斯沃琪法国总经理（2019起），曾在天梭18年。美国为集团最大市场，也是2025年唯一增长区域（营收12亿→13亿瑞郎），2026财年上半年美国销售+26%。"
+    },
+    {
+      "date": "2026-11-04",
+      "source": "Tapestry IR / Pandora IR",
+      "title": "财报日历：Pandora 11/4发Q3（CET 11:00），Tapestry 11/5发FY27 Q1",
+      "url": "https://investors.tapestry.com/news-releases/news-release-details/tapestry-inc-host-fy27-first-quarter-earnings-call",
+      "tier1": "综合",
+      "type": "资本",
+      "importance": 3,
+      "segment": "轻奢",
+      "summary": "Pandora Q3于11/4 11:00 CET（北京时间18:00）发布；Tapestry于11/5美东8:00电话会（北京时间21:00），市场焦点是Coach增速是否放缓、Kate Spade修复进度。新秀丽11/12发三季报（前日已报）。"
+    }
+  ],
+  "brand_news": [
+    {
+      "brand": "超视立",
+      "date": "2026-11-03",
+      "source": "新民晚报",
+      "title": "74岁老人配一副渐进镜花费17570元，门店以「定制」拒退",
+      "url": "https://paper.xinmin.cn/html/xmwb/2026-11-03/9/251379.html",
+      "summary": "报道称镜片14600元、单光镜架2950元，门店未公开标示镜片价格，以定制商品为由拒绝退货；黑猫投诉平台有多起类似投诉，家属已向市场监管部门反映。品牌门店逾150家，中老年渐进片定价与告知义务成焦点。"
+    },
+    {
+      "brand": "飞亚达",
+      "date": "2026-11-03",
+      "source": "巨潮资讯（投资者关系活动记录表）",
+      "title": "飞亚达接待16家机构调研：前三季营收30.14亿、净利1.49亿，手表业务承压",
+      "url": "https://static.cninfo.com.cn/finalpage/2026-11-03/1225656453.PDF",
+      "summary": "前三季营收+0.5%、净利-0.97%，手表收入下滑；存货较年初减少3.1亿、关闭低效门店；手表品牌与名表零售渠道整合为一个事业部，完成长空齿轮收购；机器人减速器收入占比不足5%，液冷仍在投入期。"
+    },
+    {
+      "brand": "蔡司",
+      "date": "2026-11-03",
+      "source": "中国日报网",
+      "title": "蔡司进博会落地：熠光渐进片首秀，联合同仁医院高度近视研究、与华厦眼科签2027战略合作",
+      "url": "https://cn.chinadaily.com.cn/a/202611/03/WS6ae9a2bbe4b0e14252fc8ecb.html",
+      "summary": "相对10/31预告的新增信息：熠光渐进镜片进博首秀；与北京同仁医院启动高度近视联合研究；与华厦眼科签署2027战略合作；沈阳首家蔡司眼健康中心；发布Dr.Z眼健康AI智能体与掌上蔡司2.0，并展出26款滑雪镜。"
+    },
+    {
+      "brand": "万事利",
+      "date": "2026-11-03",
+      "source": "证券之星（凤凰网大风号刊发，据企查查）",
+      "title": "万事利获「丝巾（事事如意）」外观设计专利授权",
+      "url": "https://feng.ifeng.com/c/8xkGn4dLjaw",
+      "summary": "授权日11/3；今年以来新获专利授权81个，同比+37.29%。属常规IP储备，意义在于丝巾图案设计的确权，便于打击仿款与做授权联名。"
+    },
+    {
+      "brand": "GENTLE MONSTER",
+      "date": "2026-11-02",
+      "source": "Hypebeast Japan / 品牌官方X",
+      "title": "GENTLE MONSTER × Maison Margiela新一季正式发售，全68款「解构」眼镜",
+      "url": "https://hypebeast.com/jp/2026/11/gentle-monster-maison-margiela-collb-collection-release-info",
+      "summary": "继10月下旬预告后正式开卖：压扁、变形元素的解构镜框共68款，镜腿带Margiela四道白色缝线；首尔HAUS NOWHERE以Damien Jalet装置舞蹈首发，NUDAKE推联名茶品；日本青山旗舰、阪急梅田与官网发售，部分款已售罄。"
+    },
+    {
+      "brand": "天美时集团",
+      "date": "2026-11-02",
+      "source": "webChronos",
+      "title": "Timex推两款「1978 Day-Date Fumé Dial Reissue」复刻表，11/6发售",
+      "url": "https://zh-cn.webchronos.net/news/177494/",
+      "summary": "37mm枕形表壳+渐变烟熏盘，蓝/棕两色，石英、50米防水，日本售价30800日元；同日另推1976 Rectangle Reissue银色款。档案复刻持续作为平价腕表的主力增量。"
+    },
+    {
+      "brand": "欧克利",
+      "date": "2026-11-03",
+      "source": "CNN Indonesia",
+      "title": "Oakley Meta与Ray-Ban Meta官宣进入印尼，11/11开售",
+      "url": "https://www.cnnindonesia.com/teknologi/20261103231625-206-1422979/kacamata-pintar-meta-resmi-masuk-indonesia-harga-mulai-rp8-jutaan",
+      "summary": "雅加达11/3发布会：Oakley Meta HSTN 879.9万印尼盾（全系最低价）、Oakley Meta Vanguard 1099.9万印尼盾；HSTN配3K相机、IPX4与PRIZM镜片，经Oakley官方门店与经销商销售。"
+    },
+    {
+      "brand": "依视路",
+      "date": "2026-11-03",
+      "source": "Bit Nusantara / IDN Times",
+      "title": "依视路陆逊梯卡与Meta把AI眼镜带入印尼，含处方版Ray-Ban Meta Optics Gen 2",
+      "url": "https://bitnusantara.com/gawai/ray-ban-meta-oakley-meta-dijual-indonesia-november",
+      "summary": "Ray-Ban Meta Gen 3（899.9万印尼盾，首次加入Aviator款）与Ray-Ban Meta Optics Gen 2（939.9万）同步上市；处方版提供Transitions变色、偏光、防蓝光镜片选项——镜片能力成为智能眼镜在新兴市场的配镜入口。"
+    }
+  ],
+  "insights": [
+    {
+      "title": "黄金珠宝：量缩价升进入第二年，赢家是「低工费+轻克重设计」两端",
+      "tier1": "珠宝腕表",
+      "body": "WGC 11/3发布的三季度数据把过去两天的门店热闹放进了更长的坐标：中国金饰Q3仅66吨，同比-22%，前三季202吨创19年低位；但消费金额608亿元只降9%，全球金饰更是量-17%、额+2%。与此同时金条金币前三季393吨创纪录，菜百小金条售罄、水贝周末客流6万——消费者在回调中买的是「可回收的金」，不是「高工费的饰」。\n\n结构上有两股力量：一是镶钻、彩宝、珐琅的轻量硬足金继续走俏，靠设计溢价摊薄金价；二是高克重低工费品类重获关注，接近投资金逻辑。夹在中间的传统按克计价+中等工费的大路货最受挤压，这也解释了WGC所说的零售整合与库存周转放缓。\n\n投资人视角：看估值时应把「金价贡献」与「工费/一口价贡献」拆开，Q4季节性回升主要是婚庆与送礼，弹性有限；海外Giva获1亿美元融资说明「设计型日常珠宝+全渠道」仍是资本认可的范式。\n\n经营者视角：库存要按克重段重排——低克重设计款保深度，大克重做订货制；用黄金租赁/套保锁敞口；门店话术从「克价」转向「设计与工艺」，同时接住小金条带来的进店客流做连带。",
+      "refs": [
+        {
+          "title": "WGC：2026年三季度中国黄金市场回顾与展望",
+          "url": "https://china.gold.org/goldhub/research/gold-demand-trends/gold-demand-trends-china-focus-q3-2026"
+        },
+        {
+          "title": "WGC：Gold Demand Trends Q3 2026",
+          "url": "https://www.gold.org/goldhub/research/gold-demand-trends/gold-demand-trends-q3-2026"
+        },
+        {
+          "title": "每经：水贝周末客流超6万",
+          "url": "https://www.nbd.com.cn/articles/2026-11-03/4635302.html"
+        },
+        {
+          "title": "VCCircle：Giva获1亿美元融资",
+          "url": "https://www.vccircle.com/multiplespe-leads-100-mn-round-in-jewellery-brand-giva"
+        }
+      ]
+    },
+    {
+      "title": "箱包：轻奢品牌把「渠道」本身做成产品，制造端转向功能与智能",
+      "tier1": "箱包",
+      "body": "两天里箱包的信号分布在价值链两端。品牌端，MCM成为首个上Whatnot的奢侈时尚品牌，把旗舰店变成直播间，借收藏圈主播触达新客；Polène在维也纳开出364㎡、融合本地工艺与音乐叙事的第16家自营店；卡地亚以宝石扣件和1920年代搭扣做7款限量晚宴包，用珠宝工艺抬高皮具客单。三者共同点是：在需求疲软期，用「体验与稀缺」替代折扣。\n\n制造端，狮岭在广交会后接待80名采购商，意向成交5132万美元、较春季+32.4%，采购关注功能化、轻量化、智能充电和电动行李箱。外需订单向「功能附加值」集中，单纯贴牌皮具的议价空间继续收窄。\n\n投资人视角：Tapestry 11/5财报将检验Coach高增长能否延续，新秀丽11/12财报看旅行箱需求；轻奢估值的关键是全价售罄率而非GMV。Polène的稳健开店节奏（一年一城）值得作为DTC皮具扩张的参照。\n\n经营者视角：国内皮具品牌可尝试兴趣/收藏型直播而非纯低价直播；供应链伙伴应把功能件（充电、轻量材料）做成可选模块，提高单只订单价值。",
+      "refs": [
+        {
+          "title": "WWD/Yahoo：MCM launches live shopping on Whatnot",
+          "url": "https://shopping.yahoo.com/style/accessories/articles/exclusive-mcm-launches-live-shopping-140000454.html"
+        },
+        {
+          "title": "FashionNetwork：Polène ouvre une boutique à Vienne",
+          "url": "https://fr.fashionnetwork.com/news/Polene-ouvre-une-boutique-a-vienne,1881017.html"
+        },
+        {
+          "title": "21经济：狮岭意向成交首破5000万美元",
+          "url": "https://www.21jingji.com/article/20261103/herald/264072857ca0ad8f756f502203451e52.html"
+        },
+        {
+          "title": "Business Today：Cartier Soir",
+          "url": "https://www.businesstoday.com.my/2026/11/03/cartier-reimagines-the-evening-bag-through-its-jewellery-heritage/"
+        },
+        {
+          "title": "Tapestry FY27 Q1电话会公告",
+          "url": "https://investors.tapestry.com/news-releases/news-release-details/tapestry-inc-host-fy27-first-quarter-earnings-call"
+        }
+      ]
+    }
+  ],
+  "trends": [
+    {
+      "title": "珠宝品牌做晚宴包：用宝石扣件拉高皮具客单",
+      "tier1": "箱包",
+      "stage": "萌芽",
+      "description": "卡地亚Cartier Soir以紫水晶、绿玛瑙、金曜石扣件和凸面宝石做7款限量晚宴包，把珠宝工艺嫁接到小皮具。",
+      "opportunity": "国内珠宝/玉石品牌可用和田玉、翡翠、珐琅做包扣与链条配件，与箱包品牌联名小批量限定。",
+      "evidence": [
+        {
+          "title": "Business Today：Cartier Soir",
+          "url": "https://www.businesstoday.com.my/2026/11/03/cartier-reimagines-the-evening-bag-through-its-jewellery-heritage/"
+        }
+      ]
+    },
+    {
+      "title": "轻奢配饰进入「收藏型直播」渠道",
+      "tier1": "箱包",
+      "stage": "萌芽",
+      "description": "MCM入驻Whatnot，由古着眼镜主播带货，平台每周新增65万+买家；直播从低价清货转向社群与收藏叙事。",
+      "opportunity": "复古眼镜、腕表复刻、老花包等有收藏属性的品类适合兴趣社群直播；测试旗舰店直播与限量编号款。",
+      "evidence": [
+        {
+          "title": "WWD/Yahoo：MCM × Whatnot",
+          "url": "https://shopping.yahoo.com/style/accessories/articles/exclusive-mcm-launches-live-shopping-140000454.html"
+        }
+      ]
+    },
+    {
+      "title": "功能化/智能化行李箱成为出口订单新卖点",
+      "tier1": "箱包",
+      "stage": "上升",
+      "description": "广交会后狮岭意向成交5132万美元、环比+32.4%，采购关注轻量化、智能充电与电动行李箱。",
+      "opportunity": "代工企业把充电模块、轻量材料做成标准选配；国内品牌可借差旅场景推中高价功能箱。",
+      "evidence": [
+        {
+          "title": "21经济：狮岭广交会采购",
+          "url": "https://www.21jingji.com/article/20261103/herald/264072857ca0ad8f756f502203451e52.html"
+        }
+      ]
+    },
+    {
+      "title": "轻克重设计金与大克重低工费金两极分化",
+      "tier1": "珠宝腕表",
+      "stage": "成熟",
+      "description": "WGC指出镶嵌钻石、彩宝、珐琅的轻量硬足金仍热销，高克重低工费品类重获关注；金条金币前三季创纪录。",
+      "opportunity": "产品线两端化：设计款按件计价保毛利，大克重款做订货制控库存；彩宝/珐琅供应链有增量。",
+      "evidence": [
+        {
+          "title": "WGC中国Q3报告",
+          "url": "https://china.gold.org/goldhub/research/gold-demand-trends/gold-demand-trends-china-focus-q3-2026"
+        },
+        {
+          "title": "每经：菜百小金条售罄",
+          "url": "https://www.nbd.com.cn/articles/2026-11-03/4635302.html"
+        }
+      ]
+    }
+  ],
+  "brand_insights": [
+    {
+      "brand": "飞亚达",
+      "tier1": "珠宝腕表",
+      "title": "飞亚达：手表主业稳守、利润靠精密制造第二曲线",
+      "body": "11/3调研纪要显示，前三季营收30.14亿（+0.5%）、净利1.49亿（-0.97%），但手表收入下滑，增长主要来自精密科技业务。公司的应对分三步：一是压库存（较年初减3.1亿）与关低效门店；二是把自有手表品牌与名表零售（亨吉利）整合为一个事业部，统一采购与会员；三是收购长空齿轮，布局机器人减速器与液冷，但减速器收入占比不足5%，液冷仍在投入期。\n\n竞争上，国产腕表在2000元以下被智能手表挤压，在万元以上被瑞士品牌占据，飞亚达航天IP与国潮款是差异化抓手，但规模弹性有限。",
+      "investor_view": "估值锚应从「消费品」转向「消费+精密制造」，但短期利润仍由手表与名表零售决定；关注减速器客户放量与名表零售受金价/奢侈消费周期的影响。存货下降是现金流利好。",
+      "operator_view": "渠道整合后应以会员和售后（维修、保养）提升复购；国产表品牌可借航天/文化IP做限量款，同时把精密制造能力反哺高端机芯，形成品牌溢价。",
+      "sources": [
+        {
+          "title": "飞亚达投资者关系活动记录表20261103",
+          "url": "https://static.cninfo.com.cn/finalpage/2026-11-03/1225656453.PDF"
+        },
+        {
+          "title": "同花顺：飞亚达调研纪要",
+          "url": "https://stock.10jqka.com.cn/20261103/c681423870.shtml"
+        }
+      ]
+    },
+    {
+      "brand": "超视立",
+      "tier1": "眼镜",
+      "title": "超视立：中老年渐进片高客单模式的信任风险",
+      "body": "新民晚报11/3报道，一位74岁老人在超视立配渐进镜花费17570元，其中镜片14600元；门店未公开标价、以定制为由拒退，黑猫平台已有多起类似投诉，家属向市场监管部门反映。超视立门店逾150家，渐进多焦点是其高毛利核心品类。\n\n问题本质是信息不对称：渐进片验配复杂、价差大（同功能国产与进口可差数倍），老年客户难以比价。随着蔡司等头部镜片商与医院、眼科连锁深度合作推「医学化验配」，以及电商平台价格透明化，单纯依靠门店话术的高客单模式面临监管与口碑双重压力。",
+      "investor_view": "连锁眼镜估值依赖复购和口碑，单一舆情可能触发监管约谈；评估此类企业需看明码标价合规、退换政策及投诉率，而非仅看客单价。",
+      "operator_view": "渐进片应做分档明码标价+验配不适包换+子女同意确认；以验光师资质和适配回访建立信任，把一次性高客单转为长期视光服务关系。",
+      "sources": [
+        {
+          "title": "新民晚报：老人配镜17570元",
+          "url": "https://paper.xinmin.cn/html/xmwb/2026-11-03/9/251379.html"
+        },
+        {
+          "title": "中国日报网：蔡司进博会合作",
+          "url": "https://cn.chinadaily.com.cn/a/202611/03/WS6ae9a2bbe4b0e14252fc8ecb.html"
+        }
+      ]
+    }
+  ],
+  "reading_list": [
+    {
+      "title": "2026年三季度中国黄金市场回顾与展望",
+      "source": "世界黄金协会",
+      "date": "2026-11-03",
+      "url": "https://china.gold.org/goldhub/research/gold-demand-trends/gold-demand-trends-china-focus-q3-2026",
+      "tier1": "珠宝腕表"
+    },
+    {
+      "title": "Gold Demand Trends: Q3 2026",
+      "source": "World Gold Council",
+      "date": "2026-11-03",
+      "url": "https://www.gold.org/goldhub/research/gold-demand-trends/gold-demand-trends-q3-2026",
+      "tier1": "珠宝腕表"
+    },
+    {
+      "title": "Polène ouvre une boutique à Vienne",
+      "source": "FashionNetwork",
+      "date": "2026-11-03",
+      "url": "https://fr.fashionnetwork.com/news/Polene-ouvre-une-boutique-a-vienne,1881017.html",
+      "tier1": "箱包"
+    },
+    {
+      "title": "Exclusive: MCM launches live shopping",
+      "source": "WWD/Yahoo",
+      "date": "2026-11-03",
+      "url": "https://shopping.yahoo.com/style/accessories/articles/exclusive-mcm-launches-live-shopping-140000454.html",
+      "tier1": "箱包"
+    },
+    {
+      "title": "飞亚达投资者关系活动记录表",
+      "source": "巨潮资讯",
+      "date": "2026-11-03",
+      "url": "https://static.cninfo.com.cn/finalpage/2026-11-03/1225656453.PDF",
+      "tier1": "珠宝腕表"
+    }
+  ],
+  "brand_scan": {
+    "window": "2026-11-02..2026-11-04",
+    "method": "Exa web_search_exa逐品牌检索（含中英文别名，限流退避重试）+WebSearch/WebFetch核验日期与原始URL；x search_posts_all（品牌分组+行业词，start_time=2026-11-02T00:00:00Z）多为粉丝噪声；Firecrawl未认证跳过。对照data/2026-11-02、11-03去重。",
+    "note": "有动态 8/64：超视立、飞亚达、蔡司、万事利、GENTLE MONSTER、天美时集团、欧克利、依视路；大图按偏好跳过；卡西欧/新秀丽/明月镜片仅有已收录事实未重复计入；蔡司仅计入相对10/31预告的新增合作信息。",
+    "per_brand": {
+      "裘真": "仅招聘信息",
+      "Fakeme": "未检到2026-11-02..11-04可核验新动态",
+      "山下有松": "未检到2026-11-02..11-04可核验新动态",
+      "LOLA ROSE": "未检到2026-11-02..11-04可核验新动态",
+      "HEFANG": "未检到2026-11-02..11-04可核验新动态",
+      "雅瑞光学": "仅校招信息",
+      "ARSIS": "检索结果为同名希腊NGO，非目标品牌",
+      "蔡司": "有动态：蔡司进博会落地：熠光渐进片首秀，联合同仁医院高度近视研究、与华厦眼科签2027战略合作",
+      "依视路": "有动态：依视路陆逊梯卡与Meta把AI眼镜带入印尼，含处方版Ray-Ban Meta Optics Gen 2",
+      "CHARLES&KEITH": "仅消费者晒单",
+      "新秀丽": "11/12财报日已于前日收录，无新事实",
+      "ITO": "未检到2026-11-02..11-04可核验新动态",
+      "GROTTO个乐": "仅粉丝帖",
+      "白岚": "仅电商店铺问答页，无硬新闻",
+      "万事利": "有动态：万事利获「丝巾（事事如意）」外观设计专利授权",
+      "ECODAY": "未检到2026-11-02..11-04可核验新动态",
+      "bampo": "未检到2026-11-02..11-04可核验新动态",
+      "卡西欧": "G-SHOCK GMC-2500/GAC-2500（11/7发售）已于10/22覆盖，窗口内无新事实",
+      "德津": "未检到2026-11-02..11-04可核验新动态",
+      "LEVEL8地平线8号": "未检到2026-11-02..11-04可核验新动态",
+      "九格眼镜": "SEO软文跳过",
+      "欧克利": "有动态：Oakley Meta与Ray-Ban Meta官宣进入印尼，11/11开售",
+      "FANCI范琦": "范丞丞代言内容仅自媒体，未采用",
+      "GENTLE MONSTER": "有动态：GENTLE MONSTER × Maison Margiela新一季正式发售，全68款「解构」眼镜",
+      "纽芝兰": "未检到2026-11-02..11-04可核验新动态",
+      "明月镜片": "仅自动生成专利稿；11/2行情已收录",
+      "CECE": "检索结果为欧洲建筑协会，非目标品牌",
+      "柯达": "未检到2026-11-02..11-04可核验新动态",
+      "BAGSMART": "仅优惠码",
+      "CIGALONG": "未检到2026-11-02..11-04可核验新动态",
+      "abyb jewelry": "未检到2026-11-02..11-04可核验新动态",
+      "海伦凯勒眼镜": "未检到2026-11-02..11-04可核验新动态",
+      "包包树BAGTREE": "未检到2026-11-02..11-04可核验新动态",
+      "飞亚达": "有动态：飞亚达接待16家机构调研：前三季营收30.14亿、净利1.49亿，手表业务承压",
+      "梵誓ONESWEAR": "仅电商店铺问答页，无硬新闻",
+      "KKLUE轻珠宝": "未检到2026-11-02..11-04可核验新动态",
+      "天美时集团": "有动态：Timex推两款「1978 Day-Date Fumé Dial Reissue」复刻表，11/6发售",
+      "JELLYTOYBOY": "未检到2026-11-02..11-04可核验新动态",
+      "卡蒂罗": "未检到2026-11-02..11-04可核验新动态",
+      "尤目": "未检到2026-11-02..11-04可核验新动态",
+      "ORANGE CUBE": "未检到2026-11-02..11-04可核验新动态",
+      "古良吉吉": "未检到2026-11-02..11-04可核验新动态",
+      "亨得利钟表": "仅SEO页面",
+      "甲目眼镜": "未检到2026-11-02..11-04可核验新动态",
+      "TAD FAB": "未检到2026-11-02..11-04可核验新动态",
+      "FANGYI方宜": "未检到2026-11-02..11-04可核验新动态",
+      "老雷线上配镜": "仅泛行业稿",
+      "抱树BYROOTS": "未检到2026-11-02..11-04可核验新动态",
+      "TELETIES": "未检到2026-11-02..11-04可核验新动态",
+      "DAVENA": "未检到2026-11-02..11-04可核验新动态",
+      "首末集团": "检索结果为首控集团，非目标",
+      "大图": "按偏好跳过（DITA）",
+      "卡拉羊": "仅电商店铺问答页，无硬新闻",
+      "P&N": "检索结果为P&N Bank，无关",
+      "PARIM": "未检到2026-11-02..11-04可核验新动态",
+      "上海夕和眼镜": "未检到2026-11-02..11-04可核验新动态",
+      "超视立": "有动态：74岁老人配一副渐进镜花费17570元，门店以「定制」拒退",
+      "御行": "未检到2026-11-02..11-04可核验新动态",
+      "木九十": "未检到2026-11-02..11-04可核验新动态",
+      "天空树假发": "仅电商店铺问答页，无硬新闻",
+      "不莱玫": "未检到2026-11-02..11-04可核验新动态",
+      "帕莎": "仅明星粉丝转发",
+      "CASSILE卡思乐": "未检到2026-11-02..11-04可核验新动态",
+      "BLACKHEAD": "未检到2026-11-02..11-04可核验新动态"
+    }
+  },
+  "sources": [
+    {
+      "name": "世界黄金协会",
+      "url": "https://china.gold.org",
+      "tier1": "珠宝腕表"
+    },
+    {
+      "name": "21世纪经济报道",
+      "url": "https://www.21jingji.com",
+      "tier1": "箱包"
+    },
+    {
+      "name": "FashionNetwork",
+      "url": "https://fr.fashionnetwork.com",
+      "tier1": "箱包"
+    },
+    {
+      "name": "巨潮资讯",
+      "url": "http://www.cninfo.com.cn",
+      "tier1": "珠宝腕表"
+    },
+    {
+      "name": "新民晚报",
+      "url": "https://paper.xinmin.cn",
+      "tier1": "眼镜"
+    }
+  ]
+}
