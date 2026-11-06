@@ -1,0 +1,235 @@
+{
+  "window_note": "时间窗约 2026-11-04 晚至 2026-11-06 早（Asia/Shanghai），覆盖约 24–48 小时。Firecrawl CLI 未鉴权不可用、Exa MCP needsAuth；主要依赖 WebSearch/WebFetch 与一手 IR/官网。日期或链接无法核验的条目已丢弃。",
+  "industry_news": [
+    {
+      "date": "2026-11-05",
+      "source": "Tapestry IR / Business Wire",
+      "title": "Tapestry, Inc. Reports Fiscal 2027 First Quarter Results and Raises Full Year Outlook",
+      "url": "https://investors.tapestry.com/news-releases/news-release-details/tapestry-inc-reports-fiscal-2027-first-quarter-results-and",
+      "tier1": "箱包",
+      "type": "数据",
+      "importance": 5,
+      "segment": "轻奢",
+      "summary": "FY27 Q1（截至2026-09-26）净销售18.94亿美元，同比+11%（剔除Stuart Weitzman后pro forma +12%）。Coach销售16.61亿美元、+16%；Kate Spade 2.33亿美元、同比-10%并录得经营亏损。Non-GAAP稀释EPS 1.82美元（+32%），Non-GAAP经营利润率23.2%（+230bps）。大中华区pro forma恒定汇率+39%（报道口径中国区约+43%）。上调全年指引：营收85–86亿美元（原84–85亿）、EPS 8.25–8.35美元（原7.80–7.90），股东回报展望提至约20亿美元。"
+    },
+    {
+      "date": "2026-11-05",
+      "source": "BoF / Bloomberg",
+      "title": "China Wealth Crackdown Lifts Hong Kong Watch and Jewellery Sales",
+      "url": "https://www.businessoffashion.com/news/china/china-wealth-crackdown-lifts-hong-kong-watch-and-jewellery-sales/",
+      "tier1": "珠宝腕表",
+      "type": "数据",
+      "importance": 5,
+      "segment": "奢侈品",
+      "summary": "香港特区政府数据：前九个月珠宝、钟表、时钟及贵重礼品零售额同比+22%至458亿港元（约58亿美元），达2019年以来最高，约占全港零售约15%。内地奢侈品消费同比跌超10%背景下，港珠宝仍双位数增长；富豪转向黄金与宝石保值，利好Hermès、Richemont等亚太敞口品牌。LVMH珠宝腕表前九月有机+8%，开云珠宝+17%（时装皮具-2%）。老铺等在港扩店，AP拟开亚洲大型旗舰。"
+    },
+    {
+      "date": "2026-11-05",
+      "source": "证券日报",
+      "title": "下游需求旺盛 培育钻石涨价",
+      "url": "http://www.zqrb.cn/gscy/gongsi/2026-11-05/A1793864644074.html",
+      "tier1": "珠宝腕表",
+      "type": "市场",
+      "importance": 4,
+      "segment": "大众",
+      "summary": "黄河旋风子公司莲熠钻石自11月1日起将大单晶（培育钻石毛坯）价格上调10%；记者多方核实属行业协同涨价，核心驱动是下游需求回暖而非扩产。中原珠宝创新研究院指应用边界拓宽至时尚佩戴，有企业小克拉培育钻销量同比约三倍。超硬材料板块三季报盈利普增：力量钻石净利同比+290.77%，四方达+48.8%，中兵红箭+182.71%。"
+    },
+    {
+      "date": "2026-11-05",
+      "source": "Kering / Balenciaga",
+      "title": "Balenciaga announces the departure of Creative Director Pierpaolo Piccioli",
+      "url": "https://www.kering.com/en/news/balenciaga-announces-the-departure-of-creative-director-pierpaolo-piccioli/",
+      "tier1": "综合",
+      "type": "资本",
+      "importance": 4,
+      "segment": "奢侈品",
+      "summary": "开云旗下Balenciaga宣布创意总监Pierpaolo Piccioli离任；CEO Gianangeli致谢其强化高级定制基因与工艺。集团CEO Luca de Meo称将延续先锋精神，新创意方向即将公布。Vogue等同日跟进，配饰与成衣叙事将进入过渡期，需关注下任人选对包袋/眼镜线的影响。"
+    },
+    {
+      "date": "2026-11-04",
+      "source": "中国黄金协会 / 新华财经",
+      "title": "2026年前三季度我国黄金消费量684.623吨 同比增长0.28%",
+      "url": "https://www.cnfin.com/dz-lb/detail/20261104/4490801_1.html",
+      "tier1": "珠宝腕表",
+      "type": "数据",
+      "importance": 5,
+      "segment": "大众",
+      "summary": "协会一手数据：前三季度黄金消费684.623吨（+0.28%）；金饰178.612吨（-33.86%），金条金币444.576吨（+26.26%），工业及其他61.434吨（+1.41%）。国内原料产金220.935吨（-18.71%）；结构性分化显著——投资类直营替代经销，首饰向高附加值/定价类升级。国内黄金ETF增仓56.114吨（-28.98%），央行连续23个月增持，储备2409.59吨。"
+    },
+    {
+      "date": "2026-11-04",
+      "source": "Pandora Group IR",
+      "title": "Pandora delivers 6% organic growth in Q3 - Guidance narrowed towards upper end",
+      "url": "https://www.pandoragroup.com/news/27971",
+      "tier1": "珠宝腕表",
+      "type": "数据",
+      "importance": 4,
+      "segment": "轻奢",
+      "summary": "Q3营收66.94亿丹麦克朗，有机增长6%（LFL +4%）；北美LFL加速至+3%，亚太LFL +20%。毛利率83.7%（含美国IEEPA关税退税一次性+340bps），EBIT利润率15.9%。全年指引收窄至上沿：有机增长2%–3%、EBIT利润率22.5%–23%。铂金镀层试点扩至美/英/澳，计划2027推进；Talisman等设计策略初见成效。"
+    },
+    {
+      "date": "2026-11-04",
+      "source": "CNBC Indonesia",
+      "title": "Kacamata Pintar Ray-Ban dan Oakley Masuk RI, Harga Mulai Rp8 Juta",
+      "url": "https://www.cnbcindonesia.com/tech/20261104115622-37-782199/kacamata-pintar-ray-band-dan-oakley-masuk-ri-harga-mulai-rp8-juta",
+      "tier1": "眼镜",
+      "type": "渠道",
+      "importance": 4,
+      "segment": "大众",
+      "summary": "EssilorLuxottica与Meta宣布Ray-Ban Meta、Oakley Meta于11月11日在印尼开售，起步价约800万印尼盾。Ray-Ban Meta Gen 3（Wayfarer/Aviator/Zena）约899.9万盾，Optics Gen2约939.9万；Oakley Meta HSTN约879.9万、Vanguard约1099.9万。含处方镜片、Transitions/偏光/蓝光选项及运动向PRIZM镜头，东南亚智能眼镜渠道继续扩容。"
+    },
+    {
+      "date": "2026-11-04",
+      "source": "Hypebeast",
+      "title": "GENTLE MONSTER 携手 Maison Margiela 正式发布第四度联名系列",
+      "url": "https://hypebeast.cn/2026/11/gentle-monster-maison-margiela",
+      "tier1": "眼镜",
+      "type": "新品",
+      "importance": 4,
+      "segment": "轻奢",
+      "summary": "双方第四次联名以「解构」为核心，推出68款（43太阳镜+25光学镜），含超大量感镜框与皮革包裹纤细上扬框，白色四缝线融入镜腿/框缘。首尔Layer 41艺术展演同步，全球八城（首尔/东京/上海/北京/曼谷/吉隆坡/墨尔本/巴黎）限时空间启幕，强化时尚镜框联名营销。"
+    },
+    {
+      "date": "2026-11-04",
+      "source": "北京晚报 / 新华网",
+      "title": "北京全链条扶持智能眼镜消费",
+      "url": "https://www.news.cn/tech/20261104/43f15858d3d14f9fb7aa4057ea077acb/c.html",
+      "tier1": "眼镜",
+      "type": "政策",
+      "importance": 4,
+      "segment": "大众",
+      "summary": "北京市商务局《促进智能眼镜消费政策指南》：个人购机按最终售价15%补贴、每件最高500元；亚洲/中国内地/北京首店及旗舰店最高奖励100万元；国际化消费体验空间最高支持2000万元；离境退税相关企业季度最高100万、年度最高400万。覆盖首店、IP联名、退税与数字化，意在把智能眼镜做成商圈体验型引流内容。"
+    },
+    {
+      "date": "2026-11-04",
+      "source": "上海证券报 / 新浪财经",
+      "title": "金价“退烧” 金店“发热”",
+      "url": "https://finance.sina.com.cn/roll/2026-11-04/doc-inixqhks9369209.shtml",
+      "tier1": "珠宝腕表",
+      "type": "市场",
+      "importance": 4,
+      "segment": "大众",
+      "summary": "上证报实地：10月伦敦金累跌约6.8%、触及近一年低位后，深圳水贝客流爆满，20克左右古法金镯与10克上下金饰最抢手；婚庆「三金」、岁末刚需与悦己小克重并行，30克以下小金条多地断货。品牌金饰克价较年内高点回落超400元（周大福约1185元/克）。工行、光大同步发贵金属风险提示；分析指短期抄底脉冲难持续。"
+    },
+    {
+      "date": "2026-11-05",
+      "source": "上海证券报·中国证券网",
+      "title": "泰佩思琦旗下COACH与Kate Spade首发新品亮相进博会",
+      "url": "https://news.10jqka.com.cn/20261105/c681514288.shtml",
+      "tier1": "箱包",
+      "type": "营销",
+      "importance": 3,
+      "segment": "轻奢",
+      "summary": "第九届进博会开幕日，Tapestry连续第八年携Coach与Kate Spade参展，主题「汇聚之都」。Coach适逢85周年设典藏展并全球首发数款Tabby新品；Kate Spade展出Duo系列。首设匠心工艺体验区，展示Upcrafted Leather（至少50%皮革纤维+循环纺织余料）。与同日财报形成「业绩+中国市场动作」双线叙事。"
+    },
+    {
+      "date": "2026-11-05",
+      "source": "WWD",
+      "title": "EXCLUSIVE: Louis Vuitton’s 2026 Holiday Campaign Celebrates Train Travel",
+      "url": "https://wwd.com/fashion-news/fashion-scoops/louis-vuitton-2026-holiday-campaign-art-of-travel-train-1239398871/",
+      "tier1": "箱包",
+      "type": "营销",
+      "importance": 3,
+      "segment": "奢侈品",
+      "summary": "LV 2026假日广告以雪景火车站为主题，摄影Oliver Hadlee Pearch，影片Rubberband执导，呼应Art of Travel与Orient Express合作。橱窗五大世界含微型火车；涩谷店周六开沉浸快闪。广告覆盖皮具、箱、配饰、球鞋与珠宝，并推出Monogram Rouge灵感美妆胶囊及红色帆布配件。"
+    },
+    {
+      "date": "2026-11-05",
+      "source": "Fashion Times",
+      "title": "Michael Kors Joins TikTok Shop After CEO Admits Brand Struggled To Reach Gen Z",
+      "url": "https://www.fashiontimes.co.uk/michael-kors-tiktok-shop-gen-z-awareness-1767101",
+      "tier1": "箱包",
+      "type": "渠道",
+      "importance": 3,
+      "segment": "轻奢",
+      "summary": "Capri CEO John Idol在财报会承认MK在Gen Z几乎「没人认识」；品牌于二季度上线TikTok Shop，早期销售约达预期近四倍。同期MK营收6.63亿美元、同比-8.6%（库存延迟约影响5000万美元），公司预期FY Q4恢复增长，并减少折扣以护毛利。"
+    },
+    {
+      "date": "2026-11-04",
+      "source": "Simply Wall St",
+      "title": "Capri Holdings (CPRI) Plans 50 To 75 New Stores As Renovations Speed Up",
+      "url": "https://simplywall.st/stocks/us/consumer-durables/nyse-cpri/capri-holdings/news/capri-holdings-cpri-plans-50-to-75-new-stores-as-renovations",
+      "tier1": "箱包",
+      "type": "渠道",
+      "importance": 3,
+      "segment": "轻奢",
+      "summary": "在MK营收仍下滑背景下，Capri计划为Michael Kors新开50–75家店，并加速改造、推广体验型Jet Set Lounge。管理层押注区位与店内体验提升客流转化；约300家已改造门店据称流量与销售改善。Q3销售指引略超10亿美元，执行风险仍在。"
+    },
+    {
+      "date": "2026-11-04",
+      "source": "中国新闻网 / 中国经济网",
+      "title": "国际金价反弹，A股黄金股批量涨停",
+      "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261104_3283545.shtml",
+      "tier1": "珠宝腕表",
+      "type": "市场",
+      "importance": 3,
+      "segment": "大众",
+      "summary": "11月4日伦敦现货金收复4000美元，报约4026美元/盎司（+2.46%）；沪金主力收涨2.52%至867.46元/克。A股贵金属板块午后爆发，盛达资源、赤峰黄金、山东黄金、四川黄金等涨停。与金店零售回暖、港珠宝销售数据形成「价格反弹+实物需求」共振。"
+    }
+  ],
+  "reading_candidates": [
+    {
+      "title": "2026中国玉石市场：从“矿区到柜台”到“智能雕刻+直播信任”的重构",
+      "source": "中研普华/中研网",
+      "date": "2026-11-04",
+      "url": "https://www.chinairn.com/scfx/20261104/172702962.shtml",
+      "tier1": "玉石翡翠"
+    },
+    {
+      "title": "2026.11.5 产业早报（中黄协消费/港硬奢零售/苹果绿碧玉团标/Pandora培育钻）",
+      "source": "珠宝产业网",
+      "date": "2026-11-05",
+      "url": "http://www.zbcynews.com/NewsStd_8504.html",
+      "tier1": "珠宝腕表"
+    },
+    {
+      "title": "Tapestry (TPR) Q1 2027 Earnings Call Transcript",
+      "source": "The Motley Fool",
+      "date": "2026-11-05",
+      "url": "https://www.fool.com/earnings/call-transcripts/2026/11/05/tapestry-tpr-q1-2027-earnings-call-transcript/",
+      "tier1": "箱包"
+    },
+    {
+      "title": "6 Luxury Collaborations to Have on Your Radar This November（含MCM x Monchhichi、Zuhair Murad x Aldo）",
+      "source": "ELLE Egypt",
+      "date": "2026-11-05",
+      "url": "https://www.elle.eg/6-luxury-collaborations-to-have-on-your-radar-this-november/",
+      "tier1": "箱包"
+    },
+    {
+      "title": "EssilorLuxottica and Meta Launch AI Glasses in the Philippines on November 10",
+      "source": "Dot Daily Dose",
+      "date": "2026-11-05",
+      "url": "https://www.dotdailydose.net/2026/11/05/essilorluxottica-and-meta-launch-ai-glasses-in-the-philippines/",
+      "tier1": "眼镜"
+    },
+    {
+      "title": "Pierpaolo Piccioli and Balenciaga Part Ways",
+      "source": "Vogue",
+      "date": "2026-11-05",
+      "url": "https://www.vogue.com/article/pierpaolo-piccioli-and-balenciaga-part-ways",
+      "tier1": "综合"
+    },
+    {
+      "title": "Boucheron寶詩龍Quatre創新膠囊系列首度來台",
+      "source": "CTWANT",
+      "date": "2026-11-05",
+      "url": "https://www.ctwant.com/article/505300/",
+      "tier1": "珠宝腕表"
+    },
+    {
+      "title": "AI眼镜全彩化提速 镜片与渠道率先受益",
+      "source": "中财网",
+      "date": "2026-11-04",
+      "url": "https://sj.cfi.cn/newspage.aspx?client=phone&id=20261104000697",
+      "tier1": "眼镜"
+    }
+  ],
+  "failed_lookups": [
+    "Furla / Mulberry / Polène / Longchamp / Tory Burch：窗口内无独立可核验新稿",
+    "Hermès / Chanel / Prada / Richemont：无新财报或重大产品公告（仅有美中期选举后股价反应类稿）",
+    "华丽志 / LADYMAX / 完全眼镜 / 浪潮新消费 / 明亮公司：该窗无可用原创稿",
+    "Firecrawl CLI 未登录/无 API Key；Exa MCP needsAuth，未能使用",
+    "玉石翡翠：仅有行业综述/团标转述，缺矿区或拍卖一手突发"
+  ]
+}

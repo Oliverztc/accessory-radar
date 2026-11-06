@@ -1,0 +1,418 @@
+{
+ "date": "2026-11-06",
+ "headline": "Tapestry上调全年指引、Coach+16%大中华区+39%；港珠宝钟表前九月+22%；Piccioli卸任Balenciaga创意总监",
+ "summary": "检索窗口：行业要闻以过去24小时为主，部分关键条目（培育钻涨价报道、玉石产业分析、Oakley智能眼镜出海）发布于11/04–11/05，整体覆盖约48小时并在此说明。箱包轻奢：Tapestry FY27 Q1营收18.94亿美元（+11%，pro forma +12%），Coach +16%、大中华区恒定汇率+39%，新客260万中约35%为Gen Z，上调全年营收至85–86亿美元、Non-GAAP EPS至8.25–8.35美元，盘中股价大涨；Kate Spade -10%。珠宝：BoF称香港珠宝钟表及名贵礼物前九月+22%至458亿港元，内地富豪转向金饰宝石保值；证券日报报道培育钻毛坯自11/1起多家上调约10%。奢侈品：开云宣布Pierpaolo Piccioli卸任Balenciaga创意总监。眼镜：EssilorLuxottica将Ray-Ban Meta与Oakley Meta引入印尼，11/11开售。玉石：产业分析指向日常佩戴与直播信任重构。品牌：64个中2个有可核验动态（GENTLE MONSTER、欧克利）。Exa与Firecrawl本机未登录，检索以WebSearch/WebFetch与X为主。",
+ "industry_news": [
+  {
+   "date": "2026-11-05",
+   "source": "Tapestry投资者关系 / Business Wire",
+   "title": "Tapestry FY27 Q1：营收18.94亿美元+11%，Coach+16%，上调全年指引与回购",
+   "url": "https://investors.tapestry.com/news-releases/news-release-details/tapestry-inc-reports-fiscal-2027-first-quarter-results-and",
+   "tier1": "箱包",
+   "type": "数据",
+   "importance": 5,
+   "segment": "轻奢",
+   "summary": "截至2026年9月26日的财季：净销售额18.94亿美元，同比+11%（剔除Stuart Weitzman后pro forma +12%）。Coach 16.61亿美元、+16%；Kate Spade 2.33亿美元、-10%。毛利率78.6%（GAAP，+230bps）；Non-GAAP稀释EPS 1.82美元、+32%。大中华区恒定汇率+39%，欧洲+22%，北美+4%。新客约260万，其中约35%为Gen Z；Coach手袋AUR低双位数增长。全年指引上调至营收约85–86亿美元、Non-GAAP EPS 8.25–8.35美元；股东回报展望提至约20亿美元（回购约17亿美元）。Reuters称盘前股价一度涨近12%。"
+  },
+  {
+   "date": "2026-11-05",
+   "source": "BoF / Bloomberg",
+   "title": "香港珠宝钟表前九月销售额+22%至458亿港元，金饰宝石成财富保值通道",
+   "url": "https://www.businessoffashion.com/news/china/china-wealth-crackdown-lifts-hong-kong-watch-and-jewellery-sales/",
+   "tier1": "珠宝腕表",
+   "type": "市场",
+   "importance": 5,
+   "segment": "奢侈品",
+   "summary": "据港府数据，前九月珠宝、钟表、时钟及名贵礼物零售458亿港元，同比+22%，约占全港零售约15%。报道称内地加强对海外资产与信托保险的税务审视后，部分高净值客群转向在香港购金饰与宝石保值；强势人民币与香港免税亦降低到手价。LVMH珠宝腕表前九月有机+8%，开云珠宝+17%（同期时装皮具-2%）。老铺黄金港股当日涨逾8%，六福亦跟涨。Audemars Piguet、FOPE、Tiffany、梵克雅宝等持续加码香港门店。"
+  },
+  {
+   "date": "2026-11-05",
+   "source": "证券日报",
+   "title": "下游需求旺盛，培育钻石毛坯多家上调约10%；头部企业三季报盈利修复",
+   "url": "http://www.zqrb.cn/gscy/gongsi/2026-11-05/A1793864644074.html",
+   "tier1": "珠宝腕表",
+   "type": "数据",
+   "importance": 4,
+   "segment": "大众",
+   "summary": "黄河旋风子公司莲熠钻石通知自11月1日起大单晶（培育钻毛坯）涨价10%。多方采访显示属行业协同调价，驱动来自下游需求回暖而非产能扩张。力量钻石前三季归母净利1.81亿元、同比+290.77%；四方达、惠丰钻石、中兵红箭等亦报盈利改善。业内称中低端产能出清、应用拓展到时尚佩戴，小克拉首饰销量有企业称同比达三倍。"
+  },
+  {
+   "date": "2026-11-05",
+   "source": "Vogue",
+   "title": "Pierpaolo Piccioli卸任Balenciaga创意总监，开云称将很快公布新创意方向",
+   "url": "https://www.vogue.com/article/pierpaolo-piccioli-and-balenciaga-part-ways",
+   "tier1": "综合",
+   "type": "市场",
+   "importance": 4,
+   "segment": "奢侈品",
+   "summary": "Kering宣布Piccioli卸任。他于2025年7月接任Demna，完成约一年半任期。开云CEO Luca de Meo称将延续先锋精神。财务上集团未单列品牌，摩根士丹利估Balenciaga 2025年销售额约14.7亿欧元、低于上年16.5亿；近季皮具（City、Rodeo及新包Hourglass Avenue）仍有支撑，成衣与鞋履承压。Saint Laurent与McQueen创意总监职位亦仍空缺。"
+  },
+  {
+   "date": "2026-11-05",
+   "source": "Vogue Business / Vogue",
+   "title": "Vogue解读Tapestry：Coach手袋驱动全球获客，Kate Spade继续收缩促销与关店",
+   "url": "https://www.vogue.com/article/tapestry-revenues-climb-12-despite-kate-spade-dip",
+   "tier1": "箱包",
+   "type": "深度",
+   "importance": 3,
+   "segment": "轻奢",
+   "summary": "文章强调Coach在200–500美元价格带的价值主张与手袋创新；鞋履（含Margot泵）亦+20%以上。Kate Spade按预期下滑，继续关低效店、减促销，并押注新ECD Jonathan Saunders与代言人Tyla。Coach CEO Todd Kahn称日本年轻化重置见效，北美仍增长，并表示假日季不加大促销。"
+  },
+  {
+   "date": "2026-11-04",
+   "source": "CNBC Indonesia",
+   "title": "Ray-Ban Meta与Oakley Meta智能眼镜进入印尼，11月11日起售，起价约800万盾",
+   "url": "https://www.cnbcindonesia.com/tech/20261104115622-37-782199/kacamata-pintar-ray-band-dan-oakley-masuk-ri-harga-mulai-rp8-juta",
+   "tier1": "眼镜",
+   "type": "渠道",
+   "importance": 3,
+   "segment": "大众",
+   "summary": "EssilorLuxottica印尼总裁确认引入Ray-Ban Meta（Gen 3，Wayfarer/Aviator/Zena）与Oakley Meta（HSTN、Vanguard）。公开报价：Ray-Ban Meta Gen3约899.9万盾，Oakley Meta HSTN约879.9万盾、Vanguard约1099.9万盾；可选配光度与Transitions等镜片。智能眼镜从北美/中国试点进一步向东南亚铺货。"
+  },
+  {
+   "date": "2026-11-04",
+   "source": "中研普华 / 中研网",
+   "title": "2026中国玉石市场：从“矿区到柜台”转向智能雕刻与直播信任",
+   "url": "https://www.chinairn.com/scfx/20261104/172702962.shtml",
+   "tier1": "玉石翡翠",
+   "type": "深度",
+   "importance": 3,
+   "segment": "大众",
+   "summary": "分析指玉石消费从材质保值转向文化认同与日常佩戴；镇平等产地推广三维建模与机械臂粗雕+人工精修。信任链依靠分级国标、证书与内容讲解；直播电商倒逼非标品透明化。人群分为穿搭型、情绪型与半专业用户，价格带与场景分化加剧。"
+  },
+  {
+   "date": "2026-11-03",
+   "source": "新华财经",
+   "title": "黄金珠宝品牌“瘦身”：关低效加盟店，加码电商与回收",
+   "url": "https://www.cnfin.com/dz-lb/detail/20261103/4490481_1.html",
+   "tier1": "珠宝腕表",
+   "type": "渠道",
+   "importance": 3,
+   "segment": "大众",
+   "summary": "（48小时窗口边缘，因承接金价回撤后的渠道议题纳入）周大福Q3内地净关240店；周大生前三季净减670店；老凤祥、六福、周生生、豫园老庙/亚一同步收缩加盟。中国黄金协会上半年金饰消费量-33.88%，金条金币+28.42%。世界黄金协会洞察称“自戴”占比升至44%。周大生电商收入+33.4%至约26亿元；周生生回收网点扩至155家。"
+  },
+  {
+   "date": "2026-11-02",
+   "source": "新秀丽集团投资者关系",
+   "title": "新秀丽定于11月12日港股收盘后发布2026年三季报并举行电话会",
+   "url": "https://corporate.samsonite.com/on/demandware.static/-/Sites-InvestorRelations-Library/default/dw4f37496c/PDF/press-release/2026/E%20Samsonite%203Q2026%20Results%20Date%20Conference%20Call%20(FINAL%202026-11-02).pdf",
+   "tier1": "箱包",
+   "type": "资本",
+   "importance": 2,
+   "segment": "大众",
+   "summary": "公司公告将于2026年11月12日（周四）港股收盘后发布三季度业绩，电话会为纽约时间上午9:00／香港时间晚上10:00。旅行箱与商务包赛道即将进入财报密集期，可对照Tapestry轻奢箱包的强劲表现观察大众价位出行箱包需求。"
+  }
+ ],
+ "brand_news": [
+  {
+   "brand": "GENTLE MONSTER",
+   "date": "2026-11-04",
+   "source": "Hypebeast",
+   "title": "GENTLE MONSTER×Maison Margiela第四度联名发布：68款解构眼镜，全球八城限时空间",
+   "url": "https://hypebeast.cn/2026/11/gentle-monster-maison-margiela",
+   "summary": "以「解构」为核心，推出43款太阳镜与25款光学镜，含夸张超大镜框与皮革包裹纤细上扬镜框；Maison Margiela白色四缝线融入镜腿与镜框边缘。全球限时空间覆盖首尔、东京、上海、北京、曼谷、吉隆坡、墨尔本、巴黎；首尔Layer 41同步艺术展演。品牌官网亦上线Maison Margiela 2026系列页。"
+  },
+  {
+   "brand": "欧克利",
+   "date": "2026-11-04",
+   "source": "CNBC Indonesia",
+   "title": "Oakley Meta智能眼镜随Ray-Ban Meta进入印尼市场，11月11日开售",
+   "url": "https://www.cnbcindonesia.com/tech/20261104115622-37-782199/kacamata-pintar-ray-band-dan-oakley-masuk-ri-harga-mulai-rp8-juta",
+   "summary": "Oakley Meta推出HSTN（约879.9万盾，3K摄像头、IPX4）与Vanguard（约1099.9万盾，12MP超广角、122°视场、运动降风噪）两款，搭载Meta AI与open-ear音频，并可选Oakley PRIZM镜片。同日台北媒体报道Oakley忠孝SOGO专门店11/5–16周年庆，含Satisfy联名与限量Straight Jacket。"
+  }
+ ],
+ "insights": [
+  {
+   "title": "轻奢箱包的「可获得奢侈」正在改写格局：Coach用Gen Z与中国增速证明价格带仍有空间",
+   "tier1": "箱包",
+   "body": "Tapestry FY27 Q1给出一份与「奢侈品全面降温」叙事相反的答卷：集团pro forma营收+12%，Coach+16%，大中华区恒定汇率+39%，新客中约三成半是Gen Z，同时Non-GAAP营业利润率扩至23.2%。Reuters与Vogue的采访里，管理层反复强调200–500美元手袋价格带、低双位数AUR提升，以及假日季「不加大促销」——这等于公开宣告，增长来自产品欲望与价值感，而不是折扣。\n\n把它放到赛道坐标系里看：一端是开云、LVMH仍在消化中国高净值客群的税务与信心压力；另一端是Kate Spade同店与销售额双杀（-10%），说明「轻奢」并不是自动护城河，品牌相关性掉队就会被同一集团内的兄弟品牌吸走流量。Coach的日本年轻化重置见效、欧洲与其他亚洲双位数增长，则提示可复制的打法是：年轻营销+核心皮具创新+严格价格纪律。\n\n投资人视角：把Tapestry当「可获得奢侈」β，关键跟踪Coach中国与北美同店、手袋单位与AUR、以及Kate Spade是否止跌；回购加码降低股本，但要防假日季后增速回落。经营者视角：200–500美元仍是箱包最大成交带，国产品牌与经销商应对照Coach的获客结构，检查自己是否过度依赖促销，以及是否有能被Gen Z二次传播的包型与挂件生态。",
+   "refs": [
+    {
+     "title": "Tapestry FY27 Q1 IR",
+     "url": "https://investors.tapestry.com/news-releases/news-release-details/tapestry-inc-reports-fiscal-2027-first-quarter-results-and"
+    },
+    {
+     "title": "Vogue: Tapestry revenues",
+     "url": "https://www.vogue.com/article/tapestry-revenues-climb-12-despite-kate-spade-dip"
+    },
+    {
+     "title": "Reuters via Investing.com",
+     "url": "https://www.investing.com/news/stock-market-news/tapestry-lifts-outlook-as-young-shoppers-snap-up-coach-bags-shares-jump-5003845"
+    }
+   ]
+  },
+  {
+   "title": "珠宝的两条分流：香港「保值购金」与培育钻「时尚放量」同时成立",
+   "tier1": "珠宝腕表",
+   "body": "同一周出现两套并不矛盾的数据。BoF援引港府统计：前九月香港珠宝钟表及名贵礼物零售+22%，在内地奢侈品消费仍弱的背景下，金饰与宝石成为高净值客群跨境配置的实体出口；LVMH与开云的珠宝分部增速显著好于时装皮具。另一边，证券日报报道培育钻毛坯自11月1日起多家上调约10%，力量钻石等上游三季报盈利大幅修复，需求叙事从「替代钻石」转向「时尚小克拉日常佩戴」。\n\n渠道端，新华财经梳理的关店潮说明传统按克加盟体系正在出清：周大福、周大生、老凤祥等净减门店，电商与回收变成新增长与现金流工具；世界黄金协会口径下「自戴」占比已到44%。这意味着品牌如果还只靠婚庆大克重，会同时输给投资金条和设计型轻珠宝。\n\n投资人视角：把黄金珠宝拆成「金价β+套保能力」「设计溢价」「培育钻上游」三条曲线分别估值，避免用单一金价叙事。经营者视角：港沪跨境客群适合推高工艺金与证书透明的宝石；内地年轻客群适合一口价、小克重、培育钻与银饰能量线，并尽快补齐以旧换新与线上线下协同。",
+   "refs": [
+    {
+     "title": "BoF: Hong Kong watch and jewellery",
+     "url": "https://www.businessoffashion.com/news/china/china-wealth-crackdown-lifts-hong-kong-watch-and-jewellery-sales/"
+    },
+    {
+     "title": "证券日报：培育钻石涨价",
+     "url": "http://www.zqrb.cn/gscy/gongsi/2026-11-05/A1793864644074.html"
+    },
+    {
+     "title": "新华财经：黄金珠宝瘦身",
+     "url": "https://www.cnfin.com/dz-lb/detail/20261103/4490481_1.html"
+    }
+   ]
+  }
+ ],
+ "trends": [
+  {
+   "title": "Gen Z驱动的「200–500美元」可获得奢侈手袋",
+   "tier1": "箱包",
+   "stage": "上升",
+   "description": "Tapestry披露新客260万中约35%为Gen Z，Coach手袋AUR低双位数上升、单位仍正增长；管理层明确假日季不加大促销，把增长锚定在产品与价格带而非折扣。",
+   "opportunity": "国产品牌与经销商可对标该价格带做「情绪挂件+核心包型」组合；渠道侧减少大促依赖，改用内容与联名拉新。",
+   "evidence": [
+    {
+     "title": "Tapestry IR",
+     "url": "https://investors.tapestry.com/news-releases/news-release-details/tapestry-inc-reports-fiscal-2027-first-quarter-results-and"
+    },
+    {
+     "title": "Vogue",
+     "url": "https://www.vogue.com/article/tapestry-revenues-climb-12-despite-kate-spade-dip"
+    }
+   ]
+  },
+  {
+   "title": "培育钻毛坯涨价：时尚佩戴需求向上游传导",
+   "tier1": "珠宝腕表",
+   "stage": "上升",
+   "description": "莲熠等厂商自11/1上调大单晶约10%；行业称下游小克拉时尚首饰放量，头部上市公司三季报盈利修复。",
+   "opportunity": "成品端可提前锁毛坯与切工差异化，避免再度陷入克拉价格战；轻珠宝品牌可加大培育钻日常款占比。",
+   "evidence": [
+    {
+     "title": "证券日报",
+     "url": "http://www.zqrb.cn/gscy/gongsi/2026-11-05/A1793864644074.html"
+    }
+   ]
+  },
+  {
+   "title": "玉石「日常佩戴+直播信任」",
+   "tier1": "玉石翡翠",
+   "stage": "上升",
+   "description": "产业分析指出消费从收藏保值转向悦己穿搭；智能雕刻缩短交期，分级标准与证书成为直播成交前提。",
+   "opportunity": "揭阳、平洲等产业带可输出「标准+内容」供应链；品牌用轻量化国风款承接Citywalk与汉服场景。",
+   "evidence": [
+    {
+     "title": "中研网玉石市场",
+     "url": "https://www.chinairn.com/scfx/20261104/172702962.shtml"
+    }
+   ]
+  },
+  {
+   "title": "智能眼镜向东南亚铺货，运动场景成Oakley切入口",
+   "tier1": "眼镜",
+   "stage": "萌芽",
+   "description": "Ray-Ban Meta与Oakley Meta同步进入印尼，Oakley以运动摄像与PRIZM镜片差异化；与昨日「去摄像头、轻量化」潮流并行，说明全球市场分层推进。",
+   "opportunity": "镜片与验配商可准备光度与镀膜配套；渠道可把运动镜与智能模组做场景套装。",
+   "evidence": [
+    {
+     "title": "CNBC Indonesia",
+     "url": "https://www.cnbcindonesia.com/tech/20261104115622-37-782199/kacamata-pintar-ray-band-dan-oakley-masuk-ri-harga-mulai-rp8-juta"
+    }
+   ]
+  }
+ ],
+ "brand_insights": [
+  {
+   "brand": "GENTLE MONSTER",
+   "tier1": "眼镜",
+   "title": "GENTLE MONSTER：用第四次Margiela联名把「眼镜」做成全球沉浸式零售事件",
+   "body": "Hypebeast与品牌官网显示，双方第四度合作一次推出68款（43太阳镜+25光学镜），并把白色四缝线、皮革包裹、夸张比例做成可识别符号；同步在八个城市开限时空间，首尔再加艺术展演。这不是单品上新，而是把联名做成跨城的内容与零售排期。\n\n对时尚镜架赛道，联名的意义在于：它能同时服务光学与太阳镜两个SKU池，用高叙事撑住溢价，并用快闪缩短决策路径。与智能眼镜「做减法」的硬件叙事不同，GENTLE MONSTER押注的是文化资本与空间体验，两者在门店端可以并存——一个卖佩戴舒适与功能，一个卖身份与拍照。",
+   "investor_view": "联名频次与快闪城市数量说明品牌仍处在全球认知扩张期；需观察联名款二次销售与正价镜架是否被透支，以及中国一二线快闪的转化能否沉淀为会员复购。",
+   "operator_view": "镜架与配饰集合店可学习「主题装置+限时稀缺+光学/太阳镜双线」的排期；联名物料要能在小红书被二次剪辑，否则只剩折扣清货。",
+   "sources": [
+    {
+     "title": "Hypebeast中文",
+     "url": "https://hypebeast.cn/2026/11/gentle-monster-maison-margiela"
+    },
+    {
+     "title": "Gentle Monster官网系列页",
+     "url": "https://www.gentlemonster.com/cn/zh-CN/stories/maison-margiela-2026"
+    }
+   ]
+  },
+  {
+   "brand": "欧克利",
+   "tier1": "眼镜",
+   "title": "欧克利：借Meta把运动智能眼镜推进东南亚，同时用百货周年庆稳住线下专业店",
+   "body": "CNBC Indonesia报道Oakley Meta以HSTN与Vanguard切入印尼，强调运动摄像、防风噪与PRIZM镜片，价格带约880万–1100万盾；同周台北忠孝SOGO专门店做周年庆与Satisfy联名限量。品牌一边用智能眼镜扩品类边界，一边用实体专门店维护运动与潮流人群的试戴与稀缺感。\n\n这对应眼镜三子赛道里的「镜框时尚+智能硬件」交叉带：光学屈光仍多由镜片商承接，Oakley则把运动场景作为智能眼镜的差异化入口，避免与Ray-Ban Meta的日常时尚定位完全重叠。",
+   "investor_view": "智能眼镜放量取决于EssilorLuxottica与Meta的渠道节奏；关注东南亚ASP、退货率与是否拉动传统太阳镜连带。运动专业形象是护城河，也限制它向纯时尚镜架扩张的速度。",
+   "operator_view": "运动与户外渠道可 bundling「PRIZM太阳镜+智能款体验」；验配门店提前准备适配镜片与售后讲解话术，避免只做挂架销售。",
+   "sources": [
+    {
+     "title": "CNBC Indonesia",
+     "url": "https://www.cnbcindonesia.com/tech/20261104115622-37-782199/kacamata-pintar-ray-band-dan-oakley-masuk-ri-harga-mulai-rp8-juta"
+    },
+    {
+     "title": "Keedan：Oakley SOGO周年庆",
+     "url": "https://keedan.com/track/2026/11/03/oakley-sogo-zhongxiao-anniversary-sale-2026/"
+    }
+   ]
+  }
+ ],
+ "reading_list": [
+  {
+   "title": "Tapestry, Inc. Reports Fiscal 2027 First Quarter Results and Raises Full Year Outlook",
+   "source": "Tapestry IR",
+   "date": "2026-11-05",
+   "url": "https://investors.tapestry.com/news-releases/news-release-details/tapestry-inc-reports-fiscal-2027-first-quarter-results-and",
+   "tier1": "箱包"
+  },
+  {
+   "title": "Tapestry Revenues Hit 12% Growth Despite Kate Spade Dip",
+   "source": "Vogue",
+   "date": "2026-11-05",
+   "url": "https://www.vogue.com/article/tapestry-revenues-climb-12-despite-kate-spade-dip",
+   "tier1": "箱包"
+  },
+  {
+   "title": "Tapestry lifts outlook as young shoppers snap up Coach bags, shares jump",
+   "source": "Reuters / Investing.com",
+   "date": "2026-11-05",
+   "url": "https://www.investing.com/news/stock-market-news/tapestry-lifts-outlook-as-young-shoppers-snap-up-coach-bags-shares-jump-5003845",
+   "tier1": "箱包"
+  },
+  {
+   "title": "China Wealth Crackdown Lifts Hong Kong Watch and Jewellery Sales",
+   "source": "BoF / Bloomberg",
+   "date": "2026-11-05",
+   "url": "https://www.businessoffashion.com/news/china/china-wealth-crackdown-lifts-hong-kong-watch-and-jewellery-sales/",
+   "tier1": "珠宝腕表"
+  },
+  {
+   "title": "下游需求旺盛 培育钻石涨价",
+   "source": "证券日报",
+   "date": "2026-11-05",
+   "url": "http://www.zqrb.cn/gscy/gongsi/2026-11-05/A1793864644074.html",
+   "tier1": "珠宝腕表"
+  },
+  {
+   "title": "Pierpaolo Piccioli and Balenciaga Part Ways",
+   "source": "Vogue",
+   "date": "2026-11-05",
+   "url": "https://www.vogue.com/article/pierpaolo-piccioli-and-balenciaga-part-ways",
+   "tier1": "综合"
+  },
+  {
+   "title": "GENTLE MONSTER 携手 Maison Margiela 正式发布第四度联名系列",
+   "source": "Hypebeast",
+   "date": "2026-11-04",
+   "url": "https://hypebeast.cn/2026/11/gentle-monster-maison-margiela",
+   "tier1": "眼镜"
+  },
+  {
+   "title": "黄金珠宝品牌“瘦身”：关低效加盟店，布局电商与回收",
+   "source": "新华财经",
+   "date": "2026-11-03",
+   "url": "https://www.cnfin.com/dz-lb/detail/20261103/4490481_1.html",
+   "tier1": "珠宝腕表"
+  }
+ ],
+ "brand_scan": {
+  "window": "2026-11-04..2026-11-06",
+  "method": "WebSearch+WebFetch+X search_posts_all；Exa MCP needsAuth、Firecrawl CLI未登录，故未使用二者。对64品牌以中英文名检索行业媒体与官网，P0与上市品牌优先；大图（DITA）按用户偏好不做深度追踪但仍计入扫描。",
+  "note": "64个品牌中2个有可核验动态：GENTLE MONSTER, 欧克利。其余62个在窗口内未发现可确认日期与原文链接的公开动态（含裘真、山下有松、HEFANG、蔡司、依视路、新秀丽除财报预告外的经营新闻、BLACKHEAD等）。X中文检索噪声高，英文侧可见Tapestry财报讨论。",
+  "hits": [
+   "GENTLE MONSTER",
+   "欧克利"
+  ],
+  "misses": [
+   "裘真",
+   "Fakeme",
+   "山下有松",
+   "LOLA ROSE",
+   "HEFANG",
+   "雅瑞光学",
+   "ARSIS",
+   "蔡司",
+   "依视路",
+   "CHARLES&KEITH",
+   "新秀丽",
+   "ITO",
+   "GROTTO个乐",
+   "白岚",
+   "万事利",
+   "ECODAY",
+   "bampo",
+   "卡西欧",
+   "德津",
+   "LEVEL8地平线8号",
+   "九格眼镜",
+   "FANCI范琦",
+   "纽芝兰",
+   "明月镜片",
+   "CECE",
+   "柯达",
+   "BAGSMART",
+   "CIGALONG",
+   "abyb jewelry",
+   "海伦凯勒眼镜",
+   "包包树BAGTREE",
+   "飞亚达",
+   "梵誓ONESWEAR",
+   "KKLUE轻珠宝",
+   "天美时集团",
+   "JELLYTOYBOY",
+   "卡蒂罗",
+   "尤目",
+   "ORANGE CUBE",
+   "古良吉吉",
+   "亨得利钟表",
+   "甲目眼镜",
+   "TAD FAB",
+   "FANGYI方宜",
+   "老雷线上配镜",
+   "抱树BYROOTS",
+   "TELETIES",
+   "DAVENA",
+   "首末集团",
+   "大图",
+   "卡拉羊",
+   "P&N",
+   "PARIM",
+   "上海夕和眼镜",
+   "超视立",
+   "御行",
+   "木九十",
+   "天空树假发",
+   "不莱玫",
+   "帕莎",
+   "CASSILE卡思乐",
+   "BLACKHEAD"
+  ]
+ },
+ "sources": [
+  {
+   "name": "Tapestry Investors",
+   "url": "https://investors.tapestry.com/",
+   "tier1": "箱包"
+  },
+  {
+   "name": "BoF",
+   "url": "https://www.businessoffashion.com/",
+   "tier1": "综合"
+  },
+  {
+   "name": "证券日报",
+   "url": "http://www.zqrb.cn/",
+   "tier1": "珠宝腕表"
+  },
+  {
+   "name": "Vogue",
+   "url": "https://www.vogue.com/",
+   "tier1": "综合"
+  },
+  {
+   "name": "Hypebeast",
+   "url": "https://hypebeast.cn/",
+   "tier1": "眼镜"
+  }
+ ]
+}

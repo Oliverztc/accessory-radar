@@ -1,0 +1,339 @@
+{
+  "note": "中文X噪声高（短剧/广告），机构向highlight以英文媒体与精选中文财经号为主；Coach不在brands.json，轻奢箱包洞察落在赛道层，品牌层用GENTLE MONSTER与依视路。编织包/双肩包近7日深度文偏少，趋势层以街拍与产业调研为证据并标注阶段。",
+  "x_highlights": [
+    {
+      "date": "2026-11-05",
+      "author": "WWD (@wwd)",
+      "text": "Tapestry Tops Q1 Expectations With 12% Sales Boost",
+      "url": "https://x.com/wwd/status/2118311375583723917",
+      "relevance": "机构快讯确认Tapestry Q1超预期，为轻奢箱包格局核心事件"
+    },
+    {
+      "date": "2026-11-05",
+      "author": "News Decoded (@NewsDecodedHQ)",
+      "text": "Coach handbags are bucking the luxury slowdown. Parent Tapestry raised its annual forecasts after quarterly Coach sales rose 16% and China revenue jumped 43%, sending shares up 12%. Gen Z shoppers are spending; Tapestry shareholders collect. per Reuters",
+      "url": "https://x.com/NewsDecodedHQ/status/2118476511875604532",
+      "relevance": "概括Coach+16%、中国+43%、上调指引与Gen Z叙事"
+    },
+    {
+      "date": "2026-11-05",
+      "author": "Finsee (@Finsee_main)",
+      "text": "$TPR Q1 2027 earnings: Coach lifts Tapestry profit, but Kate Spade sales fall 10%. Tapestry's Coach handbag brand is carrying the accessories group while its smaller Kate Spade label keeps shrinking. Sales from ongoing brands rose 12% to $1.89 billion...",
+      "url": "https://x.com/Finsee_main/status/2118313228543397964",
+      "relevance": "同集团内Coach/Kate Spade分化，提示轻奢不是整齐复苏"
+    },
+    {
+      "date": "2026-11-05",
+      "author": "Reuters (@Reuters)",
+      "text": "Balenciaga designer Piccioli to exit after a year in latest departure at Kering",
+      "url": "https://x.com/Reuters/status/2118415590620606666",
+      "relevance": "Kering创意动荡对照Coach执行稳定，硬奢箱包与轻奢路径分化"
+    },
+    {
+      "date": "2026-11-02",
+      "author": "Wall St Engine (@wallstengine)",
+      "text": "Ray-Ban heir Leonardo Maria Del Vecchio is seeking to take control of his family's holdings in EssilorLuxottica, the eyewear giant behind Ray-Ban $META smart glasses.",
+      "url": "https://x.com/wallstengine/status/2117196084040888452",
+      "relevance": "EssilorLuxottica控制权博弈牵动智能眼镜渠道与品牌组合"
+    },
+    {
+      "date": "2026-11-06",
+      "author": "三分钟懂行 (@Rennix7t)",
+      "text": "莲熠毛坯提价10%，金刚石行业先迎来的是成本传导…财联社2026年11月5日报道，黄河旋风子公司莲熠钻石自11月1日起，将培育钻石毛坯价格上调10%…",
+      "url": "https://x.com/Rennix7t/status/2118495628577956203",
+      "relevance": "上游培育钻毛坯提价，承接珠宝材质切换与价格修复话题"
+    },
+    {
+      "date": "2026-11-05",
+      "author": "Eddie Du (@Edourdoo)",
+      "text": "国际金价近期持续回落，吸引中国消费者趁低价抢购黄金。深圳某市场近日人潮涌现…其中年轻买家占约七成。《星岛日报》记者走访深圳水贝黄金市场…",
+      "url": "https://x.com/Edourdoo/status/2118248486743478440",
+      "relevance": "金价回撤后水贝客流与年轻客群回补，呼应渠道差价洞察"
+    },
+    {
+      "date": "2026-11-05",
+      "author": "DSTT｜Global Markets (@DSTTMarketing)",
+      "text": "11月5日周大福足金饰品1229元/克，前一天1185元/克。这是含工费、设计和渠道的饰品价，不能比国际金价…前三季度金饰消费同比少33.86%，想变现得按回收价卖。",
+      "url": "https://x.com/DSTTMarketing/status/2118266263004930336",
+      "relevance": "区分饰品牌价与金价基准，提示经营者勿只盯克价"
+    },
+    {
+      "date": "2026-11-05",
+      "author": "TechJuice (@TechJuicePk)",
+      "text": "Your Ray-Ban Meta Glasses May Soon Be Banned in Pakistan. Pakistan’s ECC has approved a ban on importing camera-enabled smart glasses… over privacy…",
+      "url": "https://x.com/TechJuicePk/status/2118289756354130406",
+      "relevance": "摄像头隐私监管压力，强化AI眼镜‘做减法/无摄像头’产品路线"
+    },
+    {
+      "date": "2026-11-05",
+      "author": "POSITION NOTES (@POSITIONNOTES)",
+      "text": "Maybe luxury isn’t dying. Maybe shoppers are just choosing different brands. Coach sales rose 16%, while Kate Spade fell 10% inside the same company. Young buyers still want something special, just not necessarily a $3,000 handbag.",
+      "url": "https://x.com/POSITIONNOTES/status/2118323304519856211",
+      "relevance": "投资人叙事：轻奢价格带承接降级需求而非品类消亡"
+    }
+  ],
+  "insights_draft": [
+    {
+      "title": "Tapestry财报后：轻奢箱包不是全面复苏，而是Coach价格带与中国新客的单点胜出",
+      "tier1": "箱包",
+      "body": "2026年11月5日，Tapestry公布FY2027一季报并上调全年指引：pro forma收入约18.9亿美元（+12%），Coach收入+16%，大中华区收入+43%（恒定汇率约+39%），调整后EPS 1.82美元；Kate Spade则-10%。BoF/Reuters同步强调Gen Z与富裕年轻客群，以及200–500美元“甜区”不主动加大促销。公司当季获客约260万，其中约35%为Gen Z；手袋AUR低双位数上涨、件数低个位数增长，说明涨价与量能并存。\n\n这对轻奢箱包格局的含义是：需求并未回到“全价带普涨”，而是向可负担、可社交传播、可首包入门的产品集中。Coach靠产品力+数据化获客+中国和国际批发补强；同集团Kate Spade失速，证明轻奢内部也在出清。硬奢侧Kering创意动荡、LVMH皮具承压，与Coach股价大涨形成对照——消费者在换品牌，而不是退出品类。\n\n投资人视角：关注Coach可持续性（促销纪律、中国增速是否回归常态、批发扩张是否稀释品牌），以及同业（Michael Kors等）能否复制“首包+魅力单品”公式。经营者视角：国内轻奢与时尚箱包应盯2000–4000元人民币等价带的爆款深度、挂件/小皮件连带、以及不靠折扣的价值叙事；盲目跟涨或跟促销都会失焦。",
+      "refs": [
+        {
+          "title": "Tapestry FY2027 Q1财报与上调指引",
+          "url": "https://investors.tapestry.com/news-releases/news-release-details/tapestry-inc-reports-fiscal-2027-first-quarter-results-and"
+        },
+        {
+          "title": "BoF：Tapestry上调展望，年轻客群买Coach",
+          "url": "https://www.businessoffashion.com/news/retail/tapestry-lifts-outlook-as-young-shoppers-snap-up-coach-bags/"
+        },
+        {
+          "title": "Reuters/Investing：Coach带动Tapestry上调指引",
+          "url": "https://www.investing.com/news/stock-market-news/tapestry-lifts-outlook-as-young-shoppers-snap-up-coach-bags-shares-jump-5003845"
+        }
+      ],
+      "investor_operator_notes": "投资：验证中国增速可持续性与回购2.0亿美元资本回报；经营：守住价格带纪律，用挂件/小皮件提高连带而非降价。"
+    },
+    {
+      "title": "金价回撤后的双轨：港珠宝走保值，内地渠道比价，材质切换加速",
+      "tier1": "珠宝腕表",
+      "body": "承接昨日洞察，新素材把“回撤后的需求去向”写得更清楚。BoF/Bloomberg（11/5）指出：香港前九月珠宝钟表等销售同比+22%至458亿港元，为2019年来最高；内地奢侈品支出承压之际，富裕客群转向黄金与宝石保值，叠加强人民币与香港免税，缓冲Hermès、Richemont等亚太敞口。同一周，深圳商报/21经济网梳理伦敦金自1月高点回撤约三成，水贝与品牌店价差约17%，周大福靠套保抗跌、老铺黄金“零对冲”股价腰斩——渠道差价与套保纪律同时显性化。\n\n材质侧出现新拐点：证券日报（11/5）报道黄河旋风子公司莲熠钻石自11月1日起将大单晶培育钻毛坯上调10%，多家厂商协同跟涨，驱动力是下游珠宝与时尚佩戴需求回暖而非扩产；中研网（11/4）则指玉石从矿区柜台叙事转向日常佩戴、智能雕刻与直播信任。三者合看：金价回撤释放计价金刚需，但长期利润仍向设计溢价、非金/培育钻/玉石情绪佩戴迁移。\n\n投资人视角：港零售数据支撑硬珠宝与黄金品牌的“确定性溢价”叙事；培育钻上游涨价若持续，利好头部毛坯商与有品牌溢价的成品商，利空纯比价中小厂。经营者视角：门店应同时备好计价金（承接回调客流）与轻克重/银饰/玉石/培育钻设计款（守毛利），并透明化工费与回收价，避免消费者只比克价。",
+      "refs": [
+        {
+          "title": "BoF：中国财富监管推升香港钟表珠宝销售",
+          "url": "https://www.businessoffashion.com/news/china/china-wealth-crackdown-lifts-hong-kong-watch-and-jewellery-sales/"
+        },
+        {
+          "title": "21经济网/深圳商报：金价回调超三成，老铺腰斩",
+          "url": "https://www.21jingji.com/article/20261103/herald/8d7a3770fc443e1c5c7508e9aad449a4.html"
+        },
+        {
+          "title": "证券日报：下游需求旺盛，培育钻石涨价",
+          "url": "http://www.zqrb.cn/gscy/gongsi/2026-11-05/A1793864644074.html"
+        },
+        {
+          "title": "中研网：2026中国玉石市场重构",
+          "url": "https://www.chinairn.com/scfx/20261104/172702962.shtml"
+        }
+      ],
+      "investor_operator_notes": "投资：区分套保纪律型黄金零售与库存beta型品牌；经营：SKU结构按‘计价金走量+设计/非金走利’双轨排品。"
+    },
+    {
+      "title": "智能眼镜：轻量化与无摄像头成为量产前夜的产品共识",
+      "tier1": "眼镜",
+      "body": "光学与智能眼镜赛道本周继续被“能长期戴”定义。EssilorLuxottica与Meta在Connect上推出Ray-Ban Meta Audio（无摄像头、最低约43克）与更轻薄的Gen 3，并规划年内逾百种AI眼镜造型；国内《证券日报》（11/4）报道极米、雷鸟等主动做减法，雷鸟iO整机约34克且无摄像头，产业从功能堆叠转向佩戴舒适与场景边界。X上巴基斯坦拟禁带摄像头智能眼镜的讨论，则从监管侧强化了无摄像头路线的必要性。\n\n价值链上，镜片验配、镜架时尚化与零售体验的权重上升：Meta/EssilorLuxottica靠Ray-Ban与Oakley品牌矩阵做风格分层，国内厂商用轻量化换长续航与日戴率。出货预测仍指向千万台量级，但胜负手已从参数清单转为舒适度、隐私合规与渠道首试体验。\n\n投资人视角：优先看具备镜架品牌力+光学渠道的组合（EssilorLuxottica模式），以及国内能把重量压到日戴区间并拿下线下验配的公司。经营者视角：眼镜品牌应准备可拆卸摄像头/无摄像头SKU、处方镜适配，并把智能款当作拉新而非唯一利润池；传统光学门店可用试戴与售后建立转化。",
+      "refs": [
+        {
+          "title": "EssilorLuxottica×Meta：AI眼镜新品（含Audio轻量化）",
+          "url": "https://www.essilorluxottica.com/cap/content/306490/?_iframe=true"
+        },
+        {
+          "title": "证券日报/中新网：AI眼镜厂商主动做减法",
+          "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725720.shtml"
+        },
+        {
+          "title": "X：巴基斯坦拟禁摄像头智能眼镜",
+          "url": "https://x.com/TechJuicePk/status/2118289756354130406"
+        }
+      ],
+      "investor_operator_notes": "投资：关注无摄像头音频款放量与处方镜渗透；经营：门店培训验配+隐私话术，避免只卖硬件。"
+    }
+  ],
+  "trends_draft": [
+    {
+      "title": "培育钻毛坯价格修复：从比价出清转向需求传导",
+      "tier1": "珠宝腕表",
+      "stage": "上升",
+      "description": "莲熠钻石大单晶毛坯+10%，多家厂商协同涨价；证券日报称下游珠宝与时尚佩戴需求回暖，小克拉首饰销量有企业同比达三倍。行业自2025年三季度触底后进入近一年价格修复。",
+      "opportunity": "成品端可用涨价窗口推品牌化切工与戒托设计，避免继续按克拉杀价；上游关注头部集中度提升。",
+      "evidence": [
+        {
+          "title": "证券日报：下游需求旺盛 培育钻石涨价",
+          "url": "http://www.zqrb.cn/gscy/gongsi/2026-11-05/A1793864644074.html"
+        },
+        {
+          "title": "X：莲熠毛坯提价10%解读",
+          "url": "https://x.com/Rennix7t/status/2118495628577956203"
+        }
+      ]
+    },
+    {
+      "title": "玉石日常佩戴化：从收藏柜台到悦己穿搭",
+      "tier1": "珠宝腕表",
+      "stage": "上升",
+      "description": "中研网（11/4）指玉石消费转向日常佩戴、个性礼赠与直播信任，竞争从材质价差转向设计、质检证书与服务；轻量化国风件承接情绪消费。",
+      "opportunity": "配饰品牌可做‘小克重玉石+银/K金托’通勤款，并配套证书与保养；文旅与直播要解决信任而非只拼低价。",
+      "evidence": [
+        {
+          "title": "中研网：2026中国玉石市场重构",
+          "url": "https://www.chinairn.com/scfx/20261104/172702962.shtml"
+        }
+      ]
+    },
+    {
+      "title": "银饰能量/非遗轻资产化",
+      "tier1": "珠宝腕表",
+      "stage": "上升",
+      "description": "中研普华（11/3）提出银饰从低客单配饰重定义为非遗轻资产：S925轻件、纹样故事、工坊体验与售后闭环；景区九块九镀银走量模式舆情脆弱。",
+      "opportunity": "用工艺底色+场景皮肤+体验闭环做产品矩阵；能量银饰可衔接昨日亚文化配饰洞察。",
+      "evidence": [
+        {
+          "title": "中研网：2026中国银饰市场",
+          "url": "https://www.chinairn.com/scfx/20261103/170333288.shtml"
+        }
+      ]
+    },
+    {
+      "title": "AI眼镜轻量化与无摄像头",
+      "tier1": "眼镜",
+      "stage": "上升",
+      "description": "Ray-Ban Meta Audio约43克无摄像头；国内雷鸟等做到约34克。隐私监管与日戴需求共同推动‘做减法’。",
+      "opportunity": "镜架品牌联名/ODM轻量模组，光学渠道做处方与试戴转化。",
+      "evidence": [
+        {
+          "title": "EssilorLuxottica×Meta新品",
+          "url": "https://www.essilorluxottica.com/cap/content/306490/?_iframe=true"
+        },
+        {
+          "title": "证券日报：AI眼镜做减法",
+          "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725720.shtml"
+        }
+      ]
+    },
+    {
+      "title": "编织包与彩色包款（街拍层）",
+      "tier1": "箱包",
+      "stage": "萌芽",
+      "description": "Vogue Taiwan援引哥本哈根街拍：换季以彩色包与编织包提亮造型，粉红与蓝色编织包出现频率高；近7日产业深度文偏少，仍属造型趋势萌芽。",
+      "opportunity": "轻奢与时尚箱包可小批量试水编织材质与高饱和色，服务社媒出片而非主销利润池。",
+      "evidence": [
+        {
+          "title": "Vogue Taiwan：彩色包与编织包街拍",
+          "url": "https://www.vogue.com.tw/article/%E6%8F%9B%E5%AD%A3-%E7%A9%BF%E6%90%AD-%E5%8C%85%E6%AC%BE-%E9%A1%8F%E8%89%B2"
+        }
+      ]
+    },
+    {
+      "title": "双肩包通勤机能化",
+      "tier1": "箱包",
+      "stage": "成熟",
+      "description": "产业调研与品牌发布持续强调轻量尼龙、分区收纳与场景切换；属成熟品类的结构性升级，而非新风口。近48h爆发性稿件不足。",
+      "opportunity": "在成熟盘中做材质与背负差异，避免同质化低价。",
+      "evidence": [
+        {
+          "title": "中研网：2026双肩包行业调研（阶段参考）",
+          "url": "https://www.chinairn.com/hyzx/20260518/170805711.shtml"
+        }
+      ]
+    }
+  ],
+  "brand_insights_draft": [
+    {
+      "brand": "GENTLE MONSTER",
+      "tier1": "眼镜",
+      "title": "GENTLE MONSTER×Maison Margiela第四度联名：用解构美学维持溢价与内容场",
+      "body": "据Hypebeast（2026-11-04）与品牌官方故事页，GENTLE MONSTER与Maison Margiela发布第四次联名，主题“解构”，共68款（太阳镜43、光学镜25），含超大框量感与皮革包裹纤细上扬框，Maison Margiela白色四缝线融入镜腿与框缘。10月29日起全球发售，并在首尔、东京、上海、北京、曼谷、吉隆坡、墨尔本、巴黎开设限时空间，首尔Layer 41同步艺术展演。\n\n在智能眼镜硬件价格战与功能减法并行的时点，GENTLE MONSTER继续用高概念联名和城市快闪巩固“时尚眼镜”心智，把光学镜也纳入联名矩阵，说明处方与日常佩戴同样是溢价来源。对国内时尚眼镜品牌，这是内容场+限量稀缺+光学基本盘的组合拳，而不是单靠一季网红框型。",
+      "investor_view": "联名验证品牌在先锋时尚圈的议价能力与跨城市零售事件组织力；需跟踪限时店转化、光学镜占比与联名款折扣纪律，避免沦为一次性流量。",
+      "operator_view": "可借鉴：把光学镜纳入联名SKU；用八城快闪放大内容而非广铺货；白缝线等可识别符号要落到框型工艺，而不只是吊牌联名。",
+      "sources": [
+        {
+          "title": "Hypebeast：GENTLE MONSTER×Maison Margiela第四度联名",
+          "url": "https://hypebeast.cn/2026/11/gentle-monster-maison-margiela"
+        },
+        {
+          "title": "GENTLE MONSTER官方：Maison Margiela 2026",
+          "url": "https://www.gentlemonster.com/cn/zh-CN/stories/maison-margiela-2026"
+        }
+      ]
+    },
+    {
+      "brand": "依视路",
+      "tier1": "眼镜",
+      "title": "依视路（EssilorLuxottica）与Meta推进轻量化AI眼镜：镜架集团卡位下一代入口",
+      "body": "EssilorLuxottica与Meta于Connect发布Ray-Ban Meta Audio（无摄像头、低至约43克）与Ray-Ban Meta Gen 3等，并称年内AI眼镜造型将超100款，同时拓展多国零售。这与国内厂商“做减法、轻量化”同向，但依视路系凭借Ray-Ban/Oakley品牌矩阵、处方镜能力和全球光学零售网，把智能眼镜做成可验配、可日戴的品类，而不是单一消费电子SKU。\n\n对国内光学产业链，这意味着镜片镀膜、轻量镜架、验配服务的订单可能随AI眼镜放量前置；品牌商则需决定是做自有智能硬件，还是成为处方与零售承接方。",
+      "investor_view": "智能眼镜放量期，渠道与品牌护城河优于纯硬件集成商；关注Audio无摄像头款对日戴率与复购的拉动，以及控制权变动（Del Vecchio家族）对战略连续性的影响。",
+      "operator_view": "门店应布局AI眼镜试戴区与隐私说明，打通处方流程；镜架/镜片供应商按轻量化与音频模组公差升级产能。",
+      "sources": [
+        {
+          "title": "EssilorLuxottica×Meta AI眼镜新品稿",
+          "url": "https://www.essilorluxottica.com/cap/content/306490/?_iframe=true"
+        },
+        {
+          "title": "证券日报：AI眼镜厂商做减法",
+          "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725720.shtml"
+        }
+      ]
+    }
+  ],
+  "reading_list": [
+    {
+      "title": "Tapestry Reports Fiscal 2027 First Quarter Results and Raises Full Year Outlook",
+      "source": "Tapestry IR",
+      "date": "2026-11-05",
+      "url": "https://investors.tapestry.com/news-releases/news-release-details/tapestry-inc-reports-fiscal-2027-first-quarter-results-and",
+      "tier1": "箱包"
+    },
+    {
+      "title": "Tapestry Lifts Outlook as Young Shoppers Snap Up Coach Bags",
+      "source": "BoF/Reuters",
+      "date": "2026-11-05",
+      "url": "https://www.businessoffashion.com/news/retail/tapestry-lifts-outlook-as-young-shoppers-snap-up-coach-bags/",
+      "tier1": "箱包"
+    },
+    {
+      "title": "China Wealth Crackdown Lifts Hong Kong Watch and Jewellery Sales",
+      "source": "BoF/Bloomberg",
+      "date": "2026-11-05",
+      "url": "https://www.businessoffashion.com/news/china/china-wealth-crackdown-lifts-hong-kong-watch-and-jewellery-sales/",
+      "tier1": "珠宝腕表"
+    },
+    {
+      "title": "下游需求旺盛 培育钻石涨价",
+      "source": "证券日报",
+      "date": "2026-11-05",
+      "url": "http://www.zqrb.cn/gscy/gongsi/2026-11-05/A1793864644074.html",
+      "tier1": "珠宝腕表"
+    },
+    {
+      "title": "财经调查｜金价高位回调超三成，老铺黄金股价腰斩",
+      "source": "21经济网/深圳商报",
+      "date": "2026-11-03",
+      "url": "https://www.21jingji.com/article/20261103/herald/8d7a3770fc443e1c5c7508e9aad449a4.html",
+      "tier1": "珠宝腕表"
+    },
+    {
+      "title": "2026中国玉石市场：从“矿区到柜台”到“智能雕刻+直播信任”的重构",
+      "source": "中研网",
+      "date": "2026-11-04",
+      "url": "https://www.chinairn.com/scfx/20261104/172702962.shtml",
+      "tier1": "珠宝腕表"
+    },
+    {
+      "title": "AI眼镜厂商主动“做减法” 用户体验成为关键",
+      "source": "证券日报/中新网",
+      "date": "2026-11-04",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725720.shtml",
+      "tier1": "眼镜"
+    },
+    {
+      "title": "GENTLE MONSTER 携手 Maison Margiela 正式发布第四度联名系列",
+      "source": "Hypebeast",
+      "date": "2026-11-04",
+      "url": "https://hypebeast.cn/2026/11/gentle-monster-maison-margiela",
+      "tier1": "眼镜"
+    },
+    {
+      "title": "2026中国银饰市场：靠景区九块九走量，舆情一查就塌",
+      "source": "中研网",
+      "date": "2026-11-03",
+      "url": "https://www.chinairn.com/scfx/20261103/170333288.shtml",
+      "tier1": "珠宝腕表"
+    },
+    {
+      "title": "卡地亚“穷人三宝”，中产新入场券",
+      "source": "钛媒体DT商业观察",
+      "date": "2026-11-02",
+      "url": "https://www.tmtpost.com/8190065.html",
+      "tier1": "珠宝腕表"
+    }
+  ]
+}
