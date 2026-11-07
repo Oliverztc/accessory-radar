@@ -1,0 +1,170 @@
+{
+  "window_note": "时间窗约 2026-11-05 至 2026-11-07（Asia/Shanghai），优先 11/6–11/7 新稿。已刻意避开昨日（11/6）已覆盖的 Tapestry FY27 Q1、港珠宝+22%、培育钻涨价、Piccioli 离任 Balenciaga、Ray-Ban/Oakley Meta 印尼、翡翠市场综述、金店关店主线、Samsonite 11/12 财报预告等，除非有实质增量。Exa MCP 不可用；主要依赖 WebSearch/WebFetch/curl，一手 IR 与可核验媒体。",
+  "industry_news": [
+    {
+      "date": "2026-11-05",
+      "source": "Ralph Lauren IR",
+      "title": "Ralph Lauren Reports Second Quarter Fiscal 2027 Results and Raises Fiscal 2027 Outlook",
+      "url": "https://corporate.ralphlauren.com/pr_261105_Q2FY27-EarningsResults.html",
+      "tier1": "箱包",
+      "type": "数据",
+      "importance": 5,
+      "segment": "轻奢",
+      "summary": "FY27 Q2 营收约22亿美元，报表+9%、恒定汇率+10%，超预期；调整后稀释EPS 4.64美元（+22%）。高潜力品类（女装、外套、手提包）恒定汇率低双位数增长，并推出 Polo Blaze 手袋。亚洲营收+28%至5.71亿美元，中国报表与恒定汇率均超+35%；北美+6%、欧洲恒定汇率+3%。上调全年恒定汇率收入指引至约6%–7%（原5%–6%），经营利润率扩张指引提至约80–100bps。"
+    },
+    {
+      "date": "2026-11-06",
+      "source": "商业周刊 / 新浪财经",
+      "title": "国内金饰克价 一日大涨近50元",
+      "url": "https://finance.sina.com.cn/roll/2026-11-06/doc-inixuura8888748.shtml",
+      "tier1": "珠宝腕表",
+      "type": "市场",
+      "importance": 5,
+      "segment": "大众",
+      "summary": "海外金价走强带动国内足金饰品克价一日上调约40–50元：11月5日周生生1233元/克（+45）、周大福1229（+44）、老庙1225（+42）、老凤祥1232（+49）。光大期货指本轮反弹主因美国中期选举结果明朗后美元与美债收益率同步走弱。金价11月4日涨超3%重返4000美元上方后，5日一度再涨约2.1%至约4146美元/盎司附近。"
+    },
+    {
+      "date": "2026-11-06",
+      "source": "Kering / 开云集团",
+      "title": "“开物至真，云程致远” 开云集团亮相第九届中国国际进口博览会",
+      "url": "https://www.kering.com/cn/news/kai-wu-zhi-zhen-yun-cheng-zhi-yuan-kai-yun-ji-tuan-liang-xiang-di-jiu-jie-zhong-guo-guo-ji-jin-kou-bo-lan-hui/",
+      "tier1": "珠宝腕表",
+      "type": "营销",
+      "importance": 5,
+      "segment": "奢侈品",
+      "summary": "开云连续第八年参展进博会（11/5–10），展馆主题「开物至真，云程致远」。Qeelin 于11月6日正式发布全新黄金品牌 Qeelin GOLD，并首发系列 BAJING；开云眼镜全球首发 LINDBERG 钛金属羊年限定与 Maui Jim Suntrail 偏光运动镜。集团COO兼开云珠宝CEO Jean-Marc Duplaix 强调中国市场长期重要性，展陈覆盖 Gucci、YSL、BV、Balenciaga、Boucheron、Pomellato、Qeelin 及 Kering Eyewear。"
+    },
+    {
+      "date": "2026-11-05",
+      "source": "nss magazine",
+      "title": "What do the American Midterms mean for fashion?",
+      "url": "https://www.nssmag.com/en/fashion/47576/what-do-the-american-midterms-mean-for-fashion",
+      "tier1": "综合",
+      "type": "市场",
+      "importance": 4,
+      "segment": "奢侈品",
+      "summary": "美国中期选举民主党拿下国会后，欧洲奢侈股普遍反弹：Kering约+3%、Hermès+1.9%、LVMH+1.1%、Burberry+2.7%、Richemont+2.3%；美股端 Capri约+5.8%、Tapestry+3.54%、Ralph Lauren+4.48%。市场解读为关税与贸易政策单边加码空间收窄，有利北美这一近期奢侈增长主引擎。港股 Prada 当日收跌约1.17%，走势分化。"
+    },
+    {
+      "date": "2026-11-05",
+      "source": "钛媒体 / 源Sight",
+      "title": "老铺黄金总算是可以喘口气了",
+      "url": "https://www.tmtpost.com/8194881.html",
+      "tier1": "珠宝腕表",
+      "type": "深度",
+      "importance": 4,
+      "segment": "奢侈品",
+      "summary": "深度复盘一口价古法金叙事如何被金价周期击穿：股价自高点约1100港元回落至约300港元附近，花旗指相对传统金饰溢价一度超55%。2026年内地以存量门店改造为主（计划优化10–12家、上半年完成6家），境外试点港澳/新/日；存货上半年至约190亿元。近两日金价快速上行，11月5日老铺黄金收涨超8%至约305港元，形成阶段性托底，但奢侈品高估值难立刻回归。"
+    },
+    {
+      "date": "2026-11-05",
+      "source": "Dot Daily Dose",
+      "title": "EssilorLuxottica and Meta Launch AI Glasses in the Philippines on November 10",
+      "url": "https://www.dotdailydose.net/2026/11/05/essilorluxottica-and-meta-launch-ai-glasses-in-the-philippines/",
+      "tier1": "眼镜",
+      "type": "渠道",
+      "importance": 4,
+      "segment": "大众",
+      "summary": "EssilorLuxottica 与 Meta 宣布 Ray-Ban Meta、Oakley Meta 自11月10日起在菲律宾开售，Meta AI 支持他加禄语（Tagalog）。产品组合含 Ray-Ban Meta Gen 3（Wayfarer/Aviator/Zena）与 Oakley Meta，覆盖日常、处方与运动场景。继马来西亚10月20日上市、印尼11月11日开售后，东南亚智能眼镜授权零售再扩一城，渠道与本地化语音成为关键增量。"
+    },
+    {
+      "date": "2026-11-06",
+      "source": "Corriere della Sera",
+      "title": "Lusso, perché la moda crolla in Borsa? La fuga dei clienti «aspirazionali», il peso della Cina (e il caso Richemont)",
+      "url": "https://www.corriere.it/economia/finanza/26_novembre_06/lusso-perche-le-griffe-crollano-in-borsa-la-fuga-dei-clienti-aspirazionali-il-peso-della-cina-e-il-caso-richemont-9d37bfce-8fb8-4e27-bb95-d5af8193axlk.shtml",
+      "tier1": "综合",
+      "type": "深度",
+      "importance": 4,
+      "segment": "奢侈品",
+      "summary": "援引路透估算，欧洲前十大奢侈企业年初至今市值蒸发超3000亿欧元；Kering、LVMH 股价约跌四成，Hermès 亦约-39%。归因包括「aspirational」客群流失、中国需求疲软与中东不稳定。相对例外是 Richemont：市值收缩约-4.5%，得益于 Cartier、VCA、Buccellati 等高端珠宝敞口，硬奢对宏观波动抗性更强。"
+    },
+    {
+      "date": "2026-11-06",
+      "source": "上观新闻 / 新浪财经",
+      "title": "首秀直通首店，百万级展品亮相！张园“静安会客厅”进博揭幕",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-06/doc-inixvmns5283121.shtml",
+      "tier1": "珠宝腕表",
+      "type": "渠道",
+      "importance": 3,
+      "segment": "奢侈品",
+      "summary": "张园「静安会客厅」11月6日在进博会揭幕，保税展区由珠宝扩至高级腕表与艺术家居；De Bethune 限量腕表、CAPOLAVORO Grace 1991 钻戒中国首展等亮相。发布「张园365臻藏季」，推动首秀转首店：The 1916 Company 战略签约、De Bethune 全国首店意向、周大福旗下 LIVINGTIME（乐问时）首店意向落地，强化「进博—保税—常态化承接」链路。"
+    },
+    {
+      "date": "2026-11-07",
+      "source": "广东省珠宝玉石交易中心",
+      "title": "广东省珠宝玉石交易中心第二十届翡翠玉石交易会（平洲）公告",
+      "url": "https://www.gdgje.com/news/1315759036075900928",
+      "tier1": "玉石翡翠",
+      "type": "市场",
+      "importance": 3,
+      "segment": "大众",
+      "summary": "第二十届翡翠玉石交易会（平洲）于2026年11月7日在佛山桂宝标场开盘；看货日11月7–9日，开标自11月10日起。主办为广东省珠宝玉石交易中心，合办桂城宝玉石产业服务公司与翠缘拍卖；入场须经「宝翠拍」APP认证，中标支付金额105%（含货款与服务费）。官方强调「阳光化」公盘路径，是本周翡翠流通端可核验的一手节点。"
+    }
+  ],
+  "reading_list": [
+    {
+      "title": "What Does the Blue Tsunami Mean for Fashion?",
+      "source": "Vogue Business",
+      "date": "2026-11-05",
+      "url": "https://www.vogue.com/article/what-does-the-blue-tsunami-mean-for-fashion",
+      "tier1": "综合"
+    },
+    {
+      "title": "【财经分析】黄金珠宝品牌“瘦身”：关低效加盟店，布局电商与回收",
+      "source": "新华财经 / 中国金融信息网",
+      "date": "2026-11-03",
+      "url": "https://www.cnfin.com/dz-lb/detail/20261103/4490481_1.html",
+      "tier1": "珠宝腕表"
+    },
+    {
+      "title": "财经调查｜金价高位回调超三成，老铺黄金股价“腰斩”：黄金品牌不再“只靠金价吃饭”",
+      "source": "21经济网",
+      "date": "2026-11-03",
+      "url": "https://www.21jingji.com/article/20261103/herald/8d7a3770fc443e1c5c7508e9aad449a4.html",
+      "tier1": "珠宝腕表"
+    },
+    {
+      "title": "EXCLUSIVE: Bibi van der Velden Expands Into High Jewelry",
+      "source": "WWD",
+      "date": "2026-11-06",
+      "url": "https://wwd.com/accessories-news/jewelry/bibi-van-der-velden-high-jewelry-expansion-amsterdam-1239401699/",
+      "tier1": "珠宝腕表"
+    },
+    {
+      "title": "翡翠市场新变局：从“色差一分”到“种水为王”的投资逻辑重构",
+      "source": "全球玉石网",
+      "date": "2026-11-01",
+      "url": "https://globejade.cn/article/expert-1-mvxlndqv-x7kr",
+      "tier1": "玉石翡翠"
+    },
+    {
+      "title": "Tapestry Lifts Outlook as Young Shoppers Snap Up Coach Bags",
+      "source": "BoF / Reuters",
+      "date": "2026-11-05",
+      "url": "https://www.businessoffashion.com/news/retail/tapestry-lifts-outlook-as-young-shoppers-snap-up-coach-bags/",
+      "tier1": "箱包"
+    },
+    {
+      "title": "老铺黄金总算是可以喘口气了",
+      "source": "钛媒体",
+      "date": "2026-11-05",
+      "url": "https://www.tmtpost.com/8194881.html",
+      "tier1": "珠宝腕表"
+    },
+    {
+      "title": "Safilo Group Q3 / 9M 2026 Trading Update（预定 2026-11-10）",
+      "source": "Safilo IR",
+      "date": "2026-11-10",
+      "url": "https://www.safilo.com/en/investors",
+      "tier1": "眼镜"
+    }
+  ],
+  "failed_lookups": [
+    "Tapestry / Coach：已在昨日简报完整覆盖 FY27 Q1，今日仅保留 BoF 跟进稿入 reading_list，不重复进 industry_news",
+    "Hermès / Chanel / Prada / Capri / Furla / Longchamp / Mulberry / Polène：窗口内无独立可核验新财报或重大产品一手稿（仅有中期选举股价反应类）",
+    "Samsonite：仍为 11/12 公布 Q3 预告，无新业绩数字",
+    "华丽志 / LADYMAX / 完全眼镜 / 浪潮新消费 / 界面时尚：该窗无可用原创可抓取稿",
+    "丝巾/假发/发饰：仅有生活方式趋势文，缺可核验行业数据或品牌一手发布",
+    "Exa MCP 不可用；部分站点（如 TechRepublic）curl 403，已改用 Dot Daily Dose 等可访问源"
+  ]
+}
