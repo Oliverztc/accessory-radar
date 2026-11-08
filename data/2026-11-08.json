@@ -1,0 +1,437 @@
+{
+  "date": "2026-11-08",
+  "headline": "依视路追加丹阳投资并首发渐进片；蔡司称AI眼镜要过光学关；爱马仕日内瓦旗舰扩容重张；LVMH计划2027年在上海办迪奥早春秀",
+  "summary": "检索窗口：行业以过去24小时（约11/7–11/8，Asia/Shanghai）为主；箱包集团新稿较少，已放宽至48小时（自11/6）并在此说明。奢侈品：爱马仕11月5日庆祝日内瓦旗舰翻新扩容后重张（零售890平方米、扩大70%），三季度恒定汇率收入+4.3%至41.0亿欧元；LVMH第七次参加进博会，称在中国100余城运营超过1400家门店，迪奥计划2027年在上海发布2028早春系列；历峰连续第七年参展，恰逢进入中国市场二十周年。眼镜：依视路陆逊梯卡宣布江苏丹阳基地明年追加投资，亚洲首发万里路启视灵悦渐进镜片；蔡司光学杨晓光称智能眼镜须先过“光学关”，中国已成需求与创新起点。轻奢/大众：Oakley Meta与Ray-Ban Meta 11月11日登陆印尼并公布当地售价；G-SHOCK 2500全模拟系列11月7日新加坡开售。品牌：64个中7个有可核验动态（蔡司、依视路、柯达、明月镜片、欧克利、卡西欧、万事利）。firecrawl CLI未登录、Exa MCP需重新登录（needsAuth），检索以WebSearch/WebFetch与X为主。",
+  "industry_news": [
+    {
+      "date": "2026-11-07",
+      "source": "美通社",
+      "title": "历“九”弥新 依视路陆逊梯卡携本土实践与多元创新亮相进博",
+      "url": "https://www.prnasia.com/story/555274-1.shtml",
+      "tier1": "眼镜",
+      "type": "数据",
+      "importance": 5,
+      "segment": "大众",
+      "summary": "依视路陆逊梯卡11月7日发稿：连续第九年参展进博会，宣布启动江苏丹阳基地高质量发展战略合作，计划明年追加投资、推进产线自动化与全流程品质管控，并发布《国民视觉健康报告2.0》中期成果。上海35所学校开展校园近视分级整合干预一年后，近视发生率下降与眼轴增长延缓率等成效均超过30%。亚洲首发万里路启视灵悦渐进镜片，全视线首发Color Touch变色系列。"
+    },
+    {
+      "date": "2026-11-07",
+      "source": "21世纪经济报道",
+      "title": "专访蔡司光学杨晓光：AI眼镜要过“光学关”，中国成创新起点",
+      "url": "https://www.21jingji.com/article/20261107/herald/16c8982423180dbc577891899bef1f1c.html",
+      "tier1": "眼镜",
+      "type": "深度",
+      "importance": 5,
+      "segment": "大众",
+      "summary": "蔡司光学中国区总裁杨晓光11月7日接受21世纪经济报道专访：六至七成消费者需近视或老花矫正，多数智能眼镜仍以平光交付。IDC预测2026年中国智能眼镜出货将破491.5万台、全球2368.7万台，中国厂商约占45%。中国自2021年起连续多年为蔡司最大单一市场，截至2026年7月在华有效专利94项，近视管理需求约占全球七至八成。"
+    },
+    {
+      "date": "2026-11-06",
+      "source": "Luxury Tribune",
+      "title": "Hermès Reopens Its Flagship Store in Geneva",
+      "url": "https://www.luxurytribune.com/en/axel-dumas-managing-director-of-hermes-switzerland-and-geneva-where-we-are-inaugurating-our-renovated-store-are-a-haven-of-stabilitya-rare-asset-these-days",
+      "tier1": "箱包",
+      "type": "渠道",
+      "importance": 5,
+      "segment": "奢侈品",
+      "summary": "Luxury Tribune 11月6日报道，爱马仕于11月5日庆祝日内瓦旗舰翻新扩容后重张。该店1947年开业，现总面积2200平方米，其中零售890平方米、扩大70%，被Axel Dumas列为欧洲五大旗舰之一。他称瑞士本地客户增长强劲、旅游客流下滑；向往型饰品和皮带客户更难吸引，高价值皮具、珠宝和成衣更好，腕表仍有挑战。三季度收入按恒定汇率增长4.3%至41.0亿欧元。"
+    },
+    {
+      "date": "2026-11-07",
+      "source": "华丽志",
+      "title": "进博会华丽快报：LVMH、历峰、开云等三大奢侈品集团再度齐聚进博会，带来旗下核心品牌的重磅展品",
+      "url": "https://luxe.co/post/487931",
+      "tier1": "综合",
+      "type": "市场",
+      "importance": 4,
+      "segment": "奢侈品",
+      "summary": "华丽志11月7日报道，LVMH第七次参加进博会，宝格丽、迪奥、娇兰、轩尼诗、路易威登、丝芙兰及蒂芙尼七大品牌同台，集团称在中国100余城运营超过1400家门店。新事实包括：迪奥计划2027年在上海发布2028早春系列，为乔纳森·安德森任创意总监后亚洲首场大型活动；宝格丽展馆提供“数字护照”互动体验，并延续上海当代艺术博物馆“Kaleidos万花绮镜”特展至11月15日。"
+    },
+    {
+      "date": "2026-11-07",
+      "source": "华丽志",
+      "title": "历峰连续第七年参展进博会：卡地亚灵活双豹项链、江诗丹顿羊年腕表与万宝龙皮具百年",
+      "url": "https://luxe.co/post/487931",
+      "tier1": "珠宝腕表",
+      "type": "新品",
+      "importance": 4,
+      "segment": "奢侈品",
+      "summary": "华丽志同篇报道，历峰连续第七年参展，主题为“匠心艺韵，共叙人和”。卡地亚以“寻踪豹影”展出可完全隐藏铰接的Panthère双豹首立体项链；江诗丹顿带来Métiers d'Art艺术大师系列中国十二生肖传奇之羊年腕表；万宝龙适逢皮具匠艺100周年，并推出致敬李小龙的著名人物系列书写工具。历峰中国CEO顾佳琳称，今年也是集团进入中国市场二十周年。"
+    },
+    {
+      "date": "2026-11-07",
+      "source": "澎湃新闻",
+      "title": "进博观察｜百年品牌齐聚“四叶草”：博柏利六度赴约",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34402085",
+      "tier1": "服配",
+      "type": "营销",
+      "importance": 4,
+      "segment": "奢侈品",
+      "summary": "澎湃新闻11月7日报道，博柏利连续第六年参加进博会，借170周年将伦敦塔桥装置和报刊亭式Cashmere Shop羊绒店、缎带吧搬进展馆。经典格纹羊绒围巾产自有125年以上历史的苏格兰家族工坊，需经30余道工序。品牌同步发布取景伦敦、纽约、首尔、上海的《170周年：群像印记》纪念刊物，大中华区总裁张允馨重申将继续投资中国。"
+    },
+    {
+      "date": "2026-11-07",
+      "source": "Vogue",
+      "title": "The 9 Most-Wanted Accessories of Fall—and How to Style Them Now",
+      "url": "https://www.vogue.com/article/fall-2026-most-wanted-accessories",
+      "tier1": "服配",
+      "type": "营销",
+      "importance": 3,
+      "segment": "奢侈品",
+      "summary": "Vogue 11月7日盘点秋冬最想入手配饰：charm吊坠项链出现在Celine、Altuzarra、Dries Van Noten和Marni秀场，编辑建议长期收集徽章与吊坠自行串连；珍珠在The Row被戴在薄纱高领下；Tory Burch以编织皮带替换光滑腰带。Fendi Baguette虎纹复刻版被视为数季豹纹、以及度假系列斑马纹之后的新选择；丝巾可绕腰打结，呼应Polo Ralph Lauren的腰封造型。"
+    },
+    {
+      "date": "2026-11-06",
+      "source": "ELLE",
+      "title": "The Best Jewelry Launches of November 2026",
+      "url": "https://www.elle.com/fashion/jewelry/a74272603/best-jewelry-launches-november-2026/",
+      "tier1": "珠宝腕表",
+      "type": "新品",
+      "importance": 3,
+      "segment": "奢侈品",
+      "summary": "ELLE 11月6日（美东下午，对应上海11月7日清晨）刊出11月珠宝盘点。Pomellato复活1997年Moneta Orientale吊坠，推出33种彩色硬石与不规则密镶组合；Vhernier重释Trottola；Di Volpe推出可重组的DiSegno网球链，首发28种石与切工。Hart与Julia Berolzheimer的合作、Grace Winfrey的Poppy Fortuna则强调可叠戴护身符。方向是档案复活和可重组佩戴。"
+    }
+  ],
+  "brand_news": [
+    {
+      "brand": "蔡司",
+      "date": "2026-11-07",
+      "source": "21世纪经济报道",
+      "title": "专访蔡司光学杨晓光：AI眼镜要过“光学关”，中国成创新起点",
+      "url": "https://www.21jingji.com/article/20261107/herald/16c8982423180dbc577891899bef1f1c.html",
+      "summary": "11月7日，蔡司光学中国区总裁杨晓光接受21世纪经济报道专访指出，智能眼镜须先过“光学关”：60%到70%的消费者需屈光矫正，多数产品仍以平光交付。智能眼镜与OK镜已在蔡司全球成立独立事业部，需求更多来自中国。中国自2021年起连续多年为集团最大单一市场，近视管理约占全球七至八成，截至2026年7月在华有效专利94项。"
+    },
+    {
+      "brand": "依视路",
+      "date": "2026-11-07",
+      "source": "美通社",
+      "title": "历“九”弥新 依视路陆逊梯卡携本土实践与多元创新亮相进博",
+      "url": "https://www.prnasia.com/story/555274-1.shtml",
+      "summary": "11月7日美通社：依视路陆逊梯卡连续第九年参展进博会，宣布江苏丹阳基地明年追加投资、推进产线自动化，并发布《国民视觉健康报告2.0》中期成果。上海35所学校综合干预一年后，近视发生率下降与眼轴增长延缓率等成效均超30%。亚洲首发万里路启视灵悦渐进镜片，全视线首发Color Touch变色系列。相对昨报巴西Med-Tech引入，本条为在华制造投资与进博首发新事实。"
+    },
+    {
+      "brand": "柯达",
+      "date": "2026-11-07",
+      "source": "美通社",
+      "title": "柯达柯学优镜片亮相进博会，DOT技术中国CATHAY两年数据更新",
+      "url": "https://www.prnasia.com/story/555274-1.shtml",
+      "summary": "依视路陆逊梯卡进博会通稿中，搭载SightGlass Vision正版DOT技术的柯达柯学优镜片同步亮相。北美CYPRESS四年随机对照显示，受试儿童连续佩戴两年平均可延缓近视进展59%；中国CATHAY两年数据显示，6-13岁儿童日均配戴10小时以上，平均延缓近视进展67%、眼轴增长延缓61.5%。集团子公司江苏万新与SightGlass Vision及专家共同启动「专家面对面」·「DOT专栏」。"
+    },
+    {
+      "brand": "明月镜片",
+      "date": "2026-11-06",
+      "source": "同花顺",
+      "title": "机构评级|浙商证券给予明月镜片“买入”评级 未给出目标价",
+      "url": "https://stock.10jqka.com.cn/20261106/c681547999.shtml",
+      "summary": "11月6日浙商证券给予明月镜片“买入”评级，未给目标价，预测2026年净利润约2.33亿元。近六个月已有8家机构覆盖，预测净利润均值约2.29亿元、同比增长约18.48%。该评级晚于11月5日国海证券首予买入，属于窗口内新增卖方观点。"
+    },
+    {
+      "brand": "欧克利",
+      "date": "2026-11-06",
+      "source": "Suara.com",
+      "title": "Ray-Ban Meta dan Oakley Meta Resmi Masuk Indonesia, Harga Mulai Rp8,7 Juta",
+      "url": "https://www.suara.com/tekno/2026/11/06/081342/ray-ban-meta-dan-oakley-meta-resmi-masuk-indonesia-harga-mulai-rp87-juta",
+      "summary": "11月6日印尼媒体Suara报道，EssilorLuxottica与Meta将于11月11日在印尼开售Ray-Ban Meta Gen 3（Wayfarer/Aviator/Zena）与Oakley Meta（HSTN、Vanguard），官方授权经销商售价约879.9万–1099.9万印尼盾。Oakley Meta HSTN配备3K Ultra HD摄像头、开放式音频和IPX4防水。相对昨报菲律宾11月10日开售及印尼档期，本条为当地售价与产品组合新事实。"
+    },
+    {
+      "brand": "卡西欧",
+      "date": "2026-11-06",
+      "source": "Great Deals Singapore",
+      "title": "G-SHOCK Goes Full Analog With New 2500 Series, Launching Nov 7 in Singapore From $189",
+      "url": "https://www.greatdeals.com.sg/2026/11/06/g-shock-new-2500-analog-series-launch-november-2026",
+      "summary": "11月6日新加坡媒体报道，向1983年DW-5000C致敬的G-SHOCK 2500全模拟系列将于11月7日在新加坡上市，线上11时开卖。系列配备多功能日期视窗和磁力减震指针结构。全树脂GAC-2500起价189新元，G-STEEL款GMC-2500为349–369新元，全金属GMC-2500D为449新元。相对昨日DWE-5600MTM日本开售，本条为2500系列新加坡开售与当地定价新事实。"
+    },
+    {
+      "brand": "万事利",
+      "date": "2026-11-06",
+      "source": "潮新闻/凤凰网",
+      "title": "一条万事利祈福彩红围巾 见证浙商的传承与创新",
+      "url": "https://feng.ifeng.com/c/8xpR0aKPSTO",
+      "summary": "11月6日第八届世界浙商大会开幕，潮新闻称全球1800多位浙商佩戴的红色祈福彩由万事利设计制作。围巾以钱塘江潮水和祥云纹样呼应“浙里共创新，潮起向未来”。自2017年第四届起，万事利已连续十年为五届浙商大会制作祈福彩。集团屠红燕称这既是丝绸产品，也是浙商精神象征。"
+    }
+  ],
+  "insights": [
+    {
+      "title": "智能眼镜规模化卡在“光学关”，中国需求正在反向定义全球镜片",
+      "tier1": "眼镜",
+      "body": "智能眼镜叙事长期围着芯片和模型打转，蔡司光学中国区总裁杨晓光11月7日对《21世纪经济报道》指出更底层的瓶颈：它首先得是一副能看清、够轻便的好眼镜。60%到70%的消费者需要近视或老花矫正，但多数产品仍以平光交付；为减重，镜片大约只要传统片一半厚，还要完成波导与屈光贴合，并适配标准镜架。文中援引的信达证券研报称，方案正从磁吸、插入式走向贴合式，镜片由2片增至3至4片。\n\nIDC预测2026年中国智能眼镜出货将破491.5万台、全球达2368.7万台，中国厂商约占45%。杨晓光称上百个品牌在向蔡司提出光学需求，智能眼镜和OK镜已成立独立事业部，需求更多来自中国。中国自2021年起连续多年是蔡司最大单一市场，截至2026年7月在华专利94项，近视管理需求占全球约七至八成。同日依视路宣布丹阳基地明年追加自动化投资，并首发面向近疲劳人群的启视灵悦渐进镜片。\n\n投资人视角：下一轮价值可能部分从整机品牌转向减薄、波导贴合、处方定制和验配车房，同时需警惕出货预测偏乐观。经营者视角：只做外观授权、不解决“看清”，很难吃到真正增量；中国的迭代速度和临床密度，已使它成为产品定义地。",
+      "refs": [
+        {
+          "title": "专访蔡司光学杨晓光：AI眼镜要过“光学关”，中国成创新起点",
+          "url": "https://www.21jingji.com/article/20261107/herald/16c8982423180dbc577891899bef1f1c.html"
+        },
+        {
+          "title": "历“九”弥新 依视路陆逊梯卡携本土实践与多元创新亮相进博",
+          "url": "https://www.prnasia.com/story/555274-1.shtml"
+        }
+      ]
+    },
+    {
+      "title": "进博会上硬奢仍在加码中国：首发、地标门店和文化产品成为沟通语言",
+      "tier1": "综合",
+      "body": "进博会仍是观察奢侈品集团中国承诺的窗口。华丽志11月7日报道，LVMH第七次参展，七大品牌同台，称在中国100余城运营超过1400家门店；迪奥计划2027年在上海发布2028早春系列，为乔纳森·安德森任创意总监后亚洲首场大型活动。历峰连续第七年参展，今年也是集团进入中国市场二十周年：卡地亚展出铰接可完全隐藏的Panthère双豹首项链，江诗丹顿带来艺术大师系列十二生肖传奇羊年腕表。澎湃同日报道博柏利连续第六年赴约，借170周年把伦敦塔桥装置和苏格兰家族工坊的格纹羊绒围巾搬进展馆。\n\n与之对照，爱马仕11月5日庆祝日内瓦旗舰扩容重张（零售890平方米、扩大70%）。CEO Axel Dumas强调瑞士本地客户增长、旅游客流下滑；向往型饰品和皮带客户更难吸引，高价值皮具、珠宝和成衣更好，腕表仍有挑战。三季度收入按恒定汇率增长4.3%至41.0亿欧元。\n\n投资人视角：即使时装皮具承压，集团仍把中国当作文化首发和零售地标的投放地，应分开跟踪硬奢珠宝/高价值皮具与向往型配饰。经营者视角：进博会适合做全球或亚洲首发、生肖限定和可触摸的工艺演示；服务本地客户、守住高价值品类，比追逐客流更重要。",
+      "refs": [
+        {
+          "title": "进博会华丽快报：LVMH、历峰、开云等三大奢侈品集团再度齐聚进博会",
+          "url": "https://luxe.co/post/487931"
+        },
+        {
+          "title": "进博观察｜百年品牌齐聚“四叶草”：博柏利六度赴约",
+          "url": "https://www.thepaper.cn/newsDetail_forward_34402085"
+        },
+        {
+          "title": "Hermès Reopens Its Flagship Store in Geneva",
+          "url": "https://www.luxurytribune.com/en/axel-dumas-managing-director-of-hermes-switzerland-and-geneva-where-we-are-inaugurating-our-renovated-store-are-a-haven-of-stabilitya-rare-asset-these-days"
+        }
+      ]
+    }
+  ],
+  "trends": [
+    {
+      "title": "AI眼镜从“能拍照”转向处方级贴合光学",
+      "tier1": "眼镜",
+      "stage": "上升",
+      "description": "智能眼镜正在从极客玩具走向消费电子，但规模化的前提变成“能全天候看清”。蔡司杨晓光指出，60%到70%的消费者需要近视或老花矫正，镜片需减薄约一半并与波导贴合；信达证券观察到解决方案由磁吸/插入式走向贴合式，镜片从2片增至3–4片。IDC则预测2026年中国出货491.5万台、全球2368.7万台，中国厂商约占45%。同日依视路在进博会首发面向近疲劳人群的渐进镜片，也说明“看清”正回到产品中心。",
+      "opportunity": "具备处方定制、减薄和波导贴合能力的镜片商，以及能提供验配和车房加工的连锁视光渠道，有望分享AI眼镜放量中的“最后一公里”价值，而不仅是整机品牌的硬件红利。",
+      "evidence": [
+        {
+          "title": "专访蔡司光学杨晓光：AI眼镜要过“光学关”，中国成创新起点",
+          "url": "https://www.21jingji.com/article/20261107/herald/16c8982423180dbc577891899bef1f1c.html"
+        },
+        {
+          "title": "历“九”弥新 依视路陆逊梯卡携本土实践与多元创新亮相进博",
+          "url": "https://www.prnasia.com/story/555274-1.shtml"
+        }
+      ]
+    },
+    {
+      "title": "羊年生肖限定在进博会集中首发，成为沟通中国新年的产品语言",
+      "tier1": "综合",
+      "stage": "上升",
+      "description": "距离农历羊年仍有数月，奢侈品品牌已把生肖限定当作进博会的中国沟通工具。华丽志报道，江诗丹顿展出Métiers d'Art艺术大师系列十二生肖传奇之羊年腕表，延续十二年循环；LVMH展馆中轩尼诗拿出与蜀绣艺术家刁娟合作的生肖系列“瑞羊典藏版”（巴卡拉水晶酒樽、全球限量50件），以及与沈威廉合作的羊年新春限量版。开云眼镜同期全球首发LINDBERG钛金属羊年限定。生肖不再只是春晚档营销，而是提前到11月进博会完成首发和内容预热。",
+      "opportunity": "眼镜、腕表、皮革和美酒都可以用生肖做高客单限量，但需要真正的工艺差异（材质、微绘、珐琅或与中国匠人合作），避免只换生肖挂件。对渠道而言，这是锁定春节礼赠预算的前置窗口。",
+      "evidence": [
+        {
+          "title": "进博会华丽快报：LVMH、历峰、开云等三大奢侈品集团再度齐聚进博会",
+          "url": "https://luxe.co/post/487931"
+        }
+      ]
+    },
+    {
+      "title": "Charm吊坠叠戴成为秋冬珠宝的个人化入口",
+      "tier1": "珠宝腕表",
+      "stage": "上升",
+      "description": "Vogue 11月7日将charm项链列为秋冬最想入手配饰之一，并指出Celine、Altuzarra、Dries Van Noten和Marni秀场均出现折衷主义吊坠组合，编辑建议与其只买成套成品，不如长期收集徽章、纪念品和吊坠自行串连。同期ELLE 11月珠宝盘点中，Hart与Julia Berolzheimer的合作强调可叠戴护身符、树之生命硬币、雏菊与蜜蜂，以及可装试香的Perfume Vesta Case；Grace Winfrey的Poppy Fortuna则把罂粟、向日葵、四叶草和马蹄铁做成彩色密镶吊坠。护身符、可重组和“自己讲一个故事”正在替代单一大牌Logo吊坠。",
+      "opportunity": "轻奢和高珠宝都可以把可添加、可更换的吊坠系统做成复购结构；对经营者而言，关键是提供低门槛入门链和后续吊坠的持续上新，而不是一次性卖出一条完成的项链。",
+      "evidence": [
+        {
+          "title": "The 9 Most-Wanted Accessories of Fall—and How to Style Them Now",
+          "url": "https://www.vogue.com/article/fall-2026-most-wanted-accessories"
+        },
+        {
+          "title": "The Best Jewelry Launches of November 2026",
+          "url": "https://www.elle.com/fashion/jewelry/a74272603/best-jewelry-launches-november-2026/"
+        }
+      ]
+    },
+    {
+      "title": "虎纹正在接替豹纹，成为包袋动物纹的下一波",
+      "tier1": "箱包",
+      "stage": "萌芽",
+      "description": "在经历数季豹纹、以及度假系列中的斑马纹之后，Vogue 11月7日点名Fendi Baguette的虎纹复刻版，称其同时具备怀旧感和新鲜感，并建议用全黑利落单品来让纹样自己说话。这不是新的品类，而是动物纹内部的轮动：当豹纹过度曝光，虎纹提供可识别的品牌档案（Fendi Baguette）和更强的视觉反差。目前证据仍以编辑选品和复刻款为主，尚未看到销售数据，因此仍处萌芽阶段。",
+      "opportunity": "拥有经典包型档案的品牌，可用限定纹样做节日和旅行零售的增量，而不必新开一个包型；大众和轻奢品牌若跟风虎纹，需要控制铺货节奏，避免迅速变成又一轮纹样疲劳。",
+      "evidence": [
+        {
+          "title": "The 9 Most-Wanted Accessories of Fall—and How to Style Them Now",
+          "url": "https://www.vogue.com/article/fall-2026-most-wanted-accessories"
+        }
+      ]
+    }
+  ],
+  "brand_insights": [
+    {
+      "brand": "蔡司",
+      "tier1": "眼镜",
+      "title": "蔡司：把中国做成智能眼镜和近视管理的全球定义地",
+      "body": "11月7日，蔡司光学中国区总裁杨晓光接受《21世纪经济报道》专访，把智能眼镜的瓶颈从芯片和模型拉回到光学：它首先得是一副能看清、够轻便的好眼镜。60%到70%的消费者需要近视或老花矫正，但多数产品仍以平光交付。为减重，镜片厚度约需传统片一半，还要完成波导与屈光贴合，并适配标准镜架，对加工工艺和质量标准提出更高要求。信达证券观察到方案正从磁吸、插入式走向贴合式，镜片由2片增至3到4片。IDC预测2026年中国出货将破491.5万台、全球2368.7万台，中国厂商约占45%。\n\n战略上，中国自2021年起连续多年是蔡司全球最大单一市场；智能眼镜和OK镜已在全球成立独立事业部，需求更多来自中国，上百个智能眼镜品牌在向蔡司提出光学诉求。近视管理需求约占全球70%到80%，进博会上蔡司与爱尔眼科联合推出爱启瞳，标签为“全球创新+中国临床验证+本土智造”。截至2026年7月在华有效专利94项。杨晓光也承认赛道仍处初级阶段，普及取决于AI能力本身，以及镜腿减重、镜片减薄和续航等工程问题。",
+      "investor_view": "光学与车房能力可能分享AI眼镜放量中的结构性价值，弹性来自减薄、波导贴合和处方定制订单，而非整机出货故事本身；需跟踪独立事业部落地、中国临床转化，以及IDC级出货预测是否兑现。",
+      "operator_view": "只做外观授权、不解决“看清”，很难吃到日戴增量。门店应预留处方贴合、减薄加工和售后换片SOP；与消费电子的合作要把度数覆盖、镀膜选项和交付周期写清楚，降低退货与舆情。",
+      "sources": [
+        {
+          "title": "专访蔡司光学杨晓光：AI眼镜要过“光学关”，中国成创新起点",
+          "url": "https://www.21jingji.com/article/20261107/herald/16c8982423180dbc577891899bef1f1c.html"
+        }
+      ]
+    }
+  ],
+  "reading_list": [
+    {
+      "title": "专访蔡司光学杨晓光：AI眼镜要过“光学关”，中国成创新起点",
+      "source": "21世纪经济报道",
+      "date": "2026-11-07",
+      "url": "https://www.21jingji.com/article/20261107/herald/16c8982423180dbc577891899bef1f1c.html",
+      "tier1": "眼镜"
+    },
+    {
+      "title": "历“九”弥新 依视路陆逊梯卡携本土实践与多元创新亮相进博",
+      "source": "美通社",
+      "date": "2026-11-07",
+      "url": "https://www.prnasia.com/story/555274-1.shtml",
+      "tier1": "眼镜"
+    },
+    {
+      "title": "进博会华丽快报：LVMH、历峰、开云等三大奢侈品集团再度齐聚进博会，带来旗下核心品牌的重磅展品",
+      "source": "华丽志",
+      "date": "2026-11-07",
+      "url": "https://luxe.co/post/487931",
+      "tier1": "综合"
+    },
+    {
+      "title": "Hermès Reopens Its Flagship Store in Geneva",
+      "source": "Luxury Tribune",
+      "date": "2026-11-06",
+      "url": "https://www.luxurytribune.com/en/axel-dumas-managing-director-of-hermes-switzerland-and-geneva-where-we-are-inaugurating-our-renovated-store-are-a-haven-of-stabilitya-rare-asset-these-days",
+      "tier1": "箱包"
+    },
+    {
+      "title": "进博观察｜百年品牌齐聚“四叶草”：博柏利六度赴约",
+      "source": "澎湃新闻",
+      "date": "2026-11-07",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34402085",
+      "tier1": "服配"
+    },
+    {
+      "title": "The Best Jewelry Launches of November 2026",
+      "source": "ELLE",
+      "date": "2026-11-06",
+      "url": "https://www.elle.com/fashion/jewelry/a74272603/best-jewelry-launches-november-2026/",
+      "tier1": "珠宝腕表"
+    },
+    {
+      "title": "The 9 Most-Wanted Accessories of Fall—and How to Style Them Now",
+      "source": "Vogue",
+      "date": "2026-11-07",
+      "url": "https://www.vogue.com/article/fall-2026-most-wanted-accessories",
+      "tier1": "服配"
+    },
+    {
+      "title": "China Wealth Crackdown Lifts Hong Kong Watch and Jewellery Sales",
+      "source": "BoF / Bloomberg",
+      "date": "2026-11-05",
+      "url": "https://www.businessoffashion.com/news/china/china-wealth-crackdown-lifts-hong-kong-watch-and-jewellery-sales/",
+      "tier1": "珠宝腕表"
+    },
+    {
+      "title": "全球黄金需求趋势：2026年三季度",
+      "source": "世界黄金协会",
+      "date": "2026-11-03",
+      "url": "https://china.gold.org/goldhub/research/gold-demand-trends/gold-demand-trends-q3-2026",
+      "tier1": "珠宝腕表"
+    }
+  ],
+  "brand_scan": {
+    "window": "2026-11-06..2026-11-08",
+    "method": "WebSearch+WebFetch+X search_posts_all；firecrawl CLI未登录、Exa MCP needsAuth未用。对64品牌以中英文名检索行业媒体与官网，P0与上市品牌优先；依视路/柯达进博会通稿由行业检索补入品牌动态。大图（DITA）按用户偏好不做深度追踪但仍计入扫描。",
+    "note": "64个品牌中7个有可核验动态：蔡司、依视路、柯达、明月镜片、欧克利、卡西欧、万事利。其余57个在窗口内未发现可确认日期与原文链接的公开新事实。",
+    "hits": [
+      "蔡司",
+      "依视路",
+      "柯达",
+      "明月镜片",
+      "欧克利",
+      "卡西欧",
+      "万事利"
+    ],
+    "misses": [
+      "裘真",
+      "Fakeme",
+      "山下有松",
+      "LOLA ROSE",
+      "HEFANG",
+      "雅瑞光学",
+      "ARSIS",
+      "CHARLES&KEITH",
+      "新秀丽",
+      "ITO",
+      "GROTTO个乐",
+      "白岚",
+      "ECODAY",
+      "bampo",
+      "德津",
+      "LEVEL8地平线8号",
+      "九格眼镜",
+      "FANCI范琦",
+      "GENTLE MONSTER",
+      "纽芝兰",
+      "CECE",
+      "BAGSMART",
+      "CIGALONG",
+      "abyb jewelry",
+      "海伦凯勒眼镜",
+      "包包树BAGTREE",
+      "飞亚达",
+      "梵誓ONESWEAR",
+      "KKLUE轻珠宝",
+      "天美时集团",
+      "JELLYTOYBOY",
+      "卡蒂罗",
+      "尤目",
+      "ORANGE CUBE",
+      "古良吉吉",
+      "亨得利钟表",
+      "甲目眼镜",
+      "TAD FAB",
+      "FANGYI方宜",
+      "老雷线上配镜",
+      "抱树BYROOTS",
+      "TELETIES",
+      "DAVENA",
+      "首末集团",
+      "大图",
+      "卡拉羊",
+      "P&N",
+      "PARIM",
+      "上海夕和眼镜",
+      "超视立",
+      "御行",
+      "木九十",
+      "天空树假发",
+      "不莱玫",
+      "帕莎",
+      "CASSILE卡思乐",
+      "BLACKHEAD"
+    ]
+  },
+  "sources": [
+    {
+      "name": "美通社 / 依视路陆逊梯卡",
+      "url": "https://www.prnasia.com/story/555274-1.shtml",
+      "tier1": "眼镜"
+    },
+    {
+      "name": "21世纪经济报道",
+      "url": "https://www.21jingji.com/",
+      "tier1": "眼镜"
+    },
+    {
+      "name": "华丽志",
+      "url": "https://luxe.co/",
+      "tier1": "综合"
+    },
+    {
+      "name": "Luxury Tribune",
+      "url": "https://www.luxurytribune.com/",
+      "tier1": "箱包"
+    },
+    {
+      "name": "澎湃新闻",
+      "url": "https://www.thepaper.cn/",
+      "tier1": "服配"
+    },
+    {
+      "name": "Vogue",
+      "url": "https://www.vogue.com/",
+      "tier1": "服配"
+    }
+  ]
+}
