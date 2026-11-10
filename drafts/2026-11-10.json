@@ -1,0 +1,382 @@
+{
+  "date": "2026-11-10",
+  "headline": "摩根士丹利下调LVMH等奢侈品目标价；蔡司进博首发爱启瞳与AI翎思镜片；欧克利Meta登陆印尼与菲律宾；卡西欧推G-SHOCK黑灰新作",
+  "summary": "检索窗口：行业以过去24小时（约11/9–11/10，Asia/Shanghai）为主；箱包与轻奢新稿偏少，已放宽至48小时（自11/8）并在此说明。奢侈品：摩根士丹利11月9日下调LVMH、爱马仕、开云与历峰目标价，强调中国需求疲软及法国、韩国走弱，历峰仍为其首选；LVMH“AI for ALL”在巴黎Business of Tomorrow上继续铺开六大业务部门应用；蒂芙尼官宣2026节日季珠宝与家居礼赠；开云旗下麒麟发布Qeelin GOLD并定11月20日上海港汇开店。眼镜：蔡司九赴进博，全球首发爱启瞳、小瞳堡与专为AI显示眼镜的翎思镜片；欧克利/雷朋Meta智能眼镜11月11日登陆印尼、11月10日登陆菲律宾并给出当地售价。品牌：64个中3个有可核验动态（蔡司、欧克利、卡西欧）。Exa MCP仍为needsAuth，firecrawl CLI未登录，检索以WebSearch、WebFetch与X search_posts_all为主。",
+  "industry_news": [
+    {
+      "date": "2026-11-09",
+      "source": "MarketScreener / Zonebourse",
+      "title": "Morgan Stanley cuts price targets on major luxury stocks",
+      "url": "https://hk.marketscreener.com/news/morgan-stanley-cuts-price-targets-on-major-luxury-stocks-ce785fd3dc88f52d",
+      "tier1": "综合",
+      "type": "资本",
+      "importance": 5,
+      "segment": "奢侈品",
+      "summary": "MarketScreener转述Zonebourse 11月9日报道，摩根士丹利下调多只奢侈品目标价，理由是年底市场环境弱于预期：中国约占行业销售25%且需求疲软，法国与韩国分别约占7.5%与6%、活动也在恶化。LVMH目标价由420欧元降至415欧元、爱马仕由1400降至1375欧元、开云由220降至200欧元，三者维持equal-weight；历峰目标价由220降至206瑞士法郎，但仍获overweight并被视为板块首选。当日巴黎时段LVMH跌约2.1%、爱马仕跌约1.3%。"
+    },
+    {
+      "date": "2026-11-09",
+      "source": "中国日报网",
+      "title": "蔡司光学九赴进博：聚焦终身视觉健康，多元创新拓展光学边界",
+      "url": "https://cn.chinadaily.com.cn/a/202611/09/WS6af1865ce4b0e14252fca0b1.html",
+      "tier1": "眼镜",
+      "type": "新品",
+      "importance": 5,
+      "segment": "大众",
+      "summary": "中国日报网11月9日报道，蔡司光学连续第九年参展进博会，主题“光无边，创无限”，恰逢蔡司创立180周年。儿童青少年方向全球首发与爱尔眼科共创的爱启瞳近视防控镜片，并推出采用M.O.V.E.三维动态阵列的小瞳堡；智能眼镜方向发布专为AI显示眼镜打造的翎思镜片，首款搭载机型为极米记得MemoMind One。同期启动与北京同仁医院高度近视儿童RCT、与腾讯健康联合少儿护眼Dr.Z智能体、与华厦眼科2027战略合作，以及沈阳首家蔡司眼健康管理中心（与何氏眼科）。"
+    },
+    {
+      "date": "2026-11-09",
+      "source": "华丽志",
+      "title": "蒂芙尼呈献璀璨佳作，礼赞2026节日季",
+      "url": "https://luxe.co/post/488219",
+      "tier1": "珠宝腕表",
+      "type": "营销",
+      "importance": 4,
+      "segment": "奢侈品",
+      "summary": "华丽志11月9日据官方新闻稿：蒂芙尼发布2026节日季礼赠选品，围绕Sixteen Stone十六石、HardWear与“石上鸟”等系列，并推出HardWear绿松石新作、“石上鸟”飞羽作品、经典丝巾与Tiffany Blue Link居家精品。品牌称全球约300余家精品店、约13000名员工，其中约5000名工匠从事钻石切割与珠宝创作。节日沟通强调爱意表达与日常佩戴场景，而非单一婚庆。"
+    },
+    {
+      "date": "2026-11-08",
+      "source": "华丽志",
+      "title": "进博会华丽快报：Qeelin、lululemon、ASICS 带来新品牌首秀与新品首发",
+      "url": "https://luxe.co/post/488016",
+      "tier1": "珠宝腕表",
+      "type": "新品",
+      "importance": 4,
+      "segment": "奢侈品",
+      "summary": "华丽志11月8日报道（48小时窗口）：开云旗下麒麟在进博会正式发布全新品牌Qeelin GOLD，并以BAJING八璟系列作为开山之作，灵感取自中国传统八角建筑。首家Qeelin GOLD精品店定于11月20日在上海港汇恒隆广场开业。创意总监Dennis Chan称希望以当代视角重新诠释黄金珠宝，让东方文化更贴近日常；产品侧强调花丝、炸珠、勾丝、镶嵌等传统金艺与现代设计结合。"
+    },
+    {
+      "date": "2026-11-09",
+      "source": "EuropaWire / LVMH",
+      "title": "LVMH Advances AI for ALL Across Six Business Sectors With Focus on Human Creativity",
+      "url": "https://news.europawire.eu/lvmh-advances-ai-for-all-across-six-business-sectors-with-focus-on-human-creativity/eu-press-release/2026/11/09/10/45/08/186689/",
+      "tier1": "综合",
+      "type": "市场",
+      "importance": 4,
+      "segment": "奢侈品",
+      "summary": "EuropaWire 11月9日转发LVMH更新：集团在“AI for ALL”计划启动一年后继续在六大业务板块推进AI，应用包括系列潜力预判、销售团队支持、客户关系与运营优化。11月3日约350人在巴黎布朗利河岸博物馆参加第三届Business of Tomorrow；副总经理Stéphane Bianchi强调创新须回答“能否形成竞争优势、是否满足真实需求、是否为Maison创造价值”，并重申AI服务于人类创意与工匠技艺，而非替代。"
+    },
+    {
+      "date": "2026-11-08",
+      "source": "CNBC Indonesia",
+      "title": "11 November Kacamata AI Masuk RI, Cek Daftar Merek-Harganya di Sini",
+      "url": "https://www.cnbcindonesia.com/tech/20261108175739-37-783303/11-november-kacamata-ai-masuk-ri-cek-daftar-merek-harganya-di-sini",
+      "tier1": "眼镜",
+      "type": "渠道",
+      "importance": 4,
+      "segment": "大众",
+      "summary": "CNBC Indonesia 11月8日报道，EssilorLuxottica与Meta将于11月11日在印尼开售Ray-Ban Meta与Oakley Meta智能眼镜，起售价约800万印尼盾。Ray-Ban Meta Gen 3提供Wayfarer、Aviator、Zena；Oakley Meta提供HSTN与Vanguard。印尼公司总裁Dailami Aziz称希望通过上述产品丰富用户日常活动。公开价目包括Ray-Ban Meta Gen 3约Rp8.999.000、Oakley Meta HSTN约Rp8.799.000、Vanguard约Rp10.999.000。"
+    },
+    {
+      "date": "2026-11-09",
+      "source": "The Gadgeteer",
+      "title": "Casio's MONOTONE-MIX G-Shocks put four classics in matte black and gray",
+      "url": "https://the-gadgeteer.com/2026/11/09/casio-g-shock-monotone-mix-mtm/",
+      "tier1": "珠宝腕表",
+      "type": "新品",
+      "importance": 3,
+      "segment": "大众",
+      "summary": "The Gadgeteer 11月9日报道，卡西欧为四款经典G-SHOCK外形推出MONOTONE-MIX哑光黑灰配色，目前仅日本有售、未宣布美国发售。系列强调哑光树脂表壳与磨砂金属表扣、镀银玻璃对比；均具备20大气压防水与约五年电池（DW-5900更长）。方表DW-5600约¥15,950，拼接手链表DWE-5600约¥28,050。"
+    }
+  ],
+  "brand_news": [
+    {
+      "brand": "蔡司",
+      "date": "2026-11-09",
+      "source": "中国日报网",
+      "title": "蔡司光学九赴进博：聚焦终身视觉健康，多元创新拓展光学边界",
+      "url": "https://cn.chinadaily.com.cn/a/202611/09/WS6af1865ce4b0e14252fca0b1.html",
+      "summary": "11月9日中国日报网：蔡司光学九赴进博，推出爱启瞳（与爱尔眼科战略共创、全球首发）、小瞳堡（M.O.V.E.三维动态阵列）以及专为AI显示眼镜的翎思镜片（首搭极米记得MemoMind One）。同时公布与同仁医院高度近视儿童RCT、腾讯健康Dr.Z智能体、华厦眼科2027合作及何氏眼科沈阳首家蔡司眼健康管理中心。相对11月7日杨晓光专访，本条补充了可核验的产品首发与渠道/临床伙伴落地。"
+    },
+    {
+      "brand": "欧克利",
+      "date": "2026-11-08",
+      "source": "CNBC Indonesia",
+      "title": "11 November Kacamata AI Masuk RI：Oakley Meta与Ray-Ban Meta印尼开售价公布",
+      "url": "https://www.cnbcindonesia.com/tech/20261108175739-37-783303/11-november-kacamata-ai-masuk-ri-cek-daftar-merek-harganya-di-sini",
+      "summary": "11月8日CNBC Indonesia：Oakley Meta将于11月11日随Ray-Ban Meta进入印尼，提供HSTN（约Rp8.799.000，IPX4、3K摄像）与Vanguard（约Rp10.999.000，偏运动场景）。EssilorLuxottica Indonesia称希望拓展本地AI眼镜品类。另据Unbox.ph此前通告，菲律宾同步于11月10日开售，Oakley Meta HSTN官方售价约Php34,149、Vanguard约Php42,661，渠道含Oakley概念店、G-Force与Ideal Vision Center。"
+    },
+    {
+      "brand": "卡西欧",
+      "date": "2026-11-09",
+      "source": "The Gadgeteer / マイナビニュース",
+      "title": "G-SHOCK推出MONOTONE-MIX黑灰经典款与GBM-2100LXB黑色IP新作",
+      "url": "https://the-gadgeteer.com/2026/11/09/casio-g-shock-monotone-mix-mtm/",
+      "summary": "11月9日The Gadgeteer报道MONOTONE-MIX四款经典外形的哑光黑灰配色仅日本发售；同日マイナビニュース报道GBM-2100LXB-1A2JF于11月上市，八角形不锈钢表圈施黑色IP，售价42,900日元，搭载Tough Solar与蓝牙手机联动、约300城市世界时。两条均落在48小时窗口，方向是经典外形的配色/表圈工艺刷新，而非机芯平台换代。"
+    }
+  ],
+  "insights": [
+    {
+      "title": "奢侈品：卖方下调目标价，把“中国+法韩”写成四季度风险清单",
+      "tier1": "综合",
+      "body": "11月9日摩根士丹利下调LVMH、爱马仕、开云与历峰目标价，核心叙事不是单一品牌失手，而是终局需求弱于此前预期：中国约占奢侈品销售约四分之一且需求疲软，法国与韩国合计亦占可观份额并出现恶化。板块内分化同样清晰——三家法国巨头维持equal-weight，历峰虽同样降目标价，却仍是其overweight首选。\n\n同一窗口，LVMH在巴黎继续推进“AI for ALL”，把讨论从概念推向系列预测、销售赋能、客户关系与运营。这与卖方的谨慎并不矛盾：一边是终端与旅游零售承压，一边是集团用科技工具争夺效率与转化。对经营者而言，四季度重点应放在高价值皮具/珠宝的库存节奏、旅行零售与本地客户结构，以及把AI用在可量化的销售与售后环节，而不是追概念宣传。对投资人而言，历峰相对服饰皮具敞口的结构差异、以及各集团中国本地客与游客的拆分，仍是比总GMV更重要的跟踪指标。",
+      "refs": [
+        {
+          "title": "Morgan Stanley cuts price targets on major luxury stocks",
+          "url": "https://hk.marketscreener.com/news/morgan-stanley-cuts-price-targets-on-major-luxury-stocks-ce785fd3dc88f52d"
+        },
+        {
+          "title": "LVMH Advances AI for ALL Across Six Business Sectors With Focus on Human Creativity",
+          "url": "https://news.europawire.eu/lvmh-advances-ai-for-all-across-six-business-sectors-with-focus-on-human-creativity/eu-press-release/2026/11/09/10/45/08/186689/"
+        }
+      ]
+    },
+    {
+      "title": "眼镜：光学处方能力与东南亚开售并行，AI眼镜仍要过“能日戴”关",
+      "tier1": "眼镜",
+      "body": "蔡司11月9日进博材料把近视管理（爱启瞳、小瞳堡）与AI显示眼镜（翎思镜片、极米合作）放在同一展台上，并补上同仁医院临床、腾讯健康智能体与眼科连锁合作。这说明头部光学商的打法，是把“看清”做成智能眼镜与近视管理的共同基础设施，而不是只做整机品牌的外观供应商。\n\n渠道侧，Oakley Meta与Ray-Ban Meta在印尼（11月11日）与菲律宾（11月10日）开售并公布当地价格，显示EssilorLuxottica+Meta组合继续用东南亚做下一站放量。与此同时，钛媒体对国内百镜大战的观察仍提醒：出货叙事火热，但退货、低频佩戴与隐私合规卡住“日戴”。对经营者，光学车房、处方贴合与售后换片SOP可能比多一个AI功能更决定复购；对投资人，应同时看海外智能眼镜渠道扩张、以及国内佩戴时长/退货率能否改善，避免只交易出货量故事。",
+      "refs": [
+        {
+          "title": "蔡司光学九赴进博：聚焦终身视觉健康，多元创新拓展光学边界",
+          "url": "https://cn.chinadaily.com.cn/a/202611/09/WS6af1865ce4b0e14252fca0b1.html"
+        },
+        {
+          "title": "11 November Kacamata AI Masuk RI",
+          "url": "https://www.cnbcindonesia.com/tech/20261108175739-37-783303/11-november-kacamata-ai-masuk-ri-cek-daftar-merek-harganya-di-sini"
+        },
+        {
+          "title": "隐私争议、体验瓶颈、商业化迷途，AI眼镜还没走出尝鲜怪圈？",
+          "url": "https://www.tmtpost.com/8192032.html"
+        }
+      ]
+    }
+  ],
+  "trends": [
+    {
+      "title": "AI运动眼镜随Meta生态向东南亚铺货",
+      "tier1": "眼镜",
+      "stage": "上升",
+      "description": "Oakley Meta HSTN/Vanguard与Ray-Ban Meta Gen 3在印尼、菲律宾公布开售日与当地零售价，并把IP防护、开放式音频、运动追踪（Strava/Garmin）写进卖点。这不是新品首发，而是渠道扩张：同一硬件平台用本地语言（如菲律宾Tagalog）与授权光学零售网点降低入手门槛。",
+      "opportunity": "运动与时尚双品牌矩阵有利于覆盖通勤和户外两套场景；经营者需准备处方片/变色片交付与本地售后，投资人可跟踪东南亚开售后的复购与配件附件销售，而不只看首周销量。",
+      "evidence": [
+        {
+          "title": "CNBC Indonesia: AI眼镜11月11日入印尼",
+          "url": "https://www.cnbcindonesia.com/tech/20261108175739-37-783303/11-november-kacamata-ai-masuk-ri-cek-daftar-merek-harganya-di-sini"
+        },
+        {
+          "title": "Unbox.ph: Ray-Ban Meta & Oakley Meta Philippines prices",
+          "url": "https://unbox.ph/featured/ray-ban-meta-oakley-meta-glasses-philippines-price-release/"
+        }
+      ]
+    },
+    {
+      "title": "黄金线品牌化：从克重货到有店有系列的GOLD子品牌",
+      "tier1": "珠宝腕表",
+      "stage": "上升",
+      "description": "开云旗下麒麟发布Qeelin GOLD，并以八璟系列与上海港汇独立店（11月20日）完成“品牌化黄金”动作，强调传统金艺与当代设计，而非按克出售。这与高金价下消费者转向更轻克重、设计感更强的硬足金/古法金路径一致，差别在于奢侈品用Maison背书和专属零售空间做溢价。",
+      "opportunity": "轻奢与国潮黄金品牌可借鉴“系列+独立店+工艺故事”降低纯克重比价；经营者要管好金价波动下的定价与回购政策，投资人关注黄金品类能否贡献更高复购与客单，而不只吃金价贝塔。",
+      "evidence": [
+        {
+          "title": "进博会华丽快报：Qeelin GOLD首发",
+          "url": "https://luxe.co/post/488016"
+        }
+      ]
+    },
+    {
+      "title": "慵懒大包与软廓形回潮，对冲硬挺通勤包",
+      "tier1": "箱包",
+      "stage": "上升",
+      "description": "Harper's Bazaar台湾站盘点2026秋冬包趋势时，将慵懒大尺寸日常包列为明确方向，举例Chanel Maxi Flap、Balenciaga Rodeo、Saint Laurent Maxi Suede Flap，并指出其与更硬朗成衣廓形形成反差。零售买手反馈消费者仍买潮流单品，但更愿为材质、造型与工艺独特的包投资。",
+      "opportunity": "轻奢与大众可做“软托特+可调节背法”的日常主力款；库存上控制过度夸张的尺寸，避免只剩陈列好看、通勤难用的空包。",
+      "evidence": [
+        {
+          "title": "2026秋冬包款7大趋势盘点",
+          "url": "https://www.harpersbazaar.com/tw/fashion/trends/a73530347/fall-winter-bag-trends-2026/"
+        }
+      ]
+    },
+    {
+      "title": "Y2K经典It Bag复刻继续贡献怀旧溢价",
+      "tier1": "箱包",
+      "stage": "成熟",
+      "description": "同一篇秋冬趋势盘点指出Chloé Paddington、Fendi Baguette、Saint Laurent Mombasa、Balenciaga City与Mulberry Alexa等千禧年It Bag仍在被明星与买手回潮追捧。这已不是萌芽实验，而是档案款的周期性变现。",
+      "opportunity": "拥有经典档案的品牌可用限定材质/配色做节日增量；没有档案的新品牌不宜硬蹭旧名，应把预算放在可识别的新包型上。",
+      "evidence": [
+        {
+          "title": "2026秋冬包款7大趋势盘点",
+          "url": "https://www.harpersbazaar.com/tw/fashion/trends/a73530347/fall-winter-bag-trends-2026/"
+        }
+      ]
+    }
+  ],
+  "brand_insights": [
+    {
+      "brand": "蔡司",
+      "tier1": "眼镜",
+      "title": "蔡司进博加码：近视管理产品矩阵与AI眼镜光学方案同时落地",
+      "body": "相对11月7日杨晓光“先过光学关”的专访，11月9日进博报道给出了可核对的产品与伙伴清单。近视管理侧，爱启瞳与爱尔眼科战略共创并称全球首发，小瞳堡用M.O.V.E.三维动态阵列讲长期稳定管理；OK镜家族则并列亨泰、迈儿康Classic/Pro，服务不同角膜条件。智能眼镜侧，翎思镜片从光学设计、镀膜与精密装配切入AI显示眼镜的清晰度与舒适度，首搭极米记得MemoMind One，并把“灯塔工厂”与蔡司光学小镇写入制造叙事。\n\n渠道与生态上，蔡司不再只做镜片供应商：与同仁医院做高度近视儿童RCT，与腾讯健康推Dr.Z智能体，与华厦眼科签2027战略，与何氏眼科落地沈阳眼健康管理中心。这是把临床、AI随访与零售验配串成平台。竞争上，依视路陆逊梯卡同期以丹阳增产与渐进/变色片首发抢进博声量，Meta+Oakley/Ray-Ban则在东南亚铺智能眼镜零售；蔡司的差异化仍是处方光学与中国临床网络。",
+      "investor_view": "新素材强化了“中国需求定义全球产品”的逻辑：可跟踪爱启瞳/小瞳堡放量、翎思被多少AI眼镜品牌采用，以及眼科连锁合作带来的处方片与OK镜协同。风险在智能眼镜整机出货不及预期时，光学方案订单也会波动。",
+      "operator_view": "门店应把近视管理套餐（框架镜/OK镜/随访）与AI眼镜处方贴合分成两套SOP；与消费电子联名时写清度数覆盖、镀膜选项、交付与退换，降低退货。长期主义投入要落到验配设备与验光师培训，而不是只借进博做曝光。",
+      "sources": [
+        {
+          "title": "蔡司光学九赴进博",
+          "url": "https://cn.chinadaily.com.cn/a/202611/09/WS6af1865ce4b0e14252fca0b1.html"
+        },
+        {
+          "title": "专访蔡司光学杨晓光（背景）",
+          "url": "https://www.21jingji.com/article/20261107/herald/16c8982423180dbc577891899bef1f1c.html"
+        }
+      ]
+    }
+  ],
+  "reading_list": [
+    {
+      "title": "Morgan Stanley cuts price targets on major luxury stocks",
+      "source": "MarketScreener",
+      "date": "2026-11-09",
+      "url": "https://hk.marketscreener.com/news/morgan-stanley-cuts-price-targets-on-major-luxury-stocks-ce785fd3dc88f52d",
+      "tier1": "综合"
+    },
+    {
+      "title": "蔡司光学九赴进博：聚焦终身视觉健康，多元创新拓展光学边界",
+      "source": "中国日报网",
+      "date": "2026-11-09",
+      "url": "https://cn.chinadaily.com.cn/a/202611/09/WS6af1865ce4b0e14252fca0b1.html",
+      "tier1": "眼镜"
+    },
+    {
+      "title": "进博会华丽快报：Qeelin、lululemon、ASICS 带来新品牌首秀与新品首发",
+      "source": "华丽志",
+      "date": "2026-11-08",
+      "url": "https://luxe.co/post/488016",
+      "tier1": "珠宝腕表"
+    },
+    {
+      "title": "蒂芙尼呈献璀璨佳作，礼赞2026节日季",
+      "source": "华丽志",
+      "date": "2026-11-09",
+      "url": "https://luxe.co/post/488219",
+      "tier1": "珠宝腕表"
+    },
+    {
+      "title": "LVMH Advances AI for ALL Across Six Business Sectors",
+      "source": "EuropaWire / LVMH",
+      "date": "2026-11-09",
+      "url": "https://news.europawire.eu/lvmh-advances-ai-for-all-across-six-business-sectors-with-focus-on-human-creativity/eu-press-release/2026/11/09/10/45/08/186689/",
+      "tier1": "综合"
+    },
+    {
+      "title": "隐私争议、体验瓶颈、商业化迷途，AI眼镜还没走出尝鲜怪圈？",
+      "source": "钛媒体",
+      "date": "2026-11-04",
+      "url": "https://www.tmtpost.com/8192032.html",
+      "tier1": "眼镜"
+    },
+    {
+      "title": "2026秋冬包款7大趋势盘点",
+      "source": "Harper's Bazaar Taiwan",
+      "date": "2026-09-02",
+      "url": "https://www.harpersbazaar.com/tw/fashion/trends/a73530347/fall-winter-bag-trends-2026/",
+      "tier1": "箱包"
+    },
+    {
+      "title": "世界黄金协会：四季度国内金饰消费有望季节性回暖",
+      "source": "广州日报大洋网",
+      "date": "2026-11-03",
+      "url": "https://news.dayoo.com/finance/202611/03/171077_55019930.htm",
+      "tier1": "珠宝腕表"
+    }
+  ],
+  "brand_scan": {
+    "window": "2026-11-08..2026-11-10",
+    "method": "WebSearch+WebFetch+X search_posts_all；Exa MCP needsAuth未用、firecrawl CLI未登录。对64品牌以中英文名检索行业媒体、官网与X；P0与上市/集团品牌优先深挖。大图（DITA）按用户偏好不做深度追踪但仍计入扫描。",
+    "note": "64个品牌中3个有可核验动态：蔡司、欧克利、卡西欧。其余61个在窗口内未发现可确认日期与原文链接的公开新事实。LOLA ROSE官网“最新上架”有11月10日起发货标注，但缺独立可核验新闻稿，未计入hits。",
+    "hits": [
+      "蔡司",
+      "欧克利",
+      "卡西欧"
+    ],
+    "misses": [
+      "裘真",
+      "Fakeme",
+      "山下有松",
+      "LOLA ROSE",
+      "HEFANG",
+      "雅瑞光学",
+      "ARSIS",
+      "依视路",
+      "CHARLES&KEITH",
+      "新秀丽",
+      "ITO",
+      "GROTTO个乐",
+      "白岚",
+      "万事利",
+      "ECODAY",
+      "bampo",
+      "德津",
+      "LEVEL8地平线8号",
+      "九格眼镜",
+      "FANCI范琦",
+      "GENTLE MONSTER",
+      "纽芝兰",
+      "明月镜片",
+      "CECE",
+      "柯达",
+      "BAGSMART",
+      "CIGALONG",
+      "abyb jewelry",
+      "海伦凯勒眼镜",
+      "包包树BAGTREE",
+      "飞亚达",
+      "梵誓ONESWEAR",
+      "KKLUE轻珠宝",
+      "天美时集团",
+      "JELLYTOYBOY",
+      "卡蒂罗",
+      "尤目",
+      "ORANGE CUBE",
+      "古良吉吉",
+      "亨得利钟表",
+      "甲目眼镜",
+      "TAD FAB",
+      "FANGYI方宜",
+      "老雷线上配镜",
+      "抱树BYROOTS",
+      "TELETIES",
+      "DAVENA",
+      "首末集团",
+      "大图",
+      "卡拉羊",
+      "P&N",
+      "PARIM",
+      "上海夕和眼镜",
+      "超视立",
+      "御行",
+      "木九十",
+      "天空树假发",
+      "不莱玫",
+      "帕莎",
+      "CASSILE卡思乐",
+      "BLACKHEAD"
+    ]
+  },
+  "sources": [
+    {
+      "name": "华丽志",
+      "url": "https://luxe.co/",
+      "tier1": "综合"
+    },
+    {
+      "name": "MarketScreener",
+      "url": "https://hk.marketscreener.com/",
+      "tier1": "综合"
+    },
+    {
+      "name": "中国日报网",
+      "url": "https://cn.chinadaily.com.cn/",
+      "tier1": "眼镜"
+    },
+    {
+      "name": "CNBC Indonesia",
+      "url": "https://www.cnbcindonesia.com/",
+      "tier1": "眼镜"
+    },
+    {
+      "name": "LVMH News",
+      "url": "https://www.lvmh.com/en/news-lvmh/",
+      "tier1": "综合"
+    }
+  ]
+}

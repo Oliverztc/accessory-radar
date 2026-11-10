@@ -1,5 +1,16 @@
 [
  {
+  "date": "2026-11-10",
+  "headline": "摩根士丹利下调LVMH等奢侈品目标价；蔡司进博首发爱启瞳与AI翎思镜片；欧克利Meta登陆印尼与菲律宾；卡西欧推G-SHOCK黑灰新作",
+  "counts": {
+   "industry_news": 7,
+   "brand_news": 3,
+   "insights": 2,
+   "trends": 4,
+   "brand_insights": 1
+  }
+ },
+ {
   "date": "2026-11-08",
   "headline": "依视路追加丹阳投资并首发渐进片；蔡司称AI眼镜要过光学关；爱马仕日内瓦旗舰扩容重张；LVMH计划2027年在上海办迪奥早春秀",
   "counts": {
