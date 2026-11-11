@@ -1,0 +1,607 @@
+{
+ "date": "2026-11-11",
+ "headline": "WoS上调指引、硬奢股走强而Berenberg喊“卖出反弹”；光明日报曝光近视防控镜片30元批发卖1980元；蔡司翎思镜片随AI眼镜开售；双11巅峰价首小时成交环比+400%",
+ "summary": "检索窗口：行业动态以过去24小时（11/10 08:00–11/11 08:00，Asia/Shanghai）为主；品牌扫描窗口为11/9–11/11。双11当天，平台战报以天猫“巅峰价”为主（11/9晚启动，首小时成交环比+400%，超3万个品牌同比翻倍），配饰品类的收官战报尚未发布，故只收录已核实的阶段数据。\n\n奢侈品与硬奢：英国腕表零售商Watches of Switzerland上半财年营收+15%，珠宝+19%快于腕表+15%，全年指引收窄到上端，当天Swatch、历峰股价分别涨约3%和2.2%；佳士得日内瓦“Bulgari Pink”24克拉粉钻以1210万瑞郎成交。与此同时，Berenberg认为中国需求放缓是结构性问题，建议“卖出反弹”，并维持开云“卖出”。Tod's创意总监Matteo Tamburini卸任；eBay Watchlist显示，创意总监更替正在推高旧时代档案款的二手价格。国内黄金珠宝：中国黄金报复盘三季报，克重金与加盟模式承压（老凤祥Q3单季亏损1.24亿元），轻量化、电商、投资金逆势；每经关注开云借Qeelin GOLD切入高工艺黄金。\n\n眼镜：光明日报调查丹阳近视防控镜片“批发30元、参考零售1980元”的贴牌乱象，并指出两项微结构镜片国家标准即将审定；依视路星趣控2.0公布6个月RCT中期数据，蔡司翎思镜片随极米MemoMind One在11/10开售；etisalat成为中东北非首家销售Ray-Ban/Oakley Meta的运营商。\n\n品牌：64个品牌中有9个有可核验动态（万事利、蔡司、依视路、欧克利、GENTLE MONSTER、天美时集团、TELETIES、新秀丽、CHARLES&KEITH）。Exa MCP不在可用工具中，firecrawl未使用，检索主要依靠WebSearch、WebFetch和X search_posts_all。",
+ "industry_news": [
+  {
+   "date": "2026-11-10",
+   "source": "Watches of Switzerland Group IR / BoF（Bloomberg）",
+   "title": "Watches of Switzerland H1 FY27：营收+15%，珠宝增速超腕表，全年指引收窄至上端",
+   "url": "https://www.thewosgroupplc.com/news-media/h1-fy27-trading-update/",
+   "tier1": "珠宝腕表",
+   "type": "财报",
+   "importance": 4,
+   "segment": "奢侈品",
+   "summary": "截至11月1日的26周，集团营收9.74亿英镑，固定汇率+15%：美国+22%（含并购Deutsch & Deutsch），英国+9%。品类上，奢侈珠宝+19%，跑赢奢侈腕表的+15%；Roberto Coin展厅珠宝+31%，批发+15%，10月开出首批两家店中店。上半年调整后EBIT预计8700万至8900万英镑（约+28%），净债务降至2400万英镑。FY27指引收窄为营收+7%–10%、EBIT利润率扩张60–80个基点。公司提示下半年少一个交易周，增速会放缓。BoF/Bloomberg报道股价早盘最高涨5.3%。"
+  },
+  {
+   "date": "2026-11-10",
+   "source": "cash.ch",
+   "title": "WoS指引带动腕表股：Swatch升至六周高位，历峰涨2.2%；历峰11月13日发半年报",
+   "url": "https://www.cash.ch/news/top-news/ruckenwind-vor-wichtigem-weihnachtsgeschaft-aktie-von-swatch-steigt-auf-sechs-wochen-hoch-983946",
+   "tier1": "珠宝腕表",
+   "type": "资本",
+   "importance": 3,
+   "segment": "奢侈品",
+   "summary": "cash.ch 11月10日报道，WoS开盘前发布超预期半年数据后，Swatch名义股涨约3%至36.30瑞郎，为9月底以来高位；历峰涨2.2%至174.30瑞郎。巴克莱、RBC均认为WoS经营执行强、节日季动能良好。文章同时提到LVMH计划在旗下Zenith大规模裁员。历峰将于11月13日公布2026/27半年报，是检验硬奢景气的下一个节点。"
+  },
+  {
+   "date": "2026-11-10",
+   "source": "Zonebourse / Bourse Direct",
+   "title": "Berenberg：中国需求放缓是结构性挑战，奢侈品股应“卖出反弹”，维持开云卖出",
+   "url": "https://www.boursedirect.fr/en/news/category/commentaires-sur-l-evolution-des-valeurs-en-cours-de-seance/pessimiste-sur-le-luxe-berenberg-conseille-de-vendre-le-rebond-zone-bourse-b1ba981d70af64e56552336c8d17d6f6c0c3e853",
+   "tier1": "综合",
+   "type": "资本",
+   "importance": 4,
+   "segment": "奢侈品",
+   "summary": "Berenberg把当下奢侈品巨头的处境类比为2010年代的欧洲银行：逆风不消退，低估值也托不住股价。该行认为四季度销售仍承压、市场一致预期可能继续下调，叠加AI板块波动对高净值客户财富效应的影响，策略是“卖出任何反弹”。评级上，开云为卖出，Burberry、爱马仕、LVMH、历峰为持有，唯一买入是Brunello Cucinelli。STOXX Europe Luxury 10近一月反弹逾8%，年初至今仍跌超25%。前一日摩根士丹利已下调LVMH、爱马仕、开云、历峰目标价。"
+  },
+  {
+   "date": "2026-11-10",
+   "source": "BoF",
+   "title": "Tod's创意总监Matteo Tamburini卸任，品牌回归意大利传承与手工定位",
+   "url": "https://www.businessoffashion.com/news/luxury/tods-creative-director-matteo-tamburini/",
+   "tier1": "箱包",
+   "type": "人事",
+   "importance": 3,
+   "segment": "奢侈品",
+   "summary": "Tod's于11月10日宣布，任职近三年的创意总监Matteo Tamburini离任，9月米兰的SS27系列是他的最后一季。品牌暂未任命继任者，表示将更聚焦品牌价值、设计符号、工艺品质与意大利生活方式。这是继巴黎世家、Saint Laurent、McQueen之后，又一家在短期内更换创意负责人的皮具鞋履品牌。"
+  },
+  {
+   "date": "2026-11-10",
+   "source": "eBay Inc.",
+   "title": "eBay Watchlist秋冬报告：创意总监更替推高旧时代档案款，Galliano时期Dior均价+81%",
+   "url": "https://www.ebayinc.com/stories/news/ebays-watchlist-trend-report-reveals-how-fashions-creative-director-shakeups-are-creating-demand-for-archival-items/",
+   "tier1": "综合",
+   "type": "数据",
+   "importance": 3,
+   "segment": "奢侈品",
+   "summary": "报告基于1.36亿活跃买家和约27亿在线商品。新任创意总监的搜索量上升：Matthieu Blazy +291%，Jonathan Anderson +92%，Demna +42%。同期，Lagerfeld时期Chanel挂牌量+87%，Galliano时期Dior平均成交价+81%，Tom Ford时期Gucci挂牌量+49%。Loewe Amazona 180和BV Veneta全球挂牌量分别+440%和+158%，并且男装买家明显增多。Vogue同日报道，The Row Margaux包价格同比+137%，Gucci Giglio托特需求+103%。"
+  },
+  {
+   "date": "2026-11-10",
+   "source": "AP",
+   "title": "佳士得日内瓦：24克拉“Bulgari Pink”艳彩粉钻戒指以1210万瑞郎成交",
+   "url": "https://apnews.com/article/christies-diamond-jewelry-auction-geneva-e2f47288193556a3cb2108e391b6e48b",
+   "tier1": "珠宝腕表",
+   "type": "市场",
+   "importance": 3,
+   "segment": "奢侈品",
+   "summary": "AP报道，11月10日佳士得日内瓦瑰丽珠宝拍卖上，一枚24克拉Fancy Intense Pink粉钻戒指以1210万瑞郎（逾1460万美元）成交，落在1000万至1500万瑞郎的估价区间内。这说明顶级彩钻和高珠的实物资产属性依然受资金认可，与软奢的疲弱形成对照。"
+  },
+  {
+   "date": "2026-11-10",
+   "source": "每日经济新闻",
+   "title": "进博会观察｜开云集团加码黄金珠宝，奢侈品行业正在经历品类结构变化",
+   "url": "https://www.nbd.com.cn/articles/2026-11-10/4643970.html",
+   "tier1": "珠宝腕表",
+   "type": "深度",
+   "importance": 4,
+   "segment": "奢侈品",
+   "summary": "开云把进博会的重点发布留给了黄金：Qeelin推出独立品牌Qeelin GOLD，首个系列BAJING融入花丝、炸珠、錾刻等古法工艺，计划开店于上海港汇恒隆，与老铺黄金正面竞争。文中数据：古法黄金市场规模从2018年的130亿元增至2023年的1573亿元；老铺黄金客群与LV、爱马仕、卡地亚、宝格丽客群的重合率从77.3%（2025年7月）升至84.6%（2026年8月）。Gucci三季度可比收入-6%，LVMH腕表珠宝+6%而时装皮具-5%；瑞银将2027年软奢增速预测下调至3%。"
+  },
+  {
+   "date": "2026-11-10",
+   "source": "中国黄金报（新浪财经）",
+   "title": "黄金珠宝三季报里的“冷与热”：克重金与加盟承压，轻量化、电商、投资金逆势",
+   "url": "https://finance.sina.com.cn/money/nmetal/hjzx/2026-11-10/doc-iniyfkma5974315.shtml",
+   "tier1": "珠宝腕表",
+   "type": "深度",
+   "importance": 4,
+   "segment": "大众",
+   "summary": "冷的一面：老凤祥Q3单季亏损1.24亿元，明牌珠宝亏损超5800万元。热的一面：潮宏基Q3营收-26.57%，归母净利润却+897.65%；中国黄金Q3单季净利+246.52%，靠金条金币等投资品；豫园前三季度扭亏。渠道上，周大福Q3内地净关店240家，门店降至4807家；周大生前三季度净减670家，其中加盟657家。线上逆势增长：周大生电商收入25.95亿元（+33.42%），老凤祥电商+49.19%，迪阿线上自营占比26.19%。文章也提醒，轻量化产品客单价低、价格透明，毛利承压。"
+  },
+  {
+   "date": "2026-11-10",
+   "source": "光明日报（中国经济网）",
+   "title": "1980元的“防近视”镜片批发仅30元：行业标尺怎么立",
+   "url": "http://www.ce.cn/xwzx/shgj/gdxw/202611/t20261110_3289402.shtml",
+   "tier1": "眼镜",
+   "type": "政策",
+   "importance": 4,
+   "segment": "大众",
+   "summary": "光明日报调查：丹阳某批发市场的近视防控镜片批发价30元，参考零售价1980元，采购方可以自行贴牌、自行定价。同一款进口镜片，三甲医院售价超5000元，授权店约3000元，批发渠道约1000元。行业层面，目前国际和国内都没有离焦镜片的产品标准，只有4项团体标准；《微结构眼镜镜片》单微结构型、复合结构型两项国家标准已完成公开征求意见，即将审定。全国眼镜制配相关企业超18万家，其中有行政许可记录的仅3.62万家。市场监管总局6月已要求加强全链条计量监管，地方监管部门已对曝光案例立案调查。"
+  },
+  {
+   "date": "2026-11-10",
+   "source": "证券时报网（同花顺转载）",
+   "title": "天猫双11“巅峰价”首小时成交环比+400%，超3万品牌同比翻倍",
+   "url": "https://field.10jqka.com.cn/20261110/c681669689.shtml",
+   "tier1": "综合",
+   "type": "数据",
+   "importance": 3,
+   "segment": "大众",
+   "summary": "天猫“巅峰价”于11月9日晚8点启动，全场6.8折起，首小时成交环比+400%，超3万个品牌成交同比翻倍。降温带动保暖品类：开卖4小时取暖器+400%，羽绒服一晚卖出超30万件；童装+432%，童鞋+486%。这份战报没有单列配饰品类数据。此前网经社11/3报道，天猫奢品40余个品牌（卡地亚、Coach、Longchamp、Prada、蒂芙尼等）成交双位数增长，Tory Burch Charlie水桶包售罄补货。"
+  },
+  {
+   "date": "2026-11-10",
+   "source": "The National",
+   "title": "阿联酋etisalat成为中东北非首家销售Ray-Ban Meta与Oakley Meta智能眼镜的运营商，起价1160迪拉姆",
+   "url": "https://www.thenationalnews.com/future/technology/2026/11/10/uaes-etisalat-starts-selling-meta-smart-glasses-to-boost-wearables-base/",
+   "tier1": "眼镜",
+   "type": "渠道",
+   "importance": 3,
+   "segment": "大众",
+   "summary": "etisalat于11月10日宣布开售Meta Glasses标准款、第二代和第三代Ray-Ban Meta以及Oakley Meta HSTN，起价1160迪拉姆（约316美元），支持实时翻译、免提通话、拍照录像。它是中东北非首家销售这类眼镜的电信运营商，与智能手表、智能戒指一起放进可穿戴组合。当地法规允许持有，但未经同意录制会受罚。"
+  },
+  {
+   "date": "2026-11-10",
+   "source": "9to5Google",
+   "title": "Meta向自有品牌Meta Glasses推送紧急更新，防止受潮发热；Ray-Ban/Oakley款不受影响",
+   "url": "https://9to5google.com/2026/11/10/meta-issues-a-high-priority-update-to-prevent-overheating-in-some-of-its-glasses/",
+   "tier1": "眼镜",
+   "type": "新品",
+   "importance": 2,
+   "segment": "大众",
+   "summary": "Meta要求Adventurer、Fury、Starfire、Nova、Capri等自有品牌款升级到v130固件，受潮过热时会自动关机，个别情况可以换货；Meta明确表示Ray-Ban和Oakley品牌款不受影响。自有款起价299美元，低于Ray-Ban Meta Gen 2的379美元和Gen 3的449美元。这说明低价自有款在扩大规模时，汗水、湿度等日常佩戴可靠性仍是短板。"
+  }
+ ],
+ "brand_news": [
+  {
+   "brand": "万事利",
+   "date": "2026-11-11",
+   "source": "巨潮资讯（公司公告2026-061）",
+   "title": "万事利2024年限制性股票激励计划第二个归属期归属91.09万股，2025年考核净利4251.87万元",
+   "url": "http://static.cninfo.com.cn/finalpage/2026-11-11/1225665668.PDF",
+   "type": "资本",
+   "summary": "11月11日公告：第二个归属期于11月10日完成，47人归属91.0942万股（约占总股本0.39%），归属价4.24元/股，股份来自回购，总股本不变。公司层面考核口径下（剔除股份支付），2025年归母净利润4251.87万元，低于5000万元目标、高于4000万元触发值，公司层面归属比例85.03%，未达部分作废。这一信号说明：激励兑现了，但利润目标未全额达成。"
+  },
+  {
+   "brand": "蔡司",
+   "date": "2026-11-10",
+   "source": "凤凰网",
+   "title": "蔡司首款AI显示眼镜专属镜片翎思正式上市，极米记得MemoMind One 11月10日全渠道开售",
+   "url": "https://biz.ifeng.com/c/8xwFS9SMN4I",
+   "type": "新品",
+   "summary": "翎思镜片采用自由环面设计（超过700个光学优化点），清晰视域平均约为传统非球面单光片的3倍；钻立方绿晶膜双面透射率约96.5%、反射率约1.4%；屈光片与波导片一体贴合，点胶精度±10μm。首款搭载机型极米MemoMind One无摄像头，11月10日起在蔡司天猫、京东旗舰店、授权门店及极米渠道发售。蔡司是极米的官方配镜伙伴。财新同日报道蔡司在进博会发布两款与中国伙伴共研的眼健康产品，广州项目一期计划2027年下半年投产智能眼镜镜片模组。"
+  },
+  {
+   "brand": "依视路",
+   "date": "2026-11-10",
+   "source": "新华网",
+   "title": "依视路星趣控进博会公布中国RCT 6个月中期结果：星趣控2.0平均近视增长-0.01D",
+   "url": "http://www.xinhuanet.com/health/20261110/388567d15ecb4fecba6208b02fa07300/c.html",
+   "type": "新品",
+   "summary": "11月9日，依视路陆逊梯卡旗下星趣控公布中国随机双盲试验6个月中期数据：搭载H.A.L.T. MAX技术的星趣控2.0镜片，平均近视增长仅-0.01D；9mm中央清晰区让适应性接近单光片。针对近视前期儿童，85%可在一周内适应平光片，6个月平均近视漂移约减半。产品矩阵延伸到平光片、3–16岁钛架和佩戴监测智能眼镜。"
+  },
+  {
+   "brand": "依视路",
+   "date": "2026-11-10",
+   "source": "新京报",
+   "title": "依视路万里路进博会亚洲首发iComfort技术，启视灵悦渐进镜片定于2027年春上市",
+   "url": "https://www.bjnews.com.cn/detail/1794311615129574.html",
+   "type": "新品",
+   "summary": "11月10日，万里路在进博会举办“成人视觉近疲劳的早期干预”圆桌，提出眼龄40岁以上的初发近疲劳人群是干预窗口。基于AI和百万戴镜者处方数据开发的iComfort技术扩大了远用区，并调整近用区，让配戴者不必刻意改变低头角度；搭载该技术的启视灵悦镜片预计2027年春季上市。"
+  },
+  {
+   "brand": "欧克利",
+   "date": "2026-11-10",
+   "source": "The National",
+   "title": "Oakley Meta HSTN随Ray-Ban Meta登陆阿联酋etisalat，首个中东北非运营商渠道",
+   "url": "https://www.thenationalnews.com/future/technology/2026/11/10/uaes-etisalat-starts-selling-meta-smart-glasses-to-boost-wearables-base/",
+   "type": "渠道",
+   "summary": "etisalat UAE开售的Meta系列中包括Oakley Meta HSTN运动款，整体起价1160迪拉姆，可以配合运营商分期（SmartPay）。继印尼、菲律宾之后，Oakley Meta又进入中东北非，渠道也从眼镜零售延伸到电信运营商。"
+  },
+  {
+   "brand": "GENTLE MONSTER",
+   "date": "2026-11-10",
+   "source": "SamMobile",
+   "title": "三星Galaxy Wearable应用曝光GENTLE MONSTER智能眼镜镜框，11月12日开启美国预订",
+   "url": "https://www.sammobile.com/news/samsung-readies-wearable-app-smart-glasses-launch/",
+   "type": "新品",
+   "summary": "三星Galaxy Wearable最新版本已加入Intelligent Eyewear配对支持，并出现GENTLE MONSTER款（代号Jinju，型号SM-0200J至SM-0205J共6款）和Warby Parker款的素材，包括Alden绿、酒红等配色与镜片选项。配置为骁龙AR1 Gen 1、12MP摄像头、录制指示灯，搭载Android XR+Gemini Live，单次续航最长9小时。据韩国先驱报11/8报道，GM官网11月12日开启美国预订、12月发售，11月13–23日在纽约旗舰店公开预览，价格尚未公布。"
+  },
+  {
+   "brand": "天美时集团",
+   "date": "2026-11-10",
+   "source": "Mint",
+   "title": "Timex推出Marlin California Dial限量版：34mm手动上链，限量200枚，定价299美元",
+   "url": "https://www.livemint.com/companies/news/timex-marlin-california-dial-watch-launched-priced-at-roughly-28-000-here-s-how-to-buy-special-features-and-more-11794292447527.html",
+   "type": "新品",
+   "summary": "Marlin California Dial限量版是黑色加州盘（上半部罗马数字、下半部阿拉伯数字），34mm抛光钢壳，厚13.5mm，亚克力镜面，手动上链，30米防水，快拆皮表带，后盖刻独立编号。前100枚在纽约Windup Watch Fair现场售出，101–200号通过美国官网下单，The Gadgeteer 11/9报道同款。这是天美时以小批量复古机械款维持收藏圈热度的做法。"
+  },
+  {
+   "brand": "TELETIES",
+   "date": "2026-11-09",
+   "source": "WDW News Today",
+   "title": "TELETIES×迪士尼节日发饰上线：12格降临日历69.99美元，米奇薄荷糖抓夹12.99–18.99美元",
+   "url": "https://wdwnt.com/2026/11/disney-holiday-teleties-hair-accessories-now-available-online/",
+   "type": "新品",
+   "summary": "迪士尼节日主题TELETIES系列已在线上开售：12格降临日历69.99美元，内含大小发圈、中号抓夹、按扣夹、真丝发圈和圆形平夹；米奇薄荷糖造型平夹有4个尺寸，12.99–18.99美元；米奇与朋友节日发圈5条装14.99美元；米奇圣诞球圆形夹10.99–16.99美元。这是IP加节日礼盒结合的发饰打法。"
+  },
+  {
+   "brand": "新秀丽",
+   "date": "2026-11-09",
+   "source": "新秀丽官方微博（新浪转载）",
+   "title": "新秀丽PARALUX双开门箱推出咖啡色新配色；三季报定于11月12日港股收盘后发布",
+   "url": "https://www.sina.cn/weibo/detail/5363316484735409.html",
+   "type": "新品",
+   "summary": "11月9日，新秀丽（中国）官方微博发布PARALUX双开门箱咖啡色新配色，主打“浓萃入色”，赶在双11最后阶段上新。公司此前公告，2026年三季度及前九个月业绩将于11月12日港股收盘后公布并召开电话会，是验证收购BÉIS后经营情况的下一个节点。"
+  },
+  {
+   "brand": "CHARLES&KEITH",
+   "date": "2026-11-09",
+   "source": "PR TIMES（CHARLES & KEITH JAPAN）",
+   "title": "CHARLES & KEITH发布WINTER 2026“WINTER GETAWAY”系列，六个篇章覆盖节日出行与派对",
+   "url": "https://prtimes.jp/main/html/rd/p/000000175.000034943.html",
+   "type": "新品",
+   "summary": "11月9日，日本公司发布新闻稿：WINTER 2026系列已在官网和日本门店陆续发售，按“冬日衣橱、在路上、丝绒之夜、随身礼物、皮草、极简暖岛”六个篇章组织。主推Halsey褶皱手提包、带腰带托特、丝绒加珍珠和蝴蝶结装饰、节日挂饰与鹿纹印花。新加坡站同期在做6–12日的双11促销，最高5折。"
+  }
+ ],
+ "insights": [
+  {
+   "title": "硬奢的强与弱：零售端上调指引、集团押注黄金，但国内黄金珠宝正在出清加盟",
+   "tier1": "珠宝腕表",
+   "body": "当天信号最集中的是硬奢。WoS上半财年营收+15%，珠宝+19%快于腕表+15%，并把全年指引收窄到上端，带动Swatch、历峰股价走高；佳士得日内瓦粉钻在估价区间内以1210万瑞郎成交。同日Berenberg却建议“卖出反弹”。两者并不矛盾：资金只认可有稀缺度、有渠道效率的硬奢，不再给整个板块估值。\n\n结构性原因有三点。一是价值锚：粉钻、高珠、名表二级价格有支撑，而软奢手袋连续涨价后性价比下降。二是渠道：WoS的增长来自美国并购和展厅，以及Roberto Coin店中店。三是中国：每经引用的数据显示，老铺黄金与LV、爱马仕、卡地亚客群重合率升至84.6%，于是开云用Qeelin GOLD直接切入古法金。\n\n但国内大盘不等于古法金热。中国黄金报复盘三季报：老凤祥单季亏损1.24亿元，周大福、周大生集中关闭加盟店，增量来自电商、轻量化和投资金，而这些毛利更薄。\n\n启示：从投资角度看，硬奢的分化在品牌之间而不在品类之间，可跟踪历峰11/13半年报里的珠宝增速、Qeelin GOLD单店坪效，以及国内品牌的加盟出清何时见底。从经营角度看，珠宝配饰企业应把一口价、高工艺产品和电商自营做成利润中心，加盟扩张要让位于单店效率，轻量化走量要配会员和回收体系。",
+   "refs": [
+    {
+     "title": "WoS H1 FY27 Trading Update",
+     "url": "https://www.thewosgroupplc.com/news-media/h1-fy27-trading-update/"
+    },
+    {
+     "title": "cash.ch：Swatch升至六周高位",
+     "url": "https://www.cash.ch/news/top-news/ruckenwind-vor-wichtigem-weihnachtsgeschaft-aktie-von-swatch-steigt-auf-sechs-wochen-hoch-983946"
+    },
+    {
+     "title": "Berenberg：卖出奢侈品反弹",
+     "url": "https://www.boursedirect.fr/en/news/category/commentaires-sur-l-evolution-des-valeurs-en-cours-de-seance/pessimiste-sur-le-luxe-berenberg-conseille-de-vendre-le-rebond-zone-bourse-b1ba981d70af64e56552336c8d17d6f6c0c3e853"
+    },
+    {
+     "title": "每经：开云加码黄金珠宝",
+     "url": "https://www.nbd.com.cn/articles/2026-11-10/4643970.html"
+    },
+    {
+     "title": "中国黄金报：黄金珠宝三季报里的冷与热",
+     "url": "https://finance.sina.com.cn/money/nmetal/hjzx/2026-11-10/doc-iniyfkma5974315.shtml"
+    },
+    {
+     "title": "AP：Bulgari Pink成交",
+     "url": "https://apnews.com/article/christies-diamond-jewelry-auction-geneva-e2f47288193556a3cb2108e391b6e48b"
+    }
+   ]
+  },
+  {
+   "title": "近视防控镜片：从“参数营销”走向“国标+临床证据”，品牌溢价要重新证明",
+   "tier1": "眼镜",
+   "body": "光明日报对丹阳“30元批发、1980元参考零售”的调查，把镜片光学赛道的问题摆到了台面上。离焦微结构镜片2018年进入国内，迅速成为儿童配镜的主流，但目前国际和国内都没有产品标准，只有4项团体标准；各家效果对比基准不同，随访期从6个月到8年不等。同一款进口片，医院、授权店、批发市场的价差可以到数千元，这就给了贴牌和山寨空间。\n\n结构性原因：一是品类属性没有定，框架镜片仍按消费品管理，准入门槛远低于按三类医疗器械监管的OK镜；二是零售端分散，18万家制配企业里有行政许可记录的只有3.62万家；三是家长焦虑。\n\n竞争格局会因此改变。两项微结构镜片国标即将审定，市场监管总局也在推进全链条计量监管，白牌贴标的渠道利润会被压缩。真正受益的是有RCT和医院网络的头部：依视路同日公布星趣控2.0的6个月RCT中期数据，蔡司则持续与医院做临床、与眼科连锁合作。但头部也要面对两点：中期数据不能等同长期疗效，高价体系在国标落地后要重新解释。\n\n启示：从投资角度看，要区分“有临床+有渠道管控”的镜片商和“靠营销溢价”的零售商，后者在国标和计量执法后的毛利下行风险更大。从经营角度看，门店应公示验光师资质和授权证明，把扫码验真、随访记录做成标准流程；中腰部镜片品牌应尽快补临床数据。目前国标的具体技术指标尚未公开，影响幅度还需要等审定稿。",
+   "refs": [
+    {
+     "title": "光明日报：1980元的防近视镜片批发仅30元",
+     "url": "http://www.ce.cn/xwzx/shgj/gdxw/202611/t20261110_3289402.shtml"
+    },
+    {
+     "title": "新华网：依视路星趣控进博会中期研究",
+     "url": "http://www.xinhuanet.com/health/20261110/388567d15ecb4fecba6208b02fa07300/c.html"
+    },
+    {
+     "title": "凤凰网：蔡司翎思镜片上市",
+     "url": "https://biz.ifeng.com/c/8xwFS9SMN4I"
+    }
+   ]
+  }
+ ],
+ "trends": [
+  {
+   "title": "配饰降临日历（Advent Calendar）：发饰、首饰进入节日倒数礼盒",
+   "tier1": "服配",
+   "stage": "上升",
+   "description": "降临日历原本是美妆的玩法，2026年节日季明显外溢到配饰：TELETIES×迪士尼12格发饰日历售69.99美元，SKIMS、Kitsch推出发饰日历；JCK报道Astrid & Miyu的首饰日历连续5年售罄，Jane Win每次一周内卖光，Missoma推出金、银、实金三版。用户买的是每天开盒的仪式感，以及“送给什么都不缺的人”的场景。",
+   "opportunity": "国内发饰、银饰、轻珠宝品牌（如TELETIES同类、FANCI范琦、卡蒂罗）可以把爆款小件按12或24格组合成新年、春节倒数盒，用IP或生肖讲故事；客单价有望提升到单品的5–10倍，同时去化尾货SKU。需要注意礼盒成本和退换规则。",
+   "evidence": [
+    {
+     "title": "WDWNT：Disney Holiday TELETIES（含12格日历）",
+     "url": "https://wdwnt.com/2026/11/disney-holiday-teleties-hair-accessories-now-available-online/"
+    },
+    {
+     "title": "JCK：Why Jewelry Lovers Keep Snapping Up Advent Calendars",
+     "url": "https://www.jckonline.com/editorial-article/jewelry-advent-calendars-2026/"
+    },
+    {
+     "title": "E! 2026 Fashion Advent Calendars",
+     "url": "https://www.eonline.com/news/1437888/2026-fashion-advent-calendars-jewelry-accessories"
+    }
+   ]
+  },
+  {
+   "title": "档案款中古：创意总监更替带动旧时代经典包价格上涨",
+   "tier1": "箱包",
+   "stage": "上升",
+   "description": "eBay 11/10报告显示，新任创意总监的搜索热度会带动前任时代的档案款：Lagerfeld时期Chanel挂牌+87%，Galliano时期Dior均价+81%，Tom Ford时期Gucci挂牌+49%；品牌复刻档案也会带热旧款，Loewe Amazona 180挂牌+440%，BV Veneta +158%。Vogue补充，The Row Margaux价格同比+137%，Gucci Giglio需求+103%。",
+   "opportunity": "经营者可以在品牌更换设计负责人或复刻经典的窗口期，同步推出官方认证二手、以旧换新或档案复刻线，把二级市场的溢价留在品牌体系内；国内箱包品牌也可以整理自己的“经典款档案”，做周年复刻。对投资人来说，二手平台和鉴定服务会因创意总监频繁更换而受益。",
+   "evidence": [
+    {
+     "title": "eBay Watchlist Trend Report（2026-11-10）",
+     "url": "https://www.ebayinc.com/stories/news/ebays-watchlist-trend-report-reveals-how-fashions-creative-director-shakeups-are-creating-demand-for-archival-items/"
+    },
+    {
+     "title": "Vogue：How Creative Director Hype Is Lifting Resale",
+     "url": "https://www.vogue.com/article/how-creative-director-hype-is-lifting-resale"
+    }
+   ]
+  },
+  {
+   "title": "男士手袋与托特：从女包外溢到男士日常包",
+   "tier1": "箱包",
+   "stage": "萌芽",
+   "description": "eBay指出，Loewe Amazona 180、BV Intrecciato Andiamo等经典手袋的男装买家在增长；京东双11前半程，男士托特包与智能骑行箱、多功能手表同列成交翻倍品类。男士从双肩包、公文包转向更有时尚表达的托特和手提包，仍处在早期。",
+   "opportunity": "国内箱包品牌可以用中性色、软皮和大容量托特切入男士通勤，主推“同款男女可背”，降低开发成本；渠道上优先选择男性用户占比高的京东和线下商务商圈。需要验证复购和客单价是否能撑起独立系列。",
+   "evidence": [
+    {
+     "title": "eBay Watchlist：menswear following for iconic bags",
+     "url": "https://www.ebayinc.com/stories/news/ebays-watchlist-trend-report-reveals-how-fashions-creative-director-shakeups-are-creating-demand-for-archival-items/"
+    },
+    {
+     "title": "亿邦动力（腾讯新闻）：京东双11前半程，男士托特包成交翻倍",
+     "url": "https://news.qq.com/rain/a/20261102A0B68I00"
+    }
+   ]
+  },
+  {
+   "title": "雕塑感大框奢品太阳镜：创意总监爆款带动墨镜品类",
+   "tier1": "眼镜",
+   "stage": "上升",
+   "description": "Vogue提到Michael Rider为Celine设计的超大Disc墨镜是新任创意总监的爆款之一；Lyst Q3最热单品中有Phoebe Philo Peak太阳镜；国内京东双11前半程奢品太阳镜成交同比翻倍，PRADA、GENTLE MONSTER增长翻倍，天猫独家首发Maison Margiela×GENTLE MONSTER联名。墨镜已成为奢侈品牌最低门槛、也最容易出声量的配饰入口。",
+   "opportunity": "镜框时尚品牌可以做雕塑感大框和厚板材的高辨识度款，并配近视墨镜的处方服务（线上配镜需要提供瞳距和度数核验）；授权眼镜商（Safilo、Marcolin、开云眼镜）可以把创意总监爆款快速转化为授权墨镜。对零售端的提醒：大框墨镜季节性强，秋冬要靠节日礼赠和南方度假场景消化库存。",
+   "evidence": [
+    {
+     "title": "Vogue：Celine Disc sunglasses（resale报道）",
+     "url": "https://www.vogue.com/article/how-creative-director-hype-is-lifting-resale"
+    },
+    {
+     "title": "The Lyst Index Q3-26",
+     "url": "https://www.lyst.com/the-lyst-index/Q3-26/"
+    },
+    {
+     "title": "中国质量新闻网：京东11.11奢品太阳镜成交翻倍",
+     "url": "https://www.cqn.com.cn/cj/content/2026-11/01/content_9178772.htm"
+    }
+   ]
+  }
+ ],
+ "brand_insights": [
+  {
+   "brand": "GENTLE MONSTER",
+   "tier1": "眼镜",
+   "title": "GENTLE MONSTER智能眼镜进入预订：用时尚镜框占住Android XR入口，但价格和处方仍是未知数",
+   "body": "相对此前对联名与零售空间的分析，本周的新素材集中在AI眼镜落地。三星Galaxy Wearable已加入Intelligent Eyewear配对，应用里出现GM 6个型号（SM-0200J至0205J）和Warby Parker款；GM定于11月12日开启美国官网预订、12月发售，11月13–23日在纽约旗舰店公开预览，并请Joaquin Phoenix、Jonathan Glazer拍宣传片。\n\n战略上，GM在三星、谷歌、高通的生态里负责“设计和品牌”，与Meta绑定依视路陆逊梯卡的Ray-Ban/Oakley形成对位：一边是眼镜巨头加平台，一边是潮流设计品牌加平台。渠道上，GM先走自有官网和旗舰店体验，利用它在门店空间体验上的长项。产品上，无屏方案、12MP摄像头、9小时续航，与Ray-Ban Meta同代产品相近，差异化主要在镜框审美。\n\n定价尚未公布，而这是关键：Meta自有款已下探到299美元，Ray-Ban Meta Gen 3为449美元。处方镜片方案也未披露，蔡司翎思、依视路等光学巨头正在把“处方级贴合”做成门槛。竞争上，Warby Parker已开放到店演示预约，并内置验光能力，GM的短板在处方服务。",
+   "investor_view": "关注三点：预订转化与首批出货量（三星和谷歌未披露）、定价相对Ray-Ban Meta的溢价，以及能否把智能款带进中国和韩国市场（目前韩国上市日期未定）。如果定价过高、处方方案缺位，它可能只是一次营销事件，而非新的收入曲线；母公司IICOMBINED的估值逻辑也会随之调整。",
+   "operator_view": "对眼镜零售和代理商来说，可以提前准备智能眼镜的体验区和演示流程，类似Warby Parker的预约演示，并与镜片厂预谈处方贴合SOP。设计型镜框品牌可以借鉴GM，用“平台合作+自有渠道首发”的方式进入智能眼镜，而不必自研硬件。",
+   "sources": [
+    {
+     "title": "SamMobile：Samsung readies Wearable app for smart glasses launch",
+     "url": "https://www.sammobile.com/news/samsung-readies-wearable-app-smart-glasses-launch/"
+    },
+    {
+     "title": "The Korea Herald：Gentle Monster to open US preorders for AI glasses（11/8，背景）",
+     "url": "https://www.koreaherald.com/article/10929537"
+    },
+    {
+     "title": "9to5Google：Meta Glasses定价与固件更新（竞品参照）",
+     "url": "https://9to5google.com/2026/11/10/meta-issues-a-high-priority-update-to-prevent-overheating-in-some-of-its-glasses/"
+    }
+   ]
+  },
+  {
+   "brand": "依视路",
+   "tier1": "眼镜",
+   "title": "依视路：在国标落地前用RCT和全生命周期产品锁定近视管理与渐进片高地",
+   "body": "相对11月3日的分析，本期新增两项可核验的素材。一是星趣控2.0在中国RCT中的6个月中期数据：平均近视增长-0.01D，平光片让近视前期儿童的近视漂移约减半，产品线延伸到3–16岁钛架和佩戴监测智能眼镜。二是万里路针对眼龄40岁以上的初发近疲劳人群推出iComfort技术，启视灵悦渐进片定于2027年春上市。\n\n战略上，依视路把产品线从“儿童近视控制→成人初发近疲劳→渐进片”串成全生命周期，并借进博会发声，同时扩大丹阳基地。渠道上，它依托医院视光中心和授权店，并强调扫码验真，正好对应光明日报曝光的贴牌乱象。定价上，进口高端片在医院可卖到5000元以上，国标落地和计量执法后，价差需要用临床证据来支撑。竞争上，蔡司与医院做RCT、推AI眼镜镜片，明月镜片等国产品牌以性价比和渠道扩张追赶。",
+   "investor_view": "中期数据有利于品牌溢价，但只有6个月，需要等待12–24个月数据和正式论文发表。另要关注两项微结构镜片国标的技术指标是否抬高门槛；如果门槛提高，依视路、蔡司这类有临床和工厂的龙头份额会进一步集中，渠道价格体系则可能被压缩。",
+   "operator_view": "门店可以把星趣控等产品的验真、随访、戴镜时长监测做成服务包，用服务对冲价格质疑；成人渐进片要提前针对40岁出头的“初发近疲劳”人群做验配话术和体验，2027年新品上市前先积累客群。",
+   "sources": [
+    {
+     "title": "新华网：依视路星趣控亮相第九届进博会",
+     "url": "http://www.xinhuanet.com/health/20261110/388567d15ecb4fecba6208b02fa07300/c.html"
+    },
+    {
+     "title": "新京报：依视路万里路进博眼健康圆桌会暨新科技亚洲首发",
+     "url": "https://www.bjnews.com.cn/detail/1794311615129574.html"
+    },
+    {
+     "title": "光明日报：1980元的防近视镜片批发仅30元（行业背景）",
+     "url": "http://www.ce.cn/xwzx/shgj/gdxw/202611/t20261110_3289402.shtml"
+    }
+   ]
+  }
+ ],
+ "reading_list": [
+  {
+   "title": "轻奢没有崛起，Coach和拉夫劳伦为何赢了？（LADYMAX原创，虎嗅转载）",
+   "source": "LADYMAX",
+   "date": "2026-11-09",
+   "url": "https://m.huxiu.com/article/4904196.html",
+   "tier1": "箱包"
+  },
+  {
+   "title": "进博会观察｜开云集团加码黄金珠宝 奢侈品行业正在经历品类结构变化",
+   "source": "每日经济新闻",
+   "date": "2026-11-10",
+   "url": "https://www.nbd.com.cn/articles/2026-11-10/4643970.html",
+   "tier1": "珠宝腕表"
+  },
+  {
+   "title": "黄金珠宝三季报里的“冷与热”",
+   "source": "中国黄金报",
+   "date": "2026-11-10",
+   "url": "https://finance.sina.com.cn/money/nmetal/hjzx/2026-11-10/doc-iniyfkma5974315.shtml",
+   "tier1": "珠宝腕表"
+  },
+  {
+   "title": "1980元的“防近视”镜片，批发仅30元！行业“标尺”怎么立",
+   "source": "光明日报",
+   "date": "2026-11-10",
+   "url": "http://www.ce.cn/xwzx/shgj/gdxw/202611/t20261110_3289402.shtml",
+   "tier1": "眼镜"
+  },
+  {
+   "title": "How Creative Director Hype Is Lifting Resale",
+   "source": "Vogue",
+   "date": "2026-11-10",
+   "url": "https://www.vogue.com/article/how-creative-director-hype-is-lifting-resale",
+   "tier1": "箱包"
+  },
+  {
+   "title": "H1 FY27 Trading Update",
+   "source": "Watches of Switzerland Group",
+   "date": "2026-11-10",
+   "url": "https://www.thewosgroupplc.com/news-media/h1-fy27-trading-update/",
+   "tier1": "珠宝腕表"
+  },
+  {
+   "title": "Pessimiste sur le luxe, Berenberg conseille de vendre le rebond",
+   "source": "Zonebourse",
+   "date": "2026-11-10",
+   "url": "https://www.boursedirect.fr/en/news/category/commentaires-sur-l-evolution-des-valeurs-en-cours-de-seance/pessimiste-sur-le-luxe-berenberg-conseille-de-vendre-le-rebond-zone-bourse-b1ba981d70af64e56552336c8d17d6f6c0c3e853",
+   "tier1": "综合"
+  },
+  {
+   "title": "Pierpaolo Piccioli Leaves Balenciaga as Martine Rose Takes Over",
+   "source": "la Repubblica",
+   "date": "2026-11-10",
+   "url": "https://www.repubblica.it/en/europe/fashion-design/2026/11/10/news/pierpaolo-piccioli-balenciaga-martine-rose-425711055/",
+   "tier1": "综合"
+  },
+  {
+   "title": "Luxury braces for a long Chinese winter",
+   "source": "Jing Daily",
+   "date": "2026-10-28",
+   "url": "https://jingdaily.com/posts/luxury-braces-for-a-long-chinese-winter",
+   "tier1": "综合"
+  }
+ ],
+ "brand_scan": {
+  "window": "2026-11-09..2026-11-11",
+  "method": "WebSearch+WebFetch+X search_posts_all（中文名和英文/别名分组检索，start_time 2026-11-09T00:00Z）；Exa MCP不在本次可用工具中，firecrawl未使用。对64个品牌逐一按中文名和英文名检索行业媒体、官网、公告（巨潮、披露易）与X；P0和上市/集团品牌优先深挖。大图（DITA）按用户偏好不做深度追踪，但仍计入扫描。",
+  "note": "64个品牌中9个有可核验动态：万事利、蔡司、依视路、欧克利、GENTLE MONSTER、天美时集团、TELETIES、新秀丽、CHARLES&KEITH。其余55个在窗口内没有找到可确认日期和原文链接的新事实。说明：LADYMAX 11/9深度文章提到山下有松、GROTTO个乐、裘真在争夺日常手袋市场，但没有品牌自身的新事实，未计入hits；卡西欧G-SHOCK 2500新加坡发布活动是11/7（Hypebeast 11/10为品牌赞助稿），印度扩店专访为11/8，均在窗口外，未计入；明月镜片11/10仅有股价上涨，无公司事件；亨得利特别股息于11/16派发，公告在窗口外；HEFANG、Fakeme双11直播与促销信息无法核验发布日期，未计入。新秀丽三季报将于11/12发布。",
+  "hits": [
+   "万事利",
+   "蔡司",
+   "依视路",
+   "欧克利",
+   "GENTLE MONSTER",
+   "天美时集团",
+   "TELETIES",
+   "新秀丽",
+   "CHARLES&KEITH"
+  ],
+  "misses": [
+   "裘真",
+   "Fakeme",
+   "山下有松",
+   "LOLA ROSE",
+   "HEFANG",
+   "雅瑞光学",
+   "ARSIS",
+   "ITO",
+   "GROTTO个乐",
+   "白岚",
+   "ECODAY",
+   "bampo",
+   "卡西欧",
+   "德津",
+   "LEVEL8地平线8号",
+   "九格眼镜",
+   "FANCI范琦",
+   "纽芝兰",
+   "明月镜片",
+   "CECE",
+   "柯达",
+   "BAGSMART",
+   "CIGALONG",
+   "abyb jewelry",
+   "海伦凯勒眼镜",
+   "包包树BAGTREE",
+   "飞亚达",
+   "梵誓ONESWEAR",
+   "KKLUE轻珠宝",
+   "JELLYTOYBOY",
+   "卡蒂罗",
+   "尤目",
+   "ORANGE CUBE",
+   "古良吉吉",
+   "亨得利钟表",
+   "甲目眼镜",
+   "TAD FAB",
+   "FANGYI方宜",
+   "老雷线上配镜",
+   "抱树BYROOTS",
+   "DAVENA",
+   "首末集团",
+   "大图",
+   "卡拉羊",
+   "P&N",
+   "PARIM",
+   "上海夕和眼镜",
+   "超视立",
+   "御行",
+   "木九十",
+   "天空树假发",
+   "不莱玫",
+   "帕莎",
+   "CASSILE卡思乐",
+   "BLACKHEAD"
+  ]
+ },
+ "sources": [
+  {
+   "name": "Watches of Switzerland Group IR",
+   "url": "https://www.thewosgroupplc.com/",
+   "tier1": "珠宝腕表"
+  },
+  {
+   "name": "cash.ch",
+   "url": "https://www.cash.ch/",
+   "tier1": "珠宝腕表"
+  },
+  {
+   "name": "Zonebourse / Bourse Direct",
+   "url": "https://www.boursedirect.fr/",
+   "tier1": "综合"
+  },
+  {
+   "name": "eBay Inc. Newsroom",
+   "url": "https://www.ebayinc.com/stories/news/",
+   "tier1": "综合"
+  },
+  {
+   "name": "每日经济新闻",
+   "url": "https://www.nbd.com.cn/",
+   "tier1": "珠宝腕表"
+  },
+  {
+   "name": "中国黄金报",
+   "url": "https://finance.sina.com.cn/money/nmetal/",
+   "tier1": "珠宝腕表"
+  },
+  {
+   "name": "光明日报 / 中国经济网",
+   "url": "http://www.ce.cn/",
+   "tier1": "眼镜"
+  },
+  {
+   "name": "新华网健康",
+   "url": "http://www.xinhuanet.com/health/",
+   "tier1": "眼镜"
+  },
+  {
+   "name": "SamMobile",
+   "url": "https://www.sammobile.com/",
+   "tier1": "眼镜"
+  },
+  {
+   "name": "The National",
+   "url": "https://www.thenationalnews.com/",
+   "tier1": "眼镜"
+  },
+  {
+   "name": "PR TIMES",
+   "url": "https://prtimes.jp/",
+   "tier1": "箱包"
+  },
+  {
+   "name": "JCK",
+   "url": "https://www.jckonline.com/",
+   "tier1": "珠宝腕表"
+  }
+ ]
+}

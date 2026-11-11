@@ -1,5 +1,16 @@
 [
  {
+  "date": "2026-11-11",
+  "headline": "WoS上调指引、硬奢股走强而Berenberg喊“卖出反弹”；光明日报曝光近视防控镜片30元批发卖1980元；蔡司翎思镜片随AI眼镜开售；双11巅峰价首小时成交环比+400%",
+  "counts": {
+   "industry_news": 12,
+   "brand_news": 10,
+   "insights": 2,
+   "trends": 4,
+   "brand_insights": 2
+  }
+ },
+ {
   "date": "2026-11-10",
   "headline": "摩根士丹利下调LVMH等奢侈品目标价；蔡司进博首发爱启瞳与AI翎思镜片；欧克利Meta登陆印尼与菲律宾；卡西欧推G-SHOCK黑灰新作",
   "counts": {
