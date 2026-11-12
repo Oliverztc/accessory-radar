@@ -1,0 +1,555 @@
+{
+ "date": "2026-11-12",
+ "headline": "双11收官不报GMV、黄金靠定制与小克重走量；眼镜线Safilo北美回暖、欧洲太阳镜走弱，Marchon/Marcolin宣布2027年做智能眼镜",
+ "summary": "过去24小时（11/11 08:00至11/12 08:00，北京时间；个别条目放宽到48小时并已注明）的主线在眼镜和黄金。眼镜方面：Safilo三季度+1.6%，北美回暖抵消欧洲太阳镜疲软，毛利率含关税退款等一次性因素；VSP旗下Marchon与Marcolin将于2027年公布智能眼镜计划；EssilorLuxottica回吐3%；国内影目召回4701副AI眼镜，智能眼镜安全监管趋严。双11方面：天猫、京东连续第五年不报总GMV，首轮综合电商仅+2.4%；黄金品类两位数增长，定制金三位数增长，金价回调带动线下排队。硬奢与渠道方面：蒂芙尼称中国已不再是主要增长引擎、转向巴西；Moncler入驻第五大道，与美国三季度奢侈品支出首次下滑并存。今日待发布：Burberry半年报（北京时间约15:00）、新秀丽三季报（港股收盘后，电话会22:00）；历峰半年报11/13 14:00（北京时间）。以上截至本稿均未发布，未写入。",
+ "industry_news": [
+  {
+   "date": "2026-11-11",
+   "source": "Vision Monday / Safilo Group公告",
+   "title": "Safilo三季度销售额2.275亿欧元、固定汇率+1.6%，北美回暖抵消欧洲太阳镜疲软；CEO Trocchia续任三年",
+   "url": "https://www.visionmonday.com/eyecare/article/safilo-group-posts-third-quarter-2026-results-confirms-trocchia-as-ceo-for-a-further-three-year-period/",
+   "tier1": "眼镜",
+   "type": "财报",
+   "importance": 4,
+   "segment": "大众",
+   "summary": "Safilo于11月10日（意大利时间）发布三季度数据：销售额2.275亿欧元，固定汇率+1.6%，前九个月7.394亿欧元，-0.9%。北美1.044亿欧元，+5.6%，Kate Spade、Tommy Hilfiger、BOSS、Marc Jacobs表现突出，Smith的DTC保持增长。欧洲8790万欧元，-3.1%，法国、德国太阳镜萎缩，跌幅集中在德国纯电商渠道。亚太-1%，但中国借北京眼镜展恢复增长。毛利率由59.7%升至65.0%，其中关税退款贡献210个基点，价格与产品结构贡献320个基点。大股东Multibrands同意让Angelo Trocchia续任CEO三年。管理层表示，5月收购的SPY+、Serengeti将在四季度贡献更多，智能眼镜仍是长期战略重点。"
+  },
+  {
+   "date": "2026-11-11",
+   "source": "Reuters（MarketScreener转载）",
+   "title": "VSP旗下Marchon与Marcolin将于2027年公布自有智能眼镜计划",
+   "url": "https://in.marketscreener.com/news/vsp-owned-marchon-marcolin-to-unveil-plan-in-2027-to-launch-smartglasses-ce785edbdf88f322",
+   "tier1": "眼镜",
+   "type": "市场",
+   "importance": 4,
+   "segment": "大众",
+   "summary": "Marchon与Marcolin的董事总经理Nicola Zotta在米兰Pambianco时尚峰会上表示，集团明年将公布自有智能眼镜项目，但未透露由哪家公司或哪个品牌承接。他认为智能眼镜会扩大眼镜市场的总盘子，但不会取代传统眼镜，同时提到工业化和隐私是两大挑战。至此，除EssilorLuxottica外，Safilo和VSP系两大授权镜框商都已明确押注智能眼镜。"
+  },
+  {
+   "date": "2026-11-11",
+   "source": "Ideal Investisseur",
+   "title": "EssilorLuxottica单日跌约3%垫底CAC 40，一个月反弹24%后回吐",
+   "url": "https://www.ideal-investisseur.fr/en/stock-news/essilorluxottica-shares-cac-40-laggard-fall-3/29167.html",
+   "tier1": "眼镜",
+   "type": "市场",
+   "importance": 3,
+   "segment": "奢侈品",
+   "summary": "11月11日午后，EssilorLuxottica股价跌约3.07%至181.85欧元，是CAC 40当天跌幅最大的成分股。此前一个月，股价借三季报（固定汇率+7.2%，DTC+10.6%，前九月近视管理+24%）反弹约24%，在191.95欧元附近遇阻，现已回到200日均线附近。过去一年累计仍跌约42%。这说明市场对智能眼镜与近视管理双主线的定价仍然反复。"
+  },
+  {
+   "date": "2026-11-11",
+   "source": "北京商报（新浪财经转载）/ 市场监管总局缺陷产品召回中心",
+   "title": "影目科技召回4701副INMO AIR3智能眼镜：第三方应用异常耗电或致镜腿过热",
+   "url": "https://finance.sina.com.cn/jjxw/2026-11-11/doc-iniyipkh8665973.shtml",
+   "tier1": "眼镜",
+   "type": "政策",
+   "importance": 3,
+   "segment": "大众",
+   "summary": "市场监管总局召回中心11月10日披露，四川影目科技召回2025年5月至2026年6月生产的部分INMO AIR3，共4701副。原因是运行部分未经官方测试的第三方应用时可能异常耗电，导致左镜腿长时间使用后过热，存在烫伤隐患。整改方式是通过OTA免费升级到V3.18.109。这是继Meta自有品牌眼镜推送防过热更新后，又一起智能眼镜热安全事件，开放第三方应用生态的安全责任开始显性化。"
+  },
+  {
+   "date": "2026-11-11",
+   "source": "第一财经（转证券时报）",
+   "title": "AI眼镜概念股集体走强，终端加速更新，地方消费补贴降低购买门槛",
+   "url": "https://www.yicai.com/brief/103435276.html",
+   "tier1": "眼镜",
+   "type": "市场",
+   "importance": 2,
+   "segment": "大众",
+   "summary": "11月10日，A股AI眼镜概念股集体走强，视涯科技、富瀚微、康冠科技等涨停。终端侧，雷鸟接入高德导航，康冠展出全彩AI眼镜，芯片企业同步推进可穿戴布局；各地消费补贴也陆续落地。报道认为，竞争正从功能展示转向佩戴体验、应用黏性和生态协同。（该条发布于11月11日07:52，略早于24小时窗口）"
+  },
+  {
+   "date": "2026-11-12",
+   "source": "联商网",
+   "title": "第18个双11收官：天猫、京东连续第五年不披露总GMV；综合电商首轮+2.4%，AI眼镜等AI趋势品翻倍",
+   "url": "http://m.linkshop.com/article/news/553819",
+   "tier1": "综合",
+   "type": "数据",
+   "importance": 4,
+   "segment": "大众",
+   "summary": "截至11月12日零时，天猫、京东仍未公布全周期总交易额。星图数据显示，10月7日至31日综合电商累计销售额10263亿元，同比约+2.4%。艾瑞调查显示，受访者双11平均使用平台数和计划购买品类数分别较上年减少0.8个和1.2类，消费更集中、更理性。京东披露，全周期AIPC、AI眼镜等AI趋势品成交额同比超100%，全球售中智能眼镜成交同比超100%；260个近一年入驻的时尚新锐品牌成交额环比增长超200%。"
+  },
+  {
+   "date": "2026-11-12",
+   "source": "广州日报",
+   "title": "金价回调叠加双11：天猫黄金品类成交两位数增长，定制黄金三位数增长；11月11日品牌金价普降24–31元/克",
+   "url": "https://news.dayoo.com/finance/202611/12/171077_55022943.htm",
+   "tier1": "珠宝腕表",
+   "type": "数据",
+   "importance": 4,
+   "segment": "大众",
+   "summary": "11月11日，老庙1208元/克、周生生1212元/克、周大福1215元/克、老凤祥1211元/克，较前一日下调24至31元/克。天猫数据显示，双11期间黄金品类累计成交额两位数增长，古法金和高端产品线延续高增长，品牌店播放量，定制黄金同比三位数增长。线上以满减和12期免息为主，老铺黄金一套约297克的足金产品叠加优惠后直降约7.1万元。线下以每克减40至120元、一口价8至88折为主，多数门店11月11日收官。"
+  },
+  {
+   "date": "2026-11-11",
+   "source": "第一财经",
+   "title": "双11金店排长队：自戴小克重成主力；世界黄金协会称三季度中国金饰消费66吨、608亿元",
+   "url": "https://www.yicai.com/news/103435747.html",
+   "tier1": "珠宝腕表",
+   "type": "数据",
+   "importance": 3,
+   "segment": "大众",
+   "summary": "记者在石家庄、北京等地走访，金店验金高峰期排队约半小时，周生生、周大福、潮宏基等推出每克减30至80元、一口价85折、以旧换新免折旧等优惠。销售反馈，金价下探时消费者集中购买大克重“三金”，回涨后则以自戴小克重为主。世界黄金协会三季度报告：中国黄金总需求192吨，同比+12%；金饰66吨，环比+30%，价值608亿元，高于十年同期均值552亿元；硬足金和高端古法金预计在四季度继续受青睐。"
+  },
+  {
+   "date": "2026-11-11",
+   "source": "Valor International",
+   "title": "蒂芙尼CEO：中国已不再是主要增长引擎，巴西连续五年两位数增长，12月重开圣保罗旗舰",
+   "url": "https://valorinternational.globo.com/business/news/2026/11/11/tiffany-bets-on-brazil-as-global-luxury-market-cools.ghtml",
+   "tier1": "珠宝腕表",
+   "type": "市场",
+   "importance": 3,
+   "segment": "奢侈品",
+   "summary": "Tiffany CEO Anthony Ledru接受Valor采访时说：“中国不再是推动多数品牌十多年增长的主要引擎。”巴西已是蒂芙尼全球前十大市场，连续五年两位数增长；圣保罗Cidade Jardim旗舰店将于12月重开，面积480平方米。巴西客户的购买地点从过去七成在海外，变为如今七成在本土，高珠也主要在本地成交。报道援引行业估算，LVMH、开云、爱马仕、历峰、Prada、Moncler今年合计蒸发约2510亿欧元市值；LVMH腕表珠宝部门上半年+9%，三季度有机增长维持8%。"
+  },
+  {
+   "date": "2026-11-11",
+   "source": "CRE Daily（Bloomberg Opinion综述，Yahoo Finance转载）",
+   "title": "Moncler入驻第五大道原FAO Schwarz旧址，奢侈品“美国十年”与美国三季度消费首次下滑并存",
+   "url": "https://finance.yahoo.com/real-estate/articles/moncler-fifth-avenue-store-signals-170659306.html",
+   "tier1": "综合",
+   "type": "渠道",
+   "importance": 3,
+   "segment": "奢侈品",
+   "summary": "Moncler在第五大道开出旗舰店，Dior、LV、Prada也在纽约升级旗舰；爱马仕此前已在布鲁克林Williamsburg开店。Bernstein估计，美洲约占2025年奢侈品行业销售额的30%，但在多数欧洲品牌营收中只占约五分之一。花旗卡数据显示，美国三季度奢侈品支出出现2026年首次季度下滑。JLL数据显示曼哈顿零售空置率11.4%，为2017年以来最低。品牌一方面服务顶级客户，另一方面推出入门款，如1250欧元的Cervino夹克。"
+  },
+  {
+   "date": "2026-11-11",
+   "source": "Rapaport",
+   "title": "佳士得日内瓦“Exceptional Jewels”专场成交2090万瑞郎，David Morris粉钻戒指以140万瑞郎居首",
+   "url": "https://rapaport.com/news/christies-exceptional-jewelry-sale-brings-in-over-25m/",
+   "tier1": "珠宝腕表",
+   "type": "市场",
+   "importance": 2,
+   "segment": "奢侈品",
+   "summary": "11月10日，佳士得日内瓦“Exceptional Jewels & Objects of Elegance: A Connoisseur’s Collection – Part 1”专场总成交2090万瑞郎（约2520万美元）。最高价拍品是David Morris的14.63克拉祖母绿切割橙粉色钻戒，以140万瑞郎成交，落在估价下沿；梵克雅宝、Graff、Boucheron、萧邦均有拍品。和前一日“Bulgari Pink”的成交一起看，顶级彩钻仍有买家，但多在估价区间下沿成交。"
+  }
+ ],
+ "insights": [
+  {
+   "title": "眼镜：传统镜框“北美回暖、欧洲太阳镜走弱”，智能眼镜从概念热进入安全与供应链门槛期",
+   "tier1": "眼镜",
+   "body": "当天眼镜赛道信号最密集。Safilo三季度固定汇率+1.6%，结构上北美+5.6%，欧洲-3.1%；欧洲的疲软集中在太阳镜，以及德国纯电商渠道。处方镜框在各主要市场都表现稳健。毛利率升至65%，但其中210个基点来自关税退款，属于一次性因素。同日，VSP旗下Marchon与Marcolin宣布2027年公布智能眼镜计划；EssilorLuxottica一个月反弹24%后单日回吐3%；国内影目召回4701副AI眼镜，而京东称AI眼镜双11成交翻倍。\n\n结构性原因有三点。第一，传统授权镜框商的增长主要靠价格与产品结构，销量增长有限；太阳镜受天气和电商价格战影响大，处方镜框有验配刚需，更抗周期。第二，智能眼镜正在改写竞争格局：EssilorLuxottica有Meta合作和自有零售，Safilo、Marchon/Marcolin只能用授权品牌加外部技术追赶，谁掌握光学、验配和渠道，谁就拿到定价权。第三，安全责任显性化：继Meta之后，影目的过热召回说明开放第三方应用生态会带来硬件热管理和合规成本，监管已经介入。\n\n启示：投资角度，传统镜框公司的估值应剔除关税退款等一次性利润，重点看四季度加大品牌投入后的利润率；智能眼镜公司要看召回率、退货率和处方适配能力，不能只看出货量。经营角度，国内镜框和镜片企业可以从处方光学、验配服务、热安全测试切入AI眼镜供应链，比自做整机更稳。欧洲太阳镜疲软也提示，出口型太阳镜工厂应提高处方镜框订单占比。依据：本段主要基于公司公告和行业媒体报道，当天未见针对眼镜的长篇深度分析，判断有待四季度数据验证。",
+   "refs": [
+    {
+     "title": "VM: Safilo Group Posts Third Quarter 2026 Results",
+     "url": "https://www.visionmonday.com/eyecare/article/safilo-group-posts-third-quarter-2026-results-confirms-trocchia-as-ceo-for-a-further-three-year-period/"
+    },
+    {
+     "title": "Reuters: Marchon, Marcolin to unveil smartglasses plan in 2027",
+     "url": "https://in.marketscreener.com/news/vsp-owned-marchon-marcolin-to-unveil-plan-in-2027-to-launch-smartglasses-ce785edbdf88f322"
+    },
+    {
+     "title": "EssilorLuxottica shares, CAC 40 laggard, fall 3%",
+     "url": "https://www.ideal-investisseur.fr/en/stock-news/essilorluxottica-shares-cac-40-laggard-fall-3/29167.html"
+    },
+    {
+     "title": "影目科技召回4701副INMO AIR3智能眼镜",
+     "url": "https://finance.sina.com.cn/jjxw/2026-11-11/doc-iniyipkh8665973.shtml"
+    },
+    {
+     "title": "第18个双11收官（联商网）",
+     "url": "http://m.linkshop.com/article/news/553819"
+    }
+   ]
+  },
+  {
+   "title": "箱包：中国奢侈消费是“地段＋价格带”的分化，200–500美元轻奢和本土文化品牌在拿份额",
+   "tier1": "箱包",
+   "body": "本周箱包相关的深度材料指向同一个结论：中国奢侈品市场没有整体复苏，只是重新分配。Jing Daily拆解太古地产三季度数据：北京三里屯太古里前九个月租户销售+59.8%，上海兴业太古汇+52.6%，其他内地商场仅+1.1%至+11.3%。前两者的增长主要来自LV、Dior旗舰翻新带来的“目的地效应”，12月进入高基数后会受到检验。与此同时，Tapestry大中华区营收+43%至3.85亿美元，Coach手袋平均售价两位数提升、销量小幅增长，新客中约35%是Z世代；LVMH、开云中国则偏弱。\n\n结构性原因有两点。一是价格带：Coach管理层称200–500美元是“甜蜜区”，硬奢和头部品牌连续提价后，消费者把预算转向“够好、不必炫耀”的皮具。二是叙事：山下有松（Songmont）以山西地域工艺做包袋，11月11日推出首个鞋履系列（2680元窝头鞋），用文化叙事做品类延伸，而不是靠Logo。欧美方面，品牌转向美国顶级客户和旗舰店（Moncler第五大道），说明头部集团也在“挑地段、挑客群”。\n\n启示：投资角度，箱包标的的估值应区分“平均售价提升加正价售罄”与“折扣冲量”，Tapestry、Capri本季毛利率提升都来自减少折扣。本土品牌要看单店坪效和复购，而不是门店数。经营角度，轻奢和国货箱包应集中资源做少数核心商场的旗舰与体验，把200–500美元（约1500–3500元）价位做深；新品类延伸（鞋、服、香氛）要沿着同一套工艺和文化语言，避免稀释。",
+   "refs": [
+    {
+     "title": "Jing Daily: What Swire’s Q3 mall sales reveal about China’s luxury divide",
+     "url": "https://jingdaily.com/posts/what-swire-q3-mall-sales-reveal-about-china-luxury-divide"
+    },
+    {
+     "title": "Jing Daily: Tapestry, Ralph Lauren buck China slowdown",
+     "url": "https://jingdaily.com/posts/tapestry-ralph-lauren-buck-china-slowdown-that-hit-lvmh-kering"
+    },
+    {
+     "title": "华丽志：Tapestry最新季报，大中华区+43%",
+     "url": "https://luxe.co/post/488128"
+    },
+    {
+     "title": "WWD: Chinese Bag Maker Songmont Enters Footwear",
+     "url": "https://wwd.com/footwear-news/shoe-industry-news/songmont-chinese-bag-maker-songmont-footwear-launch-1239406620/"
+    },
+    {
+     "title": "Moncler’s Fifth Avenue Store Signals Luxury’s US Push",
+     "url": "https://finance.yahoo.com/real-estate/articles/moncler-fifth-avenue-store-signals-170659306.html"
+    }
+   ]
+  }
+ ],
+ "trends": [
+  {
+   "title": "定制黄金与高工艺金在电商首发：从克重货转向“刻字、定制、工艺可视化”",
+   "tier1": "珠宝腕表",
+   "stage": "上升",
+   "description": "双11期间，天猫定制黄金成交同比三位数增长，明显快于黄金大类的两位数增长。古法金和高端线延续高增长，品牌店播放量；部分品牌把精雕、錾刻、花丝等工艺放进直播间做首发。线下则呈现“金价下探买大克重、回涨买小克重自戴”的分化。消费者开始为设计、工艺和个人化付费，而不只按克重买保值。",
+   "opportunity": "中小黄金和轻珠宝品牌可以用刻字、生肖、星座、婚嫁定制做一口价产品，避开克价比价；同时把工艺过程做成直播内容，把电商店铺当作新品首发和会员沉淀的阵地。需要管控定制交期和退换规则，并对冲金价波动对一口价毛利的影响。",
+   "evidence": [
+    {
+     "title": "广州日报：金价回调叠加双十一，天猫定制黄金同比三位数增长",
+     "url": "https://news.dayoo.com/finance/202611/12/171077_55022943.htm"
+    },
+    {
+     "title": "第一财经：金店排长队，小克重自戴成主力",
+     "url": "https://www.yicai.com/news/103435747.html"
+    },
+    {
+     "title": "界面新闻（品牌合作稿）：双11黄金开局强劲，琳朝天猫专供款",
+     "url": "https://www.jiemian.com/article/15281740.html"
+    }
+   ]
+  },
+  {
+   "title": "手机壳“珠宝化”：水晶品牌进入数码配件，节日礼赠新入口",
+   "tier1": "珠宝腕表",
+   "stage": "萌芽",
+   "description": "施华洛世奇与CASETiFY首次联名，11月9日起发售Crystal Shimmer和Crystal Raindrop两款水晶装饰手机壳，有亮银、曜黑两色，适配iPhone 18 Pro和17 Pro系列；施华洛世奇官网同步上架。手机是每天拿在手里的配饰，水晶、珍珠、金属扣件正把手机壳变成可展示的饰品，并赶上节日礼品季。",
+   "opportunity": "国内饰品和轻珠宝品牌（如FANCI范琦、卡蒂罗）可以与手机壳、耳机壳品牌做联名或自营小件，把品牌标志性元素（水晶、珍珠、珐琅）迁移到高频数码配件，客单价约200–600元，适合做礼盒和入门引流。需注意适配机型更新快带来的库存风险。",
+   "evidence": [
+    {
+     "title": "AppBank：CASETiFY×スワロフスキー初コラボ、11月9日発売",
+     "url": "https://www.appbank.net/2026/11/11/goods-books/3159431.php"
+    },
+    {
+     "title": "Swarovski官网：Swarovski x CASETiFY smartphone case",
+     "url": "https://www.swarovski.com/en-SE/p-M5767709/Swarovski-x-CASETiFY-smartphone-case-Crystal-fabric-iPhone-18-Pro-Black?variantID=5767709"
+    }
+   ]
+  },
+  {
+   "title": "本土箱包品牌以地域工艺做品类延伸：从包袋走向鞋履、服装、香氛",
+   "tier1": "箱包",
+   "stage": "上升",
+   "description": "山下有松（Songmont）11月11日推出首个鞋履系列，以山西传统“窝头鞋”为原型，售价2680元，研发一年多，试穿调整20余轮；品牌此前已延伸到成衣和香氛，并在巴黎时装周用山西古塔、藏族手工艺做展陈。Jing Daily指出，Songmont、Keigan等品牌在巴黎卖的是“故事”而非“中国制造”。本土箱包品牌正在用同一套地域文化语言做多品类生活方式品牌。",
+   "opportunity": "对国货箱包（包包树、抱树、古良吉吉等）的启示：品类延伸最好选和包袋共享皮料、五金与工艺的鞋履和小皮件，且每个新品类都要有可讲述的地域或工艺原型。鞋履的版型、尺码和退货成本远高于包袋，适合先做小批量预售来验证。",
+   "evidence": [
+    {
+     "title": "WWD: Chinese Bag Maker Songmont Enters Footwear",
+     "url": "https://wwd.com/footwear-news/shoe-industry-news/songmont-chinese-bag-maker-songmont-footwear-launch-1239406620/"
+    },
+    {
+     "title": "Jing Daily: Beyond Made in China: Brands that sell stories at Paris Fashion Week",
+     "url": "https://jingdaily.com/posts/beyond-made-in-china-brands-that-sell-stories-at-paris-fashion-week"
+    }
+   ]
+  }
+ ],
+ "brand_insights": [
+  {
+   "brand": "山下有松",
+   "tier1": "箱包",
+   "title": "山下有松进军鞋履：用“窝头鞋”验证文化叙事能否撑起多品类",
+   "body": "山下有松（Songmont）于11月11日推出首个鞋履系列。WWD独家报道称，首款以山西传统窝头鞋为原型，用滚边拼合两片皮革，复刻鞋面的隆起；配品牌标志性的虎牙五金，方头圆角，阶梯式鞋跟取自山西建筑。售价2680元（约400美元），有2.5厘米和6厘米两个跟高。材料为头层牛皮鞋面、双层结构、羊皮内里和高回弹棉鞋垫，品牌称开发超过一年，试穿调整20余轮，并专门开发了鞋楦。\n\n战略上，这是品牌从包袋走向生活方式的又一步。品牌由创始人付松2013年在太原与母亲创立，2018年入驻天猫，2020年开出首店；据Jing Daily，2025年位列天猫双11箱包配饰榜第一，门店约20家（含上海淮海中路旗舰和曼谷店），已延伸到成衣和香氛，计划12月开出香港首店。Gather包、Song水桶包分别取材于丝路驼包和风筝骨架，说明品牌的核心资产是一套“地域文化转译”的设计方法，而不是某个单品。\n\n定价与竞争：2680元的鞋履与品牌主力包袋价位相当，直接对标Coach（200–500美元）、Polene等轻奢，以及国内设计师鞋履。风险在于鞋履的尺码、舒适度和退货成本远高于包袋，品类延伸也可能稀释箱包心智。",
+   "investor_view": "山下有松是检验“中国文化轻奢”能否从单品类爆款走向多品类品牌的样本。看点有三：鞋履首季的售罄率与退货率；香港店及海外店的坪效和非华人客占比；在门店只有约20家的克制节奏下，同店增长能否支撑估值。轻奢板块中，Tapestry大中华区+43%说明这一价位带仍在扩张，但国际品牌会挤压本土品牌的溢价空间。",
+   "operator_view": "可借鉴的是品类延伸的方法：同一套皮料、五金和工艺语言，一个可讲述的地域原型，长周期打磨版型。国货箱包品牌延伸前应先用小批量预售加线下试穿验证尺码和复购，设定退货率红线；香港店、海外店宜先做旗舰与展览，再决定加密门店。",
+   "sources": [
+    {
+     "title": "WWD: EXCLUSIVE: Chinese Bag-Maker Songmont Enters Footwear (2026-11-09)",
+     "url": "https://wwd.com/footwear-news/shoe-industry-news/songmont-chinese-bag-maker-songmont-footwear-launch-1239406620/"
+    },
+    {
+     "title": "Jing Daily 100: Fu Song, Songmont Founder",
+     "url": "https://jingdaily.com/profiles/fu-song"
+    },
+    {
+     "title": "Jing Daily: Beyond Made in China: Brands that sell stories at Paris Fashion Week",
+     "url": "https://jingdaily.com/posts/beyond-made-in-china-brands-that-sell-stories-at-paris-fashion-week"
+    }
+   ]
+  }
+ ],
+ "reading_list": [
+  {
+   "title": "Safilo Group Posts Third Quarter 2026 Results, Confirms Trocchia as CEO",
+   "source": "Vision Monday",
+   "date": "2026-11-11",
+   "url": "https://www.visionmonday.com/eyecare/article/safilo-group-posts-third-quarter-2026-results-confirms-trocchia-as-ceo-for-a-further-three-year-period/",
+   "tier1": "眼镜"
+  },
+  {
+   "title": "VSP-owned Marchon, Marcolin to unveil plan in 2027 to launch smartglasses",
+   "source": "Reuters / MarketScreener",
+   "date": "2026-11-11",
+   "url": "https://in.marketscreener.com/news/vsp-owned-marchon-marcolin-to-unveil-plan-in-2027-to-launch-smartglasses-ce785edbdf88f322",
+   "tier1": "眼镜"
+  },
+  {
+   "title": "Tiffany bets on Brazil as global luxury market cools",
+   "source": "Valor International",
+   "date": "2026-11-11",
+   "url": "https://valorinternational.globo.com/business/news/2026/11/11/tiffany-bets-on-brazil-as-global-luxury-market-cools.ghtml",
+   "tier1": "珠宝腕表"
+  },
+  {
+   "title": "聚焦“双11”｜金店排长队：验金要等半小时，有人趁机攒够“三金”",
+   "source": "第一财经",
+   "date": "2026-11-11",
+   "url": "https://www.yicai.com/news/103435747.html",
+   "tier1": "珠宝腕表"
+  },
+  {
+   "title": "Moncler’s Fifth Avenue Store Signals Luxury’s US Push",
+   "source": "CRE Daily / Yahoo Finance",
+   "date": "2026-11-11",
+   "url": "https://finance.yahoo.com/real-estate/articles/moncler-fifth-avenue-store-signals-170659306.html",
+   "tier1": "综合"
+  },
+  {
+   "title": "第18个双11收官：天猫京东连续五年不披露总交易额",
+   "source": "联商网",
+   "date": "2026-11-12",
+   "url": "http://m.linkshop.com/article/news/553819",
+   "tier1": "综合"
+  },
+  {
+   "title": "Coach 的母公司 Tapestry 最新季报：大中华区营收同比增长43%",
+   "source": "华丽志",
+   "date": "2026-11-10",
+   "url": "https://luxe.co/post/488128",
+   "tier1": "箱包"
+  },
+  {
+   "title": "What Swire’s Q3 mall sales reveal about China’s luxury divide",
+   "source": "Jing Daily",
+   "date": "2026-11-09",
+   "url": "https://jingdaily.com/posts/what-swire-q3-mall-sales-reveal-about-china-luxury-divide",
+   "tier1": "箱包"
+  },
+  {
+   "title": "EXCLUSIVE: Chinese Bag-Maker Songmont Enters Footwear",
+   "source": "WWD",
+   "date": "2026-11-09",
+   "url": "https://wwd.com/footwear-news/shoe-industry-news/songmont-chinese-bag-maker-songmont-footwear-launch-1239406620/",
+   "tier1": "箱包"
+  }
+ ],
+ "sources": [
+  {
+   "name": "Vision Monday",
+   "url": "https://www.visionmonday.com/",
+   "tier1": "眼镜"
+  },
+  {
+   "name": "MarketScreener（Reuters）",
+   "url": "https://in.marketscreener.com/",
+   "tier1": "综合"
+  },
+  {
+   "name": "Valor International",
+   "url": "https://valorinternational.globo.com/",
+   "tier1": "珠宝腕表"
+  },
+  {
+   "name": "Rapaport",
+   "url": "https://rapaport.com/",
+   "tier1": "珠宝腕表"
+  },
+  {
+   "name": "联商网",
+   "url": "http://www.linkshop.com/",
+   "tier1": "综合"
+  },
+  {
+   "name": "第一财经",
+   "url": "https://www.yicai.com/",
+   "tier1": "综合"
+  },
+  {
+   "name": "Jing Daily",
+   "url": "https://jingdaily.com/",
+   "tier1": "综合"
+  },
+  {
+   "name": "WWD",
+   "url": "https://wwd.com/",
+   "tier1": "综合"
+  }
+ ],
+ "brand_news": [
+  {
+   "brand": "新秀丽",
+   "date": "2026-11-11",
+   "source": "新浪财经（新浪港股）",
+   "title": "新秀丽午前涨逾4%明日将发三季度业绩 大和预计趋势环比改善",
+   "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-11/doc-iniyitsc1904347.shtml",
+   "type": "资本",
+   "summary": "11月11日午前新秀丽（01910）涨4.13%，报15.13港元。大和预计三季度固定汇率销售同比跌0.5%，好于二季度的跌2%，认为二季度已是最差时点，四季度有机销售有望小幅正增长，节前渠道补货是主要推动，10月初趋势向好。公司计划分区提价来对冲原材料成本：亚洲三季度已执行，欧洲四季度跟进，北美或在2027年初。三季报定于11月12日港股收盘后发布，不在本期窗口内，下期跟进。"
+  },
+  {
+   "brand": "GENTLE MONSTER",
+   "date": "2026-11-11",
+   "source": "WWD",
+   "title": "Joaquin Phoenix, Alex Consani and Anok Yai Enter Gentle Monster’s Surreal World",
+   "url": "https://wwd.com/eye/parties/joaquin-phoenix-alex-consani-anok-yai-gentle-monster-party-1239410410/",
+   "type": "营销",
+   "summary": "11月10日晚（纽约时间），GENTLE MONSTER包下纽约华尔街23号，为与Google、三星合作的Intelligent Eyewear举办沉浸式装置和私宴，Joaquin Phoenix、Alex Consani、Anok Yai、Charles Melton等到场。装置里的巨型头像说多种语言，嘉宾戴上眼镜看实时翻译，把产品功能直接做成了体验。创始人兼CEO Hankook Kim致辞，并感谢Phoenix与导演Jonathan Glazer拍摄广告片。装置11月13日至23日对公众开放。按此前披露，美国官网11月12日开启预订、12月发售，售价尚未公布。"
+  },
+  {
+   "brand": "蔡司",
+   "date": "2026-11-11",
+   "source": "21世纪经济报道（同花顺转载）",
+   "title": "蔡司光学杨晓光：AI眼镜要过“光学关”，中国创新输出全球",
+   "url": "https://news.10jqka.com.cn/20261111/c681678635.shtml",
+   "type": "深度",
+   "summary": "进博会期间，蔡司光学中国区总裁杨晓光接受专访时说，中国自2021年起连续多年是蔡司集团全球最大单一市场；截至2026年7月，蔡司在华有效专利94项。智能眼镜和OK镜已在蔡司全球体系内成立独立事业部，需求主要来自中国，上百个智能眼镜品牌在同时向蔡司提光学需求。智能眼镜镜片要比传统镜片薄约一半，还要和波导片精密贴合，在标准镜架上适配不同处方。他也承认这一赛道仍处于初级阶段。中国贡献了全球70%–80%的近视管理需求。"
+  },
+  {
+   "brand": "蔡司",
+   "date": "2026-11-11",
+   "source": "Optometry Today（AOP）",
+   "title": "Zeiss releases consumer education videos",
+   "url": "https://www.aop.org.uk/ot/news/2026/11/11/zeiss-releases-consumer-education-videos",
+   "type": "营销",
+   "summary": "蔡司光学与蔡司医疗在YouTube和TikTok推出系列视觉健康科普视频，起因是一项调研：85%的消费者希望镜片品牌不只卖货，也能提供指导。YouTube上有Clearly Explained和The Science Behind两个系列；TikTok上有Vision Answered、Vision Revision、Make it Zeiss三种短视频形式，其中一种借时尚、美妆、运动作类比讲解视力知识。这是镜片品牌在消费者端建立专业心智的内容打法。"
+  },
+  {
+   "brand": "卡西欧",
+   "date": "2026-11-11",
+   "source": "PR Newswire（Casio America）",
+   "title": "CASIO AND A.P.C. RETURN WITH NEW CASIO VINTAGE COLLABORATION WATCHES",
+   "url": "https://www.prnewswire.com/news-releases/casio-and-apc-return-with-new-casio-vintage-collaboration-watches-302936028.html",
+   "type": "新品",
+   "summary": "11月11日，卡西欧美国宣布与法国品牌A.P.C.再度联名，在CASIO VINTAGE线新增两款指针数字双显表：AQ240EAC-3A（银色、深绿盘，110美元）和AQ240EGAC-9A（金色，135美元）。表盘和表扣有A.P.C.标识，后盖刻吉他与匕首图案，同步发布短片《A Day with A.P.C. and Casio》，在casio.com、G-SHOCK门店和A.P.C.门店销售。这是卡西欧用百元级复古款加时装品牌联名做时尚化的延续。"
+  },
+  {
+   "brand": "天美时集团",
+   "date": "2026-11-11",
+   "source": "It's About Time",
+   "title": "Timex Atelier Adds Color to the Marine M1a and GMT24 M1a With a Blue Diver and a Pepsi GMT",
+   "url": "https://www.itsabouttime.email/timex-atelier-adds-color-to-the-marine-m1a-and-gmt24-m1a-with-a-blue-diver-and-a-pepsi-gmt/",
+   "type": "新品",
+   "summary": "天美时高端线Timex Atelier给两款主力表推出新配色：Marine M1a潜水表出蓝色版（41mm，200米防水，搭载瑞士Catena SA100自动机芯，橡胶表带900欧元，钢带1000欧元）；GMT24 M1a出蓝红“百事圈”版（40mm，搭载Landeron 24机芯，1150/1250欧元）。Atelier推出一年来，首款Marine M1a很快售罄。天美时继续把价格带往千欧元级上推，同时保留Marlin等平价复古款，形成双线布局。"
+  },
+  {
+   "brand": "飞亚达",
+   "date": "2026-11-12",
+   "source": "深交所/巨潮资讯（公告2026-046）",
+   "title": "飞亚达精密科技股份有限公司股票交易异常波动公告",
+   "url": "http://static.cninfo.com.cn/finalpage/2026-11-12/1225667950.PDF",
+   "type": "资本",
+   "summary": "飞亚达A股11月9日至11日连续三个交易日收盘价涨幅偏离值累计超过20%，构成异常波动。公司称没有应披露未披露的事项，经营正常。公告特别提示：市场关注机器人概念，但公司机器人业务（精密减速器、结构件）仍在培育期，前三季度收入占比不足5%。公司同时重申基本面：三季度营收9.49亿元，同比下降5.23%；归母净利润0.27亿元，同比下降45.61%，主要原因是手表业务收入下滑和新业务投入增加。也就是说，股价炒的是题材，主业手表仍在承压。"
+  },
+  {
+   "brand": "山下有松",
+   "date": "2026-11-11",
+   "source": "北京日报客户端（京报网）",
+   "title": "不止美妆，今年“双11”新国货多赛道出圈",
+   "url": "https://news.bjd.com.cn/2026/11/11/12026979.shtml",
+   "type": "数据",
+   "summary": "11月11日北京日报报道：山下有松位列天猫双11箱包品牌榜第一，同榜前十中国货品牌占5席（裘真第三、个乐第四、包包树第六、古良吉吉第九）。文章没有给出榜单统计口径和截止时间（列在“天猫双11正式开卖后”段落下），可能是阶段性榜单，不是收官战报。11/2日报曾因只有转载汇总而未收录，此次是主流媒体首次刊发。"
+  },
+  {
+   "brand": "裘真",
+   "date": "2026-11-11",
+   "source": "北京日报客户端（京报网）",
+   "title": "不止美妆，今年“双11”新国货多赛道出圈",
+   "url": "https://news.bjd.com.cn/2026/11/11/12026979.shtml",
+   "type": "数据",
+   "summary": "11月11日北京日报报道：裘真位列天猫双11箱包品牌榜第三，同榜前十中国货品牌占5席（山下有松第一、个乐第四、包包树第六、古良吉吉第九）。文章没有给出榜单统计口径和截止时间（列在“天猫双11正式开卖后”段落下），可能是阶段性榜单，不是收官战报。11/2日报曾因只有转载汇总而未收录，此次是主流媒体首次刊发。"
+  },
+  {
+   "brand": "GROTTO个乐",
+   "date": "2026-11-11",
+   "source": "北京日报客户端（京报网）",
+   "title": "不止美妆，今年“双11”新国货多赛道出圈",
+   "url": "https://news.bjd.com.cn/2026/11/11/12026979.shtml",
+   "type": "数据",
+   "summary": "11月11日北京日报报道：个乐位列天猫双11箱包品牌榜第四，同榜前十中国货品牌占5席（山下有松第一、裘真第三、包包树第六、古良吉吉第九）。文章没有给出榜单统计口径和截止时间（列在“天猫双11正式开卖后”段落下），可能是阶段性榜单，不是收官战报。11/2日报曾因只有转载汇总而未收录，此次是主流媒体首次刊发。"
+  },
+  {
+   "brand": "包包树BAGTREE",
+   "date": "2026-11-11",
+   "source": "北京日报客户端（京报网）",
+   "title": "不止美妆，今年“双11”新国货多赛道出圈",
+   "url": "https://news.bjd.com.cn/2026/11/11/12026979.shtml",
+   "type": "数据",
+   "summary": "11月11日北京日报报道：包包树位列天猫双11箱包品牌榜第六，并首次冲上行业销量第七名；文章把它和清闲、简顿并列为“先在小众需求里做深做透，再借大促向大品类延伸”的新品牌案例。文章没有给出榜单统计口径和截止时间（列在“天猫双11正式开卖后”段落下），可能是阶段性榜单，不是收官战报。11/2日报曾因只有转载汇总而未收录，此次是主流媒体首次刊发。"
+  },
+  {
+   "brand": "古良吉吉",
+   "date": "2026-11-11",
+   "source": "北京日报客户端（京报网）",
+   "title": "不止美妆，今年“双11”新国货多赛道出圈",
+   "url": "https://news.bjd.com.cn/2026/11/11/12026979.shtml",
+   "type": "数据",
+   "summary": "11月11日北京日报报道：古良吉吉位列天猫双11箱包品牌榜第九，同榜前十中国货品牌占5席（山下有松第一、裘真第三、个乐第四、包包树第六）。文章没有给出榜单统计口径和截止时间（列在“天猫双11正式开卖后”段落下），可能是阶段性榜单，不是收官战报。11/2日报曾因只有转载汇总而未收录，此次是主流媒体首次刊发。"
+  }
+ ],
+ "brand_scan": {
+  "window": "2026-11-10..2026-11-12",
+  "method": "WebSearch+WebFetch+X search_posts_all（start_time 2026-11-10T00:00:00Z，中文名与英文名/别名分组布尔检索）；上市公司查巨潮/深交所（飞亚达、万事利、明月镜片）、披露易与Samsonite IR（新秀丽、亨得利）。64个品牌中文名和英文名分别检索，P0和上市/集团品牌优先深挖，重点条目用WebFetch或PDF核对原文和发布时间；按URL和事件与11/11日报去重。Exa不在本次可用工具中，firecrawl未使用。大图（DITA）按用户偏好不深挖，但仍计入扫描。",
+  "note": "64个品牌中11个有可核验的窗口内动态：新秀丽、GENTLE MONSTER、蔡司、卡西欧、天美时集团、飞亚达、山下有松、裘真、GROTTO个乐、包包树BAGTREE、古良吉吉。重要排除：新秀丽三季报定于11/12港股收盘后发布，截至8:00尚未披露（披露易与IR均无当日业绩公告），本期只收录业绩前瞻，下期跟进；依视路进博会万里路iComfort（新华网11/11）和蔡司翎思镜片已在11/11收录，没有新进展，不重复；超视立17570元渐变焦镜纠纷店方全额退款（11/10）只见大风号等转载，未找到新民原文，不计入；欧克利Meta AI多语言更新在Meta帮助页上无法确认发布日期，Oakley Meta菲律宾上市报道是11/5，均不计入；Kith×TUMI第三次联名是11/2–11/7的消息，卡西欧CRW-002戒指表是11/4的消息，均在窗口外；明月镜片11/11只有券商“增持”评级和股价波动，不计入；亨得利特别股息11/16派发，公告在窗口外；CHARLES&KEITH新加坡双11促销延续到11/12，HEFANG、LOLA ROSE、万事利、卡拉羊、地平线8号、不莱玫的双11折扣只见导购/促销页，不计入；帕莎只见粉丝转发鞠婧祎微博；DITA的ELIUX-DUAL发布无法确认日期。双11收官后，配饰品牌的官方战报截至发稿多数未发布。",
+  "hits": [
+   "新秀丽",
+   "GENTLE MONSTER",
+   "蔡司",
+   "卡西欧",
+   "天美时集团",
+   "飞亚达",
+   "山下有松",
+   "裘真",
+   "GROTTO个乐",
+   "包包树BAGTREE",
+   "古良吉吉"
+  ],
+  "misses": [
+   "Fakeme",
+   "LOLA ROSE",
+   "HEFANG",
+   "雅瑞光学",
+   "ARSIS",
+   "依视路",
+   "CHARLES&KEITH",
+   "ITO",
+   "白岚",
+   "万事利",
+   "ECODAY",
+   "bampo",
+   "德津",
+   "LEVEL8地平线8号",
+   "九格眼镜",
+   "欧克利",
+   "FANCI范琦",
+   "纽芝兰",
+   "明月镜片",
+   "CECE",
+   "柯达",
+   "BAGSMART",
+   "CIGALONG",
+   "abyb jewelry",
+   "海伦凯勒眼镜",
+   "梵誓ONESWEAR",
+   "KKLUE轻珠宝",
+   "JELLYTOYBOY",
+   "卡蒂罗",
+   "尤目",
+   "ORANGE CUBE",
+   "亨得利钟表",
+   "甲目眼镜",
+   "TAD FAB",
+   "FANGYI方宜",
+   "老雷线上配镜",
+   "抱树BYROOTS",
+   "TELETIES",
+   "DAVENA",
+   "首末集团",
+   "大图",
+   "卡拉羊",
+   "P&N",
+   "PARIM",
+   "上海夕和眼镜",
+   "超视立",
+   "御行",
+   "木九十",
+   "天空树假发",
+   "不莱玫",
+   "帕莎",
+   "CASSILE卡思乐",
+   "BLACKHEAD"
+  ]
+ }
+}
